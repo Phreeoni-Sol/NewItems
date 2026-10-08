@@ -1,0 +1,13 @@
+{
+  "id": "tfj_bomb_02",
+  "ref": "ei_127_uitx.png",
+  "signature_design_en": "Compact round charcoal ceramic hail grenade with thin dull pewter neck, dark blue short bent fuse, a few pale icy pellets and restrained frost on upper surface.",
+  "palette": "charcoal ceramic, pewter, pale icy blue",
+  "visual_effect": "localized frost and tiny hail pellets",
+  "prompt": "Create a NEW ORIGINAL legendary bomb inventory icon called Grenade de grésil. One compact round charcoal ceramic grenade with short dull pewter neck, thick dark blue short bent fuse, pale blue frost on upper surface and exactly a few tiny hail-like ice pellets immediately around the fuse. No orange ember, fire, flame, modern military markings, skulls or giant explosions. A very restrained icy mist near the cap, so this feels like an old Ivalice frost alchemy weapon. Distinct compact dark orb silhouette, not a potion bottle. Match the supplied actual native FFT The Ivalice Chronicles Enhanced inventory icon as a style and scale reference only, never clone its object. Subtle gritty hand-painted small equipment icon, softly broken delicate contour, muted colors and restrained material shading, no crisp bold outlines, glossy 3D jewelry product, gold cathedral filigree, modern sci-fi parts, labels, text, frame, person or mannequin. Genuine transparent background. Exactly one complete unworn object, centered with safe margins and readable at 100 pixels.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Equipment-Enhanced-Revision/references/native-png/ei_127_uitx.png",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-e602aef8-3d1e-4f83-af1a-3ebe69438665.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "status": "CORRECTION_REQUIRES_REVIEW"
+}

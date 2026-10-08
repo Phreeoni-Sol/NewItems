@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "tfj_sword_18",
+    "name_fr": "L'Absent",
+    "category": "Sword",
+    "rarity": "unique",
+    "signature_to_preserve": "Narrow slightly curved leaf-shaped weathered pewter sword, short plain iron crossguard missing one upward quillon, faded moss-green cord grip, small slate pommel, loose faded green remembrance ribbon below guard.",
+    "palette_intent": "pewter, moss green",
+    "retouch_focus": "Garder largeur de lame, garde et pommeau distincts ; fixer le centre de prise après capture native.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_sword_18.png",
+    "source_sha256": "fe4b99370d961972c91106520f9303475863de0c33678a4c6465cffa5d43550b",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_sword_18-1-preview36.png",
+        "sha256": "15c606425173aa203d94bce45dd3eba7a4ec79bc3d4010236398751028682b02",
+        "visible_pixels_alpha_gt16": 190,
+        "distinct_visible_rgba_colors": 190,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 189
+      },
+      {
+        "preview": "previews/tfj_sword_18-2-preview36.png",
+        "sha256": "ec871b8a8d4eec3a19ace5bfaf3069da7fef1e42806ce642826c630e2c189fcd",
+        "visible_pixels_alpha_gt16": 192,
+        "distinct_visible_rgba_colors": 192,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 191
+      },
+      {
+        "preview": "previews/tfj_sword_18-3-preview36.png",
+        "sha256": "89f6f1f5ac6e64e18270b506e9133b41d31e8b8ae0ffac002685616ddbb8a6f8",
+        "visible_pixels_alpha_gt16": 153,
+        "distinct_visible_rgba_colors": 152,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 151
+      },
+      {
+        "preview": "previews/tfj_sword_18-4-preview36.png",
+        "sha256": "6aeb6085e92f2a68b53b4b0cf7ae68ff969cd720e6981352280d60689baf3663",
+        "visible_pixels_alpha_gt16": 159,
+        "distinct_visible_rgba_colors": 159,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 158
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_08",
+    "name_fr": "Mémoire du premier soin",
+    "category": "Staff",
+    "rarity": "unique",
+    "signature_to_preserve": "One slender bent polished reddish yew-wood staff, organic asymmetric fork cradles a small pale pink river pebble tied with sage linen, short worn linen strip at upper shaft.",
+    "palette_intent": "red brown, dusty rose, sage",
+    "retouch_focus": "Conserver courbe ou fourche supérieure et matière du bois ; garder la hampe continue après réduction.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_staff_08.png",
+    "source_sha256": "6ea9fa428ebed531a7dd0bf353733e370f324e58f8d094ba22550d862ef37060",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_staff_08-1-preview36.png",
+        "sha256": "9cd96a1ac7b0dfeabed649b75d6deb21f9e952b22362fb82b51f73b0a2a64424",
+        "visible_pixels_alpha_gt16": 151,
+        "distinct_visible_rgba_colors": 151,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 150
+      },
+      {
+        "preview": "previews/tfj_staff_08-2-preview36.png",
+        "sha256": "e30777a6453eb7b1048c53971db8c31073f16d252c590111dc9aae6c47718422",
+        "visible_pixels_alpha_gt16": 147,
+        "distinct_visible_rgba_colors": 147,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 145
+      },
+      {
+        "preview": "previews/tfj_staff_08-3-preview36.png",
+        "sha256": "ba5f83afe17824e02099f9280651e72e3883000932dc3a83242244c191ab61ae",
+        "visible_pixels_alpha_gt16": 118,
+        "distinct_visible_rgba_colors": 118,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 118
+      },
+      {
+        "preview": "previews/tfj_staff_08-4-preview36.png",
+        "sha256": "80e4904eb4537af9a6a88ab4f194148e1c29648e58bc9f8f8f1bb66d4cac49af",
+        "visible_pixels_alpha_gt16": 117,
+        "distinct_visible_rgba_colors": 117,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 117
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_16",
+    "name_fr": "Le Refus",
+    "category": "Shield",
+    "rarity": "unique",
+    "signature_to_preserve": "Asymmetric hexagonal ochre ceramic ward shield, indigo horizontal band, cast iron open-palm emblem, missing corner and repaired diagonal crack.",
+    "palette_intent": "ochre ceramic, indigo, iron",
+    "retouch_focus": "Préserver contour asymétrique et emblème ; relever avant/arrière, poignée et occultation du bras.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_shield_16.png",
+    "source_sha256": "b90ba91d6a35aa2d3bcc3621352b995c189732b88193c21e295271833b7df65b",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_shield_16-1-preview36.png",
+        "sha256": "9ba4e646874a5ae6dc0d858198a76c615799d2aa0d4ca9cc153c8d2ea7016c5d",
+        "visible_pixels_alpha_gt16": 556,
+        "distinct_visible_rgba_colors": 539,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 555
+      },
+      {
+        "preview": "previews/tfj_shield_16-2-preview36.png",
+        "sha256": "b6625812bd9b783e6c2bf1bfb920cb3464fca9c8d5f1487224dfb74e2373ebf0",
+        "visible_pixels_alpha_gt16": 551,
+        "distinct_visible_rgba_colors": 524,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 549
+      },
+      {
+        "preview": "previews/tfj_shield_16-3-preview36.png",
+        "sha256": "14e16a2553c3de9ad5c5aee1e20103eee81bdce9ed05d08e73bd93da5c85ec08",
+        "visible_pixels_alpha_gt16": 514,
+        "distinct_visible_rgba_colors": 508,
+        "fully_opaque_pixels": 5,
+        "semi_transparent_visible_pixels": 509
+      },
+      {
+        "preview": "previews/tfj_shield_16-4-preview36.png",
+        "sha256": "55d0cb7c9bcf2650a3d207c012da2cf4d6a99a3450123eb74dab6d18e2fbbd46",
+        "visible_pixels_alpha_gt16": 488,
+        "distinct_visible_rgba_colors": 482,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 486
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_09",
+    "name_fr": "Veilleuse de Nelveska",
+    "category": "Knife",
+    "rarity": "legendary",
+    "signature_to_preserve": "Short straight narrow tarnished silver dagger, small square blue-glass lamp integrated into the iron guard, midnight blue linen grip, tiny cool mist near the lamp only.",
+    "palette_intent": "silver, navy blue",
+    "retouch_focus": "Garder la silhouette de lame courte et un seul détail distinctif lisible ; vérifier la garde contre les doigts.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_knife_09.png",
+    "source_sha256": "f45cfc1b99b1eb8119728b436c1a9a32267cb247555e9982dcaf9f46340573ca",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_knife_09-1-preview36.png",
+        "sha256": "268105cf1a187510566b48324eb11365891f2d2b3942c29637981835c57d66c4",
+        "visible_pixels_alpha_gt16": 225,
+        "distinct_visible_rgba_colors": 224,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 224
+      },
+      {
+        "preview": "previews/tfj_knife_09-2-preview36.png",
+        "sha256": "b90a4ea9adb5043ca07da4bfb05df4ccd33676fdd89582ba9c968dbbe313c77b",
+        "visible_pixels_alpha_gt16": 237,
+        "distinct_visible_rgba_colors": 235,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 237
+      },
+      {
+        "preview": "previews/tfj_knife_09-3-preview36.png",
+        "sha256": "6085170b2a5ff9e8d8ae1f0f542126619aefe6c34dc713525e960404df6754b6",
+        "visible_pixels_alpha_gt16": 168,
+        "distinct_visible_rgba_colors": 160,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 167
+      },
+      {
+        "preview": "previews/tfj_knife_09-4-preview36.png",
+        "sha256": "89f05e972904178423564c82a678ec14aa6add831154429f8018602658b40f4e",
+        "visible_pixels_alpha_gt16": 166,
+        "distinct_visible_rgba_colors": 159,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 166
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_10",
+    "name_fr": "Dernier aveu",
+    "category": "Knife",
+    "rarity": "unique",
+    "signature_to_preserve": "Broad dull copper leaf dagger with a chipped blunt spine, simple black leather handle, one red wax seal tied at the butt. Almost guardless, no jewel.",
+    "palette_intent": "copper, black, red",
+    "retouch_focus": "Garder la silhouette de lame courte et un seul détail distinctif lisible ; vérifier la garde contre les doigts.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_knife_10.png",
+    "source_sha256": "2479e0d66708fafdfbe2fb358f99554b0b2f39adf731969b7c48ecdf4d61aaf1",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_knife_10-1-preview36.png",
+        "sha256": "59d7ab6f130c3ecb59546ed7c7c94e7570d9df5554d1f64ebfc9e563ec1c9a18",
+        "visible_pixels_alpha_gt16": 250,
+        "distinct_visible_rgba_colors": 250,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 250
+      },
+      {
+        "preview": "previews/tfj_knife_10-2-preview36.png",
+        "sha256": "a34323b07a4c7575fe7ba67fd2ff71adb754d4d16d081ca62ace0d8daf8e2122",
+        "visible_pixels_alpha_gt16": 251,
+        "distinct_visible_rgba_colors": 251,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 251
+      },
+      {
+        "preview": "previews/tfj_knife_10-3-preview36.png",
+        "sha256": "b018ce5ceee1d088ba99f5482a8f4a28aae16c3cc75685094d41b47de2d0ffbe",
+        "visible_pixels_alpha_gt16": 156,
+        "distinct_visible_rgba_colors": 156,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 156
+      },
+      {
+        "preview": "previews/tfj_knife_10-4-preview36.png",
+        "sha256": "693ea08035bff537d97f4fc4dfe6754f82f5a612662aa7907792c37b8bea3747",
+        "visible_pixels_alpha_gt16": 157,
+        "distinct_visible_rgba_colors": 156,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 157
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_07",
+    "name_fr": "Crépuscule d'Igros",
+    "category": "NinjaBlade",
+    "rarity": "legendary",
+    "signature_to_preserve": "Slender gently curved dark violet steel ninja blade, flattened round iron guard, faded orange woven grip, single dim sunset reflection along lower edge.",
+    "palette_intent": "violet, burnt orange",
+    "retouch_focus": "Distinguer pointe et courbure des katanas ; vérifier le passage de la lame devant et derrière la main.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_ninja_blade_07.png",
+    "source_sha256": "11f53059185d60a5933a7cde0949bb84155bb23b109a41aa52bf780691fc808c",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_ninja_blade_07-1-preview36.png",
+        "sha256": "dcd80e9a4e0bf0733d6bdc85b6924f3e9abd6dcfc6d4199361ffedcca6212816",
+        "visible_pixels_alpha_gt16": 166,
+        "distinct_visible_rgba_colors": 166,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 166
+      },
+      {
+        "preview": "previews/tfj_ninja_blade_07-2-preview36.png",
+        "sha256": "8e036fa1adaf2e601ac9b2fd7ae92f180d932fba1d9df2b02fbace2035983f3e",
+        "visible_pixels_alpha_gt16": 166,
+        "distinct_visible_rgba_colors": 165,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 166
+      },
+      {
+        "preview": "previews/tfj_ninja_blade_07-3-preview36.png",
+        "sha256": "d9e3837da7b12f00b5739fa057d4a6ae8ac7af7307f73513a22d33c3e1428bbc",
+        "visible_pixels_alpha_gt16": 123,
+        "distinct_visible_rgba_colors": 123,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 123
+      },
+      {
+        "preview": "previews/tfj_ninja_blade_07-4-preview36.png",
+        "sha256": "3ef25361ab9b9392232e5e0b8499e011958e0d98cccffeae728c81c0004a4fbe",
+        "visible_pixels_alpha_gt16": 125,
+        "distinct_visible_rgba_colors": 125,
+        "fully_opaque_pixels": 5,
+        "semi_transparent_visible_pixels": 120
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_08",
+    "name_fr": "La Sans-Trace",
+    "category": "NinjaBlade",
+    "rarity": "unique",
+    "signature_to_preserve": "Needle-like gray ninja blade with a hooked tip, very small oval guard, weathered charcoal braid, subtle smoke disappearing from the tip.",
+    "palette_intent": "gray, charcoal",
+    "retouch_focus": "Distinguer pointe et courbure des katanas ; vérifier le passage de la lame devant et derrière la main.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_ninja_blade_08.png",
+    "source_sha256": "747144f1258017a794be75813a31b9366490b7cc6d4d3382680da78bec2d5b83",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_ninja_blade_08-1-preview36.png",
+        "sha256": "0a29204ef00368765ba47102e93b59c9fc918c62869cd8c28d2e94f9ad4c1cd9",
+        "visible_pixels_alpha_gt16": 144,
+        "distinct_visible_rgba_colors": 143,
+        "fully_opaque_pixels": 3,
+        "semi_transparent_visible_pixels": 141
+      },
+      {
+        "preview": "previews/tfj_ninja_blade_08-2-preview36.png",
+        "sha256": "5582eb703cca93da4016bb653730469a653bbf8d0bbd5b7073330c57d88ab0ad",
+        "visible_pixels_alpha_gt16": 145,
+        "distinct_visible_rgba_colors": 145,
+        "fully_opaque_pixels": 3,
+        "semi_transparent_visible_pixels": 142
+      },
+      {
+        "preview": "previews/tfj_ninja_blade_08-3-preview36.png",
+        "sha256": "1ee0b2506435fa0bd66bc5f2ec5468756f096fe6b2ba26623a81d580136e7789",
+        "visible_pixels_alpha_gt16": 118,
+        "distinct_visible_rgba_colors": 116,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 117
+      },
+      {
+        "preview": "previews/tfj_ninja_blade_08-4-preview36.png",
+        "sha256": "9e546a2e347c85da419cdf93e4fe24b502875e934db51e40e55a86d28358fab1",
+        "visible_pixels_alpha_gt16": 118,
+        "distinct_visible_rgba_colors": 116,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 117
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_17",
+    "name_fr": "Testament de Gallionne",
+    "category": "Sword",
+    "rarity": "legendary",
+    "signature_to_preserve": "Broad pale silver straight military sword, squat rectangular brass crossguard with a stamped lion outline, dark red leather grip, blue wool tassel at pommel. Regal but minimally ornamented.",
+    "palette_intent": "silver, brick red, dull brass",
+    "retouch_focus": "Garder largeur de lame, garde et pommeau distincts ; fixer le centre de prise après capture native.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_sword_17.png",
+    "source_sha256": "d87799779b27ebefbe6f248571b4abe22b5112bfc8a250643e887e404feb773f",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_sword_17-1-preview36.png",
+        "sha256": "33156e96c6bfc4738d73944dc445a9abbac34b3fc4162a448bcc78a24cb8ab03",
+        "visible_pixels_alpha_gt16": 216,
+        "distinct_visible_rgba_colors": 216,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 216
+      },
+      {
+        "preview": "previews/tfj_sword_17-2-preview36.png",
+        "sha256": "4e48a085446e6251a6a5d39f275968bd14a370b3de2ec5add7ec63dfe9e55696",
+        "visible_pixels_alpha_gt16": 208,
+        "distinct_visible_rgba_colors": 206,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 208
+      },
+      {
+        "preview": "previews/tfj_sword_17-3-preview36.png",
+        "sha256": "41e2d567e05f87934a43a30dae58d534d24211e16008bc12ae0c8882c49a3f20",
+        "visible_pixels_alpha_gt16": 125,
+        "distinct_visible_rgba_colors": 125,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 125
+      },
+      {
+        "preview": "previews/tfj_sword_17-4-preview36.png",
+        "sha256": "0809bbd6448b607fe3a242ef495c25ec8641b447f68138804ab4eb88f6e295a5",
+        "visible_pixels_alpha_gt16": 125,
+        "distinct_visible_rgba_colors": 125,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 125
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_05",
+    "name_fr": "Serment de Lesalia",
+    "category": "KnightSword",
+    "rarity": "legendary",
+    "signature_to_preserve": "Long heavy flat-ended sword with tapered corners, brushed pale steel broad blade, simple wide square copper guard, deep green cloth handle, a narrow red oath thread tied around the guard.",
+    "palette_intent": "pale steel, green, copper",
+    "retouch_focus": "Préserver la masse et la pointe caractéristique sans agrandir depuis une limite supposée ; vérifier le corps derrière la lame.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_knight_sword_05.png",
+    "source_sha256": "10579162e863ba1790ca352fed3f5f462eb01b53e87532ec532c9d5547c043a1",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_knight_sword_05-1-preview36.png",
+        "sha256": "be249d16633a7a976aad7d30570384ccef98fbe237b5c72d10079cd2c82ca696",
+        "visible_pixels_alpha_gt16": 254,
+        "distinct_visible_rgba_colors": 254,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 254
+      },
+      {
+        "preview": "previews/tfj_knight_sword_05-2-preview36.png",
+        "sha256": "fae621a45c560e0603b0db0dd88dc037513d7ebcd974aa454527e55b4d91cb86",
+        "visible_pixels_alpha_gt16": 254,
+        "distinct_visible_rgba_colors": 254,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 254
+      },
+      {
+        "preview": "previews/tfj_knight_sword_05-3-preview36.png",
+        "sha256": "2c36558c348ab9e3896decc4cc47850e7a9d72c2f8731e5ae5354fbf142d09b7",
+        "visible_pixels_alpha_gt16": 153,
+        "distinct_visible_rgba_colors": 146,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 153
+      },
+      {
+        "preview": "previews/tfj_knight_sword_05-4-preview36.png",
+        "sha256": "1ebe056f99ad0d4803f189165dd044f31094ede87faa3ad808dde33189edcf62",
+        "visible_pixels_alpha_gt16": 154,
+        "distinct_visible_rgba_colors": 152,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 154
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_06",
+    "name_fr": "Le Trône vacant",
+    "category": "KnightSword",
+    "rarity": "unique",
+    "signature_to_preserve": "Broad charcoal greatsword with a short angular point, plain bronze U-shaped guard, brown grip and a restrained violet recess near the blade base. Large blade slot from the initial prompt was simplified in the accepted rendering.",
+    "palette_intent": "gray, brown, bronze",
+    "retouch_focus": "Préserver la masse et la pointe caractéristique sans agrandir depuis une limite supposée ; vérifier le corps derrière la lame.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_knight_sword_06.png",
+    "source_sha256": "714237f139ea21ecdd2e6c1847b2dc01c70927f2d4f391ab5031a98165172248",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_knight_sword_06-1-preview36.png",
+        "sha256": "e50fc3eee41ad491fc1cfe67b755909a561b3397b4a29bc6402c38b5ac03fb07",
+        "visible_pixels_alpha_gt16": 257,
+        "distinct_visible_rgba_colors": 254,
+        "fully_opaque_pixels": 3,
+        "semi_transparent_visible_pixels": 254
+      },
+      {
+        "preview": "previews/tfj_knight_sword_06-2-preview36.png",
+        "sha256": "98357e5cbd1002b0333b01d9c5a29407a3b27f540e506a1efdb4fd918e40e035",
+        "visible_pixels_alpha_gt16": 252,
+        "distinct_visible_rgba_colors": 249,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 250
+      },
+      {
+        "preview": "previews/tfj_knight_sword_06-3-preview36.png",
+        "sha256": "7c7d942e66ca1008e70dcad14d13f6a6f27872129b4c1358609e8a52bf0d51bf",
+        "visible_pixels_alpha_gt16": 186,
+        "distinct_visible_rgba_colors": 185,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 184
+      },
+      {
+        "preview": "previews/tfj_knight_sword_06-4-preview36.png",
+        "sha256": "28817de64c5d57568dd6388e44c1a042f604e0e79435e9556512fb3632b77a94",
+        "visible_pixels_alpha_gt16": 191,
+        "distinct_visible_rgba_colors": 189,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 190
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_09",
+    "name_fr": "Dernière lune",
+    "category": "Katana",
+    "rarity": "legendary",
+    "signature_to_preserve": "Elegant slim silver katana with gentle curve, small crescent steel guard, blue-gray wrap, a faint white crescent mist at tip. No sheath.",
+    "palette_intent": "silver, blue gray",
+    "retouch_focus": "Conserver courbure et tsuba ; contrôler la continuité du fil aux angles requis.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_katana_09.png",
+    "source_sha256": "a9668e09861db138fb2c95e1d3af27be2754dae90453ddf059ec1f82e8ea5710",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_katana_09-1-preview36.png",
+        "sha256": "2084917889dcf7768c3a366c9ad324dcc0e7116d216a4abed17abf6fe1b651b8",
+        "visible_pixels_alpha_gt16": 138,
+        "distinct_visible_rgba_colors": 138,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 138
+      },
+      {
+        "preview": "previews/tfj_katana_09-2-preview36.png",
+        "sha256": "f2e8b598373047f65ca41afc0006c8bae043482374b9d3b1104f6bbd2efdb79e",
+        "visible_pixels_alpha_gt16": 142,
+        "distinct_visible_rgba_colors": 142,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 142
+      },
+      {
+        "preview": "previews/tfj_katana_09-3-preview36.png",
+        "sha256": "3efed40d83bdbb9acdcb8d1126ce8467c3974f8478aa1dda4e05141402e6101f",
+        "visible_pixels_alpha_gt16": 85,
+        "distinct_visible_rgba_colors": 84,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 85
+      },
+      {
+        "preview": "previews/tfj_katana_09-4-preview36.png",
+        "sha256": "f5beeb83509507f1818e74b6541191b65a32763ae3ebd740a2e99a6e39d84cac",
+        "visible_pixels_alpha_gt16": 80,
+        "distinct_visible_rgba_colors": 80,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 80
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_10",
+    "name_fr": "Le Septième silence",
+    "category": "Katana",
+    "rarity": "unique",
+    "signature_to_preserve": "Long matte black curved katana, tiny seven-notch plain iron disc guard, muted red winding, bare steel butt cap. No sheath.",
+    "palette_intent": "black, dull crimson",
+    "retouch_focus": "Conserver courbure et tsuba ; contrôler la continuité du fil aux angles requis.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_katana_10.png",
+    "source_sha256": "4b753801a9acc07ac41c75f047ae186c740b098c7641b7cb54609a24af793d73",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_katana_10-1-preview36.png",
+        "sha256": "38eec77e772bb71c6f8a32351c0e50d51f82efc24bcd947871c7988672aea091",
+        "visible_pixels_alpha_gt16": 124,
+        "distinct_visible_rgba_colors": 122,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 123
+      },
+      {
+        "preview": "previews/tfj_katana_10-2-preview36.png",
+        "sha256": "89bf1887a704a4a9ec6927bc0a75bbb2f4636f6b45c58293f0a5eadc65aa900d",
+        "visible_pixels_alpha_gt16": 135,
+        "distinct_visible_rgba_colors": 133,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 133
+      },
+      {
+        "preview": "previews/tfj_katana_10-3-preview36.png",
+        "sha256": "46a60e934cbba99b2a4d48b439484cb8491402728c606c85b86fdb6ed5ce94a2",
+        "visible_pixels_alpha_gt16": 90,
+        "distinct_visible_rgba_colors": 90,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 89
+      },
+      {
+        "preview": "previews/tfj_katana_10-4-preview36.png",
+        "sha256": "0316f98a3852ab99a033c40815937fa2ad7c0be378c57401d221d15f8c7a0096",
+        "visible_pixels_alpha_gt16": 92,
+        "distinct_visible_rgba_colors": 92,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 90
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_axe_03",
+    "name_fr": "Hache du vieux chêne",
+    "category": "Axe",
+    "rarity": "legendary",
+    "signature_to_preserve": "Single broad moss-stained steel axe head with scalloped oak-leaf cutting profile, thick gnarled oak haft, bark collar and one loose dry leaf held by twine.",
+    "palette_intent": "moss, oak brown, iron",
+    "retouch_focus": "Préserver profil du fer et asymétrie tête/manche ; tester le centre de prise et les collisions visuelles.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_axe_03.png",
+    "source_sha256": "f90790b53255017a128273c97e9402a36252d4b6df27ab19f037b26f1d284e8e",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_axe_03-1-preview36.png",
+        "sha256": "08ba9eaa1d985ff034be82ec4f509a89155e9fdef6c5ee534cd6aebf436303ab",
+        "visible_pixels_alpha_gt16": 342,
+        "distinct_visible_rgba_colors": 342,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 341
+      },
+      {
+        "preview": "previews/tfj_axe_03-2-preview36.png",
+        "sha256": "852cbc686702c9fe4651ffa7c89a02e5c10f8822eb51f4a39e3357048c5c65e9",
+        "visible_pixels_alpha_gt16": 345,
+        "distinct_visible_rgba_colors": 343,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 343
+      },
+      {
+        "preview": "previews/tfj_axe_03-3-preview36.png",
+        "sha256": "c43771019c24657a25ac6060e778cfb9ddfbc6975338cc1dd202be8d863e323e",
+        "visible_pixels_alpha_gt16": 236,
+        "distinct_visible_rgba_colors": 236,
+        "fully_opaque_pixels": 3,
+        "semi_transparent_visible_pixels": 233
+      },
+      {
+        "preview": "previews/tfj_axe_03-4-preview36.png",
+        "sha256": "f8b38137018d12576ea65698a119b4aec7d0c07b8ce70987b772d435a6b7fe5e",
+        "visible_pixels_alpha_gt16": 238,
+        "distinct_visible_rgba_colors": 237,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 238
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_axe_04",
+    "name_fr": "Dette du bourreau",
+    "category": "Axe",
+    "rarity": "unique",
+    "signature_to_preserve": "One squared heavy execution axe head of cold bluish iron, weathered pale ash haft, short black shackle bolted at butt, red cloth strip under head.",
+    "palette_intent": "blue iron, ash, red",
+    "retouch_focus": "Préserver profil du fer et asymétrie tête/manche ; tester le centre de prise et les collisions visuelles.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_axe_04.png",
+    "source_sha256": "80907efa735d942eb0ce9a2462480689d889d497421ab49b321f090ccb1b84b5",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_axe_04-1-preview36.png",
+        "sha256": "7a9a5f8a1634bc4e228e876dad385248b23dc188f30d8a35ebc6ed34607fe3fe",
+        "visible_pixels_alpha_gt16": 310,
+        "distinct_visible_rgba_colors": 309,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 309
+      },
+      {
+        "preview": "previews/tfj_axe_04-2-preview36.png",
+        "sha256": "1902c60f30a36eac54c2341e847d0cd44a71434bf731555ce6cec2b9a8bbf202",
+        "visible_pixels_alpha_gt16": 309,
+        "distinct_visible_rgba_colors": 305,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 309
+      },
+      {
+        "preview": "previews/tfj_axe_04-3-preview36.png",
+        "sha256": "65e2e661ff040f365c2b4e8375656d54c799564bc6a16317d005449c5d8ec504",
+        "visible_pixels_alpha_gt16": 235,
+        "distinct_visible_rgba_colors": 233,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 235
+      },
+      {
+        "preview": "previews/tfj_axe_04-4-preview36.png",
+        "sha256": "8ea8e5e2618562326905ea10c0f5fabffe3a50f4b62e25a256c71899c4822002",
+        "visible_pixels_alpha_gt16": 236,
+        "distinct_visible_rgba_colors": 230,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 236
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_07",
+    "name_fr": "Arbre de l'aube",
+    "category": "Staff",
+    "rarity": "legendary",
+    "signature_to_preserve": "One slim weathered olive-wood crook staff, curved top worn smooth, three small flat copper leaves fixed below crook, plain muted blue linen grip.",
+    "palette_intent": "olive wood, copper, muted blue",
+    "retouch_focus": "Conserver courbe ou fourche supérieure et matière du bois ; garder la hampe continue après réduction.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_staff_07.png",
+    "source_sha256": "674fac72b7562de9f099f7deccceb3e9e2552495391bc779ec4ec9daf871f398",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_staff_07-1-preview36.png",
+        "sha256": "ea973f5ccbaba97f70e9c5c5e5b69014207ffb1655091fc9f516d30f5568d743",
+        "visible_pixels_alpha_gt16": 194,
+        "distinct_visible_rgba_colors": 191,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 194
+      },
+      {
+        "preview": "previews/tfj_staff_07-2-preview36.png",
+        "sha256": "2a334e8df60c4b19622684dd110040873db2b100ee5db30ea83a079eab10c4c8",
+        "visible_pixels_alpha_gt16": 194,
+        "distinct_visible_rgba_colors": 191,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 194
+      },
+      {
+        "preview": "previews/tfj_staff_07-3-preview36.png",
+        "sha256": "db6a733786733ff28ef3d3afb941e4fd5ffd3be09f942e1e50303f7085b54b92",
+        "visible_pixels_alpha_gt16": 118,
+        "distinct_visible_rgba_colors": 117,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 118
+      },
+      {
+        "preview": "previews/tfj_staff_07-4-preview36.png",
+        "sha256": "ecf52f02965cb726b8f640178628f42f266e3511ae6cb2245314a49fd27f2af7",
+        "visible_pixels_alpha_gt16": 118,
+        "distinct_visible_rgba_colors": 114,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 118
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_flail_03",
+    "name_fr": "Fléau du glas",
+    "category": "Flail",
+    "rarity": "legendary",
+    "signature_to_preserve": "One iron flail with a hollow green-patinated bronze bell as striking head, short visible straight chain and plain ash wood handle, bell has one long split.",
+    "palette_intent": "verdigris bronze, ash brown",
+    "retouch_focus": "Séparer visuellement chaîne, poignée et poids ; cinématique de la chaîne UNKNOWN, ne pas figer une hypothèse comme animation native.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_flail_03.png",
+    "source_sha256": "f024d0b0e7248871d539853ee43a873f3020b9e5edc39e1a272302f8a6d12504",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_flail_03-1-preview36.png",
+        "sha256": "c111722ece0a0062b091e402359db67f6cf8972e7ff74c353376a3a99b263d6b",
+        "visible_pixels_alpha_gt16": 285,
+        "distinct_visible_rgba_colors": 281,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 285
+      },
+      {
+        "preview": "previews/tfj_flail_03-2-preview36.png",
+        "sha256": "5e84dab35f8ef64dc731e619e4dc25719b76b9a9f6db96862246f23fbe0a1106",
+        "visible_pixels_alpha_gt16": 285,
+        "distinct_visible_rgba_colors": 283,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 285
+      },
+      {
+        "preview": "previews/tfj_flail_03-3-preview36.png",
+        "sha256": "fc25998ebf4cfe42a38c477df17bfd5feb0e622aa7f5b616925b14f7f844ec85",
+        "visible_pixels_alpha_gt16": 175,
+        "distinct_visible_rgba_colors": 174,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 175
+      },
+      {
+        "preview": "previews/tfj_flail_03-4-preview36.png",
+        "sha256": "dc106218628cf8b3d55c17addc3e67bbf5323a0d8145f7139b20114d69d19bb4",
+        "visible_pixels_alpha_gt16": 177,
+        "distinct_visible_rgba_colors": 174,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 177
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_flail_04",
+    "name_fr": "L'Heure dernière",
+    "category": "Flail",
+    "rarity": "unique",
+    "signature_to_preserve": "One squat dark iron hourglass-shaped striking weight, short copper chain and black wrapped handle, severe functional silhouette. No glass hourglass.",
+    "palette_intent": "dark iron, copper, black",
+    "retouch_focus": "Séparer visuellement chaîne, poignée et poids ; cinématique de la chaîne UNKNOWN, ne pas figer une hypothèse comme animation native.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_flail_04.png",
+    "source_sha256": "bc4460e812287deee338296b0ed76966c6a70b7e32a75eb2154f58d1d2ad4058",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_flail_04-1-preview36.png",
+        "sha256": "b5ab5e4c2e0ea67ea82fd53ea01f379cb7c59575e6bd01434da6a4cb19cab712",
+        "visible_pixels_alpha_gt16": 352,
+        "distinct_visible_rgba_colors": 351,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 352
+      },
+      {
+        "preview": "previews/tfj_flail_04-2-preview36.png",
+        "sha256": "127b574c13ebcb3a188c8497538315bc82b227859c064b752250f3cdebf18a88",
+        "visible_pixels_alpha_gt16": 369,
+        "distinct_visible_rgba_colors": 368,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 367
+      },
+      {
+        "preview": "previews/tfj_flail_04-3-preview36.png",
+        "sha256": "b4ca617f28a3b41bc997bf5f3ebc4c11ebef6c5bd3deaab8e7324cd63cbaacde",
+        "visible_pixels_alpha_gt16": 228,
+        "distinct_visible_rgba_colors": 227,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 226
+      },
+      {
+        "preview": "previews/tfj_flail_04-4-preview36.png",
+        "sha256": "171e7ad44abd33c35e965be182ab21edc1b211d84b537e50e83c5da6739f982f",
+        "visible_pixels_alpha_gt16": 227,
+        "distinct_visible_rgba_colors": 227,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 225
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_06",
+    "name_fr": "Le Dernier signal",
+    "category": "Gun",
+    "rarity": "legendary",
+    "signature_to_preserve": "Antique compact single-barrel signal pistol with long narrow gray barrel, red ceramic ignition chamber, aged pale wood grip and square iron sight. No modern components.",
+    "palette_intent": "gray, red ceramic, pale wood",
+    "retouch_focus": "Préserver longueur du canon et profil de crosse ; vérifier direction du canon et contact de main sans supposer de recul.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_gun_06.png",
+    "source_sha256": "4cb30adc743e589c897a83ab377b9b0e2bd6caa806b5d0caf9495c69f43f4861",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_gun_06-1-preview36.png",
+        "sha256": "3605a96c426f1e90af9baa912b7e4b815905b3269f2628338952f90295a2f413",
+        "visible_pixels_alpha_gt16": 246,
+        "distinct_visible_rgba_colors": 246,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 245
+      },
+      {
+        "preview": "previews/tfj_gun_06-2-preview36.png",
+        "sha256": "22abc9630a1b3bb0791d0b75c1b39419d8aef197e1494b407b565e0c68271bc1",
+        "visible_pixels_alpha_gt16": 247,
+        "distinct_visible_rgba_colors": 246,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 246
+      },
+      {
+        "preview": "previews/tfj_gun_06-3-preview36.png",
+        "sha256": "fe94ec43892b8d3ff379d32546247818ec1fe5581bc53a498034dd349fe3ddc5",
+        "visible_pixels_alpha_gt16": 197,
+        "distinct_visible_rgba_colors": 193,
+        "fully_opaque_pixels": 5,
+        "semi_transparent_visible_pixels": 192
+      },
+      {
+        "preview": "previews/tfj_gun_06-4-preview36.png",
+        "sha256": "b0737666ea6ce70343509fcf911ce59ba4c88de844d3f7e56cc487e5c7b777c3",
+        "visible_pixels_alpha_gt16": 197,
+        "distinct_visible_rgba_colors": 190,
+        "fully_opaque_pixels": 8,
+        "semi_transparent_visible_pixels": 189
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_07",
+    "name_fr": "La Dette de Goug",
+    "category": "Gun",
+    "rarity": "unique",
+    "signature_to_preserve": "Heavy short Goug hand cannon with stepped oxidized bronze barrel, offset small exposed gear at breech, muted teal grip and worn flat iron fittings.",
+    "palette_intent": "bronze, teal, iron",
+    "retouch_focus": "Préserver longueur du canon et profil de crosse ; vérifier direction du canon et contact de main sans supposer de recul.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_gun_07-v3.png",
+    "source_sha256": "05b9de51a9f3d9975a44460ae04ab4f234135709e600dc1d164a043005fefabf",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_gun_07-1-preview36.png",
+        "sha256": "03adbf7c0feb1a1fca69b5cbf1232428098e419d72d9995e1360ac50c8fe3909",
+        "visible_pixels_alpha_gt16": 361,
+        "distinct_visible_rgba_colors": 341,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 359
+      },
+      {
+        "preview": "previews/tfj_gun_07-2-preview36.png",
+        "sha256": "64f2a9e58054f3781431054e27d33ddb207c0d9a0c23f05ad59e1eb07bcce354",
+        "visible_pixels_alpha_gt16": 356,
+        "distinct_visible_rgba_colors": 332,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 355
+      },
+      {
+        "preview": "previews/tfj_gun_07-3-preview36.png",
+        "sha256": "f3b65bf283798aa9ae8de7a84b1efbeb6c281ab8ed05ac39723b16ccb90a2b84",
+        "visible_pixels_alpha_gt16": 307,
+        "distinct_visible_rgba_colors": 272,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 307
+      },
+      {
+        "preview": "previews/tfj_gun_07-4-preview36.png",
+        "sha256": "4cfb89171d27fe290a37ef6ea6a501c91088bd4b50928d7a0a8c9085edf2fa38",
+        "visible_pixels_alpha_gt16": 305,
+        "distinct_visible_rgba_colors": 271,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 305
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_05",
+    "name_fr": "Œil de la tour",
+    "category": "Crossbow",
+    "rarity": "legendary",
+    "signature_to_preserve": "Tall compact medieval crossbow, narrow pewter limbs, a tawny wooden stock with a simple slit sight framed by blue iron, one taut string. No loose bolt.",
+    "palette_intent": "pewter, tawny, blue iron",
+    "retouch_focus": "Garder arc transversal, stock et corde distincts ; vérifier prise, occultation et direction de tir.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_crossbow_05.png",
+    "source_sha256": "9b31036d44e3e701956eb21ac10d3ad02f961169310d8ca1d4d7102dc4f00cee",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_crossbow_05-1-preview36.png",
+        "sha256": "b404b9cff29ce01561701fdd59f65df3d9e245f2d52a1fd0e921d2dc981b0474",
+        "visible_pixels_alpha_gt16": 246,
+        "distinct_visible_rgba_colors": 246,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 246
+      },
+      {
+        "preview": "previews/tfj_crossbow_05-2-preview36.png",
+        "sha256": "cd7a75675de6d9d2ba2fa4ea0e511df6120a3144cf5d61e6f357a0d749e72829",
+        "visible_pixels_alpha_gt16": 246,
+        "distinct_visible_rgba_colors": 245,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 246
+      },
+      {
+        "preview": "previews/tfj_crossbow_05-3-preview36.png",
+        "sha256": "7b2b74451f69da90d48be993614583f0651188c9f86865d8acb5a4aa6f9c7151",
+        "visible_pixels_alpha_gt16": 155,
+        "distinct_visible_rgba_colors": 155,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 155
+      },
+      {
+        "preview": "previews/tfj_crossbow_05-4-preview36.png",
+        "sha256": "43df8295f3c320b23b9aaa55c65583d606015bbba8fe8b415a5ff5b17f80eafa",
+        "visible_pixels_alpha_gt16": 157,
+        "distinct_visible_rgba_colors": 156,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 157
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_07",
+    "name_fr": "Clef des quatre vents",
+    "category": "Rod",
+    "rarity": "legendary",
+    "signature_to_preserve": "Patinated copper cruciform wind-key head with four vanes, key tooth, indigo wrapped short shaft.",
+    "palette_intent": "copper, indigo, pale sage",
+    "retouch_focus": "Préserver la tête caractéristique et le manche court ; toute lumière animée nécessite une couche démontrée.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_rod_07.png",
+    "source_sha256": "22e862a4774cbb047637d04464e41f1636da9575d1eeb71212757c8d7e6e2a49",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_rod_07-1-preview36.png",
+        "sha256": "d76f426d5938e41a55f532bcb31490b2b3f716326d75058d6b50f0c968f7155b",
+        "visible_pixels_alpha_gt16": 251,
+        "distinct_visible_rgba_colors": 251,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 251
+      },
+      {
+        "preview": "previews/tfj_rod_07-2-preview36.png",
+        "sha256": "28ffacacfa077360d13188bb721e2e3e7844a6cdc63cb8356ab47e2319492c28",
+        "visible_pixels_alpha_gt16": 252,
+        "distinct_visible_rgba_colors": 251,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 252
+      },
+      {
+        "preview": "previews/tfj_rod_07-3-preview36.png",
+        "sha256": "e425b08c177ec4e82734d5925e733d7cc0375301997dea5defe8dcc827d5b814",
+        "visible_pixels_alpha_gt16": 170,
+        "distinct_visible_rgba_colors": 169,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 170
+      },
+      {
+        "preview": "previews/tfj_rod_07-4-preview36.png",
+        "sha256": "17dc195aad9874307baf7819913e8e2646495511dcf7b32a9e9fc3b99c0c2fa1",
+        "visible_pixels_alpha_gt16": 170,
+        "distinct_visible_rgba_colors": 170,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 168
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_08",
+    "name_fr": "Lanterne d'Ajoran",
+    "category": "Rod",
+    "rarity": "unique",
+    "signature_to_preserve": "Milky glass hexagonal lantern in worn blue iron cage on a short violet-wrapped shaft, pale linen knot.",
+    "palette_intent": "milky glass, blue-gray iron, violet",
+    "retouch_focus": "Préserver la tête caractéristique et le manche court ; toute lumière animée nécessite une couche démontrée.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_rod_08.png",
+    "source_sha256": "5a7d1b24adc84b31acfe10e6d6dcd73e813e9b3da5db957150a1c3a90f3c5e31",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_rod_08-1-preview36.png",
+        "sha256": "e3a2b810adc98755d2c2a43e349a14b44ad3d57aab0f85f430e906bd69dbcb22",
+        "visible_pixels_alpha_gt16": 220,
+        "distinct_visible_rgba_colors": 219,
+        "fully_opaque_pixels": 3,
+        "semi_transparent_visible_pixels": 217
+      },
+      {
+        "preview": "previews/tfj_rod_08-2-preview36.png",
+        "sha256": "7af14f59aa03f028aff500332b63d517d1657a78d44b2e8a4332b0c8108457e0",
+        "visible_pixels_alpha_gt16": 220,
+        "distinct_visible_rgba_colors": 219,
+        "fully_opaque_pixels": 3,
+        "semi_transparent_visible_pixels": 217
+      },
+      {
+        "preview": "previews/tfj_rod_08-3-preview36.png",
+        "sha256": "d88426dbe39979f7db3c95d9df0790dcbe389d4d074d05219134c6611ff2a1ce",
+        "visible_pixels_alpha_gt16": 176,
+        "distinct_visible_rgba_colors": 174,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 176
+      },
+      {
+        "preview": "previews/tfj_rod_08-4-preview36.png",
+        "sha256": "72f5ac6668b6d24adf32fdeaac8fc56238263c703ca4e4f9e3719d4fa068747c",
+        "visible_pixels_alpha_gt16": 178,
+        "distinct_visible_rgba_colors": 176,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 178
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_06",
+    "name_fr": "La Sans-Appel",
+    "category": "Crossbow",
+    "rarity": "unique",
+    "signature_to_preserve": "One small powerful recurve crossbow with dark plum wooden stock, broad unornamented pale iron limbs and short rectangular central mechanism, a faded red binding across the grip.",
+    "palette_intent": "plum, pale iron, red",
+    "retouch_focus": "Garder arc transversal, stock et corde distincts ; vérifier prise, occultation et direction de tir.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_crossbow_06.png",
+    "source_sha256": "2e2e656661c05028efb11e906ffd21e9c09ddf7f0cd34ca97d6a4d6270d607ed",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_crossbow_06-1-preview36.png",
+        "sha256": "e9f8fd6b45b62b1f608c9fcdae0990c609fa3a6e5bc34c3b76eb4e2703250cc2",
+        "visible_pixels_alpha_gt16": 327,
+        "distinct_visible_rgba_colors": 326,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 327
+      },
+      {
+        "preview": "previews/tfj_crossbow_06-2-preview36.png",
+        "sha256": "49c36f3c0daba45f67c61ad3b0b8a11744ab81aecab094aaad631f580cef2319",
+        "visible_pixels_alpha_gt16": 341,
+        "distinct_visible_rgba_colors": 341,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 340
+      },
+      {
+        "preview": "previews/tfj_crossbow_06-3-preview36.png",
+        "sha256": "ac9efe6b807884f3c43be9b0bd36d2a758bb9c2bbe248310ed58d93344b1a162",
+        "visible_pixels_alpha_gt16": 299,
+        "distinct_visible_rgba_colors": 299,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 298
+      },
+      {
+        "preview": "previews/tfj_crossbow_06-4-preview36.png",
+        "sha256": "7e6c92a7604684dac75e660d443bb3ceda2f5498f633eeafb05b4f74536ab952",
+        "visible_pixels_alpha_gt16": 297,
+        "distinct_visible_rgba_colors": 297,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 296
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_09",
+    "name_fr": "Horizon d'Orbonne",
+    "category": "Bow",
+    "rarity": "legendary",
+    "signature_to_preserve": "True longbow with a continuous gently recurved honey-colored wood limb, thin dull silver tips, orange woven grip and one taut gray string, no stock or crossbar.",
+    "palette_intent": "honey brown, silver, orange",
+    "retouch_focus": "Garder une silhouette continue d’arc et une corde lisible ; vérifier mains et tension avant de dessiner la pose de tir.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_bow_09-v2.png",
+    "source_sha256": "3e7ab6f151f8e4470f1c2f374569cb070d56ece4e0c7324d5066919e00decd46",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_bow_09-1-preview36.png",
+        "sha256": "9c6e00686ddb99963961f6971790a1ee36c04748339dafc31a24b35d5a4a2196",
+        "visible_pixels_alpha_gt16": 117,
+        "distinct_visible_rgba_colors": 117,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 116
+      },
+      {
+        "preview": "previews/tfj_bow_09-2-preview36.png",
+        "sha256": "fb334677fdb317332a43258b9b237bf3a81ee0d841c0bc13642980edfa4b6759",
+        "visible_pixels_alpha_gt16": 117,
+        "distinct_visible_rgba_colors": 117,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 117
+      },
+      {
+        "preview": "previews/tfj_bow_09-3-preview36.png",
+        "sha256": "87b6b4af3d97924eeaf0c8308e96c6bb49b0b86b1707fba56d612d0bddd275aa",
+        "visible_pixels_alpha_gt16": 143,
+        "distinct_visible_rgba_colors": 141,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 143
+      },
+      {
+        "preview": "previews/tfj_bow_09-4-preview36.png",
+        "sha256": "9ef69a74c393fc365eaef9c09375ee4d1303600a58b010634628bcb3036a16db",
+        "visible_pixels_alpha_gt16": 147,
+        "distinct_visible_rgba_colors": 142,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 147
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_10",
+    "name_fr": "Le Fil du destin",
+    "category": "Bow",
+    "rarity": "unique",
+    "signature_to_preserve": "True asymmetrical recurved longbow, pale gray bent wood upper limb longer than lower, indigo thread winds around middle and forms one taut string, red knot at lower tip. No stock, arrow or crossbar.",
+    "palette_intent": "pale wood, indigo, red",
+    "retouch_focus": "Garder une silhouette continue d’arc et une corde lisible ; vérifier mains et tension avant de dessiner la pose de tir.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_bow_10-v2.png",
+    "source_sha256": "1a2c701053132aa47a27648176e5bd12ce3831b02b440d0cb32844b16db1d96c",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_bow_10-1-preview36.png",
+        "sha256": "d4cfb8f71e73c57acd3643bb6e61ef04bf545b2a6a6df91263dc00bd593346bc",
+        "visible_pixels_alpha_gt16": 108,
+        "distinct_visible_rgba_colors": 102,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 108
+      },
+      {
+        "preview": "previews/tfj_bow_10-2-preview36.png",
+        "sha256": "e6578260167f8619484a3e1a055d503effccc63dea659d4c18e6bd4fe8df3908",
+        "visible_pixels_alpha_gt16": 113,
+        "distinct_visible_rgba_colors": 112,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 113
+      },
+      {
+        "preview": "previews/tfj_bow_10-3-preview36.png",
+        "sha256": "0de5f4d0a1d735323d294aabe83d753d0ebd7e723ea3a8a4a9c675aedad7ae90",
+        "visible_pixels_alpha_gt16": 141,
+        "distinct_visible_rgba_colors": 138,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 141
+      },
+      {
+        "preview": "previews/tfj_bow_10-4-preview36.png",
+        "sha256": "3e8cd44cf7ed547b0f08cfa3b80436201e76fdacf466f8ca2e361808866e7a7d",
+        "visible_pixels_alpha_gt16": 151,
+        "distinct_visible_rgba_colors": 143,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 151
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_instrument_02",
+    "name_fr": "Cantique des pierres",
+    "category": "Instrument",
+    "rarity": "legendary",
+    "signature_to_preserve": "Compact ancient lyre built of dull gray stone-like wood, wide round base, squat curved arms, five bronze strings and a small ochre inset disk.",
+    "palette_intent": "gray, ochre, bronze",
+    "retouch_focus": "Garder caisse, bras et rythme de cordes lisibles ; pose de jeu et déplacement des mains UNKNOWN.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_instrument_02.png",
+    "source_sha256": "91c05de0113c7fedf7888c870ab771313905358fa1e55693cf76152020e2a28c",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_instrument_02-1-preview36.png",
+        "sha256": "6f2d0c02d240d7f0e9eace4c4f98b496296ad3a214dee5a0e1de965e28e2321a",
+        "visible_pixels_alpha_gt16": 481,
+        "distinct_visible_rgba_colors": 477,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 479
+      },
+      {
+        "preview": "previews/tfj_instrument_02-2-preview36.png",
+        "sha256": "f98165131a6212805bc6cf87478d719d878bbfc8fa038dd5f0e4ce52a1a85b34",
+        "visible_pixels_alpha_gt16": 503,
+        "distinct_visible_rgba_colors": 496,
+        "fully_opaque_pixels": 4,
+        "semi_transparent_visible_pixels": 499
+      },
+      {
+        "preview": "previews/tfj_instrument_02-3-preview36.png",
+        "sha256": "005be4eff3a4502a3c9768d25f57e0af4acc77f547bd0a82a8402c72de1a8ff6",
+        "visible_pixels_alpha_gt16": 336,
+        "distinct_visible_rgba_colors": 332,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 334
+      },
+      {
+        "preview": "previews/tfj_instrument_02-4-preview36.png",
+        "sha256": "d5ebddc36767442aabd819bc4f7de13c1e980ea0b7ef70c105a222eeb0d359b2",
+        "visible_pixels_alpha_gt16": 335,
+        "distinct_visible_rgba_colors": 333,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 334
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_instrument_03",
+    "name_fr": "Dernière chanson de Zelténnia",
+    "category": "Instrument",
+    "rarity": "unique",
+    "signature_to_preserve": "One small pear-shaped dark plum wood harp, low hooked upper arm, pale wood soundboard, fine silver strings, a single faded blue ribbon at base.",
+    "palette_intent": "plum wood, pale wood, blue",
+    "retouch_focus": "Garder caisse, bras et rythme de cordes lisibles ; pose de jeu et déplacement des mains UNKNOWN.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_instrument_03.png",
+    "source_sha256": "1b6e96dce5d6aab994c0a4979cc49e973c672cd09a077b0240736e2e88c4adc2",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_instrument_03-1-preview36.png",
+        "sha256": "27ccb6532bedde06852750eef271a826a39412a9dffb5317df14616bef7132d6",
+        "visible_pixels_alpha_gt16": 274,
+        "distinct_visible_rgba_colors": 271,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 274
+      },
+      {
+        "preview": "previews/tfj_instrument_03-2-preview36.png",
+        "sha256": "ab43a47bcb7bf8100fd4d88074f8b1b5b99fefe7ed7ec4659db65614256318f8",
+        "visible_pixels_alpha_gt16": 276,
+        "distinct_visible_rgba_colors": 276,
+        "fully_opaque_pixels": 7,
+        "semi_transparent_visible_pixels": 269
+      },
+      {
+        "preview": "previews/tfj_instrument_03-3-preview36.png",
+        "sha256": "950db65997d89d26536576ae23b3d95d6dd7fc9308dbe5a9cabaad0735f075bb",
+        "visible_pixels_alpha_gt16": 242,
+        "distinct_visible_rgba_colors": 238,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 240
+      },
+      {
+        "preview": "previews/tfj_instrument_03-4-preview36.png",
+        "sha256": "cdddc32eec0bfcf6128dafdf3d61ea330e90dc67281ca07b087314a19f0c856c",
+        "visible_pixels_alpha_gt16": 239,
+        "distinct_visible_rgba_colors": 239,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 237
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_book_03",
+    "name_fr": "Chronique des ruines",
+    "category": "Book",
+    "rarity": "legendary",
+    "signature_to_preserve": "Closed thick battered ochre parchment codex with charcoal cloth spine, asymmetrical bronze corner plates and a simple dark green leather buckle.",
+    "palette_intent": "ochre, charcoal, green",
+    "retouch_focus": "Conserver volume, dos, fermoir et marque principale ; état ouvert ou fermé à relever dans une animation native.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_book_03.png",
+    "source_sha256": "ab5a32b3bc36332bebd6491b5b16e142b2d44b10bb21d72d5485457eaf499eaa",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_book_03-1-preview36.png",
+        "sha256": "d996d8a447eb5e1359f4ec37cb3db019b5b93ff41583b7fbaa8dc93c8d5136c8",
+        "visible_pixels_alpha_gt16": 605,
+        "distinct_visible_rgba_colors": 585,
+        "fully_opaque_pixels": 5,
+        "semi_transparent_visible_pixels": 600
+      },
+      {
+        "preview": "previews/tfj_book_03-2-preview36.png",
+        "sha256": "6bbffd72effbce0f846ad498341630f432d5cfc226f46c00ff9cb31426a2fbe4",
+        "visible_pixels_alpha_gt16": 594,
+        "distinct_visible_rgba_colors": 580,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 594
+      },
+      {
+        "preview": "previews/tfj_book_03-3-preview36.png",
+        "sha256": "076016116d17b306c20ce747e9503f636ba3eb7efaf05ae7de37cd2f5d73259f",
+        "visible_pixels_alpha_gt16": 428,
+        "distinct_visible_rgba_colors": 418,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 428
+      },
+      {
+        "preview": "previews/tfj_book_03-4-preview36.png",
+        "sha256": "13742f05b0d9a18cd36c999fc2f09921078150bb020e5d8178a8764f78b54923",
+        "visible_pixels_alpha_gt16": 436,
+        "distinct_visible_rgba_colors": 421,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 436
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_book_04",
+    "name_fr": "Le Livre sans auteur",
+    "category": "Book",
+    "rarity": "unique",
+    "signature_to_preserve": "Closed small dusty blue cloth book with a blank torn circular parchment patch at center, worn gray iron clasp and one long red bookmark.",
+    "palette_intent": "dusty blue, gray, red",
+    "retouch_focus": "Conserver volume, dos, fermoir et marque principale ; état ouvert ou fermé à relever dans une animation native.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_book_04.png",
+    "source_sha256": "6ca9ff68d06e71fb06fd38848b739ce1a60e66fc442d0be9fb5589c247463d33",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_book_04-1-preview36.png",
+        "sha256": "3ab2dca2e8d720f1bb5cab503aa01cdea5ad428a625e03e823b6a341374504b7",
+        "visible_pixels_alpha_gt16": 560,
+        "distinct_visible_rgba_colors": 558,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 560
+      },
+      {
+        "preview": "previews/tfj_book_04-2-preview36.png",
+        "sha256": "6ec1db84e45d997d36f4863c9ddd52012a4dddacafb9dbbf799392a1ef418f53",
+        "visible_pixels_alpha_gt16": 564,
+        "distinct_visible_rgba_colors": 558,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 564
+      },
+      {
+        "preview": "previews/tfj_book_04-3-preview36.png",
+        "sha256": "eac3fb881d548d8d5a9c7f99c4e2c667752e30c511eefd609b5e22af9329cbd7",
+        "visible_pixels_alpha_gt16": 348,
+        "distinct_visible_rgba_colors": 346,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 348
+      },
+      {
+        "preview": "previews/tfj_book_04-4-preview36.png",
+        "sha256": "37cc1e951afa58cceea465b82680ad196a92eae641d6ca680f597add8c8a8490",
+        "visible_pixels_alpha_gt16": 353,
+        "distinct_visible_rgba_colors": 352,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 353
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_07",
+    "name_fr": "Étendard du ciel vide",
+    "category": "Polearm",
+    "rarity": "legendary",
+    "signature_to_preserve": "Full long spear with a narrow silver leaf blade and a short pale blue torn pennant directly below head, plain dark ash shaft, small iron butt. One weapon.",
+    "palette_intent": "silver, pale blue, ash",
+    "retouch_focus": "Préserver forme de pointe et longueur relative ; vérifier prise à deux mains, pointe et traversée du corps.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_polearm_07.png",
+    "source_sha256": "d19ec97f2ff5de14907266dab70cdaa7062a6c4509051657cb6faee7e62adf60",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_polearm_07-1-preview36.png",
+        "sha256": "cacf82e00ed601ef2caaa9f5c4d6fbadf2515ae88c74bb6599c70dd5804ca45b",
+        "visible_pixels_alpha_gt16": 115,
+        "distinct_visible_rgba_colors": 115,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 115
+      },
+      {
+        "preview": "previews/tfj_polearm_07-2-preview36.png",
+        "sha256": "bfb576e7a66015ae8967ad7561db0dda10a74b75d97fbb9fd1250214ca95e4d9",
+        "visible_pixels_alpha_gt16": 129,
+        "distinct_visible_rgba_colors": 128,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 129
+      },
+      {
+        "preview": "previews/tfj_polearm_07-3-preview36.png",
+        "sha256": "150e77c9da8fa8ffd7219321a24d2c91133695d8e11a88bf070d9111ffd78b23",
+        "visible_pixels_alpha_gt16": 68,
+        "distinct_visible_rgba_colors": 68,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 68
+      },
+      {
+        "preview": "previews/tfj_polearm_07-4-preview36.png",
+        "sha256": "61b15173a0067c5c2dfcbe95c5e34f68c46c9ac60d949e67a8e4e46c5011e129",
+        "visible_pixels_alpha_gt16": 71,
+        "distinct_visible_rgba_colors": 70,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 71
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_08",
+    "name_fr": "Le Dernier rempart",
+    "category": "Polearm",
+    "rarity": "unique",
+    "signature_to_preserve": "Full heavy dark iron lance with broad triangular head, two short squared side flanges below head like battlements, reddish wooden shaft and a gray cloth binding.",
+    "palette_intent": "iron, reddish wood, gray",
+    "retouch_focus": "Préserver forme de pointe et longueur relative ; vérifier prise à deux mains, pointe et traversée du corps.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_polearm_08.png",
+    "source_sha256": "b537db8c9a14a49a176d830ba45b2285174c2cc3a842038f808925c24850050f",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_polearm_08-1-preview36.png",
+        "sha256": "c9c07d6eaf2d147831e033f0cb44bc971077224b7fc4112ec99315fc611be32f",
+        "visible_pixels_alpha_gt16": 168,
+        "distinct_visible_rgba_colors": 166,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 168
+      },
+      {
+        "preview": "previews/tfj_polearm_08-2-preview36.png",
+        "sha256": "d5d009417da1716f8544173a75ac8f68cda8c73ef0cc5466ebe503ad83a1655e",
+        "visible_pixels_alpha_gt16": 172,
+        "distinct_visible_rgba_colors": 171,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 172
+      },
+      {
+        "preview": "previews/tfj_polearm_08-3-preview36.png",
+        "sha256": "6157e2e36fb73777cf4123713b4ab19dce7cb818db9c29d1b62e4c7deb549dfc",
+        "visible_pixels_alpha_gt16": 101,
+        "distinct_visible_rgba_colors": 101,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 101
+      },
+      {
+        "preview": "previews/tfj_polearm_08-4-preview36.png",
+        "sha256": "b511e06e5754d01c650d2e0590f0b009c8b85a1cb8150e336e881039ac9b5b86",
+        "visible_pixels_alpha_gt16": 101,
+        "distinct_visible_rgba_colors": 101,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 101
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_07",
+    "name_fr": "Axe du monde",
+    "category": "Pole",
+    "rarity": "legendary",
+    "signature_to_preserve": "Full pale bamboo fighting pole with uneven joint segments, three narrow dark green binding bands and blunt gray iron caps, a tiny pale leaf tied near upper end.",
+    "palette_intent": "pale bamboo, dark green, gray",
+    "retouch_focus": "Différencier extrémités et bandes sans silhouette de lance ; vérifier prise et angles effectivement utilisés.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_pole_07.png",
+    "source_sha256": "0ae10bf0b7610258a7a168f8cc5051b72c3b56c66124182bba5be4c6139d1dd7",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_pole_07-1-preview36.png",
+        "sha256": "e9fc3227ec1ec1c2c9d7fdcaadc572cb0166ba69fd9e3d8f21b76bc68eb4de71",
+        "visible_pixels_alpha_gt16": 140,
+        "distinct_visible_rgba_colors": 140,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 140
+      },
+      {
+        "preview": "previews/tfj_pole_07-2-preview36.png",
+        "sha256": "488c34c3071a91fb344256aedbb5a271ade0919f567dc0af8e8a3c8ae981d5a1",
+        "visible_pixels_alpha_gt16": 139,
+        "distinct_visible_rgba_colors": 139,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 139
+      },
+      {
+        "preview": "previews/tfj_pole_07-3-preview36.png",
+        "sha256": "273b32b0b3a0cefe9eab458dfff2f1aa4f412aced74792261ca2b7c12ec2ce31",
+        "visible_pixels_alpha_gt16": 86,
+        "distinct_visible_rgba_colors": 85,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 86
+      },
+      {
+        "preview": "previews/tfj_pole_07-4-preview36.png",
+        "sha256": "91881c22bda0a249dd189bc6aa744498d654b7a51ace96c52bebf07767873f27",
+        "visible_pixels_alpha_gt16": 85,
+        "distinct_visible_rgba_colors": 84,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 85
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_08",
+    "name_fr": "La Branche immobile",
+    "category": "Pole",
+    "rarity": "unique",
+    "signature_to_preserve": "Full charcoal lacquered fighting pole, three broad muted violet bands, one cracked pale ceramic collar near top and blunt ends.",
+    "palette_intent": "charcoal, violet, pale ceramic",
+    "retouch_focus": "Différencier extrémités et bandes sans silhouette de lance ; vérifier prise et angles effectivement utilisés.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_pole_08.png",
+    "source_sha256": "977e00e07d80369c57643b96ddb68883a1904e03774334f91099d61e862e5869",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_pole_08-1-preview36.png",
+        "sha256": "6d5dec86df613af8bf424aade9bbc5d872b2a5976b70b138677ec33cf7527021",
+        "visible_pixels_alpha_gt16": 174,
+        "distinct_visible_rgba_colors": 174,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 174
+      },
+      {
+        "preview": "previews/tfj_pole_08-2-preview36.png",
+        "sha256": "7120b6671be4ac0d99159d4ad3bf8b57622a5f09ea1c58b642fb9b03371221a0",
+        "visible_pixels_alpha_gt16": 171,
+        "distinct_visible_rgba_colors": 171,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 171
+      },
+      {
+        "preview": "previews/tfj_pole_08-3-preview36.png",
+        "sha256": "7b9c14ad562c639005200b7ad7e8ab512cc5e0cc546f1afcaf8d6b0a8668aef9",
+        "visible_pixels_alpha_gt16": 105,
+        "distinct_visible_rgba_colors": 101,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 105
+      },
+      {
+        "preview": "previews/tfj_pole_08-4-preview36.png",
+        "sha256": "7bf79b00632774379ee65b77bea14e071a38f1a14180c14ac22894d69928f83a",
+        "visible_pixels_alpha_gt16": 106,
+        "distinct_visible_rgba_colors": 103,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 106
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bag_03",
+    "name_fr": "Besace du marché ancien",
+    "category": "Bag",
+    "rarity": "legendary",
+    "signature_to_preserve": "One squat rich brown leather satchel with a broad dull brass buckle shaped as two clasped hands, a faded orange fabric flap, patched corners and short handle.",
+    "palette_intent": "brown leather, orange, brass",
+    "retouch_focus": "Conserver volume, anse et boucle ; mouvement souple et mode de frappe UNKNOWN.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_bag_03.png",
+    "source_sha256": "c2ca8d8e57c3f4acc8b100ebb69c4b3a530d2c11fab98612087fec301ada98e5",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_bag_03-1-preview36.png",
+        "sha256": "c8d9d073e480ba6fab8d5d50f232bce8c7e326ab20cebd6c821fc59e86750f03",
+        "visible_pixels_alpha_gt16": 705,
+        "distinct_visible_rgba_colors": 691,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 705
+      },
+      {
+        "preview": "previews/tfj_bag_03-2-preview36.png",
+        "sha256": "7c05b20163591c8c8d5d33d82e1c446c4f075fff401e9e565de5c3d2bfead2e9",
+        "visible_pixels_alpha_gt16": 710,
+        "distinct_visible_rgba_colors": 695,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 709
+      },
+      {
+        "preview": "previews/tfj_bag_03-3-preview36.png",
+        "sha256": "812f46d0d5b00d42098e7dfba8afb8e5d841e1ed2c5eb6bb8cccea959a61da00",
+        "visible_pixels_alpha_gt16": 557,
+        "distinct_visible_rgba_colors": 552,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 557
+      },
+      {
+        "preview": "previews/tfj_bag_03-4-preview36.png",
+        "sha256": "83846118e536d80a5fa014fe01d03c944e3d7f90dca32d23a324ebc7a1620192",
+        "visible_pixels_alpha_gt16": 564,
+        "distinct_visible_rgba_colors": 553,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 564
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bag_04",
+    "name_fr": "Le Dernier denier",
+    "category": "Bag",
+    "rarity": "unique",
+    "signature_to_preserve": "One small soft ash-blue linen bag tied with plum cord, one empty open square iron clasp attached to flap, a torn white stitched patch and short carrying loop.",
+    "palette_intent": "ash blue, plum, white",
+    "retouch_focus": "Conserver volume, anse et boucle ; mouvement souple et mode de frappe UNKNOWN.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_bag_04.png",
+    "source_sha256": "24d7f64edfc17e29e936775cf5b0028010057d3128e1f1d8a5aa82d79b5f4166",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_bag_04-1-preview36.png",
+        "sha256": "f4320a26d49dfc8bc4a4920109e26909161d08080a2eca0d984df21290897a9e",
+        "visible_pixels_alpha_gt16": 521,
+        "distinct_visible_rgba_colors": 510,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 519
+      },
+      {
+        "preview": "previews/tfj_bag_04-2-preview36.png",
+        "sha256": "61fa77c4c23c4cf50ad4ad55254bfd09847762d8880d19ef2a6817b95fbe1328",
+        "visible_pixels_alpha_gt16": 540,
+        "distinct_visible_rgba_colors": 525,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 539
+      },
+      {
+        "preview": "previews/tfj_bag_04-3-preview36.png",
+        "sha256": "881b02615a342989ab697a32f753c91391420c73684fb8490b4d7b1a59e6caea",
+        "visible_pixels_alpha_gt16": 454,
+        "distinct_visible_rgba_colors": 449,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 452
+      },
+      {
+        "preview": "previews/tfj_bag_04-4-preview36.png",
+        "sha256": "c4d391ed0731aae6862be89dbad5f62b8c16179780f3206cf339884b9f05f792",
+        "visible_pixels_alpha_gt16": 445,
+        "distinct_visible_rgba_colors": 437,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 444
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloth_02",
+    "name_fr": "Voile du vieux sanctuaire",
+    "category": "Cloth",
+    "rarity": "legendary",
+    "signature_to_preserve": "One coherent folded ochre cloth with an angular blue woven border and an asymmetrical flowing corner, tactile heavy weave. No floating ornaments.",
+    "palette_intent": "ochre, dusty blue",
+    "retouch_focus": "Préserver un tissu connecté et son bord distinctif ; déformation et pose de frappe UNKNOWN.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_cloth_02.png",
+    "source_sha256": "20aa89efe74406605336eb9aed7b24517fe71e21de49fc2a6e6433930a6e1eee",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_cloth_02-1-preview36.png",
+        "sha256": "f2fbc7be5a3416455a27e9bb415b548006ea6519e7c3c82705141635ec0db67c",
+        "visible_pixels_alpha_gt16": 576,
+        "distinct_visible_rgba_colors": 556,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 574
+      },
+      {
+        "preview": "previews/tfj_cloth_02-2-preview36.png",
+        "sha256": "02d9035a69d3ee439c852be83be9dd0554e31a5de2d6d1a934aa2435575a8b4b",
+        "visible_pixels_alpha_gt16": 610,
+        "distinct_visible_rgba_colors": 582,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 609
+      },
+      {
+        "preview": "previews/tfj_cloth_02-3-preview36.png",
+        "sha256": "efc9dc96b744c0da1ec6743404886a9d98b307f96c11e1fd38d3e4128e534b78",
+        "visible_pixels_alpha_gt16": 366,
+        "distinct_visible_rgba_colors": 344,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 365
+      },
+      {
+        "preview": "previews/tfj_cloth_02-4-preview36.png",
+        "sha256": "7479dbd0d2c32ade9ea962f5cd4a87b00282bf83ad6e57864f7a37518221a7e4",
+        "visible_pixels_alpha_gt16": 380,
+        "distinct_visible_rgba_colors": 365,
+        "fully_opaque_pixels": 2,
+        "semi_transparent_visible_pixels": 378
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloth_03",
+    "name_fr": "Linceul de l'oubli",
+    "category": "Cloth",
+    "rarity": "unique",
+    "signature_to_preserve": "One long plum silk ribbon folded as an open spiral, pale gray frayed outer edge and one burgundy stitched seam, physically connected fabric.",
+    "palette_intent": "plum, gray, burgundy",
+    "retouch_focus": "Préserver un tissu connecté et son bord distinctif ; déformation et pose de frappe UNKNOWN.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_cloth_03.png",
+    "source_sha256": "43770e1224e9a2113c7e9755baa1430e53d2c6a111d9fa3c68e784b68d2ad5ac",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_cloth_03-1-preview36.png",
+        "sha256": "c3638e27f5557792f31cfd0a441e1d676acef3dee102a7fd864113fe6895b851",
+        "visible_pixels_alpha_gt16": 361,
+        "distinct_visible_rgba_colors": 360,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 361
+      },
+      {
+        "preview": "previews/tfj_cloth_03-2-preview36.png",
+        "sha256": "3102dd774981459f8e9e2743b119ca355441f0a7b36a8391d286bedfa248611a",
+        "visible_pixels_alpha_gt16": 378,
+        "distinct_visible_rgba_colors": 375,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 378
+      },
+      {
+        "preview": "previews/tfj_cloth_03-3-preview36.png",
+        "sha256": "65b08750b182b1dd2ec5a4f21e8bf4bb021fc7a62fa66d8adbac45dcf60657a6",
+        "visible_pixels_alpha_gt16": 224,
+        "distinct_visible_rgba_colors": 220,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 224
+      },
+      {
+        "preview": "previews/tfj_cloth_03-4-preview36.png",
+        "sha256": "bfc5f7ff34a2bb816070bc3cd939b31d2f98637e3afa8b55bcf0e0f397a6af2e",
+        "visible_pixels_alpha_gt16": 273,
+        "distinct_visible_rgba_colors": 269,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 273
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_15",
+    "name_fr": "Porte de Bervénia",
+    "category": "Shield",
+    "rarity": "legendary",
+    "signature_to_preserve": "Compact tall shield of overlapping slate-blue iron plates with a wide tan leather band across center, squared top and narrow rounded base, shallow blunt boss.",
+    "palette_intent": "slate blue, tan, iron",
+    "retouch_focus": "Préserver contour asymétrique et emblème ; relever avant/arrière, poignée et occultation du bras.",
+    "source_sheet": "outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\concepts\\tfj_shield_15.png",
+    "source_sha256": "afe2e8e24c152fd312643f4a5cdf96a32ea4fb3e9428942e35a3b1683ef546db",
+    "preview_measurements": [
+      {
+        "preview": "previews/tfj_shield_15-1-preview36.png",
+        "sha256": "89215143eb2dcca2715b0882f06e6e11d7b68db1d25274fefacafe3ae19cb3e9",
+        "visible_pixels_alpha_gt16": 475,
+        "distinct_visible_rgba_colors": 451,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 475
+      },
+      {
+        "preview": "previews/tfj_shield_15-2-preview36.png",
+        "sha256": "185aa7cf5b31d2c09b88146a262433b492b2130f49ba941f1258848f1a2ac0f7",
+        "visible_pixels_alpha_gt16": 471,
+        "distinct_visible_rgba_colors": 439,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 471
+      },
+      {
+        "preview": "previews/tfj_shield_15-3-preview36.png",
+        "sha256": "bd858903f21931df18dc943ac3755b7b7e7af2e43262df3c7e8f64aef11a7f73",
+        "visible_pixels_alpha_gt16": 399,
+        "distinct_visible_rgba_colors": 393,
+        "fully_opaque_pixels": 1,
+        "semi_transparent_visible_pixels": 398
+      },
+      {
+        "preview": "previews/tfj_shield_15-4-preview36.png",
+        "sha256": "67464bd6a215cc4a7fad595b2f7f236175a80d99e808ee5a88956184986d50eb",
+        "visible_pixels_alpha_gt16": 399,
+        "distinct_visible_rgba_colors": 382,
+        "fully_opaque_pixels": 0,
+        "semi_transparent_visible_pixels": 399
+      }
+    ],
+    "measurements_are_native_constraints": false,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "native_sequence_id": null,
+    "hand_anchor": "UNKNOWN",
+    "required_native_poses": "UNKNOWN",
+    "unit_overlay_test": "NOT_RUN",
+    "alpha_and_blending_runtime": "UNKNOWN",
+    "native_encoding": "NOT_CREATED",
+    "status": "AUTHORING_PLAN_ONLY",
+    "runtime_ready": false
+  }
+]

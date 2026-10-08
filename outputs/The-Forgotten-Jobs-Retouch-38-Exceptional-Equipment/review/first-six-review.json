@@ -1,0 +1,7 @@
+{
+  "boards": ["source-06-01.jpg", "source-06-02.jpg", "miniature-06-01.jpg"],
+  "reviewed_ids": ["tfj_sword_18", "tfj_staff_08", "tfj_shield_16", "tfj_knife_09", "tfj_knife_10", "tfj_ninja_blade_07"],
+  "accepted_as_alternative_concepts": ["tfj_sword_18", "tfj_staff_08", "tfj_shield_16", "tfj_knife_10", "tfj_ninja_blade_07"],
+  "requires_correction": {"tfj_knife_09": "Disconnected pale blue wisps above the guard are still present. Regenerate without mist/effect wording, retain a solid blue-glass lamp only."},
+  "notes": "Five alternatives keep recognizable signatures and dominant palette with no diffuse halo visible. Sword missing-quillon asymmetry, staff profile proportions and proposed shield backs need native retouch validation. All runtime readiness false."
+}

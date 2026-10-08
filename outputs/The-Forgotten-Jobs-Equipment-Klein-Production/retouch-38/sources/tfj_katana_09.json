@@ -1,0 +1,11 @@
+{
+  "id": "tfj_katana_09",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-e0a22f35-9e8b-4c94-ac46-77da3a6b4b54.png",
+  "prompt": "Generate a new transparent four-view PIXEL ART equipment sheet. Native FFT atlas is style reference only. Flat muted opaque color clusters, uniformly sized large square pixels, very low detail. 2x2 four isolated coherent views of the same object with huge alpha-zero empty gutters and clear margins. Entire object fully visible. Equipment interiors solid; outside each hard stepped outline completely empty transparency. Four small tactical battle sprites enlarged with nearest-neighbour appearance, not inventory illustration. No scene, hand, labels, checkerboard, soft shadow, gradients, particles, disconnected marks or lighting halos. Exactly the described physical object only. Authoring study, not encoded native format.\nONE slim pale silver katana with a GENTLE smooth physical curve and a conventional straight tapered pointed tip. The last third of the blade is gently tapered, never hooked, curled, crescent-shaped or split. Small crescent-shaped metal GUARD only at the grip, muted blue-gray woven grip and steel butt. The blade tip is ordinary pointed steel. Top-left points up-left, top-right up-right, bottom-left horizontal left, bottom-right horizontal right. Same blade, guard and grip proportions in every view.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment/references/weapon-palette-03.png",
+  "generator": "OPENAI_BUILT_IN_IMAGEGEN",
+  "status": "VISUALLY_REVIEWED_ALTERNATIVE_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "selected_sha256": "b4ddd09415fe76520058ad2a68799fccc41d9860e59c36f0edef81d2d3ff6e0e",
+  "review": "Corrected v2: gently curved silver blade with ordinary pointed tip, muted blue-gray grip and small crescent guard. Curled tip removed; source and four miniature views inspected. Native poses/encoding unknown."
+}

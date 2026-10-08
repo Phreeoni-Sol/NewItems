@@ -1,0 +1,38 @@
+{
+  "id": "tfj_sword_05",
+  "name_fr": "Épée de châtelain",
+  "category": "Sword",
+  "rarity": "common",
+  "model": "black-forest-labs/flux.2-klein-4b",
+  "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+  "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_022_uitx.png",
+  "reference_sha256": "d4a4105acd014a78410719bdb0e61efdd0b8c896ddf8615c5bb7d6966c2b1f92",
+  "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_05.png",
+  "expected_cost_pollen": 0.005,
+  "runtime_ready": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "http_status": 200
+    }
+  ],
+  "http_status": 200,
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 1,
+    "total_tokens": 1,
+    "input_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "size": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "alpha_ready": false,
+  "sha256": "db21beb0648d81d808774ef28efe524b9c411c72994f34004a3d167cd8ffa961",
+  "seconds": 6.61,
+  "prompt": "Create ONE original Sword equipment inventory icon. New design motif: broad steel blade with modest red heraldic pommel. The attached image is an actual native FFT The Ivalice Chronicles Enhanced inventory texture and is ONLY a style and composition reference. Follow its viewing angle, orientation, compact silhouette, relative object scale, muted color palette and delicate proportions. Match its worn hand-painted textured materials, restrained highlights, and soft slightly distressed painterly edges. Use practical believable construction and sparse ornament. Do not duplicate the reference object; follow the new design motif. Keep the complete object readable at 100x100 and 48x48 with safe padding. Single isolated object, no scenery, no frame, no floor shadow, no reflection, no cast shadow. Absolutely no lettering, words, numbers, logos, labels, writing, signatures or watermarks anywhere, including on the object itself. No product photography, glossy concept-art rendering, neon glow, thick black outlines or hard pixel-art clusters. Flat uniform pure white background if genuine transparent alpha is unsupported; never a checkerboard pattern. IMPORTANT: blade point at UPPER LEFT and grip at LOWER RIGHT. Never reverse this diagonal; never place the grip at the upper right. Show only ONE unsheathed weapon: absolutely no scabbard, sheath, carrying case, second grip, second blade, floating extra handle or crossed objects."
+}

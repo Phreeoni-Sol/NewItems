@@ -1,0 +1,13 @@
+{
+  "id": "tfj_robe_07",
+  "ref": "ei_206_uitx.png",
+  "signature_design_en": "Unworn long deep teal scholar robe with broad tan woven collar, layered cuffs, brown sash and three almost erased ash-gray star constellations on front and lower hem.",
+  "palette": "deep teal, tan, ash gray, brown",
+  "visual_effect": "none",
+  "prompt": "Create a NEW ORIGINAL legendary garment inventory icon called Robe des astres éteints. One complete unworn long deep teal scholar robe with broad tan woven folded collar, layered teal-and-tan cuffs, plain brown tied sash and three almost erased ash-gray star constellations embroidered on front and lower hem. A flowing asymmetrical drape and deep sleeves, no gold jewelry, no bright star glitter, magical particles, huge aura, person, head, hands, legs, mannequin or separate accessories. Stars should be a few readable pale marks, not microscopic writing. Full robe including its hem and empty neck opening. Match the supplied actual native FFT The Ivalice Chronicles Enhanced inventory icon as a style and scale reference only, never clone its object. Subtle gritty hand-painted small equipment icon, softly broken delicate contour, muted colors and restrained material shading, no crisp bold outlines, glossy 3D jewelry product, gold cathedral filigree, modern sci-fi parts, labels, text, frame, person or mannequin. Genuine transparent background. Exactly one complete unworn object, centered with safe margins and readable at 100 pixels.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Equipment-Enhanced-Revision/references/native-png/ei_206_uitx.png",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-0d525ef8-5470-450b-afce-eaac5b11fd45.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "status": "CORRECTION_REQUIRES_REVIEW"
+}

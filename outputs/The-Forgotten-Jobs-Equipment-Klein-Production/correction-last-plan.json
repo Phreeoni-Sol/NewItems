@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tfj_polearm_01",
+    "name_fr": "Lance du gué",
+    "category": "Polearm",
+    "rarity": "common",
+    "visual_intent": "long ash spear with short plain steel head",
+    "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_polearm_05.png",
+    "prompt": "Edit this ONE spear while preserving its complete single-object geometry and painterly inventory rendering. Replace the blue/brown haft with a long plain ash wood shaft. The spearhead is a short simple gray iron pointed tip. Keep exactly one continuous spear with one head and one shaft. Only change its materials and colors; do not add, duplicate, cross or rotate a second spear. One single isolated complete object on flat pure white, no labels or text, no floor shadow. Delicate compact proportions, soft textured worn materials, restrained metallic highlights, readable at small inventory scale.",
+    "status": "PLANNED",
+    "runtime_item_id": null,
+    "runtime_ready": false
+  }
+]

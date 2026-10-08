@@ -1,0 +1,21 @@
+{
+  "id": "tfj_knife_10",
+  "name_fr": "Dernier aveu",
+  "generator": "OPENAI_BUILT_IN_IMAGEGEN",
+  "prompt": "Use case: style-transfer. Edit target image 1 is the four-view sheet of Dernier aveu, a new dagger. Supporting style reference image 2 is a contact board of original FFT battle sprites. Redraw ONLY the same four dagger views, keeping broad copper leaf blade, chipped spine, very short almost absent guard, plain black leather grip, and one small red wax seal at butt. Crucial correction: completely remove every amber/red haze, translucent shadow and lighting halo. Outside the four weapons must be truly alpha zero. Equipment interiors opaque. Simplify harshly to the visual economy of the native reference: flat small clusters of muted copper, dark brown, near-black and red, only two to three hard-edged shades per material. No grain, texture noise, gradients, bloom, oversize black outline or glossy illustration. Imagine a 24x16 pixel battle dagger enlarged with nearest-neighbour pixels, then give the diagonal profiles equivalent modest pixel count: sparse uniform square pixels, large readable blade, simple grip, tiny red seal. Do not add extra detail as resolution increases. Four coherent views in a 2 by 2 arrangement with very wide transparent gutters: upper-left points up-left, upper-right up-right, bottom-left horizontally left, bottom-right horizontally right. Same object and proportions in all four. No labels, hands, scenery, frame, checkerboard or atlas copied from reference. Preserve copper/black/red identity. This is a stricter art retouch study, not a claim of engine-ready binary encoding.",
+  "source": "C:/Users/eSilRoy/.codex/generated_images/01a11269-acf4-72e3-9d21-88011efccada/exec-1f0f7449-90d8-4c0c-8e64-b6e7cf4076cb.png",
+  "references": [
+    "Equipment-Combat-Study-38/concepts/tfj_knife_10.png",
+    "Native-Weapon-Geometry/review/wep1-atlas-crops.png"
+  ],
+  "status": "REJECTED_FOR_CLEAN_ALPHA_PRODUCTION",
+  "visual_review": "Flatter simpler copper shading and object identity retained; diffuse amber and red halos still present; no native grid or indexed palette validation.",
+  "runtime_ready": false,
+  "shape_size": [
+    1536,
+    1024
+  ],
+  "alpha0_pixels": 1327204,
+  "alpha255_pixels": 0,
+  "partial_alpha_pixels": 245660
+}

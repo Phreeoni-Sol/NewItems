@@ -1,0 +1,13 @@
+{
+  "id": "tfj_helmet_13",
+  "ref": "ei_154_uitx.png",
+  "signature_design_en": "Closed angular muted-purple sallet helmet with continuous iron visor and two narrow eye slits, plain copper brow band and short backward white horsehair crest.",
+  "palette": "muted purple, copper, white",
+  "visual_effect": "faint silver mist at crest base",
+  "prompt": "Create a NEW ORIGINAL unique medieval helmet inventory icon called Le Visage fermé. One CLOSED-FACE angular muted-purple lacquered iron sallet helm with a continuous closed visor, EXACTLY two narrow dark horizontal eye slits, solid angular mouth plate, plain copper brow band, short backward bent white horsehair crest. No open face, eyes, real head, skull, horns, oversized wings or modern sci-fi visor. One faint silvery wisp just at the crest base. Exceptional stern mask-like silhouette, compact practical armor, three-quarter inventory view. Match the supplied actual native FFT The Ivalice Chronicles Enhanced inventory icon as a style and scale reference only, never clone its object. Subtle gritty hand-painted small equipment icon, softly broken delicate contour, muted colors and restrained material shading, no crisp bold outlines, glossy 3D jewelry product, gold cathedral filigree, modern sci-fi parts, labels, text, frame, person or mannequin. Genuine transparent background. Exactly one complete unworn object, centered with safe margins and readable at 100 pixels.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Equipment-Enhanced-Revision/references/native-png/ei_154_uitx.png",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-ccc2ac64-9335-43c4-b139-343e5b7b456b.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "status": "CORRECTION_REQUIRES_REVIEW"
+}

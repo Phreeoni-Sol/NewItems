@@ -1,0 +1,8 @@
+{
+  "id": "tfj_ninja_blade_01",
+  "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Lame de ronce. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Straight narrow charcoal-black blade, plain dark curved crossguard, olive cord-wrapped grip, dark rounded pommel. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+  "generated_source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-9b8b2fcb-72af-41c1-a5fd-46e3214c7b02.png",
+  "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "pixel_retouched": false
+}

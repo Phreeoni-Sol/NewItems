@@ -1,0 +1,19 @@
+{
+  "repository": "https://github.com/Phreeoni-Sol/NewItems.git",
+  "scope": "Equipment designs and selected art studies, runtime source handoff and research; no playable mod",
+  "copied_files": 7611,
+  "excluded_files": [
+    "outputs\\The-Forgotten-Jobs-Claude-Handoff\\libraries\\extension-core\\ForgottenJobs.ExtensionCore.dll",
+    "outputs\\The-Forgotten-Jobs-Claude-Handoff\\packages\\read-only-probe\\ForgottenJobs.ReadOnlyProbe.dll",
+    "outputs\\The-Forgotten-Jobs-Claude-Handoff\\references\\upstream\\genericjobs-source.zip",
+    "outputs\\The-Forgotten-Jobs-Claude-Handoff\\references\\upstream\\modloader-source.zip",
+    "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\tools\\generate_production.py",
+    "outputs\\The-Forgotten-Jobs-Native-Weapon-Geometry\\native\\0002.pac_battle_wep1_seq.bin",
+    "outputs\\The-Forgotten-Jobs-Native-Weapon-Geometry\\native\\0002.pac_battle_wep1_shp.bin",
+    "outputs\\The-Forgotten-Jobs-Native-Weapon-Geometry\\native\\0002.pac_battle_wep2_seq.bin",
+    "outputs\\The-Forgotten-Jobs-Native-Weapon-Geometry\\native\\0002.pac_battle_wep2_shp.bin",
+    "outputs\\The-Forgotten-Jobs-Native-Weapon-Geometry\\native\\0002.pac_battle_wep_spr.bin"
+  ],
+  "raw_game_binaries_included": false,
+  "pollen_keys_included": false
+}

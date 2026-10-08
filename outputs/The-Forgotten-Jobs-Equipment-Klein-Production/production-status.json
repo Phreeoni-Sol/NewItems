@@ -1,0 +1,14 @@
+{
+  "planned": 203,
+  "generated": 203,
+  "reserved_other_model": 68,
+  "failed": [],
+  "expected_generated_cost_pollen": 1.08,
+  "runtime_ready": false,
+  "alpha_ready": 0,
+  "generated_variants": 216,
+  "corrected_objects": 12,
+  "selected_objects": 203,
+  "actual_account_debit": "NOT_VERIFIED",
+  "art_review_status": "CONTACT_SHEET_REVIEW_AND_MAJOR_SHAPE_CORRECTIONS; FULL_STYLE_AND_GAME_REVIEW_PENDING"
+}

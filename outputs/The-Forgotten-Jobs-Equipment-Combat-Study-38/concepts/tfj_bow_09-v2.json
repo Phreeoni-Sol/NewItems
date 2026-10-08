@@ -1,0 +1,10 @@
+{
+  "id": "tfj_bow_09",
+  "prompt": "Targeted miniature-readability edit of the referenced four-pose honey-wood longbow sprite sheet. Preserve ALL four wood limbs, orange grips, silver tips, bow silhouettes and poses. Change ONLY the bowstring of each pose: make it ONE straight continuous LIGHT GRAY thread with a thin dark outline, opaque, visibly distinct against a dark game background. Retain its existing coarse thick pixel cluster width, roughly 20-24 source pixels, unbroken from tip to tip and behind the grip, do not turn it into a ribbon. Keep the gap between thread and wooden limb genuinely transparent, remove green fringe/noise around that gap. No glow, no magic, no environment, no backdrop, no arrows or text. Maintain a fully transparent RGBA sheet around the four separated sprites. This is authoring concept correction, not an in-game atlas.",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-f01e3fb3-d297-4923-9e2b-e7f343778f59.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "binding": "UNKNOWN",
+  "review": "Source and miniature previews inspected against the inventory icon: separated views, recognizable family, dominant palette and main signature retained. Fine details simplified. Mirrored profiles are author proposals, not proven native directions. Shield backs are author designs. Hand anchors, indexed palette and timing are not validated. v2 selected after lightening the string for contrast on dark backgrounds."
+}

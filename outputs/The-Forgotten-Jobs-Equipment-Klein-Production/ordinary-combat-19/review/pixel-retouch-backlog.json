@@ -1,0 +1,57 @@
+{
+  "scope": "Observed faithful author-preview losses, not native defects proven in game",
+  "native_target": "UNKNOWN",
+  "items": [
+    {
+      "id": "tfj_sword_03",
+      "issue": "Some handle pixels disappear in the horizontal 36px previews.",
+      "status": "TO_RETOUCH_AT_VERIFIED_NATIVE_SIZE"
+    },
+    {
+      "id": "tfj_katana_01",
+      "issue": "Fine grip cord and dark outline need continuity at target size.",
+      "status": "TO_RETOUCH_AT_VERIFIED_NATIVE_SIZE"
+    },
+    {
+      "id": "tfj_rod_01",
+      "issue": "Thin shaft has gaps in some 36px reductions.",
+      "status": "TO_RETOUCH_AT_VERIFIED_NATIVE_SIZE"
+    },
+    {
+      "id": "tfj_staff_02",
+      "issue": "Source correction preserves FOUR tines; 36px reduction merges or drops fine tines. Preserve four tines at native target.",
+      "status": "TO_RETOUCH_AT_VERIFIED_NATIVE_SIZE"
+    },
+    {
+      "id": "tfj_flail_01",
+      "issue": "Chain links become discontinuous in 36px previews; validate physical connection after pixel adaptation.",
+      "status": "TO_RETOUCH_AT_VERIFIED_NATIVE_SIZE"
+    },
+    {
+      "id": "tfj_crossbow_01",
+      "issue": "Diagonal cord becomes dotted at 36px; reinforce at verified native rectangle size.",
+      "status": "TO_RETOUCH_AT_VERIFIED_NATIVE_SIZE"
+    },
+    {
+      "id": "tfj_bow_01",
+      "issue": "Thin cord loses continuity in some reduced previews.",
+      "status": "TO_RETOUCH_AT_VERIFIED_NATIVE_SIZE"
+    },
+    {
+      "id": "tfj_instrument_01",
+      "issue": "Several harp strings merge during reduction; target-scale string spacing remains to retouch.",
+      "status": "TO_RETOUCH_AT_VERIFIED_NATIVE_SIZE"
+    },
+    {
+      "id": "tfj_polearm_01",
+      "issue": "Thin shaft/butt-cap continuity needs native-scale review.",
+      "status": "TO_RETOUCH_AT_VERIFIED_NATIVE_SIZE"
+    },
+    {
+      "id": "tfj_pole_01",
+      "issue": "Dark shaft shading loses segments at 36px.",
+      "status": "TO_RETOUCH_AT_VERIFIED_NATIVE_SIZE"
+    }
+  ],
+  "all_items_require_native_palette_and_anchor_validation": true
+}

@@ -1,0 +1,33 @@
+{
+  "inspected_ids": [
+    "tfj_sword_18",
+    "tfj_staff_08",
+    "tfj_shield_16",
+    "tfj_knife_09",
+    "tfj_knife_10",
+    "tfj_ninja_blade_07",
+    "tfj_ninja_blade_08",
+    "tfj_sword_17",
+    "tfj_knight_sword_05",
+    "tfj_knight_sword_06",
+    "tfj_katana_09",
+    "tfj_katana_10",
+    "tfj_axe_03",
+    "tfj_axe_04",
+    "tfj_staff_07",
+    "tfj_flail_03",
+    "tfj_flail_04",
+    "tfj_gun_06",
+    "tfj_gun_07",
+    "tfj_crossbow_05",
+    "tfj_rod_07",
+    "tfj_rod_08",
+    "tfj_bow_10"
+  ],
+  "inspected_boards": [
+    "generated-09-board-01..03",
+    "generated-23-board-03..06",
+    "reduced-23-board-01..04"
+  ],
+  "status": "VISUALLY_REVIEWED_AUTHORING_ONLY"
+}

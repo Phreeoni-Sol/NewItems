@@ -1,0 +1,12 @@
+{
+  "id": "tfj_rod_08",
+  "prompt": "Redesign this unique rod inventory icon as Lanterne d'Ajoran. Keep its small native FFT gritty hand-painted rendering and diagonal proportions, but replace the forked glass and hanging ring head with a compact hexagonal MILKY GLASS LANTERN enclosed in a simple worn blue iron cage, short deep violet-wrapped wooden shaft, little pale linen knot just below cage. A restrained cool white light glows ONLY inside and immediately beside the lantern glass, no orange fire, no gemstone or cathedral ornament. Milky glass, blue-gray iron, dusty violet palette. Exactly one complete short magical rod, genuine transparent background and safe margins, no text, frames, persons, detached objects or huge aura.",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-fb81456a-f514-4ddc-b36a-d8627daf466c.png",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_rod_08.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "status": "CORRECTION_REQUIRES_REVIEW",
+  "signature_design_en": "Milky glass hexagonal lantern in worn blue iron cage on a short violet-wrapped shaft, pale linen knot.",
+  "palette": "milky glass, blue-gray iron, violet",
+  "visual_effect": "cool white lantern light"
+}

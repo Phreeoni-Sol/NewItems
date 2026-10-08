@@ -1,0 +1,9 @@
+Tu reprends le codage du projet The Forgotten Jobs dans ce dossier. Lis CLAUDE_START_HERE.md, AGENTS.md et docs/runtime-extension.md, puis examine le code et les preuves indiquées.
+
+Ma règle : ajout indépendant uniquement ; préserve tous les jobs vanilla, leurs compétences et leur progression. N'invente pas de limites moteur : garde UNKNOWN tant qu'un point n'est pas prouvé sur le build ou documenté par une source fiable. Le remplacement temporaire du Chevalier est abandonné.
+
+La reconnaissance, le codec NXD et un cœur d'extension C# existent déjà. Ne recommence pas l'inventaire complet sans raison. Vérifie le kit et exécute les contrôles Core, puis Full si l'installation locale et les permissions le permettent. Ne confonds pas les tests natifs isolés avec un test réussi dans FFT.
+
+Commence les travaux d'intégration décrits dans handoff/INTEGRATION_PLAN.md : consommateurs/bornes et activation native sûre, routage des nouvelles commandes, menu, progression et identité de sauvegarde/unité. L'objectif est ensuite Brise-Lame complet et jouable, avec bataille et save/load vérifiés, avant de produire les autres jobs.
+
+Les DLL de ce kit ne sont pas un mod jouable. Aucun ID moteur n'est encore alloué, les hooks du jeu ne sont pas installés et la lecture de sauvegardes locales n'a pas été validée. Travaille sur des copies, conserve les données vanilla et documente les preuves, les modifications, les tests et ce qui reste inconnu. Pose des questions uniquement lorsqu'une vraie information, permission ou décision manque pour l'étape dépendante ; poursuis les travaux indépendants disponibles.

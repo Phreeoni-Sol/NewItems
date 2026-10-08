@@ -1,0 +1,262 @@
+{
+  "SourceSHA256": "508B7C476CF78C04F307EF694F2224657D3FC88DDB68342753D1B3E049E5A185",
+  "Source": "https://github.com/cipherxof/FFTGenericJobs",
+  "Patterns": [
+    {
+      "Name": "Sub1309C0",
+      "Pattern": "48 89 5C 24 ?? 57 48 81 EC ?? ?? ?? ?? 48 8B 05 ?? ?? ?? ?? 48 33 C4 48 89 84 24 ?? ?? ?? ?? 80 B9 ?? ?? ?? ?? ?? 48 8B D9 4C 63 CA",
+      "Matches": 1,
+      "FileOffsets": [
+        1249272
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "Sub131A6C",
+      "Pattern": "48 89 5C 24 ?? 48 89 74 24 ?? 57 48 83 EC ?? 48 8B F1 48 8D 99 ?? ?? ?? ?? 33 FF 83 7B ?? 06",
+      "Matches": 1,
+      "FileOffsets": [
+        1253740
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "SetJobSlotVisibility",
+      "Pattern": "48 85 D2 0F 84 ?? ?? ?? ?? 48 8B C4 48 89 58 ?? 48 89 68 ?? 48 89 70 ?? 48 89 78 ?? 41 56 48 83 EC ?? 48 8B DA 41 0F B6 E9 45 84 C0",
+      "Matches": 1,
+      "FileOffsets": [
+        1249072
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "JobMenuSlotRootsOffset",
+      "Pattern": "45 33 D2 4C 8D 99 ?? ?? ?? ?? 49 8B 03 4A 89 44 D4 ?? 4D 3B D1",
+      "Matches": 1,
+      "FileOffsets": [
+        1249399
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "SubF5E3C",
+      "Pattern": "48 89 5C 24 ?? 48 89 6C 24 ?? 48 89 74 24 ?? 57 48 83 EC ?? 41 8B D9 41 8B E8 48 8B FA 48 8B F1 E8 ?? ?? ?? ?? 84 C0 75 ?? BA 00 80 00 00",
+      "Matches": 1,
+      "FileOffsets": [
+        1008544
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "Sub363718Hook",
+      "Pattern": "48 8B C4 48 89 58 ?? 48 89 70 ?? 48 89 78 ?? 55 41 54 41 55 41 56 41 57 48 8D A8 ?? ?? ?? ?? 48 81 EC ?? ?? ?? ?? 48 8B 05 ?? ?? ?? ?? 48 33 C4 48 89 85 ?? ?? ?? ?? 48 8B 05 ?? ?? ?? ?? 4C 8D 25",
+      "Matches": 1,
+      "FileOffsets": [
+        3569700
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "Sub12FBB8Hook",
+      "Pattern": "48 8B C4 48 89 58 ?? 48 89 68 ?? 48 89 70 ?? 48 89 78 ?? 41 54 41 56 41 57 48 83 EC ?? 45 8B F9 45 8B E0",
+      "Matches": 1,
+      "FileOffsets": [
+        1245680
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "UpdateJobListHook",
+      "Pattern": "48 8B C4 48 89 58 ?? 48 89 68 ?? 48 89 70 ?? 48 89 48 ?? 57 41 54 41 55 41 56 41 57 48 83 EC ?? 45 0F B6 48 02",
+      "Matches": 1,
+      "FileOffsets": [
+        2644140
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "PopulateJobMenuSlot",
+      "Pattern": "48 89 5C 24 ?? 48 89 6C 24 ?? 48 89 74 24 ?? 57 41 54 41 55 41 56 41 57 48 83 EC ?? 49 63 F8 4C 8B EA 48 8B D9",
+      "Matches": 1,
+      "FileOffsets": [
+        1237084
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "UpdateLevelRequirementsPopup",
+      "Pattern": "48 8B C4 48 89 58 ?? 48 89 70 ?? 48 89 78 ?? 55 41 54 41 55 41 56 41 57 48 8D A8 ?? ?? ?? ?? 48 81 EC ?? ?? ?? ?? 48 8B 05 ?? ?? ?? ?? 48 33 C4 48 89 85 ?? ?? ?? ?? 48 63 81",
+      "Matches": 1,
+      "FileOffsets": [
+        1250812
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "SetJobRequirementName",
+      "Pattern": "40 53 48 83 EC ?? 48 8B 81 ?? ?? ?? ?? 48 8B D9 48 89 81 ?? ?? ?? ?? 48 81 C1",
+      "Matches": 1,
+      "FileOffsets": [
+        2735528
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "HandleJobMenuClick",
+      "Pattern": "48 89 5C 24 ?? 55 56 57 41 54 41 55 41 56 41 57 48 8D 6C 24 ?? 48 81 EC ?? ?? ?? ?? 48 8B 05 ?? ?? ?? ?? 48 33 C4 48 89 45 ?? 44 8B B9",
+      "Matches": 1,
+      "FileOffsets": [
+        1241196
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "HandleJobMenuState",
+      "Pattern": "48 8B C4 48 89 58 ?? 48 89 68 ?? 48 89 70 ?? 48 89 78 ?? 41 56 48 83 EC ?? 48 8B 01 41 8B E9",
+      "Matches": 1,
+      "FileOffsets": [
+        1135272
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "JobPatch1",
+      "Pattern": "89 83 ?? ?? ?? ?? 45 33 C0 8B D7",
+      "Matches": 1,
+      "FileOffsets": [
+        1237336
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "JobPatch2",
+      "Pattern": "66 89 0E EB ?? 0F B7 CB",
+      "Matches": 1,
+      "FileOffsets": [
+        2644431
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "JobPatch3",
+      "Pattern": "83 8F ?? ?? ?? ?? ?? 4C 8D 5C 24",
+      "Matches": 1,
+      "FileOffsets": [
+        1237054
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "JobPatch4",
+      "Pattern": "66 89 1E 41 03 ED",
+      "Matches": 1,
+      "FileOffsets": [
+        2644452
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "JobPatch5",
+      "Pattern": "75 ?? 44 0B C9 66 45 89 0F",
+      "Matches": 1,
+      "FileOffsets": [
+        2644240
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "JobFlagsPatch1",
+      "Pattern": "83 E3 F7 48 8B 6C 24 ?? 8B C3 48 8B 5C 24",
+      "Matches": 1,
+      "FileOffsets": [
+        3439622
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "JobFlagsPatch2",
+      "Pattern": "41 BF 13 00 00 00 8B C6 8B F9",
+      "Matches": 1,
+      "FileOffsets": [
+        3439352
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "JobIconPatch",
+      "Pattern": "76 ?? 33 D2 41 B8 ?? ?? ?? ?? 48 8B CB",
+      "Matches": 1,
+      "FileOffsets": [
+        1029065
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "DK_SanguineSword1",
+      "Pattern": "03 66 00 01 74",
+      "Matches": 1,
+      "FileOffsets": [
+        6757927
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "DK_SanguineSword2",
+      "Pattern": "F4 01 32 41 82 00 02 A0",
+      "Matches": 1,
+      "FileOffsets": [
+        7890432
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "DK_SanguineSword3",
+      "Pattern": "01 00 03 09 10 10 00 00 3C 00 00 00 00 00 00 00 FF FF FF FF 04",
+      "Matches": 1,
+      "FileOffsets": [
+        7896484
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "DK_RSMFixup1",
+      "Pattern": "48 89 5C 24 ?? 48 89 6C 24 ?? 48 89 74 24 ?? 57 48 83 EC ?? 8B 74 24",
+      "Matches": 1,
+      "FileOffsets": [
+        2661096
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "DK_RSMFixup2",
+      "Pattern": "83 FB ?? 7C ?? BB",
+      "Matches": 1,
+      "FileOffsets": [
+        2661821
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "DK_VFXFixup1",
+      "Pattern": "48 8B C4 48 89 58 ?? 48 89 70 ?? 48 89 78 ?? 4C 89 70 ?? 55 48 8D 68 ?? 48 81 EC ?? ?? ?? ?? 8B 91",
+      "Matches": 1,
+      "FileOffsets": [
+        3241104
+      ],
+      "RuntimeVerified": false
+    },
+    {
+      "Name": "DK_VFXFixup2",
+      "Pattern": "48 8B C4 48 89 58 ?? 48 89 68 ?? 48 89 70 ?? 48 89 78 ?? 41 56 48 83 EC ?? 33 ED 48 8D 3D",
+      "Matches": 1,
+      "FileOffsets": [
+        3247952
+      ],
+      "RuntimeVerified": false
+    }
+  ],
+  "ExecutableSHA256": "937233F7FE76182A665C487C8802F5CEC6662DDD09967E87CD09FB146FC6B5D5",
+  "Commit": "129931e09064577c33a59a9108d60e8c81e7e388",
+  "AllocationApproved": false,
+  "Mode": "Read-only signature scan, no hooks or patches"
+}

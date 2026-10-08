@@ -1,0 +1,14 @@
+[
+  {
+    "File": "FFT_enhanced.exe",
+    "Bytes": 12158720,
+    "FileVersion": "1.0.0.0",
+    "SHA256": "937233F7FE76182A665C487C8802F5CEC6662DDD09967E87CD09FB146FC6B5D5"
+  },
+  {
+    "File": "FFT_classic.exe",
+    "Bytes": 7900416,
+    "FileVersion": "1.0.0.0",
+    "SHA256": "7CFCD294830B315248114C42F14AC7B1A2F35BA835C0CEF8314D480601D15A9F"
+  }
+]

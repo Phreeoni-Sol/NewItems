@@ -1,0 +1,62 @@
+[
+  {
+    "File": "Syroot.BinaryData.Core.dll",
+    "LocalPath": "D:\\FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles\\CoopMod\\tools\\Reloaded-II\\Mods\\fftivc.utility.modloader\\Syroot.BinaryData.Core.dll",
+    "SHA256": "E12264004EA728B01ED0808213C30A2DA4D170F5A5912AEA3C4D4C481DBA7AED",
+    "AssemblyVersion": "5.2.0.0"
+  },
+  {
+    "File": "Syroot.BinaryData.Memory.dll",
+    "LocalPath": "D:\\FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles\\CoopMod\\tools\\Reloaded-II\\Mods\\fftivc.utility.modloader\\Syroot.BinaryData.Memory.dll",
+    "SHA256": "C965C091DE08C3BA17D12317A739E1065274C721CDFB269431E4C7E6D0AE84B5",
+    "AssemblyVersion": "5.2.2.0"
+  },
+  {
+    "File": "Syroot.BinaryData.dll",
+    "LocalPath": "D:\\FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles\\CoopMod\\tools\\Reloaded-II\\Mods\\fftivc.utility.modloader\\Syroot.BinaryData.dll",
+    "SHA256": "6680948E428DB2D2C1210F0797362AA7075B5A13A483C02D1D9B03A3D38FD3DD",
+    "AssemblyVersion": "5.2.2.0"
+  },
+  {
+    "File": "CommunityToolkit.HighPerformance.dll",
+    "LocalPath": "D:\\FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles\\CoopMod\\tools\\Reloaded-II\\Mods\\fftivc.utility.modloader\\CommunityToolkit.HighPerformance.dll",
+    "SHA256": "F8E5787B02EC9FE8A27B9DEA5F4317DD2CDCE3E32680E3E8A26673C534549DBC",
+    "AssemblyVersion": "8.4.0.0"
+  },
+  {
+    "File": "System.IO.Hashing.dll",
+    "LocalPath": "D:\\FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles\\CoopMod\\tools\\Reloaded-II\\Mods\\fftivc.utility.modloader\\System.IO.Hashing.dll",
+    "SHA256": "D9028E7A6464890FD941ADA4A01EBB4E6DDE306965AF307987546852B4AF5C0B",
+    "AssemblyVersion": "10.0.0.1"
+  },
+  {
+    "File": "Microsoft.Extensions.Logging.Abstractions.dll",
+    "LocalPath": "D:\\FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles\\CoopMod\\tools\\Reloaded-II\\Mods\\fftivc.utility.modloader\\Microsoft.Extensions.Logging.Abstractions.dll",
+    "SHA256": "FAFDAA409D3674AE1FE0D0CBE02B3F4BF807F0B9E5EC2C26F05F9C502922622B",
+    "AssemblyVersion": "10.0.0.0"
+  },
+  {
+    "File": "FF16Tools.Shared.dll",
+    "LocalPath": "D:\\FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles\\CoopMod\\tools\\Reloaded-II\\Mods\\fftivc.utility.modloader\\FF16Tools.Shared.dll",
+    "SHA256": "5833B38843F46F45713F7B1F1E994FAD827BD6710DE8076EC6D40AA9CD2BF715",
+    "AssemblyVersion": "1.0.4.0"
+  },
+  {
+    "File": "FF16Tools.Pack.dll",
+    "LocalPath": "D:\\FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles\\CoopMod\\tools\\Reloaded-II\\Mods\\fftivc.utility.modloader\\FF16Tools.Pack.dll",
+    "SHA256": "B6797FF1CE248D05903D0AF39315CB35AC9720BC9FEFEF71D6635545EC430732",
+    "AssemblyVersion": "1.2.4.0"
+  },
+  {
+    "File": "FF16Tools.Files.dll",
+    "LocalPath": "D:\\FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles\\CoopMod\\tools\\Reloaded-II\\Mods\\fftivc.utility.modloader\\FF16Tools.Files.dll",
+    "SHA256": "18E1ED238304A4E0A380A8A7721C183D6CD68C41BD280C89173DFDC40343D8A7",
+    "AssemblyVersion": "1.5.1.0"
+  },
+  {
+    "File": "fftivc.utility.modloader.Interfaces.dll",
+    "LocalPath": "D:\\FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles\\CoopMod\\tools\\Reloaded-II\\Mods\\fftivc.utility.modloader\\fftivc.utility.modloader.Interfaces.dll",
+    "SHA256": "87ABFDC07A8C6924ACD7F2021951FCD3055D7A0D2212AD8FEE49FA414F301E46",
+    "AssemblyVersion": "1.6.3.0"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "status": "PASS_ART_REVIEW_ONLY",
+  "reviewed_sources": 3,
+  "cut_views": 12,
+  "preview_size_author_choice": [
+    36,
+    36
+  ],
+  "reviewed_before_after_board": true,
+  "all_source_and_preview_sha_verified": true,
+  "local_links_verified": 20,
+  "alpha_preserved": true,
+  "native_encoding": "NOT_CREATED",
+  "runtime_ready": false,
+  "game_tests": "NOT_RUN",
+  "browser_qa": "BLOCKED_BY_URL_POLICY",
+  "pollen_calls": 0,
+  "new_ids_allocated": 0
+}

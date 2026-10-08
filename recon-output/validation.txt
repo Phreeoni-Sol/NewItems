@@ -1,0 +1,5 @@
+PASS Both scripts reject outputs inside the source game directory, including dry-run.
+PASS Inventory dry-run creates no files.
+PASS Two independent inventory/extraction runs give identical five report hashes.
+PASS All selected NXD rows decode; duplicate keys, column count and decompressed size checks pass.
+PASS Enhanced executable hash is unchanged.

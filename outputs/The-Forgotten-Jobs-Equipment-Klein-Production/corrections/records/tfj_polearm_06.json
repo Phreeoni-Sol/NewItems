@@ -1,0 +1,42 @@
+{
+  "id": "tfj_polearm_06",
+  "name_fr": "Lance de la nef",
+  "category": "Polearm",
+  "rarity": "rare",
+  "model": "black-forest-labs/flux.2-klein-4b",
+  "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+  "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_105_uitx.png",
+  "reference_sha256": "9529582c436fc3b7b7843439ba34b06a9d4229de23155591675c7461bd605c87",
+  "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_polearm_06.png",
+  "expected_cost_pollen": 0.005,
+  "runtime_ready": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "http_status": 200
+    }
+  ],
+  "http_status": 200,
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 1,
+    "total_tokens": 1,
+    "input_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "size": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "alpha_ready": false,
+  "sha256": "cb7031dbe39427f85ca8fcc1bf70a29d1dc2cebf876eca9e0ad8b7236507b3fd",
+  "prompt": "Image 1 is a native FFT The Ivalice Chronicles Enhanced style reference. Image 2 is ONLY a guide to coherent object structure. Create one new distinct inventory item with this motif: gold and steel spear with arch shaped side hooks. Exactly one long spear: one narrow sharp pointed metal spearhead mounted at the TOP end of a long continuous wooden haft. The visible haft is at least twice the spearhead length. One shaft, one spearhead, no crossed objects, no short sword or missing tip. Match the native reference in subdued hand-painted textured materials, soft slightly worn edges and restrained highlights. Practical compact delicate proportions, readable at 100 and 48 pixels. One complete isolated object, centered, safe padding. Pure flat white background, no scenery, no floor or cast shadow, no text, no labels, no words, no numbers, no watermark. No glossy product rendering or thick outlines. Do not make a sheet or comparison.",
+  "references": [
+    "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_105_uitx.png",
+    "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_polearm_02.png"
+  ],
+  "seconds": 12.06
+}

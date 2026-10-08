@@ -1,0 +1,546 @@
+[
+  {
+    "id": "tfj_knife_09",
+    "name_fr": "Veilleuse de Nelveska",
+    "rarity": "legendary",
+    "category": "Knife",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_knife_10",
+    "name_fr": "Dernier aveu",
+    "rarity": "unique",
+    "category": "Knife",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_ninja_blade_07",
+    "name_fr": "Crépuscule d'Igros",
+    "rarity": "legendary",
+    "category": "NinjaBlade",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_ninja_blade_08",
+    "name_fr": "La Sans-Trace",
+    "rarity": "unique",
+    "category": "NinjaBlade",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_sword_17",
+    "name_fr": "Testament de Gallionne",
+    "rarity": "legendary",
+    "category": "Sword",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_sword_18",
+    "name_fr": "L'Absent",
+    "rarity": "unique",
+    "category": "Sword",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_knight_sword_05",
+    "name_fr": "Serment de Lesalia",
+    "rarity": "legendary",
+    "category": "KnightSword",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_knight_sword_06",
+    "name_fr": "Le Trône vacant",
+    "rarity": "unique",
+    "category": "KnightSword",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_katana_09",
+    "name_fr": "Dernière lune",
+    "rarity": "legendary",
+    "category": "Katana",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_katana_10",
+    "name_fr": "Le Septième silence",
+    "rarity": "unique",
+    "category": "Katana",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_axe_03",
+    "name_fr": "Hache du vieux chêne",
+    "rarity": "legendary",
+    "category": "Axe",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_axe_04",
+    "name_fr": "Dette du bourreau",
+    "rarity": "unique",
+    "category": "Axe",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_rod_07",
+    "name_fr": "Clef des quatre vents",
+    "rarity": "legendary",
+    "category": "Rod",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_rod_08",
+    "name_fr": "Lanterne d'Ajoran",
+    "rarity": "unique",
+    "category": "Rod",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_staff_07",
+    "name_fr": "Arbre de l'aube",
+    "rarity": "legendary",
+    "category": "Staff",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_staff_08",
+    "name_fr": "Mémoire du premier soin",
+    "rarity": "unique",
+    "category": "Staff",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_flail_03",
+    "name_fr": "Fléau du glas",
+    "rarity": "legendary",
+    "category": "Flail",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_flail_04",
+    "name_fr": "L'Heure dernière",
+    "rarity": "unique",
+    "category": "Flail",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_gun_06",
+    "name_fr": "Le Dernier signal",
+    "rarity": "legendary",
+    "category": "Gun",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_gun_07",
+    "name_fr": "La Dette de Goug",
+    "rarity": "unique",
+    "category": "Gun",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_crossbow_05",
+    "name_fr": "Œil de la tour",
+    "rarity": "legendary",
+    "category": "Crossbow",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_crossbow_06",
+    "name_fr": "La Sans-Appel",
+    "rarity": "unique",
+    "category": "Crossbow",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_bow_09",
+    "name_fr": "Horizon d'Orbonne",
+    "rarity": "legendary",
+    "category": "Bow",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_bow_10",
+    "name_fr": "Le Fil du destin",
+    "rarity": "unique",
+    "category": "Bow",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_instrument_02",
+    "name_fr": "Cantique des pierres",
+    "rarity": "legendary",
+    "category": "Instrument",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_instrument_03",
+    "name_fr": "Dernière chanson de Zelténnia",
+    "rarity": "unique",
+    "category": "Instrument",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_book_03",
+    "name_fr": "Chronique des ruines",
+    "rarity": "legendary",
+    "category": "Book",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_book_04",
+    "name_fr": "Le Livre sans auteur",
+    "rarity": "unique",
+    "category": "Book",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_polearm_07",
+    "name_fr": "Étendard du ciel vide",
+    "rarity": "legendary",
+    "category": "Polearm",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_polearm_08",
+    "name_fr": "Le Dernier rempart",
+    "rarity": "unique",
+    "category": "Polearm",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_pole_07",
+    "name_fr": "Axe du monde",
+    "rarity": "legendary",
+    "category": "Pole",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_pole_08",
+    "name_fr": "La Branche immobile",
+    "rarity": "unique",
+    "category": "Pole",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_bag_03",
+    "name_fr": "Besace du marché ancien",
+    "rarity": "legendary",
+    "category": "Bag",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_bag_04",
+    "name_fr": "Le Dernier denier",
+    "rarity": "unique",
+    "category": "Bag",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_cloth_02",
+    "name_fr": "Voile du vieux sanctuaire",
+    "rarity": "legendary",
+    "category": "Cloth",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_cloth_03",
+    "name_fr": "Linceul de l'oubli",
+    "rarity": "unique",
+    "category": "Cloth",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_shield_15",
+    "name_fr": "Porte de Bervénia",
+    "rarity": "legendary",
+    "category": "Shield",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_shield_16",
+    "name_fr": "Le Refus",
+    "rarity": "unique",
+    "category": "Shield",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_helmet_12",
+    "name_fr": "Couronne de fer de Gallionne",
+    "rarity": "legendary",
+    "category": "Helmet",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_helmet_13",
+    "name_fr": "Le Visage fermé",
+    "rarity": "unique",
+    "category": "Helmet",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_hat_13",
+    "name_fr": "Mitraille de soie",
+    "rarity": "legendary",
+    "category": "Hat",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_hat_14",
+    "name_fr": "La Coiffe du témoin",
+    "rarity": "unique",
+    "category": "Hat",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_hair_adornment_02",
+    "name_fr": "Peigne des neuf vents",
+    "rarity": "legendary",
+    "category": "HairAdornment",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_hair_adornment_03",
+    "name_fr": "Ruban de la reine absente",
+    "rarity": "unique",
+    "category": "HairAdornment",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_armor_13",
+    "name_fr": "Muraille de Lesalia",
+    "rarity": "legendary",
+    "category": "Armor",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_armor_14",
+    "name_fr": "Le Corps du serment",
+    "rarity": "unique",
+    "category": "Armor",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_clothing_15",
+    "name_fr": "Manteau des trente chemins",
+    "rarity": "legendary",
+    "category": "Clothing",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_clothing_16",
+    "name_fr": "La Seconde peau",
+    "rarity": "unique",
+    "category": "Clothing",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_robe_07",
+    "name_fr": "Robe des astres éteints",
+    "rarity": "legendary",
+    "category": "Robe",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_robe_08",
+    "name_fr": "Le Suaire vivant",
+    "rarity": "unique",
+    "category": "Robe",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_shoes_07",
+    "name_fr": "Pas de la dernière aube",
+    "rarity": "legendary",
+    "category": "Shoes",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_shoes_08",
+    "name_fr": "Les Sans-Empreinte",
+    "rarity": "unique",
+    "category": "Shoes",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_armguard_04",
+    "name_fr": "Mains de la vieille forge",
+    "rarity": "legendary",
+    "category": "Armguard",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_armguard_05",
+    "name_fr": "Les Mains du témoin",
+    "rarity": "unique",
+    "category": "Armguard",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_ring_06",
+    "name_fr": "Sceau des rois sans nom",
+    "rarity": "legendary",
+    "category": "Ring",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_ring_07",
+    "name_fr": "L'Anneau sans retour",
+    "rarity": "unique",
+    "category": "Ring",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_armlet_04",
+    "name_fr": "Cercle des quatre saisons",
+    "rarity": "legendary",
+    "category": "Armlet",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_armlet_05",
+    "name_fr": "Le Cercle du verdict",
+    "rarity": "unique",
+    "category": "Armlet",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_cloak_06",
+    "name_fr": "Ciel de la nef vide",
+    "rarity": "legendary",
+    "category": "Cloak",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_cloak_07",
+    "name_fr": "Le Deuil des rois",
+    "rarity": "unique",
+    "category": "Cloak",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_perfume_03",
+    "name_fr": "Souffle de la reine",
+    "rarity": "legendary",
+    "category": "Perfume",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_perfume_04",
+    "name_fr": "La Mémoire des vivants",
+    "rarity": "unique",
+    "category": "Perfume",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_throwing_02",
+    "name_fr": "Étoile de l'aube pâle",
+    "rarity": "legendary",
+    "category": "Throwing",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_throwing_03",
+    "name_fr": "Les Trois adieux",
+    "rarity": "unique",
+    "category": "Throwing",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_bomb_02",
+    "name_fr": "Grenade de grésil",
+    "rarity": "legendary",
+    "category": "Bomb",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_bomb_03",
+    "name_fr": "Grenade de fulgure",
+    "rarity": "unique",
+    "category": "Bomb",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_item_15",
+    "name_fr": "Larme de Saint-Mosco",
+    "rarity": "legendary",
+    "category": "Item",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  },
+  {
+    "id": "tfj_item_16",
+    "name_fr": "Le Souffle réservé",
+    "rarity": "unique",
+    "category": "Item",
+    "status": "RESERVED_FOR_OTHER_MODEL",
+    "runtime_item_id": null
+  }
+]

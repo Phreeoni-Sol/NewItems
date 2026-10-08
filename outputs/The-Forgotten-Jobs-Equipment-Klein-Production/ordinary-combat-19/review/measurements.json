@@ -1,0 +1,1655 @@
+[
+  {
+    "id": "tfj_knife_01",
+    "name_fr": "Dague de levée",
+    "sha256": "d5a1cef0d4f76848863cce5933ac297480778dada6138259719900dd64512db2",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1328741,
+    "alpha255_pixels": 1729,
+    "alpha1_to239_pixels": 49037,
+    "visible_rgba_colors": 58939,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knife_01-1-preview36.png",
+        "source_bbox": [
+          99,
+          84,
+          538,
+          574
+        ],
+        "source_dimensions": [
+          439,
+          490
+        ],
+        "visible_preview_rgba_colors": 243,
+        "preview64_path": "poses/tfj_knife_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_knife_01-2-preview36.png",
+        "source_bbox": [
+          106,
+          84,
+          528,
+          574
+        ],
+        "source_dimensions": [
+          422,
+          490
+        ],
+        "visible_preview_rgba_colors": 240,
+        "preview64_path": "poses/tfj_knife_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_knife_01-3-preview36.png",
+        "source_bbox": [
+          201,
+          43,
+          432,
+          554
+        ],
+        "source_dimensions": [
+          231,
+          511
+        ],
+        "visible_preview_rgba_colors": 165,
+        "preview64_path": "poses/tfj_knife_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_knife_01-4-preview36.png",
+        "source_bbox": [
+          195,
+          43,
+          425,
+          554
+        ],
+        "source_dimensions": [
+          230,
+          511
+        ],
+        "visible_preview_rgba_colors": 170,
+        "preview64_path": "poses/tfj_knife_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_ninja_blade_01",
+    "name_fr": "Lame de ronce",
+    "sha256": "fe933574f56999efd7813c1965b8cb82bf672d66711c380085be76135e54b96e",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1377298,
+    "alpha255_pixels": 2458,
+    "alpha1_to239_pixels": 25209,
+    "visible_rgba_colors": 36603,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_ninja_blade_01-1-preview36.png",
+        "source_bbox": [
+          135,
+          79,
+          568,
+          559
+        ],
+        "source_dimensions": [
+          433,
+          480
+        ],
+        "visible_preview_rgba_colors": 202,
+        "preview64_path": "poses/tfj_ninja_blade_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_ninja_blade_01-2-preview36.png",
+        "source_bbox": [
+          108,
+          108,
+          503,
+          559
+        ],
+        "source_dimensions": [
+          395,
+          451
+        ],
+        "visible_preview_rgba_colors": 219,
+        "preview64_path": "poses/tfj_ninja_blade_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_ninja_blade_01-3-preview36.png",
+        "source_bbox": [
+          226,
+          30,
+          432,
+          567
+        ],
+        "source_dimensions": [
+          206,
+          537
+        ],
+        "visible_preview_rgba_colors": 163,
+        "preview64_path": "poses/tfj_ninja_blade_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_ninja_blade_01-4-preview36.png",
+        "source_bbox": [
+          205,
+          41,
+          402,
+          567
+        ],
+        "source_dimensions": [
+          197,
+          526
+        ],
+        "visible_preview_rgba_colors": 132,
+        "preview64_path": "poses/tfj_ninja_blade_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_sword_03",
+    "name_fr": "Épée des haltes",
+    "sha256": "969bbbf3120e396d15bcc85d7be181bbb4026dbf3d1903f99dd3ca4d7b5bd93a",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      647
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1339077,
+    "alpha255_pixels": 1989,
+    "alpha1_to239_pixels": 41366,
+    "visible_rgba_colors": 80839,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_03-1-preview36.png",
+        "source_bbox": [
+          49,
+          97,
+          569,
+          647
+        ],
+        "source_dimensions": [
+          520,
+          550
+        ],
+        "visible_preview_rgba_colors": 190,
+        "preview64_path": "poses/tfj_sword_03-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_sword_03-2-preview36.png",
+        "source_bbox": [
+          59,
+          97,
+          578,
+          647
+        ],
+        "source_dimensions": [
+          519,
+          550
+        ],
+        "visible_preview_rgba_colors": 189,
+        "preview64_path": "poses/tfj_sword_03-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_sword_03-3-preview36.png",
+        "source_bbox": [
+          29,
+          236,
+          606,
+          441
+        ],
+        "source_dimensions": [
+          577,
+          205
+        ],
+        "visible_preview_rgba_colors": 116,
+        "preview64_path": "poses/tfj_sword_03-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_sword_03-4-preview36.png",
+        "source_bbox": [
+          21,
+          236,
+          598,
+          441
+        ],
+        "source_dimensions": [
+          577,
+          205
+        ],
+        "visible_preview_rgba_colors": 116,
+        "preview64_path": "poses/tfj_sword_03-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_knight_sword_01",
+    "name_fr": "Grande lame du gué",
+    "sha256": "b5c12e6738684ba7ac415dec85307117522b438cba55a2e9fce9ebd23d9ce489",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      569,
+      606
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1304161,
+    "alpha255_pixels": 2119,
+    "alpha1_to239_pixels": 38861,
+    "visible_rgba_colors": 46314,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knight_sword_01-1-preview36.png",
+        "source_bbox": [
+          78,
+          80,
+          557,
+          570
+        ],
+        "source_dimensions": [
+          479,
+          490
+        ],
+        "visible_preview_rgba_colors": 239,
+        "preview64_path": "poses/tfj_knight_sword_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_knight_sword_01-2-preview36.png",
+        "source_bbox": [
+          128,
+          80,
+          607,
+          570
+        ],
+        "source_dimensions": [
+          479,
+          490
+        ],
+        "visible_preview_rgba_colors": 242,
+        "preview64_path": "poses/tfj_knight_sword_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_knight_sword_01-3-preview36.png",
+        "source_bbox": [
+          196,
+          1,
+          419,
+          599
+        ],
+        "source_dimensions": [
+          223,
+          598
+        ],
+        "visible_preview_rgba_colors": 172,
+        "preview64_path": "poses/tfj_knight_sword_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_knight_sword_01-4-preview36.png",
+        "source_bbox": [
+          1,
+          219,
+          635,
+          416
+        ],
+        "source_dimensions": [
+          634,
+          197
+        ],
+        "visible_preview_rgba_colors": 140,
+        "preview64_path": "poses/tfj_knight_sword_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_katana_01",
+    "name_fr": "Katana des roseaux",
+    "sha256": "7c1c58105e6d2c9195185c915ba7365417cd684a0a2baca60f33fdb982fd0e71",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      696
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1390405,
+    "alpha255_pixels": 1705,
+    "alpha1_to239_pixels": 38735,
+    "visible_rgba_colors": 55326,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_katana_01-1-preview36.png",
+        "source_bbox": [
+          69,
+          99,
+          569,
+          696
+        ],
+        "source_dimensions": [
+          500,
+          597
+        ],
+        "visible_preview_rgba_colors": 126,
+        "preview64_path": "poses/tfj_katana_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_katana_01-2-preview36.png",
+        "source_bbox": [
+          96,
+          99,
+          570,
+          694
+        ],
+        "source_dimensions": [
+          474,
+          595
+        ],
+        "visible_preview_rgba_colors": 118,
+        "preview64_path": "poses/tfj_katana_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_katana_01-3-preview36.png",
+        "source_bbox": [
+          39,
+          254,
+          589,
+          382
+        ],
+        "source_dimensions": [
+          550,
+          128
+        ],
+        "visible_preview_rgba_colors": 98,
+        "preview64_path": "poses/tfj_katana_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_katana_01-4-preview36.png",
+        "source_bbox": [
+          38,
+          254,
+          590,
+          381
+        ],
+        "source_dimensions": [
+          552,
+          127
+        ],
+        "visible_preview_rgba_colors": 95,
+        "preview64_path": "poses/tfj_katana_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_axe_01",
+    "name_fr": "Hache de levée",
+    "sha256": "1b640ed860abcf424a048ba8d787d28476681a3f5b545887e19c3eadd0b2e304",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1335850,
+    "alpha255_pixels": 3463,
+    "alpha1_to239_pixels": 27635,
+    "visible_rgba_colors": 33277,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_axe_01-1-preview36.png",
+        "source_bbox": [
+          127,
+          117,
+          521,
+          559
+        ],
+        "source_dimensions": [
+          394,
+          442
+        ],
+        "visible_preview_rgba_colors": 304,
+        "preview64_path": "poses/tfj_axe_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_axe_01-2-preview36.png",
+        "source_bbox": [
+          107,
+          117,
+          500,
+          559
+        ],
+        "source_dimensions": [
+          393,
+          442
+        ],
+        "visible_preview_rgba_colors": 298,
+        "preview64_path": "poses/tfj_axe_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_axe_01-3-preview36.png",
+        "source_bbox": [
+          284,
+          58,
+          383,
+          520
+        ],
+        "source_dimensions": [
+          99,
+          462
+        ],
+        "visible_preview_rgba_colors": 134,
+        "preview64_path": "poses/tfj_axe_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_axe_01-4-preview36.png",
+        "source_bbox": [
+          136,
+          78,
+          451,
+          520
+        ],
+        "source_dimensions": [
+          315,
+          442
+        ],
+        "visible_preview_rgba_colors": 280,
+        "preview64_path": "poses/tfj_axe_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_rod_01",
+    "name_fr": "Baguette d'argile",
+    "sha256": "f40aff2656115c454f0ac9c6a0808141b61f75f0f4e9d25fe9325de8ab112fc6",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1405929,
+    "alpha255_pixels": 1599,
+    "alpha1_to239_pixels": 51833,
+    "visible_rgba_colors": 36221,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_rod_01-1-preview36.png",
+        "source_bbox": [
+          125,
+          62,
+          524,
+          507
+        ],
+        "source_dimensions": [
+          399,
+          445
+        ],
+        "visible_preview_rgba_colors": 163,
+        "preview64_path": "poses/tfj_rod_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_rod_01-2-preview36.png",
+        "source_bbox": [
+          146,
+          62,
+          530,
+          507
+        ],
+        "source_dimensions": [
+          384,
+          445
+        ],
+        "visible_preview_rgba_colors": 155,
+        "preview64_path": "poses/tfj_rod_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_rod_01-3-preview36.png",
+        "source_bbox": [
+          276,
+          13,
+          369,
+          508
+        ],
+        "source_dimensions": [
+          93,
+          495
+        ],
+        "visible_preview_rgba_colors": 130,
+        "preview64_path": "poses/tfj_rod_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_rod_01-4-preview36.png",
+        "source_bbox": [
+          150,
+          40,
+          530,
+          497
+        ],
+        "source_dimensions": [
+          380,
+          457
+        ],
+        "visible_preview_rgba_colors": 154,
+        "preview64_path": "poses/tfj_rod_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_staff_02",
+    "name_fr": "Bâton des sources",
+    "sha256": "5a03c7e50986a891479cbbef945ea614db8f38a36cd7cffdd2f6b3cf9d90b19c",
+    "size": [
+      1312,
+      1199
+    ],
+    "split_xy": [
+      656,
+      599
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1376745,
+    "alpha255_pixels": 586,
+    "alpha1_to239_pixels": 45416,
+    "visible_rgba_colors": 79189,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_staff_02-1-preview36.png",
+        "source_bbox": [
+          245,
+          49,
+          406,
+          566
+        ],
+        "source_dimensions": [
+          161,
+          517
+        ],
+        "visible_preview_rgba_colors": 158,
+        "preview64_path": "poses/tfj_staff_02-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_staff_02-2-preview36.png",
+        "source_bbox": [
+          240,
+          57,
+          550,
+          557
+        ],
+        "source_dimensions": [
+          310,
+          500
+        ],
+        "visible_preview_rgba_colors": 177,
+        "preview64_path": "poses/tfj_staff_02-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_staff_02-3-preview36.png",
+        "source_bbox": [
+          123,
+          67,
+          479,
+          536
+        ],
+        "source_dimensions": [
+          356,
+          469
+        ],
+        "visible_preview_rgba_colors": 189,
+        "preview64_path": "poses/tfj_staff_02-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_staff_02-4-preview36.png",
+        "source_bbox": [
+          237,
+          64,
+          482,
+          565
+        ],
+        "source_dimensions": [
+          245,
+          501
+        ],
+        "visible_preview_rgba_colors": 176,
+        "preview64_path": "poses/tfj_staff_02-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_flail_01",
+    "name_fr": "Fléau de milice",
+    "sha256": "5e98cbbe781282755b89794e998ed0c09a37d3ef329bb07f3cbce5d857712e28",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1229717,
+    "alpha255_pixels": 1156,
+    "alpha1_to239_pixels": 90118,
+    "visible_rgba_colors": 92726,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_flail_01-1-preview36.png",
+        "source_bbox": [
+          95,
+          91,
+          575,
+          584
+        ],
+        "source_dimensions": [
+          480,
+          493
+        ],
+        "visible_preview_rgba_colors": 297,
+        "preview64_path": "poses/tfj_flail_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_flail_01-2-preview36.png",
+        "source_bbox": [
+          76,
+          91,
+          548,
+          584
+        ],
+        "source_dimensions": [
+          472,
+          493
+        ],
+        "visible_preview_rgba_colors": 304,
+        "preview64_path": "poses/tfj_flail_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_flail_01-3-preview36.png",
+        "source_bbox": [
+          131,
+          69,
+          436,
+          561
+        ],
+        "source_dimensions": [
+          305,
+          492
+        ],
+        "visible_preview_rgba_colors": 275,
+        "preview64_path": "poses/tfj_flail_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_flail_01-4-preview36.png",
+        "source_bbox": [
+          59,
+          75,
+          570,
+          542
+        ],
+        "source_dimensions": [
+          511,
+          467
+        ],
+        "visible_preview_rgba_colors": 262,
+        "preview64_path": "poses/tfj_flail_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_gun_01",
+    "name_fr": "Arquebuse du guet",
+    "sha256": "b3776749c2e3473a0cb5cb55bac24440c517e12dc889b3143f6ef0d1960124d9",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1266850,
+    "alpha255_pixels": 1414,
+    "alpha1_to239_pixels": 51602,
+    "visible_rgba_colors": 60237,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_gun_01-1-preview36.png",
+        "source_bbox": [
+          56,
+          100,
+          572,
+          582
+        ],
+        "source_dimensions": [
+          516,
+          482
+        ],
+        "visible_preview_rgba_colors": 256,
+        "preview64_path": "poses/tfj_gun_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_gun_01-2-preview36.png",
+        "source_bbox": [
+          62,
+          100,
+          579,
+          591
+        ],
+        "source_dimensions": [
+          517,
+          491
+        ],
+        "visible_preview_rgba_colors": 273,
+        "preview64_path": "poses/tfj_gun_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_gun_01-3-preview36.png",
+        "source_bbox": [
+          55,
+          174,
+          607,
+          458
+        ],
+        "source_dimensions": [
+          552,
+          284
+        ],
+        "visible_preview_rgba_colors": 207,
+        "preview64_path": "poses/tfj_gun_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_gun_01-4-preview36.png",
+        "source_bbox": [
+          57,
+          167,
+          579,
+          512
+        ],
+        "source_dimensions": [
+          522,
+          345
+        ],
+        "visible_preview_rgba_colors": 236,
+        "preview64_path": "poses/tfj_gun_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_crossbow_01",
+    "name_fr": "Arbalète du péager",
+    "sha256": "cf419211e4a3803baf2074658449ca2841ea5b4e0f3602313a788c079e9fe28f",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1170886,
+    "alpha255_pixels": 1375,
+    "alpha1_to239_pixels": 121492,
+    "visible_rgba_colors": 106517,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_crossbow_01-1-preview36.png",
+        "source_bbox": [
+          44,
+          156,
+          553,
+          592
+        ],
+        "source_dimensions": [
+          509,
+          436
+        ],
+        "visible_preview_rgba_colors": 343,
+        "preview64_path": "poses/tfj_crossbow_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_crossbow_01-2-preview36.png",
+        "source_bbox": [
+          81,
+          165,
+          586,
+          599
+        ],
+        "source_dimensions": [
+          505,
+          434
+        ],
+        "visible_preview_rgba_colors": 349,
+        "preview64_path": "poses/tfj_crossbow_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_crossbow_01-3-preview36.png",
+        "source_bbox": [
+          44,
+          123,
+          563,
+          497
+        ],
+        "source_dimensions": [
+          519,
+          374
+        ],
+        "visible_preview_rgba_colors": 233,
+        "preview64_path": "poses/tfj_crossbow_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_crossbow_01-4-preview36.png",
+        "source_bbox": [
+          67,
+          136,
+          589,
+          513
+        ],
+        "source_dimensions": [
+          522,
+          377
+        ],
+        "visible_preview_rgba_colors": 241,
+        "preview64_path": "poses/tfj_crossbow_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_bow_01",
+    "name_fr": "Arc du coteau",
+    "sha256": "6d70cf5b6c9e1c3ad76dd3e403247fc49c1f91147b0c02471a5b7ce554b8ddee",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1344796,
+    "alpha255_pixels": 1074,
+    "alpha1_to239_pixels": 76569,
+    "visible_rgba_colors": 57845,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_bow_01-1-preview36.png",
+        "source_bbox": [
+          126,
+          104,
+          557,
+          551
+        ],
+        "source_dimensions": [
+          431,
+          447
+        ],
+        "visible_preview_rgba_colors": 250,
+        "preview64_path": "poses/tfj_bow_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_bow_01-2-preview36.png",
+        "source_bbox": [
+          71,
+          102,
+          503,
+          563
+        ],
+        "source_dimensions": [
+          432,
+          461
+        ],
+        "visible_preview_rgba_colors": 232,
+        "preview64_path": "poses/tfj_bow_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_bow_01-3-preview36.png",
+        "source_bbox": [
+          246,
+          57,
+          372,
+          538
+        ],
+        "source_dimensions": [
+          126,
+          481
+        ],
+        "visible_preview_rgba_colors": 167,
+        "preview64_path": "poses/tfj_bow_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_bow_01-4-preview36.png",
+        "source_bbox": [
+          258,
+          57,
+          394,
+          544
+        ],
+        "source_dimensions": [
+          136,
+          487
+        ],
+        "visible_preview_rgba_colors": 139,
+        "preview64_path": "poses/tfj_bow_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_instrument_01",
+    "name_fr": "Harpe du carrefour",
+    "sha256": "990285832b7752220d6f8d769e46d15d4bc43b7643ddaaf5aa8fc5456dbb15d2",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1221028,
+    "alpha255_pixels": 1337,
+    "alpha1_to239_pixels": 80418,
+    "visible_rgba_colors": 117425,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_instrument_01-1-preview36.png",
+        "source_bbox": [
+          190,
+          96,
+          555,
+          582
+        ],
+        "source_dimensions": [
+          365,
+          486
+        ],
+        "visible_preview_rgba_colors": 367,
+        "preview64_path": "poses/tfj_instrument_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_instrument_01-2-preview36.png",
+        "source_bbox": [
+          144,
+          97,
+          496,
+          577
+        ],
+        "source_dimensions": [
+          352,
+          480
+        ],
+        "visible_preview_rgba_colors": 375,
+        "preview64_path": "poses/tfj_instrument_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_instrument_01-3-preview36.png",
+        "source_bbox": [
+          305,
+          25,
+          450,
+          495
+        ],
+        "source_dimensions": [
+          145,
+          470
+        ],
+        "visible_preview_rgba_colors": 179,
+        "preview64_path": "poses/tfj_instrument_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_instrument_01-4-preview36.png",
+        "source_bbox": [
+          151,
+          25,
+          519,
+          502
+        ],
+        "source_dimensions": [
+          368,
+          477
+        ],
+        "visible_preview_rgba_colors": 382,
+        "preview64_path": "poses/tfj_instrument_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_book_01",
+    "name_fr": "Registre du voyageur",
+    "sha256": "f62f65d76d00301873254f351b3a04f3ccaf938dec474f10a4eaf205d1ae409d",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1083298,
+    "alpha255_pixels": 2132,
+    "alpha1_to239_pixels": 37532,
+    "visible_rgba_colors": 56097,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_book_01-1-preview36.png",
+        "source_bbox": [
+          97,
+          148,
+          546,
+          608
+        ],
+        "source_dimensions": [
+          449,
+          460
+        ],
+        "visible_preview_rgba_colors": 573,
+        "preview64_path": "poses/tfj_book_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_book_01-2-preview36.png",
+        "source_bbox": [
+          79,
+          159,
+          530,
+          618
+        ],
+        "source_dimensions": [
+          451,
+          459
+        ],
+        "visible_preview_rgba_colors": 571,
+        "preview64_path": "poses/tfj_book_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_book_01-3-preview36.png",
+        "source_bbox": [
+          226,
+          110,
+          403,
+          519
+        ],
+        "source_dimensions": [
+          177,
+          409
+        ],
+        "visible_preview_rgba_colors": 309,
+        "preview64_path": "poses/tfj_book_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_book_01-4-preview36.png",
+        "source_bbox": [
+          79,
+          110,
+          519,
+          550
+        ],
+        "source_dimensions": [
+          440,
+          440
+        ],
+        "visible_preview_rgba_colors": 605,
+        "preview64_path": "poses/tfj_book_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_polearm_01",
+    "name_fr": "Lance du gué",
+    "sha256": "721ee54914783b9dccc00b5e6e592445e604a0ca1286660516a2719537d542d6",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1420577,
+    "alpha255_pixels": 1903,
+    "alpha1_to239_pixels": 50360,
+    "visible_rgba_colors": 56635,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_polearm_01-1-preview36.png",
+        "source_bbox": [
+          49,
+          59,
+          525,
+          620
+        ],
+        "source_dimensions": [
+          476,
+          561
+        ],
+        "visible_preview_rgba_colors": 103,
+        "preview64_path": "poses/tfj_polearm_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_polearm_01-2-preview36.png",
+        "source_bbox": [
+          103,
+          59,
+          578,
+          620
+        ],
+        "source_dimensions": [
+          475,
+          561
+        ],
+        "visible_preview_rgba_colors": 106,
+        "preview64_path": "poses/tfj_polearm_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_polearm_01-3-preview36.png",
+        "source_bbox": [
+          36,
+          306,
+          580,
+          388
+        ],
+        "source_dimensions": [
+          544,
+          82
+        ],
+        "visible_preview_rgba_colors": 99,
+        "preview64_path": "poses/tfj_polearm_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_polearm_01-4-preview36.png",
+        "source_bbox": [
+          47,
+          306,
+          591,
+          388
+        ],
+        "source_dimensions": [
+          544,
+          82
+        ],
+        "visible_preview_rgba_colors": 95,
+        "preview64_path": "poses/tfj_polearm_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_pole_01",
+    "name_fr": "Perche d'orme",
+    "sha256": "d6a89ba81fbd4132fe29e30cba651872a1a50532304d98c4eb76b1505deac9f8",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      672,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1389709,
+    "alpha255_pixels": 1504,
+    "alpha1_to239_pixels": 52849,
+    "visible_rgba_colors": 47747,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_pole_01-1-preview36.png",
+        "source_bbox": [
+          90,
+          38,
+          576,
+          548
+        ],
+        "source_dimensions": [
+          486,
+          510
+        ],
+        "visible_preview_rgba_colors": 150,
+        "preview64_path": "poses/tfj_pole_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_pole_01-2-preview36.png",
+        "source_bbox": [
+          36,
+          38,
+          521,
+          548
+        ],
+        "source_dimensions": [
+          485,
+          510
+        ],
+        "visible_preview_rgba_colors": 150,
+        "preview64_path": "poses/tfj_pole_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_pole_01-3-preview36.png",
+        "source_bbox": [
+          30,
+          289,
+          672,
+          357
+        ],
+        "source_dimensions": [
+          642,
+          68
+        ],
+        "visible_preview_rgba_colors": 82,
+        "preview64_path": "poses/tfj_pole_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_pole_01-4-preview36.png",
+        "source_bbox": [
+          290,
+          11,
+          354,
+          588
+        ],
+        "source_dimensions": [
+          64,
+          577
+        ],
+        "visible_preview_rgba_colors": 105,
+        "preview64_path": "poses/tfj_pole_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_bag_01",
+    "name_fr": "Sac de colporteur",
+    "sha256": "2c85dc515b468d2b4594395fd0449ba39379bb13221be55efe745a44fc629ecc",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1170261,
+    "alpha255_pixels": 2640,
+    "alpha1_to239_pixels": 22997,
+    "visible_rgba_colors": 42124,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_bag_01-1-preview36.png",
+        "source_bbox": [
+          146,
+          219,
+          569,
+          560
+        ],
+        "source_dimensions": [
+          423,
+          341
+        ],
+        "visible_preview_rgba_colors": 548,
+        "preview64_path": "poses/tfj_bag_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_bag_01-2-preview36.png",
+        "source_bbox": [
+          78,
+          234,
+          481,
+          578
+        ],
+        "source_dimensions": [
+          403,
+          344
+        ],
+        "visible_preview_rgba_colors": 513,
+        "preview64_path": "poses/tfj_bag_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_bag_01-3-preview36.png",
+        "source_bbox": [
+          236,
+          108,
+          491,
+          451
+        ],
+        "source_dimensions": [
+          255,
+          343
+        ],
+        "visible_preview_rgba_colors": 491,
+        "preview64_path": "poses/tfj_bag_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_bag_01-4-preview36.png",
+        "source_bbox": [
+          68,
+          126,
+          491,
+          481
+        ],
+        "source_dimensions": [
+          423,
+          355
+        ],
+        "visible_preview_rgba_colors": 509,
+        "preview64_path": "poses/tfj_bag_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_cloth_01",
+    "name_fr": "Étoffe du col",
+    "sha256": "911f68690687e90f90b7eb8664befd87a7e11ec56490b2b4bfe3efb215e8ce56",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1116962,
+    "alpha255_pixels": 1648,
+    "alpha1_to239_pixels": 84195,
+    "visible_rgba_colors": 48996,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_cloth_01-1-preview36.png",
+        "source_bbox": [
+          86,
+          211,
+          572,
+          584
+        ],
+        "source_dimensions": [
+          486,
+          373
+        ],
+        "visible_preview_rgba_colors": 436,
+        "preview64_path": "poses/tfj_cloth_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_cloth_01-2-preview36.png",
+        "source_bbox": [
+          119,
+          223,
+          576,
+          569
+        ],
+        "source_dimensions": [
+          457,
+          346
+        ],
+        "visible_preview_rgba_colors": 472,
+        "preview64_path": "poses/tfj_cloth_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_cloth_01-3-preview36.png",
+        "source_bbox": [
+          73,
+          269,
+          549,
+          431
+        ],
+        "source_dimensions": [
+          476,
+          162
+        ],
+        "visible_preview_rgba_colors": 228,
+        "preview64_path": "poses/tfj_cloth_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_cloth_01-4-preview36.png",
+        "source_bbox": [
+          96,
+          143,
+          578,
+          522
+        ],
+        "source_dimensions": [
+          482,
+          379
+        ],
+        "visible_preview_rgba_colors": 397,
+        "preview64_path": "poses/tfj_cloth_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_shield_01",
+    "name_fr": "Rondache de levée",
+    "sha256": "eaee1dbcdd60e2b2f18d57408a21410df58eb218c1a5cf379ce6dea93600ebf1",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1105107,
+    "alpha255_pixels": 2209,
+    "alpha1_to239_pixels": 23726,
+    "visible_rgba_colors": 39272,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_01-1-preview36.png",
+        "source_bbox": [
+          146,
+          100,
+          530,
+          578
+        ],
+        "source_dimensions": [
+          384,
+          478
+        ],
+        "visible_preview_rgba_colors": 559,
+        "preview64_path": "poses/tfj_shield_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_shield_01-2-preview36.png",
+        "source_bbox": [
+          156,
+          114,
+          521,
+          589
+        ],
+        "source_dimensions": [
+          365,
+          475
+        ],
+        "visible_preview_rgba_colors": 550,
+        "preview64_path": "poses/tfj_shield_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_shield_01-3-preview36.png",
+        "source_bbox": [
+          245,
+          83,
+          393,
+          505
+        ],
+        "source_dimensions": [
+          148,
+          422
+        ],
+        "visible_preview_rgba_colors": 217,
+        "preview64_path": "poses/tfj_shield_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_shield_01-4-preview36.png",
+        "source_bbox": [
+          107,
+          95,
+          521,
+          508
+        ],
+        "source_dimensions": [
+          414,
+          413
+        ],
+        "visible_preview_rgba_colors": 664,
+        "preview64_path": "poses/tfj_shield_01-4-preview64.png"
+      }
+    ]
+  }
+]

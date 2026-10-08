@@ -1,0 +1,9 @@
+warning CS1701: En supposant que la référence d'assembly 'System.Runtime, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' utilisée par 'Reloaded.Mod.Interfaces' correspond à l'identité 'System.Runtime, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' de 'System.Runtime', il se peut que vous deviez fournir une stratégie runtime
+PASS vanilla snapshot equality and exact changed-row detection
+PASS unknown executable rejected before reading memory
+PASS out-of-module range rejected
+PASS overlapping table ranges rejected
+PASS duplicate table names rejected
+PASS invalid entry size rejected
+PASS truncated snapshot rejected
+Offline checks only; startup and VirtualQuery not executed in game.

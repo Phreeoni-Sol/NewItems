@@ -1,0 +1,27 @@
+{
+  "DiagnosticCompiled": true,
+  "PlayableJob": false,
+  "RuntimeIDAllocated": false,
+  "Date": "2026-10-06",
+  "Policy": "Independent additions only; preserve every vanilla job and shared ability",
+  "SaveAccessed": false,
+  "DiagnosticRuntimeTested": false,
+  "Checks": [
+    "Additive NXD fixtures preserve original cells",
+    "Native signature and RIP fixture tests",
+    "Local Job/Ability collision audit",
+    "Diagnostic equality/mutation and bounds tests",
+    "Dry-run without output",
+    "Original handoff design/data/AGENTS unchanged"
+  ],
+  "GamePatched": false,
+  "Superseded": [
+    "Knight replacement draft",
+    "Replacement builder and fixture report",
+    "Development archive containing the old draft"
+  ],
+  "RuntimeCoreCompiled": true,
+  "RuntimeCoreChecks": 54,
+  "NativeCopiedAccessorsTested": true,
+  "GameIntegrationValidated": false
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tfj_ninja_blade_04",
+  "name_fr": "Ombre de cuivre",
+  "category": "NinjaBlade",
+  "rarity": "uncommon",
+  "model": "black-forest-labs/flux.2-klein-4b",
+  "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+  "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_015_uitx.png",
+  "reference_sha256": "e0af50e5315a809938e86a698469b87f1239cb4a5dbe368400f90b32027c0186",
+  "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_ninja_blade_04.png",
+  "expected_cost_pollen": 0.005,
+  "runtime_ready": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "http_status": 200
+    }
+  ],
+  "http_status": 200,
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 1,
+    "total_tokens": 1,
+    "input_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "size": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "alpha_ready": false,
+  "sha256": "c918db31491136d9225491b110ef9f85a9ab4ba23eb3173f932f8c2970aff20a",
+  "seconds": 10.16,
+  "prompt": "Create ONE original NinjaBlade equipment inventory icon. New design motif: broad copper edged ninja sword with square guard. The attached image is an actual native FFT The Ivalice Chronicles Enhanced inventory texture and is ONLY a style and composition reference. Follow its viewing angle, orientation, compact silhouette, relative object scale, muted color palette and delicate proportions. Match its worn hand-painted textured materials, restrained highlights, and soft slightly distressed painterly edges. Use practical believable construction and sparse ornament. Do not duplicate the reference object; follow the new design motif. Keep the complete object readable at 100x100 and 48x48 with safe padding. Single isolated object, no scenery, no frame, no floor shadow, no reflection, no cast shadow. Absolutely no lettering, words, numbers, logos, labels, writing, signatures or watermarks anywhere, including on the object itself. No product photography, glossy concept-art rendering, neon glow, thick black outlines or hard pixel-art clusters. Flat uniform pure white background if genuine transparent alpha is unsupported; never a checkerboard pattern. IMPORTANT: blade point at UPPER LEFT and grip at LOWER RIGHT. Never reverse this diagonal; never place the grip at the upper right. Show only ONE unsheathed weapon: absolutely no scabbard, sheath, carrying case, second grip, second blade, floating extra handle or crossed objects."
+}

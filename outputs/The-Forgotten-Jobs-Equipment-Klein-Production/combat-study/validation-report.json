@@ -1,0 +1,21 @@
+{
+  "status": "PASS_AUTHORING_CHECKS_ONLY",
+  "concept_equipment": 38,
+  "concept_weapons": 36,
+  "concept_shields": 2,
+  "cut_poses": 152,
+  "preview_size_author_choice": [
+    36,
+    36
+  ],
+  "all_selected_have_transparent_alpha": true,
+  "clear_gutters_checked_above_alpha_16": true,
+  "original_alpha_preserved": true,
+  "contract_items": 271,
+  "native_bank_roundtrip": "PASS",
+  "visual_review": "ALL_38_SOURCE_SHEETS_AND_MINIATURES_INSPECTED",
+  "generated_source_pngs": 42,
+  "game_tests": "NOT_RUN",
+  "runtime_ready": false,
+  "pollinations_calls": 0
+}

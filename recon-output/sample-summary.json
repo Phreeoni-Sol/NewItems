@@ -1,0 +1,112 @@
+[
+  {
+    "Archive": "0004.fr.pac",
+    "Path": "nxd/job.fr.nxd",
+    "Bytes": 38636,
+    "SHA256": "40FC292D420C69BB1C6B3BE1F037846E782A8F5B2091A52E0A294AAD8A49589D",
+    "Header": "4E-58-44-46-01-00-00-00-01-02-01-00-00-00-00-00",
+    "Rows": 174,
+    "Type": "SingleKeyed",
+    "Category": "SingleKeyed_Localized",
+    "LayoutInlineSize": 64
+  },
+  {
+    "Archive": "0004.fr.pac",
+    "Path": "nxd/ability.fr.nxd",
+    "Bytes": 140826,
+    "SHA256": "93E6B9F8258ACDA89A3ED5E2F95DBCF7C521172804290A998E4F0AAE4E4CF406",
+    "Header": "4E-58-44-46-01-00-00-00-01-02-01-00-00-00-00-00",
+    "Rows": 512,
+    "Type": "SingleKeyed",
+    "Category": "SingleKeyed_Localized",
+    "LayoutInlineSize": 68
+  },
+  {
+    "Archive": "0004.fr.pac",
+    "Path": "nxd/jobcommand.fr.nxd",
+    "Bytes": 28683,
+    "SHA256": "8CC6464E5FD7306E747761B165C85AFFF3EA8E7454C2AD6A3F1C2FDAC15CCF3B",
+    "Header": "4E-58-44-46-01-00-00-00-01-02-01-00-00-00-00-00",
+    "Rows": 227,
+    "Type": "SingleKeyed",
+    "Category": "SingleKeyed_Localized",
+    "LayoutInlineSize": 36
+  },
+  {
+    "Archive": "0004.fr.pac",
+    "Path": "nxd/item.fr.nxd",
+    "Bytes": 68048,
+    "SHA256": "3722AEFEB22E87CEEE7AF42504D30F302A988A083DE1CE36ACE51B9A24B960A9",
+    "Header": "4E-58-44-46-01-00-00-00-01-02-01-00-00-00-00-00",
+    "Rows": 261,
+    "Type": "SingleKeyed",
+    "Category": "SingleKeyed_Localized",
+    "LayoutInlineSize": 48
+  },
+  {
+    "Archive": "0004.fr.pac",
+    "Path": "nxd/uistatuseffect.fr.nxd",
+    "Bytes": 12542,
+    "SHA256": "C080E77895A28B7A34104EDA0884D42F9F148387C9BA9A740C15C70C0B470FD5",
+    "Header": "4E-58-44-46-01-00-00-00-01-02-00-00-00-00-00-00",
+    "Rows": 45,
+    "Type": "SingleKeyed",
+    "Category": "SingleKeyed_Localized",
+    "LayoutInlineSize": 36
+  },
+  {
+    "Archive": "0004.pac",
+    "Path": "nxd/generaljob.nxd",
+    "Bytes": 3861,
+    "SHA256": "55CE55B085FDAE9039784405938D3E99F9A05212729262E193568E67353D3F4D",
+    "Header": "4E-58-44-46-01-00-00-00-01-01-01-00-00-00-00-00",
+    "Rows": 21,
+    "Type": "SingleKeyed",
+    "Category": "SingleKeyed",
+    "LayoutInlineSize": 124
+  },
+  {
+    "Archive": "0004.pac",
+    "Path": "nxd/overrideabilityactiondata.nxd",
+    "Bytes": 17742,
+    "SHA256": "14566F6511073B625CD83BB6E070BA6CB13C6EB4F3BBFFCF26293A5678D1F96E",
+    "Header": "4E-58-44-46-01-00-00-00-01-01-01-00-00-00-00-00",
+    "Rows": 368,
+    "Type": "SingleKeyed",
+    "Category": "SingleKeyed",
+    "LayoutInlineSize": 40
+  },
+  {
+    "Archive": "0008.pac",
+    "Path": "ui/ffto/common/face/textureparts/wldface_001_08_uitx.utexpt",
+    "Bytes": 310,
+    "SHA256": "7711B09A348A9B2B9DB1144724B725EABFAAA32AC98823F77C4FD46B5A3CC5BC",
+    "Header": "C0-00-00-00-0C-00-00-00-09-00-00-00-E8-00-00-00",
+    "Rows": null,
+    "Type": null,
+    "Category": null,
+    "LayoutInlineSize": null
+  },
+  {
+    "Archive": "0002.pac",
+    "Path": "fftpack/unit/battle_10m_spr.bin",
+    "Bytes": 37377,
+    "SHA256": "081577E3A8C22D4D7BD5B15D4F07EDB01C54E445FEF6A05EC725A8DD56F6CA39",
+    "Header": "00-00-C6-14-9C-6B-08-11-4A-15-AC-15-2F-1A-EC-10",
+    "Rows": null,
+    "Type": null,
+    "Category": null,
+    "LayoutInlineSize": null
+  },
+  {
+    "Archive": "0002.pac",
+    "Path": "fftpack/event_wldface_bin.bin",
+    "Bytes": 131072,
+    "SHA256": "142E73CEFF6E3815C0A7E54AC63AA752562122F6026B4CD8129523B1BC10CFF0",
+    "Header": "00-C0-66-BC-56-44-A6-AA-5A-65-66-66-CA-00-00-00",
+    "Rows": null,
+    "Type": null,
+    "Category": null,
+    "LayoutInlineSize": null
+  }
+]

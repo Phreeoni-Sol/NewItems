@@ -1,0 +1,74 @@
+[
+  {
+    "id": "tfj_knife_01",
+    "issue": "Élément supplémentaire évoquant un fourreau croisé ; supprimer cet élément.",
+    "status": "MAJOR_SHAPE_CORRECTED_IN_SELECTED_VARIANT",
+    "selected_image": "corrections/images/tfj_knife_01.png"
+  },
+  {
+    "id": "tfj_ninja_blade_01",
+    "issue": "Deux poignées/objets superposés au lieu d’une seule lame.",
+    "status": "MAJOR_SHAPE_CORRECTED_IN_SELECTED_VARIANT",
+    "selected_image": "corrections/images/tfj_ninja_blade_01.png"
+  },
+  {
+    "id": "tfj_knight_sword_03",
+    "issue": "Deux épées croisées malgré la consigne d’objet unique.",
+    "status": "MAJOR_SHAPE_CORRECTED_IN_SELECTED_VARIANT",
+    "selected_image": "corrections/images/tfj_knight_sword_03.png"
+  },
+  {
+    "id": "tfj_gun_03",
+    "issue": "Deux crosses superposées ; conserver une arme et une crosse.",
+    "status": "MAJOR_SHAPE_CORRECTED_IN_SELECTED_VARIANT",
+    "selected_image": "corrections/images/tfj_gun_03.png"
+  },
+  {
+    "id": "tfj_bow_02",
+    "issue": "Arc segmenté / corde détachée ; refaire un arc complet cohérent.",
+    "status": "MAJOR_SHAPE_CORRECTED_IN_SELECTED_VARIANT",
+    "selected_image": "corrections/images/tfj_bow_02.png"
+  },
+  {
+    "id": "tfj_bow_03",
+    "issue": "Silhouette trop droite, corde peu lisible ; vérifier et refaire un arc complet.",
+    "status": "MAJOR_SHAPE_CORRECTED_IN_SELECTED_VARIANT",
+    "selected_image": "corrections/images/tfj_bow_03.png"
+  },
+  {
+    "id": "tfj_bow_05",
+    "issue": "Silhouette de baguette, pas d’arc complet lisible.",
+    "status": "MAJOR_SHAPE_CORRECTED_IN_SELECTED_VARIANT",
+    "selected_image": "corrections/images/tfj_bow_05.png"
+  },
+  {
+    "id": "tfj_polearm_01",
+    "issue": "La pointe de lance semble absente ; refaire une lance clairement identifiable.",
+    "status": "MAJOR_SHAPE_CORRECTED_IN_SELECTED_VARIANT",
+    "selected_image": "corrections-last/images/tfj_polearm_01.png"
+  },
+  {
+    "id": "tfj_polearm_05",
+    "issue": "Silhouette de courte épée au lieu d’une longue lance.",
+    "status": "MAJOR_SHAPE_CORRECTED_IN_SELECTED_VARIANT",
+    "selected_image": "corrections/images/tfj_polearm_05.png"
+  },
+  {
+    "id": "tfj_polearm_06",
+    "issue": "Objets croisés ; conserver une seule lance complète.",
+    "status": "MAJOR_SHAPE_CORRECTED_IN_SELECTED_VARIANT",
+    "selected_image": "corrections/images/tfj_polearm_06.png"
+  },
+  {
+    "id": "tfj_shield_05",
+    "issue": "Écu anguleux au lieu de la rondache prévue.",
+    "status": "MAJOR_SHAPE_CORRECTED_IN_SELECTED_VARIANT",
+    "selected_image": "corrections/images/tfj_shield_05.png"
+  },
+  {
+    "id": "tfj_hat_07",
+    "issue": "Chapeau/casquette au lieu de la capuche prévue.",
+    "status": "MAJOR_SHAPE_CORRECTED_IN_SELECTED_VARIANT",
+    "selected_image": "corrections/images/tfj_hat_07.png"
+  }
+]

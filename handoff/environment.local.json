@@ -1,0 +1,14 @@
+{
+  "GameRoot": "D:/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles/FINAL FANTASY TACTICS - The Ivalice Chronicles",
+  "PermissionsTransferGuaranteed": false,
+  "IcedDll": "D:/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles/CoopMod/tools/Reloaded-II/Mods/reloaded.sharedlib.hooks/x64/Iced.dll",
+  "OriginalWorkRoot": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre",
+  "KnownSaveCandidateRoots": [
+    "C:/Users/eSilRoy/AppData/Local/SquareEnix",
+    "C:/Users/eSilRoy/AppData/Roaming/SquareEnix"
+  ],
+  "LoaderRoot": "D:/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles/CoopMod/tools/Reloaded-II/Mods/fftivc.utility.modloader",
+  "OriginalHandoffZip": "C:/Users/eSilRoy/Downloads/The-Forgotten-Jobs-Full-Codex-Handoff.zip",
+  "PathsAreExamplesForThisPC": true,
+  "InterfacesDll": "C:/Users/eSilRoy/.nuget/packages/reloaded.mod.interfaces/2.5.0/lib/netcoreapp3.1/Reloaded.Mod.Interfaces.dll"
+}

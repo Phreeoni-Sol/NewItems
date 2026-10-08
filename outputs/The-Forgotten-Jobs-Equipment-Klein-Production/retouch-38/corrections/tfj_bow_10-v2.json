@@ -1,0 +1,9 @@
+{
+  "id": "tfj_bow_10",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-f7eb0a5f-a4f0-4270-b5fb-e5fcc268d113.png",
+  "prompt": "Generate a new transparent four-view PIXEL ART equipment sheet. Native FFT atlas is style reference only. Flat muted opaque color clusters, uniformly sized large square pixels, very low detail. 2x2 four isolated coherent views of the same object with huge alpha-zero empty gutters and clear margins. Entire object fully visible. Equipment interiors solid; outside each hard stepped outline completely empty transparency. Four small tactical battle sprites enlarged with nearest-neighbour appearance, not inventory illustration. No scene, hand, labels, checkerboard, soft shadow, gradients, particles, disconnected marks or lighting halos. Exactly the described physical object only. Authoring study, not encoded native format.\nONE true asymmetric recurved bow: pale gray bent wood upper limb longer than lower, indigo winding at middle, small muted red knot at lower tip. ONE clearly visible taut straight LIGHT SLATE-INDIGO BLUE string joins both limb tips in EACH of four views. Crucial: string is a SOLID CONTINUOUS THICK pixel line with same chunky pixel size as limb edges, about TWO logical pixels wide in a 32-pixel-tall miniature. Never dotted, translucent, near-black or hairline. All four complete bows retain the longer upper limb, shorter lower limb, central blue winding and red knot. Top-left leaning left, top-right right; bottom-left left facing near-vertical arc, bottom-right right facing near-vertical arc. No stock, crossbar, arrow or loose thread.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment/references/weapon-palette-03.png",
+  "generator": "OPENAI_BUILT_IN_IMAGEGEN",
+  "status": "VISUALLY_REVIEWED_SELECTED_CORRECTION",
+  "runtime_ready": false
+}

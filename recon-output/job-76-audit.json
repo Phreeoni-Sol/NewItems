@@ -1,0 +1,176 @@
+{
+  "JobId": 76,
+  "JobName": "Chevalier",
+  "CommandId": 7,
+  "CommandName": "Arts tactiques",
+  "VisualType": 38,
+  "PortraitIndex": 3,
+  "Abilities": [
+    {
+      "Slot": "AbilityId1",
+      "AbilityId": 138,
+      "Name": "Brise-chef",
+      "JpCostBytes": [
+        44,
+        1
+      ],
+      "CommandReferences": [
+        7,
+        31,
+        51,
+        155
+      ]
+    },
+    {
+      "Slot": "AbilityId2",
+      "AbilityId": 139,
+      "Name": "Brise-armure",
+      "JpCostBytes": [
+        144,
+        1
+      ],
+      "CommandReferences": [
+        7,
+        31,
+        51,
+        155
+      ]
+    },
+    {
+      "Slot": "AbilityId3",
+      "AbilityId": 140,
+      "Name": "Brise-bouclier",
+      "JpCostBytes": [
+        44,
+        1
+      ],
+      "CommandReferences": [
+        7,
+        51,
+        155
+      ]
+    },
+    {
+      "Slot": "AbilityId4",
+      "AbilityId": 141,
+      "Name": "Brise-arme",
+      "JpCostBytes": [
+        144,
+        1
+      ],
+      "CommandReferences": [
+        7,
+        51,
+        155
+      ]
+    },
+    {
+      "Slot": "AbilityId5",
+      "AbilityId": 142,
+      "Name": "Brise-magie",
+      "JpCostBytes": [
+        250,
+        0
+      ],
+      "CommandReferences": [
+        7,
+        51,
+        155
+      ]
+    },
+    {
+      "Slot": "AbilityId6",
+      "AbilityId": 143,
+      "Name": "Brise-vitesse",
+      "JpCostBytes": [
+        250,
+        0
+      ],
+      "CommandReferences": [
+        7,
+        51,
+        155
+      ]
+    },
+    {
+      "Slot": "AbilityId7",
+      "AbilityId": 144,
+      "Name": "Brise-force",
+      "JpCostBytes": [
+        250,
+        0
+      ],
+      "CommandReferences": [
+        7,
+        51,
+        155
+      ]
+    },
+    {
+      "Slot": "AbilityId8",
+      "AbilityId": 145,
+      "Name": "Brise-esprit",
+      "JpCostBytes": [
+        250,
+        0
+      ],
+      "CommandReferences": [
+        7,
+        51,
+        155
+      ]
+    },
+    {
+      "Slot": "ReactionSupportMovementId1",
+      "AbilityId": 447,
+      "Name": "Parade à l'arme",
+      "JpCostBytes": [
+        200,
+        0
+      ],
+      "CommandReferences": [
+        7
+      ]
+    },
+    {
+      "Slot": "ReactionSupportMovementId2",
+      "AbilityId": 454,
+      "Name": "Maîtrise des armures",
+      "JpCostBytes": [
+        244,
+        1
+      ],
+      "CommandReferences": [
+        7
+      ]
+    },
+    {
+      "Slot": "ReactionSupportMovementId3",
+      "AbilityId": 455,
+      "Name": "Maîtrise du bouclier",
+      "JpCostBytes": [
+        250,
+        0
+      ],
+      "CommandReferences": [
+        7
+      ]
+    },
+    {
+      "Slot": "ReactionSupportMovementId4",
+      "AbilityId": 456,
+      "Name": "Maîtrise de l'épée",
+      "JpCostBytes": [
+        144,
+        1
+      ],
+      "CommandReferences": [
+        7
+      ]
+    }
+  ],
+  "GeneralJobRows": 21,
+  "UnusedJobIds": "UNKNOWN: absent rows do not imply available storage",
+  "SaveMasteryLayout": "UNKNOWN",
+  "Runtime": "NOT_TESTED"
+}

@@ -1,0 +1,5609 @@
+[
+  {
+    "id": "tfj_knife_01",
+    "name_fr": "Dague de levée",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première attaque physique contre un ennemi adjacent à un allié blessé gagne 10 % de dégâts, une fois par bataille.",
+    "tradeoff_fr": "Puissance de base réduite de 5 %.",
+    "old_price_gil": 250,
+    "new_price_gil": 550,
+    "old_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Mythril Knife",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_02",
+    "name_fr": "Pointe des haies",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir frappé une cible depuis une case de végétation, la prochaine attaque d’un allié sur cette cible gagne 5 % de précision ; marque consommée, expire au prochain tour du porteur.",
+    "tradeoff_fr": "Aucun bonus si le terrain ne correspond pas ; pas de cumul de marques.",
+    "old_price_gil": 250,
+    "new_price_gil": 875,
+    "old_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 2,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Blind Knife",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_03",
+    "name_fr": "Poignard du guetteur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Frapper un ennemi qui a attaqué le porteur depuis son dernier tour rend 3 MP au porteur, une fois par tour.",
+    "tradeoff_fr": "Aucun gain sur riposte, attaque gratuite ou allié.",
+    "old_price_gil": 250,
+    "new_price_gil": 1650,
+    "old_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Mage Masher",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_04",
+    "name_fr": "Croc de saumure",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Contre une cible déjà empoisonnée, consomme son Poison et ajoute 15 % de dégâts à cette attaque normale.",
+    "tradeoff_fr": "Retire aussi le Poison bénéfique à l’équipe ; une seule cible.",
+    "old_price_gil": 1800,
+    "new_price_gil": 1800,
+    "old_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Mage Masher",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_05",
+    "name_fr": "Miséricorde grise",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une attaque normale sur une cible à moins de 15 % de PV est plafonnée pour lui laisser au moins 1 PV ; elle reçoit une marque donnant +10 % de précision à la prochaine action de contrôle alliée.",
+    "tradeoff_fr": "Ne permet pas de porter le coup final avec cette attaque.",
+    "old_price_gil": 3600,
+    "new_price_gil": 2150,
+    "old_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Platinum Dagger",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_06",
+    "name_fr": "Épine de verrier",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier coup critique de la bataille révèle les résistances de la cible et lui applique une marque augmentant de 10 % le prochain dégât magique allié ; marque consommée.",
+    "tradeoff_fr": "Puissance de base réduite de 10 % ; ne modifie pas les résistances elles-mêmes.",
+    "old_price_gil": 17000,
+    "new_price_gil": 4050,
+    "old_stats": {
+      "Range": 1,
+      "Power": 6,
+      "Evasion": 40
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 5,
+      "Evasion": 40
+    },
+    "baseline_name_en": "Main Gauche",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_07",
+    "name_fr": "Lame du receleur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après une attaque normale de dos, une tentative de Vol contre cette cible gagne 10 % de précision avant le prochain tour du porteur.",
+    "tradeoff_fr": "Une marque seulement ; ne vole rien automatiquement.",
+    "old_price_gil": 17000,
+    "new_price_gil": 5400,
+    "old_stats": {
+      "Range": 1,
+      "Power": 7,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 6,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Orichalcum Dirk",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_08",
+    "name_fr": "Aiguille de deuil",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Quand un allié adjacent tombe KO, la prochaine attaque normale de cette dague sur son agresseur gagne 15 % de dégâts ; expire après un tour du porteur.",
+    "tradeoff_fr": "Un seul agresseur mémorisé, un déclenchement par bataille.",
+    "old_price_gil": 17000,
+    "new_price_gil": 6750,
+    "old_stats": {
+      "Range": 1,
+      "Power": 6,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 5,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Assassin's Dagger",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_09",
+    "name_fr": "Veilleuse de Nelveska",
+    "old_effect_fr": "Affinité vent ; esquive de l’arme renforcée, puissance inférieure à la meilleure dague vanilla.",
+    "new_effect_fr": "La première attaque de dos réussie transmet 5 MP à l’allié adjacent ayant le moins de MP et lui retire Aveuglement.",
+    "tradeoff_fr": "Aucun effet sans allié éligible ; deux déclenchements par bataille.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 10,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 8,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Air Knife",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_10",
+    "name_fr": "Dernier aveu",
+    "old_effect_fr": "Un coup dans le dos applique Silence avec 15 % de chance ; aucune attaque gratuite.",
+    "new_effect_fr": "Une frappe de dos marque la cible : sa prochaine tentative de sort payé coûte 20 % de MP en plus, puis la marque disparaît ; expire au prochain tour du porteur.",
+    "tradeoff_fr": "Une fois par bataille ; pas de Silence ni de surcoût de PV.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 7,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Air Knife",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_01",
+    "name_fr": "Lame de ronce",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Toucher puis quitter l’adjacence de cette cible pendant le même tour donne +8 esquive physique contre elle jusqu’au prochain tour du porteur.",
+    "tradeoff_fr": "Pas d’effet si le porteur reste au contact.",
+    "old_price_gil": 250,
+    "new_price_gil": 5500,
+    "old_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 8,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Kunai",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_02",
+    "name_fr": "Crochet du roseau",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une attaque normale qui manque réserve +10 % de précision à la prochaine attaque normale contre la même cible ; réserve perdue si le porteur change de cible.",
+    "tradeoff_fr": "Un seul échec mémorisé ; bonus consommé même en cas de nouvel échec.",
+    "old_price_gil": 250,
+    "new_price_gil": 7700,
+    "old_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 8,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Kodachi",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_03",
+    "name_fr": "Serre du hibou",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir terminé un tour sans se déplacer sur une case plus haute que la cible, la prochaine frappe normale sur elle gagne 10 % de dégâts.",
+    "tradeoff_fr": "Le bonus est perdu au premier déplacement.",
+    "old_price_gil": 1800,
+    "new_price_gil": 12000,
+    "old_stats": {
+      "Range": 1,
+      "Power": 12,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 11,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Ninja Longblade",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_04",
+    "name_fr": "Ombre de cuivre",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une frappe latérale réussie donne à l’allié derrière la cible +10 esquive contre sa prochaine attaque normale ; protection expire au tour suivant du porteur.",
+    "tradeoff_fr": "Nécessite cet alignement ; une protection par tour.",
+    "old_price_gil": 1800,
+    "new_price_gil": 19200,
+    "old_stats": {
+      "Range": 1,
+      "Power": 13,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 11,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Spellbinder",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_05",
+    "name_fr": "Lame des cent pas",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Au troisième tour consécutif où le porteur se déplace puis frappe une cible différente, il récupère 8 % de ses PV maximum.",
+    "tradeoff_fr": "Compteur annulé s’il répète une cible ou reste immobile ; une récompense par bataille.",
+    "old_price_gil": 17000,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 1,
+      "Power": 13,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 11,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Sasuke's Blade",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_06",
+    "name_fr": "Murmure violet",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Frapper une cible sous Silence prolonge uniquement la fenêtre de la prochaine marque d’équipe placée sur elle jusqu’au tour suivant du porteur.",
+    "tradeoff_fr": "Une fois par bataille ; ne prolonge pas Silence lui-même.",
+    "old_price_gil": 17000,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 1,
+      "Power": 15,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 13,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Iga Blade",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_07",
+    "name_fr": "Crépuscule d'Igros",
+    "old_effect_fr": "Affinité ombre proposée ; bonus d’esquive modéré, sans bonus de vitesse.",
+    "new_effect_fr": "La première fois que le porteur attaque depuis un côté différent de sa frappe précédente, il obtient +1 saut pour son prochain déplacement seulement.",
+    "tradeoff_fr": "Deux activations par bataille ; n’accorde pas de déplacement supplémentaire.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 14,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 11,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Iga Blade",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_08",
+    "name_fr": "La Sans-Trace",
+    "old_effect_fr": "Après un déplacement sans attaque, +10 esquive physique jusqu’au début du prochain tour du porteur ; aucune invisibilité permanente.",
+    "new_effect_fr": "Après une frappe de dos non létale, le porteur ignore les effets d’équipement de réaction de cette seule cible lors de son prochain déplacement.",
+    "tradeoff_fr": "Une fois par bataille ; ne désactive pas les compétences de réaction vanilla.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 14,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 11,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Iga Blade",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_01",
+    "name_fr": "Épée de conscrit",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Si un allié adjacent n’a encore infligé aucun dégât dans la bataille, la première frappe du porteur lui accorde une réduction fixe de 5 dégâts sur le prochain coup reçu.",
+    "tradeoff_fr": "Une seule protection ; minimum 1 dégât reçu.",
+    "old_price_gil": 250,
+    "new_price_gil": 225,
+    "old_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Broadsword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_02",
+    "name_fr": "Lame de talus",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après une frappe normale réussie depuis une case plus basse, le prochain déplacement ascendant du porteur gagne +1 saut.",
+    "tradeoff_fr": "Expire au prochain tour ; une activation par tour.",
+    "old_price_gil": 250,
+    "new_price_gil": 550,
+    "old_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Longsword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_03",
+    "name_fr": "Épée des haltes",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Finir un tour sans mouvement ni attaque prépare un crédit de 5 MP pour le prochain sort payé du porteur ; crédit consommé, coût final au moins 1.",
+    "tradeoff_fr": "Le crédit disparaît s’il se déplace avant le sort.",
+    "old_price_gil": 250,
+    "new_price_gil": 550,
+    "old_stats": {
+      "Range": 1,
+      "Power": 5,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Longsword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_04",
+    "name_fr": "Lame de l'arpenteur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une attaque normale en ligne avec un allié situé exactement deux cases derrière le porteur gagne 8 % de précision.",
+    "tradeoff_fr": "Aucun bonus hors de cet alignement.",
+    "old_price_gil": 250,
+    "new_price_gil": 1000,
+    "old_stats": {
+      "Range": 1,
+      "Power": 6,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 5,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Iron Sword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_05",
+    "name_fr": "Épée de châtelain",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première frappe contre un ennemi au contact de deux alliés différents réduit de 10 % les dégâts de sa prochaine attaque normale.",
+    "tradeoff_fr": "Une fois par bataille ; pas de réduction de sort.",
+    "old_price_gil": 500,
+    "new_price_gil": 1750,
+    "old_stats": {
+      "Range": 1,
+      "Power": 6,
+      "Evasion": 8
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 5,
+      "Evasion": 8
+    },
+    "baseline_name_en": "Mythril Sword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_06",
+    "name_fr": "Lame du pont",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Si le porteur frappe l’ennemi qui sépare deux alliés alignés, chacun de ces alliés reçoit 3 MP, une fois par bataille.",
+    "tradeoff_fr": "Nécessite la formation ; aucun soin de PV.",
+    "old_price_gil": 3600,
+    "new_price_gil": 1925,
+    "old_stats": {
+      "Range": 1,
+      "Power": 7,
+      "Evasion": 8
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 6,
+      "Evasion": 8
+    },
+    "baseline_name_en": "Mythril Sword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_07",
+    "name_fr": "Épée de grenat",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir reçu un soin direct d’un allié, la prochaine frappe normale rend à ce soigneur 10 % des dégâts infligés en PV, plafond 20 PV.",
+    "tradeoff_fr": "Expire au prochain tour du porteur ; pas de vol de vie pour soi.",
+    "old_price_gil": 3600,
+    "new_price_gil": 3000,
+    "old_stats": {
+      "Range": 1,
+      "Power": 8,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 7,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Blood Sword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_08",
+    "name_fr": "Lame des cendres",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première fois qu’un dégât de Feu touche le porteur, sa prochaine attaque normale physique gagne 12 % de dégâts sans devenir élémentaire.",
+    "tradeoff_fr": "Un déclenchement par bataille ; aucun bonus de résistance Feu.",
+    "old_price_gil": 3600,
+    "new_price_gil": 3950,
+    "old_stats": {
+      "Range": 1,
+      "Power": 7,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 6,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Coral Sword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_09",
+    "name_fr": "Épée de marée",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir frappé une cible différente de celle du tour précédent, réduit de 8 % le prochain dégât physique subi depuis cette ancienne cible.",
+    "tradeoff_fr": "Une ancienne cible mémorisée ; expire au prochain tour.",
+    "old_price_gil": 5400,
+    "new_price_gil": 3950,
+    "old_stats": {
+      "Range": 1,
+      "Power": 8,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 7,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Coral Sword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_10",
+    "name_fr": "Lame du gel tardif",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une frappe normale réussie contre une cible sous Lenteur réserve une réduction de 25 % du prochain sort de soin du porteur vers un allié lui-même sous Lenteur.",
+    "tradeoff_fr": "Une fois par bataille ; expire au prochain tour du porteur, coût minimal 1, ne retire pas Lenteur.",
+    "old_price_gil": 5400,
+    "new_price_gil": 6000,
+    "old_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 8,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Ancient Sword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_11",
+    "name_fr": "Épée de vitrail",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une frappe normale prépare sur sa cible un bonus de 8 % pour la prochaine attaque alliée d’un élément différent du dernier élément qu’elle a subi.",
+    "tradeoff_fr": "Une seule marque, expire au prochain tour du porteur.",
+    "old_price_gil": 25500,
+    "new_price_gil": 6750,
+    "old_stats": {
+      "Range": 1,
+      "Power": 8,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 7,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Sleep Blade",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_12",
+    "name_fr": "Lame du pénitent",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première frappe normale qui touche un allié lui rend immédiatement 50 % des dégâts de cette frappe et consomme cet effet pour la bataille.",
+    "tradeoff_fr": "Ne soigne jamais plus que les dégâts causés ; pas de déclenchement volontaire répété.",
+    "old_price_gil": 25500,
+    "new_price_gil": 10800,
+    "old_stats": {
+      "Range": 1,
+      "Power": 10,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Diamond Sword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_13",
+    "name_fr": "Épée de l'écuyer perdu",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Si le porteur est adjacent à un allié KO, une attaque normale réussie lui accorde un crédit de 20 % sur le prochain coût MP d’une action de résurrection.",
+    "tradeoff_fr": "Une fois par bataille ; ne réanime personne automatiquement.",
+    "old_price_gil": 34000,
+    "new_price_gil": 10800,
+    "old_stats": {
+      "Range": 1,
+      "Power": 10,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Diamond Sword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_14",
+    "name_fr": "Lame des trois serments",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Frappes de face, de côté puis de dos sur trois tours consécutifs : la troisième retire Protection à sa seule cible après les dégâts.",
+    "tradeoff_fr": "La séquence casse si l’ordre ou la cible d’orientation n’est pas respecté ; une fois par bataille.",
+    "old_price_gil": 34000,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 8,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Materia Blade",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_15",
+    "name_fr": "Épée du veilleur rouge",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première frappe contre un ennemi qui vient d’infliger un dégât de Feu à un allié rend 15 PV à cet allié.",
+    "tradeoff_fr": "Un événement mémorisé ; aucune réaction automatique hors du tour du porteur.",
+    "old_price_gil": 34000,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 1,
+      "Power": 10,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Materia Blade+",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_16",
+    "name_fr": "Lame des rois sans nom",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Contre l’ennemi ayant éliminé le plus d’alliés dans cette bataille, une frappe normale applique -10 % au prochain soin de PV qu’il reçoit.",
+    "tradeoff_fr": "Une fois par bataille ; ne s’applique pas à une résurrection.",
+    "old_price_gil": 34000,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 1,
+      "Power": 10,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Materia Blade+",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_17",
+    "name_fr": "Testament de Gallionne",
+    "old_effect_fr": "Résistance à Silence ; puissance de fin de progression, sans bonus de vitesse.",
+    "new_effect_fr": "Si trois alliés vivants sont adjacents au porteur, sa première frappe normale réussie distribue 10 PV à chacun et consomme la formation.",
+    "tradeoff_fr": "Une fois par bataille ; puissance de base réduite de 15 %.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 12,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 10,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Icebrand",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_18",
+    "name_fr": "L'Absent",
+    "old_effect_fr": "Les dégâts infligés aux cibles sous Protection gagnent 10 %, sans supprimer leur statut.",
+    "new_effect_fr": "Après le KO d’un allié, peut réserver une frappe normale sur un autre ennemi que son agresseur : le premier soin direct à cet allié après sa résurrection gagne 25 %.",
+    "tradeoff_fr": "Un allié mémorisé, une fois par bataille ; ne réanime pas.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 11,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Platinum Sword",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_01",
+    "name_fr": "Grande lame du gué",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après une frappe normale de face, réduit de 10 % le premier dégât de mêlée reçu par l’allié situé juste derrière le porteur.",
+    "tradeoff_fr": "Expire au prochain tour ; pas d’interception automatique.",
+    "old_price_gil": 250,
+    "new_price_gil": 44000,
+    "old_stats": {
+      "Range": 1,
+      "Power": 16,
+      "Evasion": 60
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 15,
+      "Evasion": 60
+    },
+    "baseline_name_en": "Defender",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_02",
+    "name_fr": "Épée du connétable",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une frappe réussie sur un adversaire sous Protection retire 5 MP au porteur pour donner 5 MP à un allié adjacent.",
+    "tradeoff_fr": "Aucun transfert si le porteur n’a pas 5 MP ; une fois par tour.",
+    "old_price_gil": 1800,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 1,
+      "Power": 17,
+      "Evasion": 30
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 15,
+      "Evasion": 30
+    },
+    "baseline_name_en": "Save the Queen",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_03",
+    "name_fr": "Lame de l'audience",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir subi deux éléments différents, la prochaine frappe normale réduit de 15 % le prochain dégât du second élément reçu.",
+    "tradeoff_fr": "Une fois par bataille ; aucune immunité élémentaire générale.",
+    "old_price_gil": 8500,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 1,
+      "Power": 21,
+      "Evasion": 35
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 18,
+      "Evasion": 35
+    },
+    "baseline_name_en": "Excalibur",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_04",
+    "name_fr": "Épée des remparts blancs",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Frapper sans avoir bougé depuis le dernier tour protège le porteur et un allié adjacent contre 8 dégâts physiques chacun sur leur prochain coup.",
+    "tradeoff_fr": "Un allié choisi, minimum 1 dégât ; expire au tour suivant.",
+    "old_price_gil": 8500,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 1,
+      "Power": 24,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 21,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Ragnarok",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_05",
+    "name_fr": "Serment de Lesalia",
+    "old_effect_fr": "Protection à l’équipement proposée ; puissance réduite de 10 % contre cette défense.",
+    "new_effect_fr": "La première frappe faite après avoir reçu Protection offre à un allié adjacent une réduction de 15 % sur son prochain dégât magique.",
+    "tradeoff_fr": "Une fois par bataille ; ne lui confère pas Protection ni Shell.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 38,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 32,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Chaos Blade",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_06",
+    "name_fr": "Le Trône vacant",
+    "old_effect_fr": "Réduit de 15 % le premier coup physique reçu par bataille ; pas de résurrection automatique.",
+    "new_effect_fr": "Au premier tour où aucun allié vivant n’est adjacent, une frappe normale réussie crée une réserve de 30 PV : elle soigne le premier allié qui termine ensuite son tour adjacent.",
+    "tradeoff_fr": "Une fois par bataille ; réserve perdue si le porteur tombe KO.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 22,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 18,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Ragnarok",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_01",
+    "name_fr": "Katana des roseaux",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Attendre un tour sans attaque puis frapper la même cible que deux tours auparavant donne +15 % de précision.",
+    "tradeoff_fr": "Réserve perdue en attaquant une autre cible.",
+    "old_price_gil": 250,
+    "new_price_gil": 3300,
+    "old_stats": {
+      "Range": 1,
+      "Power": 8,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 7,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Kotetsu",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_02",
+    "name_fr": "Lame de la pluie fine",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après une frappe qui inflige moins de 10 dégâts, le porteur récupère 5 MP une fois par tour.",
+    "tradeoff_fr": "Aucun effet sur un allié ou une immunité totale.",
+    "old_price_gil": 250,
+    "new_price_gil": 5500,
+    "old_stats": {
+      "Range": 1,
+      "Power": 8,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 7,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Bizen Osafune",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_03",
+    "name_fr": "Katana du tertre",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première frappe depuis une case adjacente à un allié KO retire Lenteur au porteur et à un allié vivant adjacent.",
+    "tradeoff_fr": "Une fois par bataille ; aucun effet sur les KO.",
+    "old_price_gil": 250,
+    "new_price_gil": 7700,
+    "old_stats": {
+      "Range": 1,
+      "Power": 10,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Murasame",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_04",
+    "name_fr": "Lame de pétale",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Un critique laisse sur la cible une marque donnant +10 % de précision à la prochaine attaque normale d’un autre allié.",
+    "tradeoff_fr": "Une marque, expire au prochain tour ; ne profite pas au porteur.",
+    "old_price_gil": 1800,
+    "new_price_gil": 8400,
+    "old_stats": {
+      "Range": 1,
+      "Power": 10,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Murasame",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_05",
+    "name_fr": "Katana des braises",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une frappe normale sur une cible récemment touchée par Feu rend 5 PV par tranche de 10 dégâts de cette frappe à un allié voisin, plafond 15 PV.",
+    "tradeoff_fr": "Une fois par tour ; ne soigne pas le porteur.",
+    "old_price_gil": 3600,
+    "new_price_gil": 9600,
+    "old_stats": {
+      "Range": 1,
+      "Power": 10,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Ame-no-Murakumo",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_06",
+    "name_fr": "Lame du courant froid",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après une frappe latérale, réduit de 10 % le prochain dégât de Glace reçu par la cible et augmente de 10 % le prochain dégât de Foudre allié contre elle.",
+    "tradeoff_fr": "Une marque temporaire ; le premier effet peut aider l’ennemi.",
+    "old_price_gil": 17000,
+    "new_price_gil": 13500,
+    "old_stats": {
+      "Range": 1,
+      "Power": 12,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 10,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Kiyomori",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_07",
+    "name_fr": "Katana de l'encens",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Frapper une cible après qu’un allié lui a retiré un statut positif donne 8 MP au porteur.",
+    "tradeoff_fr": "Une fois par bataille ; aucune dissipation automatique.",
+    "old_price_gil": 17000,
+    "new_price_gil": 20250,
+    "old_stats": {
+      "Range": 1,
+      "Power": 14,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 12,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Muramasa",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_08",
+    "name_fr": "Lame du héron",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première frappe suivant une descente de hauteur rend 10 PV au porteur et prépare +1 saut au déplacement suivant.",
+    "tradeoff_fr": "Une fois par bataille ; le saut expire après un tour.",
+    "old_price_gil": 17000,
+    "new_price_gil": 29700,
+    "old_stats": {
+      "Range": 1,
+      "Power": 14,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 12,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Kiku-ichimonji",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_09",
+    "name_fr": "Dernière lune",
+    "old_effect_fr": "Affinité glace ; puissance légèrement abaissée pour financer cet élément.",
+    "new_effect_fr": "Si le porteur attaque la même cible aux PV supérieurs puis inférieurs à 50 % sur deux de ses tours, la seconde frappe retire son dernier bonus d’équipement temporaire nouveau.",
+    "tradeoff_fr": "Une fois par bataille ; aucun statut vanilla retiré par cet effet.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 17,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 14,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Masamune",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_10",
+    "name_fr": "Le Septième silence",
+    "old_effect_fr": "Une attaque de dos gagne 10 % de dégâts ; aucune chance de mort instantanée.",
+    "new_effect_fr": "Après trois tours du porteur sans sort payé, une frappe normale de dos scelle la prochaine réaction d’équipement nouveau de la cible.",
+    "tradeoff_fr": "Une fois par bataille ; ne neutralise pas les réactions de job vanilla.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 16,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 13,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Masamune",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_axe_01",
+    "name_fr": "Hache de levée",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première attaque sur une cible encore à tous ses PV donne +10 % de précision à la prochaine frappe de mêlée alliée sur elle.",
+    "tradeoff_fr": "Ne donne pas ce bonus au porteur ; une marque consommée.",
+    "old_price_gil": 250,
+    "new_price_gil": 1650,
+    "old_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 8,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Battle Axe",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_axe_02",
+    "name_fr": "Francisque du col",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après une montée de deux niveaux de hauteur ou plus pendant son tour, une frappe normale réussie rend 10 PV au porteur.",
+    "tradeoff_fr": "Une fois par tour ; aucun bonus sans montée.",
+    "old_price_gil": 8500,
+    "new_price_gil": 16200,
+    "old_stats": {
+      "Range": 1,
+      "Power": 15,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 13,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Slasher",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_axe_03",
+    "name_fr": "Hache du vieux chêne",
+    "old_effect_fr": "Attaque lourde de fin de progression ; précision ne dépasse pas la référence vanilla.",
+    "new_effect_fr": "Trois attaques normales sur trois cibles distinctes constituent une réserve : le prochain dégât physique de face reçu est réduit de 25 %.",
+    "tradeoff_fr": "Une fois par bataille ; la réserve ne bloque pas un sort.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 15,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 12,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Slasher",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_axe_04",
+    "name_fr": "Dette du bourreau",
+    "old_effect_fr": "Contre une cible sous Protection, gagne 15 % de dégâts ; puissance de base abaissée, aucun effet cumulable.",
+    "new_effect_fr": "Une frappe létale sur un ennemi rend 15 % des PV maximum à l’allié vivant ayant le moins de PV, mais coûte au porteur 5 % de ses PV maximum.",
+    "tradeoff_fr": "Deux usages par bataille ; ne peut pas tuer le porteur ; pas de gain sur allié.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 14,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 11,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Slasher",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_01",
+    "name_fr": "Baguette d'argile",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Un sort offensif lancé sans déplacement préalable rend 2 MP après résolution, si sa cible principale est plus haute que le porteur.",
+    "tradeoff_fr": "Une fois par tour ; remboursement inférieur au coût réellement payé.",
+    "old_price_gil": 250,
+    "new_price_gil": 450,
+    "old_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 2,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Thunder Rod",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_02",
+    "name_fr": "Baguette du souffleur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un sort de Vent payé, le prochain soin direct du porteur gagne 10 % de puissance.",
+    "tradeoff_fr": "Bonus consommé au soin, expire au tour suivant.",
+    "old_price_gil": 250,
+    "new_price_gil": 450,
+    "old_stats": {
+      "Range": 1,
+      "Power": 2,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 1,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Flame Rod",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_03",
+    "name_fr": "Tison d'école",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier sort de Feu payé qui ne touche aucun allié rend 5 MP à un autre allié adjacent.",
+    "tradeoff_fr": "Une fois par bataille ; coût non remboursé au porteur.",
+    "old_price_gil": 1800,
+    "new_price_gil": 475,
+    "old_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 2,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Ice Rod",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_04",
+    "name_fr": "Baguette de brume",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Si la cible principale est sous Aveuglement, le premier sort payé qui lui inflige des dégâts donne au porteur -10 % au coût de son prochain sort de soin.",
+    "tradeoff_fr": "Une fois par bataille ; coût final au moins 1.",
+    "old_price_gil": 1800,
+    "new_price_gil": 600,
+    "old_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 2,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Poison Rod",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_05",
+    "name_fr": "Verge des mousses",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Un sort de Terre payé sur une cible empoisonnée réduit de 10 % le prochain coût MP d’un soin reçu par le porteur.",
+    "tradeoff_fr": "Une fois par tour ; Poison n’est pas retiré.",
+    "old_price_gil": 17000,
+    "new_price_gil": 10800,
+    "old_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 2,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Wizard's Rod",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_06",
+    "name_fr": "Baguette du scribe noir",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir payé au moins 15 MP pour un sort sans KO ennemi, réserve 5 MP pour un prochain sort d’un élément différent.",
+    "tradeoff_fr": "Une fois par bataille ; crédit perdu en répétant l’élément.",
+    "old_price_gil": 17000,
+    "new_price_gil": 16200,
+    "old_stats": {
+      "Range": 1,
+      "Power": 5,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Dragon Rod",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_07",
+    "name_fr": "Clef des quatre vents",
+    "old_effect_fr": "Affinité vent et +1 puissance magique proposée ; aucun renvoi automatique des sorts.",
+    "new_effect_fr": "Le troisième élément différent utilisé par le porteur dans la bataille gagne 15 % de dégâts sur sa cible principale.",
+    "tradeoff_fr": "Une seule activation ; pas d’effet sur attaque sans élément.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 5,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Dragon Rod",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_08",
+    "name_fr": "Lanterne d'Ajoran",
+    "old_effect_fr": "Un sort offensif payé en MP peut infliger Silence à sa cible principale avec 10 % de chance ; une fois par action.",
+    "new_effect_fr": "Le premier sort payé ciblant un ennemi et un allié soigne cet allié de 20 PV après résolution s’il survit.",
+    "tradeoff_fr": "Une fois par bataille ; ne supprime pas les dégâts amis et ne réanime pas.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Dragon Rod",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_01",
+    "name_fr": "Bâton du pèlerin",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier soin direct après avoir parcouru au moins trois cases sur le tour précédent gagne 10 % de puissance.",
+    "tradeoff_fr": "Une fois par bataille ; pas sur résurrection.",
+    "old_price_gil": 250,
+    "new_price_gil": 875,
+    "old_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 2,
+      "Evasion": 15
+    },
+    "baseline_name_en": "White Staff",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_02",
+    "name_fr": "Bâton des sources",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Un soin qui atteint les PV maximum d’un allié transmet la moitié de l’excédent à un autre allié adjacent, plafond 15 PV.",
+    "tradeoff_fr": "Une fois par tour ; pas de transmission en chaîne.",
+    "old_price_gil": 250,
+    "new_price_gil": 4400,
+    "old_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 2,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Healing Staff",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_03",
+    "name_fr": "Houlette de l'aumônier",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Soigner un allié ayant moins de MP que le porteur lui transmet 3 MP pris dans la réserve du porteur.",
+    "tradeoff_fr": "Une fois par tour ; pas de transfert si le porteur ne les possède pas.",
+    "old_price_gil": 1800,
+    "new_price_gil": 4800,
+    "old_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 3,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Mage's Staff",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_04",
+    "name_fr": "Bâton de l'herboriste",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir retiré Poison à un allié, le prochain soin direct du porteur sur un autre allié gagne 15 %.",
+    "tradeoff_fr": "Expire au tour suivant ; pas de bonus sur la cible détoxifiée.",
+    "old_price_gil": 1800,
+    "new_price_gil": 2650,
+    "old_stats": {
+      "Range": 1,
+      "Power": 5,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Serpent Staff",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_05",
+    "name_fr": "Canne du veilleur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première suppression d’Aveuglement allié donne à cette cible +10 % de précision sur sa prochaine attaque normale.",
+    "tradeoff_fr": "Une fois par bataille ; bonus consommé et temporaire.",
+    "old_price_gil": 17000,
+    "new_price_gil": 9450,
+    "old_stats": {
+      "Range": 1,
+      "Power": 5,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Golden Staff",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_06",
+    "name_fr": "Bâton des derniers rites",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier soin direct sur un allié réanimé pendant la bataille coûte 20 % de MP en moins.",
+    "tradeoff_fr": "Une fois par bataille ; ne réduit pas le coût de la résurrection.",
+    "old_price_gil": 17000,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 1,
+      "Power": 6,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 5,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Zeus Mace",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_07",
+    "name_fr": "Arbre de l'aube",
+    "old_effect_fr": "Résistance à Silence et réserve de MP modeste ; aucun soin passif de zone.",
+    "new_effect_fr": "Soigner trois alliés distincts prépare un soin de 10 PV sur ces trois alliés au début du prochain tour du porteur.",
+    "tradeoff_fr": "Une fois par bataille ; aucun effet sur une cible KO.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 6,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 5,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Zeus Mace",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_08",
+    "name_fr": "Mémoire du premier soin",
+    "old_effect_fr": "Le premier soin direct de la bataille gagne 20 % de puissance ; aucun déclenchement sur résurrection.",
+    "new_effect_fr": "Mémorise le premier allié soigné : s’il tombe ensuite sous 25 % de PV, le prochain soin direct du porteur sur lui gagne 25 %.",
+    "tradeoff_fr": "Une fois par bataille ; pas de soin automatique.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 5,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 4,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Zeus Mace",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_flail_01",
+    "name_fr": "Fléau de milice",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une frappe normale de face contre une cible ayant esquivé un allié depuis le dernier tour du porteur gagne 10 % de précision.",
+    "tradeoff_fr": "Une fois par tour ; ne garantit jamais un coup.",
+    "old_price_gil": 250,
+    "new_price_gil": 1325,
+    "old_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 8,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Iron Flail",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_flail_02",
+    "name_fr": "Fléau des fournaises",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir subi Feu, la prochaine frappe normale transmet 10 PV à un allié sous Poison au lieu de gagner des dégâts.",
+    "tradeoff_fr": "Une fois par bataille ; aucun effet sans allié éligible.",
+    "old_price_gil": 8500,
+    "new_price_gil": 12150,
+    "old_stats": {
+      "Range": 1,
+      "Power": 15,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 13,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Morning Star",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_flail_03",
+    "name_fr": "Fléau du glas",
+    "old_effect_fr": "Affinité ombre proposée ; garde d’arme améliorée contre puissance abaissée.",
+    "new_effect_fr": "Une frappe non létale sur une cible sous Lenteur pose une marque qui rend 8 MP à l’allié portant le coup final avant le prochain tour du porteur.",
+    "tradeoff_fr": "Deux marques par bataille ; aucun gain au porteur.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 22,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 18,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Scorpion Tail",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_flail_04",
+    "name_fr": "L'Heure dernière",
+    "old_effect_fr": "Une attaque physique sur une cible sous Lenteur gagne 15 % de dégâts ; ne prolonge pas Lenteur.",
+    "new_effect_fr": "Si une cible a déjà survécu à deux frappes normales du porteur, la troisième réduit de 20 % le prochain soin qu’elle reçoit.",
+    "tradeoff_fr": "Une cible mémorisée ; une fois par bataille.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 21,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 17,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Scorpion Tail",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_01",
+    "name_fr": "Arquebuse du guet",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier tir sans mouvement contre un ennemi qui a attaqué un allié depuis le dernier tour du porteur gagne 10 % de précision.",
+    "tradeoff_fr": "Une fois par bataille ; pas de tir réactif gratuit.",
+    "old_price_gil": 250,
+    "new_price_gil": 5500,
+    "old_stats": {
+      "Range": 8,
+      "Power": 6,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 8,
+      "Power": 5,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Romandan Pistol",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_02",
+    "name_fr": "Mousquet de route",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un déplacement d’au moins trois cases sans tir, le prochain tir normal rend 3 MP à un allié adjacent.",
+    "tradeoff_fr": "Expire au tour suivant ; ne donne pas de munition gratuite.",
+    "old_price_gil": 250,
+    "new_price_gil": 16500,
+    "old_stats": {
+      "Range": 8,
+      "Power": 7,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 8,
+      "Power": 6,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Mythril Gun",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_03",
+    "name_fr": "Fusil du poudrier",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier tir contre une cible à moins de 50 % de PV gagne 10 % de dégâts mais coûte 5 MP supplémentaires au tireur.",
+    "tradeoff_fr": "Aucun bonus sans les MP ; une fois par bataille.",
+    "old_price_gil": 1800,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 8,
+      "Power": 16,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 8,
+      "Power": 14,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Stoneshooter",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_04",
+    "name_fr": "Carabine de givre",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Tirer sur une cible sous Lenteur prépare +8 esquive magique contre le prochain sort venant de cette cible.",
+    "tradeoff_fr": "Expire au tour suivant ; aucune résistance générale.",
+    "old_price_gil": 8500,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 8,
+      "Power": 20,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 8,
+      "Power": 18,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Glacial Gun",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_05",
+    "name_fr": "Arquebuse d'orage",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un tir sur une cible touchée par Foudre depuis le dernier tour, révèle son dernier élément offensif et donne au tireur 10 % de réduction contre sa prochaine attaque de cet élément.",
+    "tradeoff_fr": "Une fois par bataille ; aucun effet si aucun élément n’a été utilisé.",
+    "old_price_gil": 17000,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 8,
+      "Power": 20,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 8,
+      "Power": 18,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Blaze Gun",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_06",
+    "name_fr": "Le Dernier signal",
+    "old_effect_fr": "Affinité foudre ; portée et formule de la référence conservées.",
+    "new_effect_fr": "Le premier tir après le KO d’un allié permet au premier soin direct reçu par chacun des deux alliés les plus proches de gagner 10 %.",
+    "tradeoff_fr": "Une fois par bataille ; aucune action ou cible supplémentaire du tir.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 8,
+      "Power": 21,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 8,
+      "Power": 17,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Blaster",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_07",
+    "name_fr": "La Dette de Goug",
+    "old_effect_fr": "Le premier tir de la bataille gagne 15 % de dégâts, sans tir supplémentaire ni portée accrue.",
+    "new_effect_fr": "Chaque tir normal payé ajoute une dette de 2 MP ; après trois tirs sur trois ennemis différents, rend 12 MP à un autre allié.",
+    "tradeoff_fr": "Une fois par bataille ; le porteur doit réellement payer chaque dette.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 8,
+      "Power": 19,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 8,
+      "Power": 16,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Blaze Gun",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_01",
+    "name_fr": "Arbalète du péager",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier tir contre une cible qui vient de dépenser au moins 10 MP marque sa dépense : son prochain soin de MP reçu rend 5 MP de moins.",
+    "tradeoff_fr": "Une fois par bataille ; expire au prochain tour de la cible, aucun gain au tireur.",
+    "old_price_gil": 250,
+    "new_price_gil": 450,
+    "old_stats": {
+      "Range": 4,
+      "Power": 3,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 4,
+      "Power": 2,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Bowgun",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_02",
+    "name_fr": "Arbalète de marche",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Tirer après un déplacement latéral par rapport à la cible donne +5 précision à la prochaine attaque alliée depuis le côté opposé.",
+    "tradeoff_fr": "Une marque, expire au tour suivant.",
+    "old_price_gil": 1800,
+    "new_price_gil": 2400,
+    "old_stats": {
+      "Range": 4,
+      "Power": 3,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 4,
+      "Power": 2,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Crossbow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_03",
+    "name_fr": "Arbalète du taillis",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Un tir sur une cible en végétation réduit de 15 % son prochain dégât physique contre un allié situé lui aussi en végétation.",
+    "tradeoff_fr": "Une fois par tour ; n’immobilise pas la cible.",
+    "old_price_gil": 8500,
+    "new_price_gil": 5400,
+    "old_stats": {
+      "Range": 4,
+      "Power": 4,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 4,
+      "Power": 3,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Poison Crossbow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_04",
+    "name_fr": "Arbalète de siège",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Deux tirs sur la même cible depuis la même case donnent au troisième tir +10 % de dégâts et retirent la marque de préparation.",
+    "tradeoff_fr": "Déplacement ou changement de cible casse la séquence ; une fois par bataille.",
+    "old_price_gil": 8500,
+    "new_price_gil": 10800,
+    "old_stats": {
+      "Range": 4,
+      "Power": 6,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 4,
+      "Power": 5,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Hunting Crossbow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_05",
+    "name_fr": "Œil de la tour",
+    "old_effect_fr": "Esquive d’arme modeste ; attaque à portée vanilla, sans contourner les murs.",
+    "new_effect_fr": "Le premier tir après avoir gagné de la hauteur identifie les esquives de la cible et donne +10 % de précision à un prochain tir allié contre elle.",
+    "tradeoff_fr": "Une fois par bataille ; pas de portée supplémentaire.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 4,
+      "Power": 10,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 4,
+      "Power": 8,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Gastrophetes",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_06",
+    "name_fr": "La Sans-Appel",
+    "old_effect_fr": "Une attaque contre une cible sous Silence gagne 15 % de dégâts ; aucun projectile automatique.",
+    "new_effect_fr": "Un tir réussi sur une cible ayant retiré un statut négatif depuis le dernier tour l’empêche de recevoir une nouvelle marque de défense d’équipement ajoutée jusqu’au tour suivant du tireur.",
+    "tradeoff_fr": "Une fois par bataille ; ne bloque pas les soins ni les statuts vanilla.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 4,
+      "Power": 5,
+      "Evasion": 5
+    },
+    "new_stats": {
+      "Range": 4,
+      "Power": 4,
+      "Evasion": 5
+    },
+    "baseline_name_en": "Hunting Crossbow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_01",
+    "name_fr": "Arc du coteau",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Un tir depuis une hauteur supérieure prépare 8 % de réduction du prochain dégât à distance reçu depuis la cible.",
+    "tradeoff_fr": "Une fois par tour ; le bonus ne s’applique pas à un autre ennemi.",
+    "old_price_gil": 250,
+    "new_price_gil": 1650,
+    "old_stats": {
+      "Range": 5,
+      "Power": 5,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 5,
+      "Power": 4,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Silver Bow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_02",
+    "name_fr": "Arc de houx",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un tir réussi, le prochain déplacement d’un allié vers une case adjacente à la cible lui rend 5 PV.",
+    "tradeoff_fr": "Une marque, expire au tour suivant ; ne peut pas soigner le tireur.",
+    "old_price_gil": 250,
+    "new_price_gil": 1650,
+    "old_stats": {
+      "Range": 5,
+      "Power": 4,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 5,
+      "Power": 3,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Silver Bow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_03",
+    "name_fr": "Arc du guetteur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Attendre sans tirer réserve +10 % de précision au premier tir contre un ennemi ayant changé de hauteur depuis ce tour d’attente.",
+    "tradeoff_fr": "Réserve consommée, sans tir automatique.",
+    "old_price_gil": 250,
+    "new_price_gil": 2200,
+    "old_stats": {
+      "Range": 5,
+      "Power": 5,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 5,
+      "Power": 4,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Ice Bow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_04",
+    "name_fr": "Arc des marais",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Un tir depuis une case d’eau vers une cible sur terrain sec rend 4 MP à l’allié adjacent le plus pauvre en MP.",
+    "tradeoff_fr": "Une fois par tour ; aucune affinité Eau passive.",
+    "old_price_gil": 1800,
+    "new_price_gil": 3600,
+    "old_stats": {
+      "Range": 5,
+      "Power": 6,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 5,
+      "Power": 5,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Lightning Bow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_05",
+    "name_fr": "Arc du vent sec",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier tir sans élément contre une cible qui absorbe un élément donne +10 % de précision à la prochaine attaque physique alliée sur elle.",
+    "tradeoff_fr": "Une fois par bataille ; n’annule pas son absorption.",
+    "old_price_gil": 3600,
+    "new_price_gil": 6000,
+    "old_stats": {
+      "Range": 5,
+      "Power": 6,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 5,
+      "Power": 5,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Mythril Bow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_06",
+    "name_fr": "Arc de l'écorce rouge",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir été soigné sous 50 % de PV, le prochain tir dépose sur sa cible une marque retirant 5 MP à son prochain sort payé.",
+    "tradeoff_fr": "Une fois par bataille ; minimum 0 MP restant, pas de coût supplémentaire à crédit.",
+    "old_price_gil": 17000,
+    "new_price_gil": 10800,
+    "old_stats": {
+      "Range": 5,
+      "Power": 8,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 5,
+      "Power": 7,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Windslash Bow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_07",
+    "name_fr": "Arc des étoiles basses",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Un tir sur une cible plus haute consomme 3 MP pour préparer +10 % de dégâts au prochain sort de l’allié juste derrière le tireur.",
+    "tradeoff_fr": "Aucun bonus sans MP ou allié ; une fois par tour.",
+    "old_price_gil": 17000,
+    "new_price_gil": 29700,
+    "old_stats": {
+      "Range": 5,
+      "Power": 10,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 5,
+      "Power": 9,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Artemis Bow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_08",
+    "name_fr": "Arc du fauconnier",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Frapper une cible adjacente à un monstre allié donne à ce monstre 8 % de réduction sur son prochain dégât physique.",
+    "tradeoff_fr": "Une protection par tour ; aucune commande gratuite au monstre.",
+    "old_price_gil": 17000,
+    "new_price_gil": 29700,
+    "old_stats": {
+      "Range": 5,
+      "Power": 9,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 5,
+      "Power": 8,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Artemis Bow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_09",
+    "name_fr": "Horizon d'Orbonne",
+    "old_effect_fr": "Affinité lumière proposée ; portée et trajectoire de la référence conservées.",
+    "new_effect_fr": "Le premier tir sur un ennemi sans allié adjacent applique une marque qui révèle ses résistances et lui réserve -15 % sur son prochain soin tant qu’il reste isolé.",
+    "tradeoff_fr": "Une fois par bataille ; marque disparaît si un allié adverse le rejoint.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 5,
+      "Power": 11,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 5,
+      "Power": 9,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Yoichi Bow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_10",
+    "name_fr": "Le Fil du destin",
+    "old_effect_fr": "Une attaque depuis une hauteur supérieure gagne 10 % de dégâts ; plafonné à une application par action.",
+    "new_effect_fr": "Mémorise le premier ennemi touché : s’il reçoit ensuite un soin, le prochain tir du porteur sur lui retire 10 % de ce soin récent, plafond 30 dégâts supplémentaires.",
+    "tradeoff_fr": "Une fois par bataille ; ne peut pas produire un tir automatique.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 5,
+      "Power": 11,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 5,
+      "Power": 9,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Yoichi Bow",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_instrument_01",
+    "name_fr": "Harpe du carrefour",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier soutien musical touchant deux alliés de jobs différents donne à chacun 3 MP.",
+    "tradeoff_fr": "Une fois par bataille ; les doublons de job ne comptent pas.",
+    "old_price_gil": 250,
+    "new_price_gil": 5500,
+    "old_stats": {
+      "Range": 3,
+      "Power": 10,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 3,
+      "Power": 9,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Lamia's Harp",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_instrument_02",
+    "name_fr": "Cantique des pierres",
+    "old_effect_fr": "Réserve de MP modeste ; portée de l’instrument conservée.",
+    "new_effect_fr": "Deux soutiens musicaux sans déplacement préparent une réduction de 10 % du prochain coup physique des alliés qu’ils ont touchés en commun.",
+    "tradeoff_fr": "Une fois par bataille ; pas de protection des alliés hors de l’intersection.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 3,
+      "Power": 14,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 3,
+      "Power": 11,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Faerie Harp",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_instrument_03",
+    "name_fr": "Dernière chanson de Zelténnia",
+    "old_effect_fr": "Le premier chant de soutien de la bataille gagne une case de portée si le hook le permet ; aucune relance gratuite.",
+    "new_effect_fr": "Le premier chant après le KO d’un allié mémorise deux survivants : leur premier soin reçu après résurrection de cet allié gagne 20 %.",
+    "tradeoff_fr": "Une fois par bataille ; ne ressuscite pas et n’étend pas le chant.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 3,
+      "Power": 14,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 3,
+      "Power": 11,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Faerie Harp",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_book_01",
+    "name_fr": "Registre du voyageur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir utilisé une compétence différente de celle du tour précédent, réserve 2 MP pour le prochain sort de soutien du porteur.",
+    "tradeoff_fr": "Une réserve, coût final au moins 1 ; aucun crédit pour un sort offensif.",
+    "old_price_gil": 250,
+    "new_price_gil": 3300,
+    "old_stats": {
+      "Range": 3,
+      "Power": 7,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 3,
+      "Power": 6,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Battle Folio",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_book_02",
+    "name_fr": "Bestiaire des haies",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première attaque normale du porteur sur un monstre révèle ses résistances et donne +10 % de précision à la prochaine action de recrutement alliée contre lui.",
+    "tradeoff_fr": "Une fois par bataille ; ne recrute pas automatiquement.",
+    "old_price_gil": 8500,
+    "new_price_gil": 13500,
+    "old_stats": {
+      "Range": 3,
+      "Power": 8,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 3,
+      "Power": 7,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Papyrus Codex",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_book_03",
+    "name_fr": "Chronique des ruines",
+    "old_effect_fr": "Résistance à Confusion et +1 puissance magique proposée.",
+    "new_effect_fr": "Après avoir subi Terre puis Vent, le prochain sort de soutien payé peut restituer 5 MP à sa cible principale.",
+    "tradeoff_fr": "Une fois par bataille ; les deux éléments doivent avoir réellement causé des dégâts.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 3,
+      "Power": 10,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 3,
+      "Power": 8,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Omnilex",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_book_04",
+    "name_fr": "Le Livre sans auteur",
+    "old_effect_fr": "Réduit le coût MP du premier sort payé de 20 %, arrondi au supérieur ; aucun remboursement ni boucle.",
+    "new_effect_fr": "Le premier sort payé du porteur après qu’un allié a utilisé la même compétence sur une autre cible coûte 25 % de MP en moins.",
+    "tradeoff_fr": "Une fois par bataille ; aucune copie de compétence ni remboursement.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 3,
+      "Power": 10,
+      "Evasion": 15
+    },
+    "new_stats": {
+      "Range": 3,
+      "Power": 8,
+      "Evasion": 15
+    },
+    "baseline_name_en": "Omnilex",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_01",
+    "name_fr": "Lance du gué",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une frappe de lance contre un ennemi adjacent à un allié sur terrain d’eau donne à cet allié +8 esquive physique contre cet ennemi.",
+    "tradeoff_fr": "Une protection par tour ; expire au tour suivant.",
+    "old_price_gil": 250,
+    "new_price_gil": 2200,
+    "old_stats": {
+      "Range": 2,
+      "Power": 9,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 8,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Spear",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_02",
+    "name_fr": "Pique du paysan libre",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Frapper une cible ayant plus de PV maximum que le porteur lui retire une marque temporaire offensive issue d’un nouvel équipement.",
+    "tradeoff_fr": "Une fois par bataille ; ne retire aucun bonus de job vanilla.",
+    "old_price_gil": 250,
+    "new_price_gil": 4950,
+    "old_stats": {
+      "Range": 2,
+      "Power": 9,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 8,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Mythril Spear",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_03",
+    "name_fr": "Lance du héron gris",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première frappe après une descente gagne +10 % de précision si la cible est plus basse que la case de départ du déplacement.",
+    "tradeoff_fr": "Une fois par bataille ; aucun saut automatique.",
+    "old_price_gil": 1800,
+    "new_price_gil": 8400,
+    "old_stats": {
+      "Range": 2,
+      "Power": 11,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 10,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Partisan",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_04",
+    "name_fr": "Pertuisane de garde",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Frapper depuis la même case sur deux tours prépare une réduction de 10 % du prochain dégât subi depuis un ennemi différent de la cible frappée.",
+    "tradeoff_fr": "Une fois par bataille ; disparaît au déplacement.",
+    "old_price_gil": 1800,
+    "new_price_gil": 12000,
+    "old_stats": {
+      "Range": 2,
+      "Power": 12,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 11,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Obelisk",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_05",
+    "name_fr": "Lance des hautes neiges",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir reçu Glace, une frappe normale contre une cible plus haute donne au porteur +1 saut au prochain déplacement et retire ce souvenir de Glace.",
+    "tradeoff_fr": "Une fois par bataille ; aucun bonus de dégâts de Glace.",
+    "old_price_gil": 17000,
+    "new_price_gil": 48600,
+    "old_stats": {
+      "Range": 2,
+      "Power": 13,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 11,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Holy Lance",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_06",
+    "name_fr": "Lance de la nef",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Frapper sans aucun allié adjacent place une réserve de 8 MP, transmise au premier allié finissant son tour adjacent avant le prochain tour du porteur.",
+    "tradeoff_fr": "Une fois par bataille ; réserve perdue si personne ne rejoint le porteur.",
+    "old_price_gil": 17000,
+    "new_price_gil": 59400,
+    "old_stats": {
+      "Range": 2,
+      "Power": 17,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 15,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Dragon Whisker",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_07",
+    "name_fr": "Étendard du ciel vide",
+    "old_effect_fr": "Résistance à Immobilisation ; portée de lance conservée.",
+    "new_effect_fr": "Une frappe normale depuis la plus haute case occupée par l’équipe donne aux deux alliés les plus bas 10 % de réduction contre leur prochain coup à distance.",
+    "tradeoff_fr": "Une fois par bataille ; pas de couverture générale.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 2,
+      "Power": 16,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 13,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Dragon Whisker",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_08",
+    "name_fr": "Le Dernier rempart",
+    "old_effect_fr": "Une attaque contre une cible située plus haut gagne 10 % de dégâts ; aucun saut automatique.",
+    "new_effect_fr": "Après qu’un allié adjacent tombe KO, la prochaine frappe normale donne 15 % de réduction physique au prochain allié qui occupe sa case.",
+    "tradeoff_fr": "Une fois par bataille ; la case doit rester accessible ; pas de déplacement forcé.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 2,
+      "Power": 15,
+      "Evasion": 10
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 12,
+      "Evasion": 10
+    },
+    "baseline_name_en": "Dragon Whisker",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_01",
+    "name_fr": "Perche d'orme",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une attaque réussie après un déplacement exact d’une case prépare +5 esquive magique contre le prochain sort visant le porteur.",
+    "tradeoff_fr": "Expire au prochain tour ; une fois par tour.",
+    "old_price_gil": 250,
+    "new_price_gil": 1550,
+    "old_stats": {
+      "Range": 2,
+      "Power": 7,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 6,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Battle Bamboo",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_02",
+    "name_fr": "Perche du batelier",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Traverser une case d’eau puis frapper depuis une case sèche rend 6 PV au porteur.",
+    "tradeoff_fr": "Une fois par tour ; pas d’effet en restant dans l’eau.",
+    "old_price_gil": 250,
+    "new_price_gil": 2650,
+    "old_stats": {
+      "Range": 2,
+      "Power": 7,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 6,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Musk Pole",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_03",
+    "name_fr": "Perche du marcheur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après deux tours avec mouvement, finir un tour sans mouvement rend 5 MP au porteur.",
+    "tradeoff_fr": "Une fois par bataille ; aucune récupération à chaque attente.",
+    "old_price_gil": 1800,
+    "new_price_gil": 4800,
+    "old_stats": {
+      "Range": 2,
+      "Power": 9,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 8,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Iron Fan",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_04",
+    "name_fr": "Hampe du géomètre",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une frappe avec deux alliés situés à égale distance du porteur leur donne +5 précision sur leur prochaine action physique.",
+    "tradeoff_fr": "Une fois par bataille ; une paire seulement.",
+    "old_price_gil": 1800,
+    "new_price_gil": 9000,
+    "old_stats": {
+      "Range": 2,
+      "Power": 10,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 9,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Gokuu's Pole",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_05",
+    "name_fr": "Perche du torrent",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir subi Vent, la prochaine attaque normale depuis une hauteur différente de sa case précédente gagne 10 % de dégâts.",
+    "tradeoff_fr": "Une fois par bataille ; pas de poussée automatique.",
+    "old_price_gil": 17000,
+    "new_price_gil": 13500,
+    "old_stats": {
+      "Range": 2,
+      "Power": 10,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 9,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Ivory Pole",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_06",
+    "name_fr": "Perche des racines",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Frapper sans mouvement depuis deux tours réserve +10 % de puissance au prochain soin direct reçu tant que le porteur reste sur cette case.",
+    "tradeoff_fr": "Une fois par bataille ; disparaît au déplacement.",
+    "old_price_gil": 17000,
+    "new_price_gil": 27000,
+    "old_stats": {
+      "Range": 2,
+      "Power": 12,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 10,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Eight-fluted Pole",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_07",
+    "name_fr": "Axe du monde",
+    "old_effect_fr": "Esquive d’arme renforcée ; formule de la perche conservée.",
+    "new_effect_fr": "Après avoir frappé depuis trois hauteurs distinctes, donne 10 MP au porteur et 5 MP à son allié le plus proche.",
+    "tradeoff_fr": "Une fois par bataille ; pas de modification globale du terrain.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 2,
+      "Power": 11,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 9,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Eight-fluted Pole",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_08",
+    "name_fr": "La Branche immobile",
+    "old_effect_fr": "Réduit de 15 % les dégâts d’une attaque physique si le porteur n’a pas bougé depuis son dernier tour.",
+    "new_effect_fr": "Trois tours sans changement de case préparent une annulation du prochain bonus de dégâts venant d’un nouvel équipement ennemi contre le porteur.",
+    "tradeoff_fr": "Une fois par bataille ; les dégâts de base et compétences restent actifs.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 2,
+      "Power": 11,
+      "Evasion": 20
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 9,
+      "Evasion": 20
+    },
+    "baseline_name_en": "Eight-fluted Pole",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bag_01",
+    "name_fr": "Sac de colporteur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier consommable utilisé sur un allié de job différent du porteur rend aussi 5 PV à un second allié adjacent.",
+    "tradeoff_fr": "Une fois par bataille ; le deuxième soin ne déclenche aucun effet d’objet.",
+    "old_price_gil": 250,
+    "new_price_gil": 58300,
+    "old_stats": {
+      "Range": 1,
+      "Power": 10,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 9,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Catskin Bag",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bag_02",
+    "name_fr": "Bourse des contrebandiers",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après une attaque normale de dos, le prochain consommable de soin utilisé par le porteur sur un allié retire aussi Aveuglement.",
+    "tradeoff_fr": "Une fois par bataille ; aucun objet volé ou dupliqué.",
+    "old_price_gil": 8500,
+    "new_price_gil": 78300,
+    "old_stats": {
+      "Range": 1,
+      "Power": 13,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 11,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Hardscale Bag",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bag_03",
+    "name_fr": "Besace du marché ancien",
+    "old_effect_fr": "Résistance à Charme ; puissance de référence modérée.",
+    "new_effect_fr": "Utiliser trois catégories différentes de consommables dans une bataille accorde 10 MP à un allié choisi lors du troisième usage.",
+    "tradeoff_fr": "Une fois par bataille ; les trois exemplaires sont réellement consommés.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 19,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 16,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Fallingstar Bag",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bag_04",
+    "name_fr": "Le Dernier denier",
+    "old_effect_fr": "Réduit de 15 % les dégâts d’une attaque venant de face ; aucun gain d’argent en combat.",
+    "new_effect_fr": "Le premier objet de soin utilisé après que le porteur a réanimé un allié rend 20 PV à un autre allié adjacent à cette cible.",
+    "tradeoff_fr": "Une fois par bataille ; aucun gain d’argent ni duplication d’objet.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 1,
+      "Power": 18,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 1,
+      "Power": 15,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Fallingstar Bag",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloth_01",
+    "name_fr": "Étoffe du col",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Une attaque normale depuis une case de hauteur plus basse que deux alliés vivants donne au porteur 8 % de réduction magique sur le prochain sort.",
+    "tradeoff_fr": "Une fois par tour ; ne change pas les esquives.",
+    "old_price_gil": 250,
+    "new_price_gil": 7700,
+    "old_stats": {
+      "Range": 2,
+      "Power": 8,
+      "Evasion": 50
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 7,
+      "Evasion": 50
+    },
+    "baseline_name_en": "Damask Cloth",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloth_02",
+    "name_fr": "Voile du vieux sanctuaire",
+    "old_effect_fr": "Résistance à Silence et esquive d’arme modérée.",
+    "new_effect_fr": "Après la suppression d’un statut négatif du porteur, le premier soin qu’il lance vers un allié souffrant du même statut coûte 20 % de MP en moins.",
+    "tradeoff_fr": "Une fois par bataille ; ne soigne pas ce statut automatiquement.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 2,
+      "Power": 14,
+      "Evasion": 50
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 11,
+      "Evasion": 50
+    },
+    "baseline_name_en": "Wyrmweave Silk",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloth_03",
+    "name_fr": "Linceul de l'oubli",
+    "old_effect_fr": "Annule la première application de Poison, Aveuglement, Silence ou Lenteur par bataille ; hors boss et hors KO.",
+    "new_effect_fr": "La première attaque non létale sur un ennemi retire sa dernière marque temporaire provenant d’un nouvel équipement et efface les marques offensives du porteur en contrepartie.",
+    "tradeoff_fr": "Une fois par bataille ; n’efface aucun statut vanilla.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 2,
+      "Power": 14,
+      "Evasion": 50
+    },
+    "new_stats": {
+      "Range": 2,
+      "Power": 11,
+      "Evasion": 50
+    },
+    "baseline_name_en": "Wyrmweave Silk",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_01",
+    "name_fr": "Rondache de levée",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première attaque frontale reçue alors qu’un allié blessé est adjacent est réduite de 10 %.",
+    "tradeoff_fr": "Une fois par bataille ; aucun transfert de dégâts.",
+    "old_price_gil": 250,
+    "new_price_gil": 11000,
+    "old_stats": {
+      "PhysicalEvasion": 10,
+      "MagicalEvasion": 50
+    },
+    "new_stats": {
+      "PhysicalEvasion": 10,
+      "MagicalEvasion": 50
+    },
+    "baseline_name_en": "Aegis Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_02",
+    "name_fr": "Écu du charretier",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un déplacement de trois cases ou plus, réduit de 8 % le prochain projectile reçu jusqu’au prochain tour.",
+    "tradeoff_fr": "Ne couvre pas les sorts ; une activation par tour.",
+    "old_price_gil": 250,
+    "new_price_gil": 775,
+    "old_stats": {
+      "PhysicalEvasion": 12,
+      "MagicalEvasion": 3
+    },
+    "new_stats": {
+      "PhysicalEvasion": 12,
+      "MagicalEvasion": 3
+    },
+    "baseline_name_en": "Buckler",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_03",
+    "name_fr": "Bouclier du gué",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après être entré dans l’eau, la première attaque reçue rend 5 MP au porteur.",
+    "tradeoff_fr": "Une fois par bataille ; aucun déclenchement hors de l’eau.",
+    "old_price_gil": 250,
+    "new_price_gil": 1325,
+    "old_stats": {
+      "PhysicalEvasion": 16,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 16,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Bronze Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_04",
+    "name_fr": "Écu des collines",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Attendre en contrebas d’un ennemi accorde 10 PV à un allié adjacent situé plus haut.",
+    "tradeoff_fr": "Une fois par bataille ; aucune auto-guérison.",
+    "old_price_gil": 250,
+    "new_price_gil": 1750,
+    "old_stats": {
+      "PhysicalEvasion": 19,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 19,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Round Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_05",
+    "name_fr": "Rondache du péager",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier ennemi qui frappe deux fois le porteur est marqué : le prochain soin du porteur sur un allié adjacent à cet ennemi rend 15 PV supplémentaires.",
+    "tradeoff_fr": "Une fois par bataille ; expire au prochain tour du porteur, aucun soin à l’ennemi.",
+    "old_price_gil": 3600,
+    "new_price_gil": 3000,
+    "old_stats": {
+      "PhysicalEvasion": 21,
+      "MagicalEvasion": 5
+    },
+    "new_stats": {
+      "PhysicalEvasion": 21,
+      "MagicalEvasion": 5
+    },
+    "baseline_name_en": "Mythril Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_06",
+    "name_fr": "Bouclier de route",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Changer d’orientation sans changer de case réserve 8 % de réduction au prochain coup venant de la nouvelle face avant.",
+    "tradeoff_fr": "Une fois par bataille ; perdue au déplacement.",
+    "old_price_gil": 3600,
+    "new_price_gil": 3000,
+    "old_stats": {
+      "PhysicalEvasion": 22,
+      "MagicalEvasion": 5
+    },
+    "new_stats": {
+      "PhysicalEvasion": 22,
+      "MagicalEvasion": 5
+    },
+    "baseline_name_en": "Mythril Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_07",
+    "name_fr": "Écu du pont vieux",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Un allié adjacent qui n’a pas bougé depuis son dernier tour reçoit 8 % de réduction sur sa prochaine attaque physique subie lorsque le porteur attend.",
+    "tradeoff_fr": "Une fois par bataille ; un seul allié choisi.",
+    "old_price_gil": 3600,
+    "new_price_gil": 4200,
+    "old_stats": {
+      "PhysicalEvasion": 25,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 25,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Golden Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_08",
+    "name_fr": "Bouclier des braises",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir subi du feu, le prochain soin reçu restitue aussi 6 MP au porteur.",
+    "tradeoff_fr": "Une fois par bataille ; aucun soin à la réception du feu.",
+    "old_price_gil": 3600,
+    "new_price_gil": 7200,
+    "old_stats": {
+      "PhysicalEvasion": 27,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 27,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Ice Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_09",
+    "name_fr": "Écu du ressac",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir subi une attaque depuis une case plus haute, le premier soin lancé sur un allié en hauteur gagne 10 % de PV rendus.",
+    "tradeoff_fr": "Une fois par bataille ; pas de bonus sur le porteur.",
+    "old_price_gil": 5400,
+    "new_price_gil": 7800,
+    "old_stats": {
+      "PhysicalEvasion": 31,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 31,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Flame Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_10",
+    "name_fr": "Bouclier de la gelée",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Subir de la glace prépare une réduction de 12 % sur le prochain coup physique frontal.",
+    "tradeoff_fr": "Une fois par bataille ; expire au prochain tour du porteur.",
+    "old_price_gil": 25500,
+    "new_price_gil": 16200,
+    "old_stats": {
+      "PhysicalEvasion": 34,
+      "MagicalEvasion": 15
+    },
+    "new_stats": {
+      "PhysicalEvasion": 34,
+      "MagicalEvasion": 15
+    },
+    "baseline_name_en": "Diamond Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_11",
+    "name_fr": "Écu de l'atelier",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier consommable de soin reçu après trois attaques frontales rend 20 PV supplémentaires.",
+    "tradeoff_fr": "Une fois par bataille ; seuls les coups qui infligent des dégâts comptent.",
+    "old_price_gil": 25500,
+    "new_price_gil": 21600,
+    "old_stats": {
+      "PhysicalEvasion": 36,
+      "MagicalEvasion": 10
+    },
+    "new_stats": {
+      "PhysicalEvasion": 36,
+      "MagicalEvasion": 10
+    },
+    "baseline_name_en": "Platinum Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_12",
+    "name_fr": "Bouclier du chœur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après qu’un allié adjacent a lancé un soin, le premier sort de soin du porteur sur cet allié coûte 15 % de MP en moins.",
+    "tradeoff_fr": "Une fois par bataille ; aucune réduction cumulée.",
+    "old_price_gil": 25500,
+    "new_price_gil": 21600,
+    "old_stats": {
+      "PhysicalEvasion": 37,
+      "MagicalEvasion": 10
+    },
+    "new_stats": {
+      "PhysicalEvasion": 37,
+      "MagicalEvasion": 10
+    },
+    "baseline_name_en": "Platinum Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_13",
+    "name_fr": "Écu des trois murailles",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Recevoir successivement une attaque physique, un sort puis un projectile réserve 20 % de réduction au prochain coup.",
+    "tradeoff_fr": "Une fois par bataille ; l’ordre compte et aucun coup n’est annulé.",
+    "old_price_gil": 34000,
+    "new_price_gil": 28350,
+    "old_stats": {
+      "PhysicalEvasion": 40,
+      "MagicalEvasion": 15
+    },
+    "new_stats": {
+      "PhysicalEvasion": 40,
+      "MagicalEvasion": 15
+    },
+    "baseline_name_en": "Crystal Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_14",
+    "name_fr": "Bouclier du roi oublié",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Si tous les autres alliés vivants sont plus blessés en proportion que le porteur, sa prochaine attaque frontale subie est réduite de 15 %.",
+    "tradeoff_fr": "Une fois par bataille ; aucune protection permanente.",
+    "old_price_gil": 34000,
+    "new_price_gil": 50,
+    "old_stats": {
+      "PhysicalEvasion": 42,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 42,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Genji Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_15",
+    "name_fr": "Porte de Bervénia",
+    "old_effect_fr": "Esquive physique de fin de progression et résistance feu ; compromis en esquive magique.",
+    "new_effect_fr": "Attendre avec deux alliés adjacents répartit une réserve de 30 PV de soin entre leurs prochains soins reçus.",
+    "tradeoff_fr": "Une fois par bataille ; 15 PV chacun, expire au prochain tour du porteur.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 48,
+      "MagicalEvasion": 25
+    },
+    "new_stats": {
+      "PhysicalEvasion": 48,
+      "MagicalEvasion": 25
+    },
+    "baseline_name_en": "Venetian Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_16",
+    "name_fr": "Le Refus",
+    "old_effect_fr": "Réduit de 20 % le premier coup reçu de face par bataille ; aucune protection de toute l’équipe.",
+    "new_effect_fr": "Après deux tours consécutifs sans attaquer, annule le prochain bonus offensif issu d’un nouvel équipement contre un allié adjacent choisi.",
+    "tradeoff_fr": "Une fois par bataille ; les dégâts de base restent actifs.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 41,
+      "MagicalEvasion": 20
+    },
+    "new_stats": {
+      "PhysicalEvasion": 41,
+      "MagicalEvasion": 20
+    },
+    "baseline_name_en": "Kaiser Shield",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_01",
+    "name_fr": "Casque de recrue",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première attente après une attaque ratée réserve +8 % de précision à la prochaine attaque normale.",
+    "tradeoff_fr": "Une fois par bataille ; aucun gain immédiat.",
+    "old_price_gil": 250,
+    "new_price_gil": 550,
+    "old_stats": {
+      "HPBonus": 20,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 19,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Bronze Helm",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_02",
+    "name_fr": "Heaume du gué",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un déplacement depuis l’eau vers la terre, le premier coup reçu de côté est réduit de 10 %.",
+    "tradeoff_fr": "Une fois par bataille ; expire au prochain tour.",
+    "old_price_gil": 250,
+    "new_price_gil": 1100,
+    "old_stats": {
+      "HPBonus": 29,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 27,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Iron Helm",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_03",
+    "name_fr": "Casque des marches",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Au troisième tour consécutif avec déplacement, rend 10 PV ; une attente immobile remet le compteur à zéro.",
+    "tradeoff_fr": "Une fois par bataille ; aucune régénération passive.",
+    "old_price_gil": 250,
+    "new_price_gil": 1650,
+    "old_stats": {
+      "HPBonus": 40,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 38,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Barbut",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_04",
+    "name_fr": "Salade du guetteur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier ennemi qui blesse un allié adjacent devient une cible signalée : la prochaine attaque normale du porteur contre lui gagne 10 % de précision.",
+    "tradeoff_fr": "Une fois par bataille ; expire après deux tours du porteur.",
+    "old_price_gil": 1800,
+    "new_price_gil": 2525,
+    "old_stats": {
+      "HPBonus": 50,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 46,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Mythril Helm",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_05",
+    "name_fr": "Heaume du péager",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après deux attaques subies du même ennemi, le prochain consommable de soin reçu coûte son exemplaire normalement mais rend aussi 8 MP.",
+    "tradeoff_fr": "Une fois par bataille ; pas de remboursement d’objet.",
+    "old_price_gil": 3600,
+    "new_price_gil": 2525,
+    "old_stats": {
+      "HPBonus": 49,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 45,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Mythril Helm",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_06",
+    "name_fr": "Casque des fournaises",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier sort de feu subi réserve +10 % de précision à la prochaine attaque physique.",
+    "tradeoff_fr": "Une fois par bataille ; le feu inflige ses dégâts normalement.",
+    "old_price_gil": 3600,
+    "new_price_gil": 3350,
+    "old_stats": {
+      "HPBonus": 60,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 55,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Golden Helm",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_07",
+    "name_fr": "Heaume du col blanc",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un soin reçu sur une case plus haute que le soigneur, réduit de 10 % le prochain dégât magique reçu.",
+    "tradeoff_fr": "Une fois par bataille ; expire au prochain tour du porteur.",
+    "old_price_gil": 3600,
+    "new_price_gil": 4800,
+    "old_stats": {
+      "HPBonus": 70,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 64,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Close Helmet",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_08",
+    "name_fr": "Casque du connétable",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier allié de même job soigné par le porteur gagne 8 % de précision sur sa prochaine attaque normale.",
+    "tradeoff_fr": "Une fois par bataille ; aucun bonus au porteur.",
+    "old_price_gil": 17000,
+    "new_price_gil": 8100,
+    "old_stats": {
+      "HPBonus": 79,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 71,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Diamond Helm",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_09",
+    "name_fr": "Heaume des remparts",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après une attaque frontale subie, changer de cible à son prochain tour réserve 10 PV au prochain soin reçu.",
+    "tradeoff_fr": "Une fois par bataille ; ne se déclenche pas sur une riposte.",
+    "old_price_gil": 25500,
+    "new_price_gil": 10800,
+    "old_stats": {
+      "HPBonus": 90,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 81,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Platinum Helm",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_10",
+    "name_fr": "Casque du soleil terne",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier coup reçu alors que les MP sont à zéro est réduit de 15 %.",
+    "tradeoff_fr": "Une fois par bataille ; aucun retour de MP automatique.",
+    "old_price_gil": 25500,
+    "new_price_gil": 13500,
+    "old_stats": {
+      "HPBonus": 100,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 90,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Circlet",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_11",
+    "name_fr": "Heaume de l'audience",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir utilisé une action sans dégâts sur un ennemi, la prochaine attaque de cet ennemi contre le porteur est réduite de 10 %.",
+    "tradeoff_fr": "Une fois par bataille ; expire au prochain tour ennemi.",
+    "old_price_gil": 25500,
+    "new_price_gil": 18900,
+    "old_stats": {
+      "HPBonus": 119,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 107,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Crystal Helm",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_12",
+    "name_fr": "Couronne de fer de Gallionne",
+    "old_effect_fr": "Résistance à Confusion ; PV inférieurs au meilleur casque vanilla.",
+    "new_effect_fr": "Après trois ennemis différents affrontés, le prochain soin reçu est partagé : 20 % de ses PV rendus sont accordés à un allié adjacent choisi.",
+    "tradeoff_fr": "Une fois par bataille ; copie plafonnée à 30 PV, sans cascade.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "HPBonus": 124,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 105,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Genji Helm",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_13",
+    "name_fr": "Le Visage fermé",
+    "old_effect_fr": "Résistance à Silence et Charme ; perte de 10 % des PV de la référence, aucun bonus de vitesse.",
+    "new_effect_fr": "La première attaque de dos reçue après une attente sans déplacement devient une dette : le prochain soin reçu gagne la moitié de ces dégâts, plafonnée à 40 PV.",
+    "tradeoff_fr": "Une fois par bataille ; aucune annulation du coup initial.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "HPBonus": 108,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 91,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Crystal Helm",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_01",
+    "name_fr": "Bonnet de voyage",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier soin lancé après avoir parcouru quatre cases en deux tours rend 10 PV de plus.",
+    "tradeoff_fr": "Une fois par bataille ; déplacement forcé exclu.",
+    "old_price_gil": 250,
+    "new_price_gil": 375,
+    "old_stats": {
+      "HPBonus": 16,
+      "MPBonus": 5
+    },
+    "new_stats": {
+      "HPBonus": 15,
+      "MPBonus": 4
+    },
+    "baseline_name_en": "Plumed Hat",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_02",
+    "name_fr": "Chapeau des haies",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Lancer un sort depuis la végétation prépare +10 % de précision au prochain contrôle du porteur sur une autre cible.",
+    "tradeoff_fr": "Une fois par bataille ; aucune augmentation des dégâts.",
+    "old_price_gil": 250,
+    "new_price_gil": 875,
+    "old_stats": {
+      "HPBonus": 23,
+      "MPBonus": 8
+    },
+    "new_stats": {
+      "HPBonus": 21,
+      "MPBonus": 7
+    },
+    "baseline_name_en": "Red Hood",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_03",
+    "name_fr": "Capuche du relais",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier sort payé après un consommable utilisé sur un allié coûte 3 MP de moins.",
+    "tradeoff_fr": "Une fois par bataille ; coût minimal de 1 MP.",
+    "old_price_gil": 250,
+    "new_price_gil": 875,
+    "old_stats": {
+      "HPBonus": 24,
+      "MPBonus": 8
+    },
+    "new_stats": {
+      "HPBonus": 22,
+      "MPBonus": 7
+    },
+    "baseline_name_en": "Red Hood",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_04",
+    "name_fr": "Béret du cartographe",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir occupé trois hauteurs distinctes, le prochain sort de soutien à cible unique rend aussi 5 MP à sa cible.",
+    "tradeoff_fr": "Une fois par bataille ; pas de gain sur le porteur.",
+    "old_price_gil": 250,
+    "new_price_gil": 1325,
+    "old_stats": {
+      "HPBonus": 32,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 30,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Headgear",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_05",
+    "name_fr": "Chapeau de l'apothicaire",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après deux antidotes donnés à deux alliés différents, la prochaine application de Poison sur le porteur ne peut produire qu’un seul dégât périodique avant d’être retirée.",
+    "tradeoff_fr": "Une fois par bataille ; timing du statut à valider, aucun effet sur un Poison déjà présent.",
+    "old_price_gil": 3600,
+    "new_price_gil": 2150,
+    "old_stats": {
+      "HPBonus": 39,
+      "MPBonus": 12
+    },
+    "new_stats": {
+      "HPBonus": 35,
+      "MPBonus": 11
+    },
+    "baseline_name_en": "Wizard's Hat",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_06",
+    "name_fr": "Coiffe du chapelain",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Soigner un allié qui vient de réanimer quelqu’un rend 6 MP au porteur.",
+    "tradeoff_fr": "Une fois par bataille ; aucune prime sur une réanimation personnelle.",
+    "old_price_gil": 3600,
+    "new_price_gil": 2150,
+    "old_stats": {
+      "HPBonus": 40,
+      "MPBonus": 12
+    },
+    "new_stats": {
+      "HPBonus": 36,
+      "MPBonus": 11
+    },
+    "baseline_name_en": "Wizard's Hat",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_07",
+    "name_fr": "Capuche de brume",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier sort lancé après avoir rompu l’adjacence avec deux ennemis coûte 15 % de MP en moins.",
+    "tradeoff_fr": "Une fois par bataille ; pas de téléportation ni d’invisibilité.",
+    "old_price_gil": 3600,
+    "new_price_gil": 3600,
+    "old_stats": {
+      "HPBonus": 48,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 44,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Green Beret",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_08",
+    "name_fr": "Béret du mécaniste",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un projectile allié raté à proximité, le prochain projectile du porteur sur cette cible gagne 10 % de précision.",
+    "tradeoff_fr": "Une fois par bataille ; pas de modification d’arme vanilla.",
+    "old_price_gil": 3600,
+    "new_price_gil": 6000,
+    "old_stats": {
+      "HPBonus": 55,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 50,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Headband",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_09",
+    "name_fr": "Chapeau du conteur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Utiliser trois compétences différentes sur trois alliés différents rend 12 MP au porteur.",
+    "tradeoff_fr": "Une fois par bataille ; objets exclus.",
+    "old_price_gil": 25500,
+    "new_price_gil": 8100,
+    "old_stats": {
+      "HPBonus": 64,
+      "MPBonus": 20
+    },
+    "new_stats": {
+      "HPBonus": 57,
+      "MPBonus": 18
+    },
+    "baseline_name_en": "Celebrant's Miter",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_10",
+    "name_fr": "Coiffe des veillées",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier soin lancé après deux attentes immobiles retire aussi la dernière marque négative d’un nouvel équipement de sa cible.",
+    "tradeoff_fr": "Une fois par bataille ; ne retire pas les statuts vanilla.",
+    "old_price_gil": 25500,
+    "new_price_gil": 8100,
+    "old_stats": {
+      "HPBonus": 64,
+      "MPBonus": 20
+    },
+    "new_stats": {
+      "HPBonus": 57,
+      "MPBonus": 18
+    },
+    "baseline_name_en": "Celebrant's Miter",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_11",
+    "name_fr": "Capuche des constellations",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après trois sorts sur trois directions différentes, le prochain sort payé reçoit un crédit de 8 MP.",
+    "tradeoff_fr": "Une fois par bataille ; coût minimal 1, orientations à valider.",
+    "old_price_gil": 25500,
+    "new_price_gil": 9450,
+    "old_stats": {
+      "HPBonus": 71,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 63,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Black Cowl",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_12",
+    "name_fr": "Chapeau du dernier maître",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après deux échecs de contrôle sur des ennemis différents, le troisième contrôle sur une nouvelle cible gagne 15 % de précision.",
+    "tradeoff_fr": "Une fois par bataille ; aucune réussite garantie.",
+    "old_price_gil": 25500,
+    "new_price_gil": 16200,
+    "old_stats": {
+      "HPBonus": 80,
+      "MPBonus": 50
+    },
+    "new_stats": {
+      "HPBonus": 72,
+      "MPBonus": 45
+    },
+    "baseline_name_en": "Gold Hairpin",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_13",
+    "name_fr": "Mitraille de soie",
+    "old_effect_fr": "Résistance à Silence ; réserve de MP, sans bonus de vitesse.",
+    "new_effect_fr": "Le premier soin reçu alors qu’un sort du porteur est en attente de résolution réserve 12 % de réduction au prochain sort reçu.",
+    "tradeoff_fr": "Une fois par bataille ; ne raccourcit aucune charge.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "HPBonus": 84,
+      "MPBonus": 15
+    },
+    "new_stats": {
+      "HPBonus": 71,
+      "MPBonus": 12
+    },
+    "baseline_name_en": "Lambent Hat",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_14",
+    "name_fr": "La Coiffe du témoin",
+    "old_effect_fr": "Le premier sort de soutien visant un allié gagne 10 % de puissance si applicable ; pas d’effet sur les statuts fixes.",
+    "new_effect_fr": "Après avoir assisté à la mise hors combat de deux alliés, le prochain soin du porteur sur un survivant ajoute 25 PV et retire une marque négative d’équipement.",
+    "tradeoff_fr": "Une fois par bataille ; aucune résurrection automatique.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "HPBonus": 72,
+      "MPBonus": 50
+    },
+    "new_stats": {
+      "HPBonus": 61,
+      "MPBonus": 42
+    },
+    "baseline_name_en": "Gold Hairpin",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hair_adornment_01",
+    "name_fr": "Nœud des moissons",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier soin reçu après l’utilisation d’un consommable sur un allié augmente de 15 PV.",
+    "tradeoff_fr": "Une fois par bataille ; aucune régénération.",
+    "old_price_gil": 250,
+    "new_price_gil": 66000,
+    "old_stats": {
+      "HPBonus": 10,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 9,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Ribbon",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hair_adornment_02",
+    "name_fr": "Peigne des neuf vents",
+    "old_effect_fr": "Résistance à Charme et Confusion ; aucune immunité universelle.",
+    "new_effect_fr": "Trois déplacements dans trois directions différentes préparent +15 % de précision à la prochaine compétence de contrôle.",
+    "tradeoff_fr": "Une fois par bataille ; pas de modification de Vitesse.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "HPBonus": 19,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 16,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Barrette",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hair_adornment_03",
+    "name_fr": "Ruban de la reine absente",
+    "old_effect_fr": "Annule la première application de Silence par bataille ; ne soigne aucun autre statut.",
+    "new_effect_fr": "Lorsque le porteur relève un allié, cet allié garde une réserve de 20 PV pour son prochain soin reçu et le porteur perd 10 MP.",
+    "tradeoff_fr": "Une fois par bataille ; nécessite 10 MP, réserve expire après deux tours de l’allié.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "HPBonus": 18,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 15,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Barrette",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_01",
+    "name_fr": "Cuirasse de levée",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "La première attaque normale reçue après avoir attendu sans bouger est réduite de 8 %.",
+    "tradeoff_fr": "Une fois par bataille ; ne couvre pas les compétences.",
+    "old_price_gil": 250,
+    "new_price_gil": 650,
+    "old_stats": {
+      "HPBonus": 20,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 19,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Linen Cuirass",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_02",
+    "name_fr": "Haubert du gué",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier projectile reçu depuis une case d’eau est réduit de 12 %.",
+    "tradeoff_fr": "Une fois par bataille ; eau déterminée par le terrain réel.",
+    "old_price_gil": 250,
+    "new_price_gil": 875,
+    "old_stats": {
+      "HPBonus": 29,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 27,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Bronze Armor",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_03",
+    "name_fr": "Cuirasse des marches",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un coup subi, parcourir au moins deux cases puis frapper de face son agresseur donne +10 % de précision à cette attaque normale.",
+    "tradeoff_fr": "Une fois par bataille ; réserve perdue si une autre cible est attaquée.",
+    "old_price_gil": 250,
+    "new_price_gil": 1425,
+    "old_stats": {
+      "HPBonus": 40,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 38,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Chainmail",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_04",
+    "name_fr": "Armure du charretier",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Utiliser un objet sur un allié adjacent réserve 10 % de réduction au prochain dégât physique reçu.",
+    "tradeoff_fr": "Une fois par bataille ; aucun déclenchement sur soi.",
+    "old_price_gil": 250,
+    "new_price_gil": 2200,
+    "old_stats": {
+      "HPBonus": 50,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 47,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Mythril Armor",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_05",
+    "name_fr": "Haubert de garde",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier coup frontal reçu pendant qu’un allié adjacent a moins de 25 % de PV rend 5 MP au porteur.",
+    "tradeoff_fr": "Une fois par bataille ; pas d’interception de dégâts.",
+    "old_price_gil": 3600,
+    "new_price_gil": 2400,
+    "old_stats": {
+      "HPBonus": 49,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 45,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Mythril Armor",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_06",
+    "name_fr": "Cuirasse de grenat",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir perdu au moins un quart des PV maximaux en un coup, le prochain soin reçu gagne 20 % de PV rendus.",
+    "tradeoff_fr": "Une fois par bataille ; aucun soin instantané.",
+    "old_price_gil": 3600,
+    "new_price_gil": 3600,
+    "old_stats": {
+      "HPBonus": 60,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 55,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Plate Mail",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_07",
+    "name_fr": "Armure des forges",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Deux éléments magiques différents subis réservent 12 % de réduction au prochain dégât physique.",
+    "tradeoff_fr": "Une fois par bataille ; un même élément ne compte qu’une fois.",
+    "old_price_gil": 3600,
+    "new_price_gil": 4325,
+    "old_stats": {
+      "HPBonus": 70,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 64,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Golden Armor",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_08",
+    "name_fr": "Cuirasse des hautes neiges",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un sort de glace subi en hauteur, le prochain déplacement volontaire prépare 8 MP lors du prochain soin reçu.",
+    "tradeoff_fr": "Une fois par bataille ; nécessite une hauteur supérieure à celle de l’attaquant.",
+    "old_price_gil": 3600,
+    "new_price_gil": 7200,
+    "old_stats": {
+      "HPBonus": 79,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 72,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Diamond Armor",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_09",
+    "name_fr": "Armure du pont",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Attendre entre deux alliés adjacents réduit de 8 % leur prochaine attaque physique reçue chacun.",
+    "tradeoff_fr": "Une fois par bataille ; expire au prochain tour du porteur.",
+    "old_price_gil": 25500,
+    "new_price_gil": 12150,
+    "old_stats": {
+      "HPBonus": 90,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 81,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Platinum Armor",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_10",
+    "name_fr": "Haubert des trois serments",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir soigné, attaqué puis attendu dans cet ordre, le prochain coup reçu est réduit de 20 %.",
+    "tradeoff_fr": "Une fois par bataille ; l’ordre doit être respecté.",
+    "old_price_gil": 25500,
+    "new_price_gil": 17550,
+    "old_stats": {
+      "HPBonus": 100,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 90,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Carabineer Mail",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_11",
+    "name_fr": "Cuirasse de l'audience",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier ennemi qui rate une attaque frontale contre le porteur reçoit une marque : son prochain contrôle contre le porteur perd 10 % de précision.",
+    "tradeoff_fr": "Une fois par bataille ; pas d’immunité au contrôle.",
+    "old_price_gil": 25500,
+    "new_price_gil": 25650,
+    "old_stats": {
+      "HPBonus": 109,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 98,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Crystal Mail",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_12",
+    "name_fr": "Armure du veilleur rouge",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir subi un coup de dos, la première attaque frontale subie depuis une autre cible est réduite de 15 %.",
+    "tradeoff_fr": "Une fois par bataille ; ne couvre pas le premier assaillant.",
+    "old_price_gil": 25500,
+    "new_price_gil": 25650,
+    "old_stats": {
+      "HPBonus": 110,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 99,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Crystal Mail",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_13",
+    "name_fr": "Muraille de Lesalia",
+    "old_effect_fr": "Résistance à Immobilisation ; PV de fin de progression et MP nuls.",
+    "new_effect_fr": "Au troisième allié distinct soigné à côté du porteur, une réserve de 45 PV est distribuée en parts de 15 à leurs prochains soins reçus.",
+    "tradeoff_fr": "Une fois par bataille ; le porteur ne reçoit aucune part.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "HPBonus": 142,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 120,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Genji Armor",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_14",
+    "name_fr": "Le Corps du serment",
+    "old_effect_fr": "Réduit de 10 % les dégâts physiques venant de face ; PV abaissés de 15 %, pas de cumul avec le bouclier unique.",
+    "new_effect_fr": "La première fois qu’un allié adjacent tombe hors combat, la prochaine attaque du porteur sur le responsable gagne 20 % de dégâts mais son prochain soin reçu perd 20 % de puissance.",
+    "tradeoff_fr": "Une fois par bataille ; aucun ciblage forcé ni résurrection.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "HPBonus": 110,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 93,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Mirror Mail",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_01",
+    "name_fr": "Veste de voyage",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après deux tours où le porteur utilise un objet sur deux alliés différents, rend 8 MP au porteur.",
+    "tradeoff_fr": "Une fois par bataille ; objets réellement consommés.",
+    "old_price_gil": 250,
+    "new_price_gil": 325,
+    "old_stats": {
+      "HPBonus": 10,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 9,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Leather Clothing",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_02",
+    "name_fr": "Gilet des haies",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Sortir de la végétation avant une attaque normale ajoute 8 % de précision si la cible n’était pas adjacente au départ.",
+    "tradeoff_fr": "Une fois par bataille ; aucun bonus permanent d’esquive.",
+    "old_price_gil": 250,
+    "new_price_gil": 550,
+    "old_stats": {
+      "HPBonus": 17,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 16,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Leather Plate",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_03",
+    "name_fr": "Chemise du relais",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier soin lancé sur un allié qui a utilisé un objet sur le porteur rend 12 PV supplémentaires.",
+    "tradeoff_fr": "Une fois par bataille ; aucune copie d’objet.",
+    "old_price_gil": 250,
+    "new_price_gil": 550,
+    "old_stats": {
+      "HPBonus": 18,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 17,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Leather Plate",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_04",
+    "name_fr": "Veste du batelier",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Se déplacer d’une case terrestre vers l’eau puis soigner un allié terrestre rend aussi 5 MP à cet allié.",
+    "tradeoff_fr": "Une fois par bataille ; exige deux types de terrain.",
+    "old_price_gil": 250,
+    "new_price_gil": 50,
+    "old_stats": {
+      "HPBonus": 20,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 19,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Ninja Gear",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_05",
+    "name_fr": "Gilet du pisteur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Frapper le même ennemi depuis deux cases différentes réserve 10 % de précision à la prochaine action de contrôle contre lui.",
+    "tradeoff_fr": "Une fois par bataille ; expire au prochain tour du porteur.",
+    "old_price_gil": 3600,
+    "new_price_gil": 1075,
+    "old_stats": {
+      "HPBonus": 23,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 21,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Ringmail",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_06",
+    "name_fr": "Habit de poudrier",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier tir après un tour sans attaque réserve 10 % de réduction au prochain sort de feu reçu.",
+    "tradeoff_fr": "Une fois par bataille ; pas de réduction sur les autres éléments.",
+    "old_price_gil": 3600,
+    "new_price_gil": 1800,
+    "old_stats": {
+      "HPBonus": 30,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 27,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Mythril Vest",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_07",
+    "name_fr": "Veste de l'herboriste",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir guéri Poison chez un allié, le prochain objet de soin utilisé sur une autre cible rend 15 PV de plus.",
+    "tradeoff_fr": "Une fois par bataille ; pas de bonus sur l’antidote.",
+    "old_price_gil": 3600,
+    "new_price_gil": 1800,
+    "old_stats": {
+      "HPBonus": 30,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 27,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Mythril Vest",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_08",
+    "name_fr": "Habit de verre",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier sort reçu après un soin du porteur sur un ennemi est réduit de 20 %.",
+    "tradeoff_fr": "Une fois par bataille ; il faut réellement soigner l’ennemi.",
+    "old_price_gil": 3600,
+    "new_price_gil": 1925,
+    "old_stats": {
+      "HPBonus": 35,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 32,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Adamant Vest",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_09",
+    "name_fr": "Gilet du receleur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après une attaque de dos non létale, le prochain consommable utilisé sur un allié de job différent ajoute 6 MP.",
+    "tradeoff_fr": "Une fois par bataille ; aucun vol d’argent ou d’objet.",
+    "old_price_gil": 5400,
+    "new_price_gil": 2275,
+    "old_stats": {
+      "HPBonus": 42,
+      "MPBonus": 15
+    },
+    "new_stats": {
+      "HPBonus": 38,
+      "MPBonus": 13
+    },
+    "baseline_name_en": "Wizard Clothing",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_10",
+    "name_fr": "Veste du fauconnier",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un tir vers une cible plus haute, le prochain soin reçu depuis une cible plus basse gagne 15 PV.",
+    "tradeoff_fr": "Une fois par bataille ; aucun changement de portée.",
+    "old_price_gil": 25500,
+    "new_price_gil": 3375,
+    "old_stats": {
+      "HPBonus": 50,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 45,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Brigandine",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_11",
+    "name_fr": "Habit du cartographe",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Revenir volontairement sur sa case de départ de bataille réserve 8 MP au prochain sort de soutien lancé sur un allié.",
+    "tradeoff_fr": "Une fois par bataille ; pas de téléportation.",
+    "old_price_gil": 25500,
+    "new_price_gil": 3375,
+    "old_stats": {
+      "HPBonus": 49,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 44,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Brigandine",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_12",
+    "name_fr": "Veste des veillées",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Deux tours consécutifs sans dégâts infligés préparent +15 % au prochain soin sur un allié blessé à moins de 50 % de PV.",
+    "tradeoff_fr": "Une fois par bataille ; dégâts reçus autorisés.",
+    "old_price_gil": 25500,
+    "new_price_gil": 5400,
+    "old_stats": {
+      "HPBonus": 60,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 54,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Jujitsu Gi",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_13",
+    "name_fr": "Habit des vents contraires",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après deux attaques normales ratées depuis des orientations différentes, le prochain objet de soin reçu ajoute 20 PV.",
+    "tradeoff_fr": "Une fois par bataille ; pas de garantie au prochain coup.",
+    "old_price_gil": 34000,
+    "new_price_gil": 9450,
+    "old_stats": {
+      "HPBonus": 70,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 63,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Power Garb",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_14",
+    "name_fr": "Veste du chemin effacé",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier retour sur une case visitée retire une marque négative de nouvel équipement du porteur et efface une de ses marques offensives.",
+    "tradeoff_fr": "Une fois par bataille ; aucun statut vanilla retiré.",
+    "old_price_gil": 34000,
+    "new_price_gil": 9450,
+    "old_stats": {
+      "HPBonus": 69,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 62,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Power Garb",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_15",
+    "name_fr": "Manteau des trente chemins",
+    "old_effect_fr": "Résistance à Lenteur ; aucun bonus de vitesse permanent.",
+    "new_effect_fr": "Après cinq cases distinctes occupées volontairement, le prochain objet de soin du porteur touche aussi un allié adjacent à la cible pour 20 PV.",
+    "tradeoff_fr": "Une fois par bataille ; pas de duplication d’objet.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "HPBonus": 95,
+      "MPBonus": 0
+    },
+    "new_stats": {
+      "HPBonus": 80,
+      "MPBonus": 0
+    },
+    "baseline_name_en": "Black Garb",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_16",
+    "name_fr": "La Seconde peau",
+    "old_effect_fr": "La première attaque de dos reçue par bataille est réduite de 20 % ; ne confère pas d’invisibilité.",
+    "new_effect_fr": "Après avoir subi successivement une attaque normale, une compétence physique et un sort, le prochain soin reçu rend aussi 15 MP et annule les marques offensives du porteur.",
+    "tradeoff_fr": "Une fois par bataille ; les trois types sont nécessaires.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "HPBonus": 76,
+      "MPBonus": 10
+    },
+    "new_stats": {
+      "HPBonus": 64,
+      "MPBonus": 8
+    },
+    "baseline_name_en": "Gaia Gear",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_01",
+    "name_fr": "Robe du novice errant",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un contrôle magique raté sur un ennemi, le prochain soin du porteur sur un allié adjacent à cet ennemi retire aussi Aveuglement.",
+    "tradeoff_fr": "Une fois par bataille ; expire au prochain tour du porteur et ne soigne pas l’ennemi.",
+    "old_price_gil": 250,
+    "new_price_gil": 2650,
+    "old_stats": {
+      "HPBonus": 20,
+      "MPBonus": 16
+    },
+    "new_stats": {
+      "HPBonus": 19,
+      "MPBonus": 15
+    },
+    "baseline_name_en": "Silken Robe",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_02",
+    "name_fr": "Robe des sources",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Un soin depuis l’eau vers un allié hors de l’eau ajoute 10 PV et coûte 2 MP de plus.",
+    "tradeoff_fr": "Une fois par tour ; exige le surcoût disponible.",
+    "old_price_gil": 250,
+    "new_price_gil": 4400,
+    "old_stats": {
+      "HPBonus": 29,
+      "MPBonus": 22
+    },
+    "new_stats": {
+      "HPBonus": 27,
+      "MPBonus": 20
+    },
+    "baseline_name_en": "Wizard's Robe",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_03",
+    "name_fr": "Robe de la braise lente",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier sort de feu non létal réserve +10 % de puissance au prochain soin sur un allié adjacent à la victime.",
+    "tradeoff_fr": "Une fois par bataille ; aucun soin au moment du feu.",
+    "old_price_gil": 1800,
+    "new_price_gil": 6000,
+    "old_stats": {
+      "HPBonus": 40,
+      "MPBonus": 28
+    },
+    "new_stats": {
+      "HPBonus": 36,
+      "MPBonus": 25
+    },
+    "baseline_name_en": "Chameleon Robe",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_04",
+    "name_fr": "Robe des mousses",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Attendre deux tours sur une case de végétation réserve un crédit de 10 MP au prochain soin.",
+    "tradeoff_fr": "Une fois par bataille ; perdue en quittant la case, coût minimal 1.",
+    "old_price_gil": 1800,
+    "new_price_gil": 10800,
+    "old_stats": {
+      "HPBonus": 50,
+      "MPBonus": 34
+    },
+    "new_stats": {
+      "HPBonus": 46,
+      "MPBonus": 31
+    },
+    "baseline_name_en": "White Robe",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_05",
+    "name_fr": "Robe des derniers rites",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après une réanimation alliée, le prochain sort du porteur sur un ennemi déjà blessé coûte 20 % de MP en moins.",
+    "tradeoff_fr": "Une fois par bataille ; la réanimation doit venir d’un autre allié.",
+    "old_price_gil": 17000,
+    "new_price_gil": 17550,
+    "old_stats": {
+      "HPBonus": 59,
+      "MPBonus": 30
+    },
+    "new_stats": {
+      "HPBonus": 53,
+      "MPBonus": 27
+    },
+    "baseline_name_en": "Black Robe",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_06",
+    "name_fr": "Robe de la nef vide",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Lancer un soutien sur un allié isolé sans voisin accorde à sa prochaine guérison un bonus de 20 PV.",
+    "tradeoff_fr": "Une fois par bataille ; ne touche pas le porteur.",
+    "old_price_gil": 17000,
+    "new_price_gil": 40500,
+    "old_stats": {
+      "HPBonus": 75,
+      "MPBonus": 50
+    },
+    "new_stats": {
+      "HPBonus": 67,
+      "MPBonus": 45
+    },
+    "baseline_name_en": "Luminous Robe",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_07",
+    "name_fr": "Robe des astres éteints",
+    "old_effect_fr": "Résistance à Silence et réserve de MP de fin de progression.",
+    "new_effect_fr": "Après avoir lancé feu, glace et foudre dans cet ordre, le prochain soin répartit 30 PV supplémentaires entre ses cibles alliées.",
+    "tradeoff_fr": "Une fois par bataille ; partage équitable sans débordement.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "HPBonus": 71,
+      "MPBonus": 50
+    },
+    "new_stats": {
+      "HPBonus": 60,
+      "MPBonus": 42
+    },
+    "baseline_name_en": "Luminous Robe",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_08",
+    "name_fr": "Le Suaire vivant",
+    "old_effect_fr": "Le premier sort offensif reçu par bataille inflige 20 % de dégâts en moins ; MP abaissés de 10 %.",
+    "new_effect_fr": "La première guérison du porteur après la chute d’un allié réserve la moitié de ses PV effectivement rendus au prochain soin de cet allié après réanimation.",
+    "tradeoff_fr": "Une fois par bataille ; plafond 40 PV, réanimation non fournie.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "HPBonus": 68,
+      "MPBonus": 45
+    },
+    "new_stats": {
+      "HPBonus": 57,
+      "MPBonus": 38
+    },
+    "baseline_name_en": "Luminous Robe",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_01",
+    "name_fr": "Bottes du relais",
+    "old_effect_fr": "+1 déplacement.",
+    "new_effect_fr": "Un déplacement de trois cases suivi d’un objet sur un allié prépare 5 MP au prochain tour du porteur.",
+    "tradeoff_fr": "Une fois par bataille ; aucun changement de Mouvement.",
+    "old_price_gil": 250,
+    "new_price_gil": 1100,
+    "old_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0,
+      "MoveBonus": 1
+    },
+    "new_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Battle Boots",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_02",
+    "name_fr": "Souliers du batelier",
+    "old_effect_fr": "+1 saut.",
+    "new_effect_fr": "Traverser volontairement une case d’eau prépare 10 % de précision à la prochaine attaque contre une cible sur terre.",
+    "tradeoff_fr": "Une fois par bataille ; pas de marche sur l’eau accordée.",
+    "old_price_gil": 250,
+    "new_price_gil": 1325,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0,
+      "JumpBonus": 1
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Spiked Boots",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_03",
+    "name_fr": "Bottes du col",
+    "old_effect_fr": "+2 saut, sans bonus de déplacement.",
+    "new_effect_fr": "Monter puis redescendre lors de deux tours consécutifs réserve 12 PV au prochain soin reçu.",
+    "tradeoff_fr": "Une fois par bataille ; Saut inchangé.",
+    "old_price_gil": 1800,
+    "new_price_gil": 6000,
+    "old_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0,
+      "JumpBonus": 2
+    },
+    "new_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Germinas Boots",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_04",
+    "name_fr": "Sandales de l'herboriste",
+    "old_effect_fr": "+1 déplacement.",
+    "new_effect_fr": "Après avoir guéri un statut négatif d’un allié, parcourir deux cases réserve 8 % de réduction au prochain projectile reçu.",
+    "tradeoff_fr": "Une fois par bataille ; pas de téléportation.",
+    "old_price_gil": 1800,
+    "new_price_gil": 1800,
+    "old_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0,
+      "MoveBonus": 1
+    },
+    "new_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Rubber Boots",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_05",
+    "name_fr": "Bottes du guetteur",
+    "old_effect_fr": "Résistance à Aveuglement proposée.",
+    "new_effect_fr": "Revenir à une case depuis laquelle le porteur a subi un tir réserve +10 % de précision à son prochain tir sur l’assaillant.",
+    "tradeoff_fr": "Une fois par bataille ; cible et case mémorisées uniquement pendant cette bataille.",
+    "old_price_gil": 17000,
+    "new_price_gil": 3375,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Winged Boots",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_06",
+    "name_fr": "Souliers des vents",
+    "old_effect_fr": "+1 saut et 5 esquive magique.",
+    "new_effect_fr": "Après avoir déplacé volontairement le porteur dans deux directions opposées, son prochain soin sur lui-même coûte 15 % de MP en moins.",
+    "tradeoff_fr": "Une fois par bataille ; coût minimal 1, aucun gain de Vitesse.",
+    "old_price_gil": 17000,
+    "new_price_gil": 9450,
+    "old_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 5,
+      "JumpBonus": 1
+    },
+    "new_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 5
+    },
+    "baseline_name_en": "Hermes Shoes",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_07",
+    "name_fr": "Pas de la dernière aube",
+    "old_effect_fr": "+1 déplacement proposé, sans cumul avec un autre bonus d’équipement du même type.",
+    "new_effect_fr": "Après avoir atteint volontairement trois alliés distincts en adjacence, le prochain objet de réanimation utilisé ajoute 25 PV à la relève.",
+    "tradeoff_fr": "Une fois par bataille ; l’objet est consommé et n’accorde aucune action supplémentaire.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0,
+      "MoveBonus": 1
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Red Shoes",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_08",
+    "name_fr": "Les Sans-Empreinte",
+    "old_effect_fr": "+1 saut et résistance à Immobilisation ; aucun passage à travers les murs ni téléportation.",
+    "new_effect_fr": "Repasser par trois cases déjà visitées permet d’effacer toutes les marques négatives issues de nouveaux équipements du porteur et une réserve offensive alliée de son choix.",
+    "tradeoff_fr": "Une fois par bataille ; aucun statut vanilla ni déplacement gratuit.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0,
+      "JumpBonus": 1
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Hermes Shoes",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armguard_01",
+    "name_fr": "Gants de levée",
+    "old_effect_fr": "+1 puissance physique.",
+    "new_effect_fr": "Le premier coup normal raté prépare 10 PV supplémentaires au prochain objet de soin utilisé sur un allié.",
+    "tradeoff_fr": "Une fois par bataille ; aucune attaque gratuite.",
+    "old_price_gil": 250,
+    "new_price_gil": 5500,
+    "old_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0,
+      "PABonus": 1
+    },
+    "new_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Power Gauntlets",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armguard_02",
+    "name_fr": "Brassards du verrier",
+    "old_effect_fr": "+1 puissance physique ; protection de forge sans autre effet.",
+    "new_effect_fr": "Après deux sorts de même élément subis, la prochaine attaque normale du porteur gagne 15 % de précision.",
+    "tradeoff_fr": "Une fois par bataille ; aucune absorption élémentaire.",
+    "old_price_gil": 1800,
+    "new_price_gil": 50,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0,
+      "PABonus": 1
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Genji Gloves",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armguard_03",
+    "name_fr": "Gants du chapelain",
+    "old_effect_fr": "+1 puissance magique.",
+    "new_effect_fr": "Retirer Silence d’un allié réserve un crédit de 5 MP au prochain sort de soin du porteur.",
+    "tradeoff_fr": "Une fois par bataille ; coût minimal 1.",
+    "old_price_gil": 8500,
+    "new_price_gil": 27000,
+    "old_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0,
+      "MABonus": 1
+    },
+    "new_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Magepower Gloves",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armguard_04",
+    "name_fr": "Mains de la vieille forge",
+    "old_effect_fr": "+1 puissance physique proposée ; aucun bonus de vitesse.",
+    "new_effect_fr": "Après avoir frappé trois ennemis portant trois familles d’armes différentes, le prochain coup contre un quatrième ennemi gagne 20 % de précision.",
+    "tradeoff_fr": "Une fois par bataille ; aucun bris d’équipement.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0,
+      "PABonus": 1
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Bracers",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armguard_05",
+    "name_fr": "Les Mains du témoin",
+    "old_effect_fr": "+1 puissance magique et résistance à Silence ; incompatible avec un second bonus physique de cette pièce.",
+    "new_effect_fr": "Le premier soin effectué sur un allié que le porteur a lui-même blessé plus tôt retire une marque négative d’équipement et ajoute 30 PV.",
+    "tradeoff_fr": "Une fois par bataille ; aucun remboursement des dégâts initiaux.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0,
+      "MABonus": 1
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Bracers",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_01",
+    "name_fr": "Anneau du relais",
+    "old_effect_fr": "Résistance à Poison proposée.",
+    "new_effect_fr": "Le premier allié qui soigne le porteur reçoit 5 MP lors du prochain soin du porteur sur lui.",
+    "tradeoff_fr": "Une fois par bataille ; doit être le même allié.",
+    "old_price_gil": 250,
+    "new_price_gil": 11000,
+    "old_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Reflect Ring",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_02",
+    "name_fr": "Anneau de saumure",
+    "old_effect_fr": "Résistance à Aveuglement proposée.",
+    "new_effect_fr": "Retirer Poison du porteur réserve 12 % de réduction au prochain dégât de glace reçu.",
+    "tradeoff_fr": "Une fois par bataille ; aucune résistance passive.",
+    "old_price_gil": 250,
+    "new_price_gil": 5500,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Protect Ring",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_03",
+    "name_fr": "Anneau de grenat",
+    "old_effect_fr": "Résistance à Charme proposée.",
+    "new_effect_fr": "Après une attaque physique infligée et un soin reçu au même tour du porteur, le prochain soin sur un autre allié gagne 10 PV.",
+    "tradeoff_fr": "Une fois par bataille ; fenêtre du tour explicitement suivie.",
+    "old_price_gil": 1800,
+    "new_price_gil": 12000,
+    "old_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Magick Ring",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_04",
+    "name_fr": "Anneau du verre pâle",
+    "old_effect_fr": "+1 puissance magique.",
+    "new_effect_fr": "Le deuxième contrôle ennemi raté sur le porteur prépare 10 PV pour le prochain allié qui lui retire un statut négatif.",
+    "tradeoff_fr": "Une fois par bataille ; la réserve soigne cet allié, expire au prochain tour du porteur et ne retire aucun statut elle-même.",
+    "old_price_gil": 8500,
+    "new_price_gil": 13500,
+    "old_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0,
+      "MABonus": 1
+    },
+    "new_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Magick Ring",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_05",
+    "name_fr": "Anneau de la nef",
+    "old_effect_fr": "Résistance à Silence proposée.",
+    "new_effect_fr": "Deux alliés différents utilisant un objet sur le porteur préparent 10 MP rendus au prochain allié qu’il soigne.",
+    "tradeoff_fr": "Une fois par bataille ; pas de retour au porteur.",
+    "old_price_gil": 17000,
+    "new_price_gil": 50,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Cursed Ring",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_06",
+    "name_fr": "Sceau des rois sans nom",
+    "old_effect_fr": "Résistance à Charme et réserve de MP modeste.",
+    "new_effect_fr": "Le premier soin sur un allié dont le job diffère de tous les autres jobs alliés réserve 20 % de réduction à sa prochaine attaque reçue.",
+    "tradeoff_fr": "Une fois par bataille ; expire au prochain tour de la cible.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Angel Ring",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_07",
+    "name_fr": "L'Anneau sans retour",
+    "old_effect_fr": "Réduit de 15 % le premier coût MP payé de la bataille ; aucun effet sur les coûts en PV ni récupération automatique.",
+    "new_effect_fr": "Le premier sort lancé sur un allié hors combat réserve 30 PV pour son premier soin après réanimation et coûte 10 MP supplémentaires au porteur.",
+    "tradeoff_fr": "Une fois par bataille ; action dédiée à valider, aucune réanimation ni ciblage vanilla modifié.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Cursed Ring",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armlet_01",
+    "name_fr": "Bracelet du chemin",
+    "old_effect_fr": "Résistance à Poison proposée.",
+    "new_effect_fr": "Après avoir quitté l’adjacence d’un allié puis l’avoir rejoint, le prochain objet utilisé sur lui rend 5 MP en plus.",
+    "tradeoff_fr": "Une fois par bataille ; déplacement volontaire seulement.",
+    "old_price_gil": 250,
+    "new_price_gil": 5500,
+    "old_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Diamond Bracelet",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armlet_02",
+    "name_fr": "Torque des hautes herbes",
+    "old_effect_fr": "Résistance à Aveuglement proposée.",
+    "new_effect_fr": "Le premier soin lancé depuis la végétation sur une cible hors végétation ajoute 12 PV.",
+    "tradeoff_fr": "Une fois par bataille ; aucun bonus de terrain global.",
+    "old_price_gil": 1800,
+    "new_price_gil": 18000,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Japa Mala",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armlet_03",
+    "name_fr": "Bracelet des veillées",
+    "old_effect_fr": "Résistance à Confusion proposée.",
+    "new_effect_fr": "Attendre pendant qu’un allié adjacent est sous Silence réserve +15 % de précision à la prochaine action de contrôle du porteur.",
+    "tradeoff_fr": "Une fois par bataille ; ne retire pas Silence.",
+    "old_price_gil": 8500,
+    "new_price_gil": 13500,
+    "old_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Nu Khai Armband",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armlet_04",
+    "name_fr": "Cercle des quatre saisons",
+    "old_effect_fr": "Résistance à Poison et Aveuglement ; pas d’immunité aux contrôles lourds.",
+    "new_effect_fr": "Après feu, glace, foudre puis soin reçus, le porteur rend 20 PV à un allié adjacent choisi.",
+    "tradeoff_fr": "Une fois par bataille ; ordre strict, effets reçus non annulés.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Guardian Bracelet",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armlet_05",
+    "name_fr": "Le Cercle du verdict",
+    "old_effect_fr": "Résistance à Lenteur et Silence ; pas de Stop automatique ni manipulation de CT.",
+    "new_effect_fr": "Après deux attaques non létales contre le même ennemi, le prochain contrôle contre lui gagne 20 % de précision mais consomme toutes les réserves offensives du porteur.",
+    "tradeoff_fr": "Une fois par bataille ; aucune réussite garantie.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Nu Khai Armband",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_01",
+    "name_fr": "Cape du colporteur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier consommable donné à un allié adjacent rend 5 PV au porteur s’il est lui-même blessé.",
+    "tradeoff_fr": "Une fois par bataille ; pas de cascade de soins.",
+    "old_price_gil": 250,
+    "new_price_gil": 325,
+    "old_stats": {
+      "PhysicalEvasion": 10,
+      "MagicalEvasion": 10
+    },
+    "new_stats": {
+      "PhysicalEvasion": 10,
+      "MagicalEvasion": 10
+    },
+    "baseline_name_en": "Shoulder Cape",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_02",
+    "name_fr": "Cape du guetteur",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après avoir reçu un projectile de dos, le prochain projectile reçu de côté est réduit de 15 %.",
+    "tradeoff_fr": "Une fois par bataille ; aucune esquive permanente.",
+    "old_price_gil": 250,
+    "new_price_gil": 2200,
+    "old_stats": {
+      "PhysicalEvasion": 17,
+      "MagicalEvasion": 18
+    },
+    "new_stats": {
+      "PhysicalEvasion": 17,
+      "MagicalEvasion": 18
+    },
+    "baseline_name_en": "Mage's Cloak",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_03",
+    "name_fr": "Cape du ressac",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après un soin reçu dans l’eau, le premier sort reçu hors de l’eau est réduit de 10 %.",
+    "tradeoff_fr": "Une fois par bataille ; exige la sortie du terrain.",
+    "old_price_gil": 1800,
+    "new_price_gil": 9600,
+    "old_stats": {
+      "PhysicalEvasion": 25,
+      "MagicalEvasion": 25
+    },
+    "new_stats": {
+      "PhysicalEvasion": 25,
+      "MagicalEvasion": 25
+    },
+    "baseline_name_en": "Elven Cloak",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_04",
+    "name_fr": "Cape de la cendre froide",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Subir du feu puis de la glace prépare 20 PV supplémentaires au prochain soin reçu.",
+    "tradeoff_fr": "Une fois par bataille ; ordre strict.",
+    "old_price_gil": 8500,
+    "new_price_gil": 20250,
+    "old_stats": {
+      "PhysicalEvasion": 28,
+      "MagicalEvasion": 28
+    },
+    "new_stats": {
+      "PhysicalEvasion": 28,
+      "MagicalEvasion": 28
+    },
+    "baseline_name_en": "Vampire Cape",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_05",
+    "name_fr": "Cape de l'audience",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Le premier ennemi soigné par le porteur reçoit une marque qui réduit de 10 % sa prochaine attaque contre un allié autre que le porteur.",
+    "tradeoff_fr": "Une fois par bataille ; aucun changement d’IA.",
+    "old_price_gil": 17000,
+    "new_price_gil": 50,
+    "old_stats": {
+      "PhysicalEvasion": 34,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 34,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Invisibility Cloak",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_06",
+    "name_fr": "Ciel de la nef vide",
+    "old_effect_fr": "Esquive magique renforcée contre esquive physique abaissée.",
+    "new_effect_fr": "Le premier soin lancé sur trois alliés ou plus réserve à chacun 5 MP pour son prochain sort payé.",
+    "tradeoff_fr": "Une fois par bataille ; crédit minimal de coût 1, expire au prochain tour de chaque cible.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 38,
+      "MagicalEvasion": 30
+    },
+    "new_stats": {
+      "PhysicalEvasion": 38,
+      "MagicalEvasion": 30
+    },
+    "baseline_name_en": "Featherweave Cloak",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_07",
+    "name_fr": "Le Deuil des rois",
+    "old_effect_fr": "Réduit de 15 % le premier sort reçu par bataille ; aucun renvoi automatique.",
+    "new_effect_fr": "Après la chute de deux alliés, le prochain consommable de réanimation rend 40 PV supplémentaires et retire toutes les réserves offensives du porteur.",
+    "tradeoff_fr": "Une fois par bataille ; aucune relève automatique.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 32,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 32,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Invisibility Cloak",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_perfume_01",
+    "name_fr": "Rosée de l'oratoire",
+    "old_effect_fr": "Résistance à Poison proposée ; aucune régénération automatique.",
+    "new_effect_fr": "Le premier soin reçu après que le porteur a attendu à côté d’un allié sous Silence retire une marque négative de nouvel équipement de cet allié.",
+    "tradeoff_fr": "Une fois par bataille ; ne retire pas Silence ni les statuts vanilla.",
+    "old_price_gil": 250,
+    "new_price_gil": 66000,
+    "old_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 0,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Chantage",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_perfume_02",
+    "name_fr": "Encens des neuf veilles",
+    "old_effect_fr": "Résistance à Silence proposée ; aucune résurrection automatique.",
+    "new_effect_fr": "Après trois tours d’attente non consécutifs, le prochain soin sur un allié rend aussi 9 MP.",
+    "tradeoff_fr": "Une fois par bataille ; aucune aura passive.",
+    "old_price_gil": 8500,
+    "new_price_gil": 81000,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Septième Sens",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_perfume_03",
+    "name_fr": "Souffle de la reine",
+    "old_effect_fr": "Résistance à Charme et Confusion ; aucun statut immortel.",
+    "new_effect_fr": "Le premier soin reçu après la réanimation du porteur donne 15 PV à deux alliés adjacents choisis.",
+    "tradeoff_fr": "Une fois par bataille ; aucun soin à la réanimation, aucune cascade.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Sortilège",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_perfume_04",
+    "name_fr": "La Mémoire des vivants",
+    "old_effect_fr": "Une fois par bataille, un soin direct reçu gagne 20 % ; ne s’applique pas à une résurrection.",
+    "new_effect_fr": "Mémorise le premier allié soigné ; si cet allié tombe puis est relevé, le prochain soin du porteur sur lui reprend 25 % du premier soin en supplément.",
+    "tradeoff_fr": "Une fois par bataille ; plafond 40 PV, aucune réanimation.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "new_stats": {
+      "PhysicalEvasion": 1,
+      "MagicalEvasion": 0
+    },
+    "baseline_name_en": "Sortilège",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_throwing_01",
+    "name_fr": "Étoile de ronce",
+    "old_effect_fr": "Profil de progression : caractéristiques indiquées, sans passif supplémentaire.",
+    "new_effect_fr": "Après les dégâts de lancer, marque la cible : la prochaine attaque normale alliée de côté gagne 10 % de précision.",
+    "tradeoff_fr": "L’exemplaire est consommé ; expire au prochain tour de la cible.",
+    "old_price_gil": 250,
+    "new_price_gil": 50,
+    "old_stats": {
+      "Range": 0,
+      "Power": 4,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 0,
+      "Power": 3,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Shuriken",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_throwing_02",
+    "name_fr": "Étoile de l'aube pâle",
+    "old_effect_fr": "Projectile physique consommé à l’usage ; puissance de fin de progression.",
+    "new_effect_fr": "Après les dégâts de lancer, réserve 20 PV au prochain soin reçu par un allié adjacent à la victime, choisi à l’impact.",
+    "tradeoff_fr": "L’exemplaire est consommé ; un seul allié, expire après son prochain tour.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 0,
+      "Power": 10,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 0,
+      "Power": 8,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Yagyu Darkrood",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_throwing_03",
+    "name_fr": "Les Trois adieux",
+    "old_effect_fr": "Projectile physique consommé à l’usage ; +10 % contre une cible sous Lenteur, aucune récupération gratuite.",
+    "new_effect_fr": "Après les dégâts de lancer, efface une marque offensive d’équipement de la victime et une du lanceur ; rend 10 MP à un allié adjacent au lanceur.",
+    "tradeoff_fr": "L’exemplaire est consommé ; marques nouvelles seulement, pas de vol de MP.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 0,
+      "Power": 9,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 0,
+      "Power": 7,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Yagyu Darkrood",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bomb_01",
+    "name_fr": "Grenade de braise",
+    "old_effect_fr": "Dégâts de feu ; consommée à l’usage, portée vanilla.",
+    "new_effect_fr": "Après les dégâts de feu, la cible porte une marque : le prochain sort de glace allié contre elle gagne 15 % de précision.",
+    "tradeoff_fr": "L’exemplaire est consommé ; expire au prochain tour de la cible, aucun terrain créé.",
+    "old_price_gil": 250,
+    "new_price_gil": 275,
+    "old_stats": {
+      "Range": 0,
+      "Power": 8,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 0,
+      "Power": 7,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Flameburst Bomb",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bomb_02",
+    "name_fr": "Grenade de grésil",
+    "old_effect_fr": "Dégâts de glace ; consommée à l’usage, portée vanilla.",
+    "new_effect_fr": "Après les dégâts de glace, le prochain soin reçu par la victime rend 20 % de PV en moins.",
+    "tradeoff_fr": "L’exemplaire est consommé ; expire au prochain tour de la cible, pas de cumul.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 0,
+      "Power": 8,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 0,
+      "Power": 6,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Spark Bomb",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bomb_03",
+    "name_fr": "Grenade de fulgure",
+    "old_effect_fr": "Dégâts de foudre ; consommée à l’usage, portée vanilla.",
+    "new_effect_fr": "Après les dégâts de foudre, la victime perd sa dernière réserve offensive issue d’un nouvel équipement et le lanceur réserve 10 MP à son prochain sort payé.",
+    "tradeoff_fr": "L’exemplaire est consommé ; coût minimal 1, aucun statut vanilla effacé.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {
+      "Range": 0,
+      "Power": 7,
+      "Evasion": 0
+    },
+    "new_stats": {
+      "Range": 0,
+      "Power": 5,
+      "Evasion": 0
+    },
+    "baseline_name_en": "Spark Bomb",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_01",
+    "name_fr": "Baume de route",
+    "old_effect_fr": "Rend 30 PV.",
+    "new_effect_fr": "Rend 25 PV maintenant puis réserve 15 PV supplémentaires au prochain soin de la cible avant la fin de son prochain tour.",
+    "tradeoff_fr": "L’exemplaire est consommé ; réserve unique, inutilisée elle expire.",
+    "old_price_gil": 250,
+    "new_price_gil": 50,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Potion",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_02",
+    "name_fr": "Baume des veillées",
+    "old_effect_fr": "Rend 70 PV.",
+    "new_effect_fr": "Rend 50 PV ; si la cible n’a infligé aucun dégât depuis son dernier tour, réserve 10 % de réduction au prochain coup physique reçu.",
+    "tradeoff_fr": "L’exemplaire est consommé ; protection expire au prochain tour de la cible.",
+    "old_price_gil": 250,
+    "new_price_gil": 150,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "High Potion",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_03",
+    "name_fr": "Baume du dernier gué",
+    "old_effect_fr": "Rend 150 PV.",
+    "new_effect_fr": "Sur une cible à moins de 25 % de PV, rend 90 PV et lui réserve 20 PV sur son prochain soin ; sinon rend seulement 30 PV.",
+    "tradeoff_fr": "L’exemplaire est consommé ; réserve expire au prochain tour de la cible.",
+    "old_price_gil": 250,
+    "new_price_gil": 400,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "X-Potion",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_04",
+    "name_fr": "Infusion du scribe",
+    "old_effect_fr": "Rend 15 MP.",
+    "new_effect_fr": "Rend 10 MP et réserve un crédit de 5 MP au prochain sort de soutien payé par la cible.",
+    "tradeoff_fr": "L’exemplaire est consommé ; coût minimal 1, crédit expire au prochain tour.",
+    "old_price_gil": 250,
+    "new_price_gil": 150,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Ether",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_05",
+    "name_fr": "Infusion de la nef",
+    "old_effect_fr": "Rend 30 MP.",
+    "new_effect_fr": "Rend 20 MP à la cible et 5 MP à un second allié adjacent choisi.",
+    "tradeoff_fr": "L’exemplaire est consommé ; nécessite un voisin pour le second gain.",
+    "old_price_gil": 3600,
+    "new_price_gil": 350,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "High Ether",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_06",
+    "name_fr": "Panacée du pèlerin",
+    "old_effect_fr": "Rend tous les PV et MP, consommable rare de fin de progression.",
+    "new_effect_fr": "Rend 80 PV et 20 MP mais efface toutes les réserves offensives provenant de nouveaux équipements de la cible.",
+    "tradeoff_fr": "L’exemplaire est consommé ; pas de restauration totale ni de statut vanilla retiré.",
+    "old_price_gil": 3600,
+    "new_price_gil": 900,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Elixir",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_07",
+    "name_fr": "Sel de l'herboriste",
+    "old_effect_fr": "Retire Poison.",
+    "new_effect_fr": "Retire Poison et, si la cible était empoisonnée, réserve 10 PV supplémentaires à son prochain soin direct.",
+    "tradeoff_fr": "L’exemplaire est consommé ; exige Poison initial, réserve expire au prochain tour.",
+    "old_price_gil": 3600,
+    "new_price_gil": 100,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Antidote",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_08",
+    "name_fr": "Collyre des sources",
+    "old_effect_fr": "Retire Aveuglement.",
+    "new_effect_fr": "Retire Aveuglement et donne +10 % de précision au premier projectile de la cible contre un ennemi plus haut.",
+    "tradeoff_fr": "L’exemplaire est consommé ; expire au prochain tour de la cible, pas de bonus aux sorts.",
+    "old_price_gil": 3600,
+    "new_price_gil": 150,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Eye Drops",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_09",
+    "name_fr": "Pastille du chœur",
+    "old_effect_fr": "Retire Silence.",
+    "new_effect_fr": "Retire Silence et bloque une seule nouvelle application de Silence avant la fin du prochain tour de la cible.",
+    "tradeoff_fr": "L’exemplaire est consommé ; aucune immunité permanente, n’empêche pas les autres statuts.",
+    "old_price_gil": 5400,
+    "new_price_gil": 150,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Echo Herbs",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_10",
+    "name_fr": "Eau du miroir calme",
+    "old_effect_fr": "Retire Crapaud.",
+    "new_effect_fr": "Retire Grenouille et réduit de 10 % la prochaine attaque physique reçue par la cible.",
+    "tradeoff_fr": "L’exemplaire est consommé ; protection expire au prochain tour de la cible.",
+    "old_price_gil": 25500,
+    "new_price_gil": 150,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Maiden's Kiss",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_11",
+    "name_fr": "Poudre du tailleur",
+    "old_effect_fr": "Retire Pétrification.",
+    "new_effect_fr": "Retire Pétrification et rend 10 MP si un allié vivant est adjacent à la cible au moment du traitement.",
+    "tradeoff_fr": "L’exemplaire est consommé ; aucun bonus sans voisin.",
+    "old_price_gil": 25500,
+    "new_price_gil": 250,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Gold Needle",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_12",
+    "name_fr": "Encens de l'oratoire",
+    "old_effect_fr": "Retire Mort-vivant.",
+    "new_effect_fr": "Retire Mort-vivant et réserve +20 % au prochain soin direct reçu par la cible.",
+    "tradeoff_fr": "L’exemplaire est consommé ; expire au prochain tour de la cible.",
+    "old_price_gil": 25500,
+    "new_price_gil": 250,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Holy Water",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_13",
+    "name_fr": "Remède des quatre routes",
+    "old_effect_fr": "Retire les statuts soignables du Remède vanilla.",
+    "new_effect_fr": "Retire un seul statut choisi parmi Poison, Aveuglement, Silence et Grenouille puis réserve 8 MP au prochain sort de soutien payé.",
+    "tradeoff_fr": "L’exemplaire est consommé ; choix explicite, coût minimal 1, expire au prochain tour.",
+    "old_price_gil": 34000,
+    "new_price_gil": 350,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Remedy",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_14",
+    "name_fr": "Plume du dernier matin",
+    "old_effect_fr": "Réanime selon la formule de Queue de phénix vanilla.",
+    "new_effect_fr": "Réanime avec 10 % des PV maximaux et réserve 25 PV au premier soin reçu avant la fin du prochain tour de la cible.",
+    "tradeoff_fr": "L’exemplaire est consommé ; aucun soin ni action supplémentaire immédiats.",
+    "old_price_gil": 34000,
+    "new_price_gil": 500,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Phoenix Down",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_15",
+    "name_fr": "Larme de Saint-Mosco",
+    "old_effect_fr": "Rend 40 % des MP maximum ; un seul exemplaire prévu par campagne.",
+    "new_effect_fr": "Rend 30 MP à la cible ; son prochain soin à cible unique donne aussi 20 PV à un second allié adjacent à cette cible.",
+    "tradeoff_fr": "L’exemplaire est consommé ; un usage avant le prochain tour, aucune cascade.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Ether",
+    "art_regenerated": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_16",
+    "name_fr": "Le Souffle réservé",
+    "old_effect_fr": "Rend 50 % des PV et retire Poison/Silence ; un seul exemplaire prévu par campagne, consommé à l’usage.",
+    "new_effect_fr": "Réanime avec 20 % des PV maximaux, efface les marques négatives de nouveaux équipements de la cible et sacrifie toutes les réserves offensives du donneur.",
+    "tradeoff_fr": "Un exemplaire unique consommé ; ne retire aucun statut vanilla additionnel et ne duplique aucune relève.",
+    "old_price_gil": 0,
+    "new_price_gil": 0,
+    "old_stats": {},
+    "new_stats": {},
+    "baseline_name_en": "Remedy",
+    "art_regenerated": false,
+    "runtime_ready": false
+  }
+]

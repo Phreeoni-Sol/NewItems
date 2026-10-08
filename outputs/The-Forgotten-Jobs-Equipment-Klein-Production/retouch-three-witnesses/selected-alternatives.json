@@ -1,0 +1,293 @@
+[
+  {
+    "id": "tfj_knife_10",
+    "name_fr": "Dernier aveu",
+    "sha256": "1c8cd1dc4c020881eb112c636cc06453b84fad2194442b9598a882c42f74822b",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1390496,
+    "alpha255_pixels": 2519,
+    "alpha1_to239_pixels": 23484,
+    "visible_rgba_colors": 36389,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "VISUALLY_REVIEWED_ALTERNATIVE_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knife_10-1-preview36.png",
+        "source_bbox": [
+          141,
+          156,
+          496,
+          547
+        ],
+        "source_dimensions": [
+          355,
+          391
+        ],
+        "visible_preview_rgba_colors": 264,
+        "sha256": "59be5c4d8364179c864608becc6a68e12a70e9b1054cf56ce791c3d870908f2b"
+      },
+      {
+        "path": "poses/tfj_knife_10-2-preview36.png",
+        "source_bbox": [
+          143,
+          156,
+          497,
+          547
+        ],
+        "source_dimensions": [
+          354,
+          391
+        ],
+        "visible_preview_rgba_colors": 258,
+        "sha256": "aee074eb40337f53f015c321a39b01ec433e02e3f53419bd42dd7c4250377c88"
+      },
+      {
+        "path": "poses/tfj_knife_10-3-preview36.png",
+        "source_bbox": [
+          60,
+          223,
+          548,
+          380
+        ],
+        "source_dimensions": [
+          488,
+          157
+        ],
+        "visible_preview_rgba_colors": 173,
+        "sha256": "53857b209ba1e3265099e87c9ed65fda73778966597ece2f8b5e80839ad1161e"
+      },
+      {
+        "path": "poses/tfj_knife_10-4-preview36.png",
+        "source_bbox": [
+          94,
+          223,
+          569,
+          380
+        ],
+        "source_dimensions": [
+          475,
+          157
+        ],
+        "visible_preview_rgba_colors": 176,
+        "sha256": "44b19cc28784283dd2256f9fce699d7eb6a5b05565001cd81b900faafff4c6a3"
+      }
+    ],
+    "review": "Copper leaf blade, short guard, dark grip and muted red seal retained. Harder flat shading and no diffuse halo visible. Opposed views remain author proposals; proportions and regular grid need native retouch validation.",
+    "reviewed_evidence": [
+      "FULL_SOURCE_SHEET",
+      "BEFORE_AFTER_MINIATURE_BOARD"
+    ],
+    "no_visible_diffuse_halo": true,
+    "native_encoding": "NOT_CREATED",
+    "native_palette_id": null,
+    "native_sprite_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_staff_08",
+    "name_fr": "Mémoire du premier soin",
+    "sha256": "1ecbb4d6e078a8d59069f14aa2fa34e53ec468909e15deebdf0fc28cce75dab4",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1424405,
+    "alpha255_pixels": 2942,
+    "alpha1_to239_pixels": 24323,
+    "visible_rgba_colors": 43519,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "VISUALLY_REVIEWED_ALTERNATIVE_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_staff_08-1-preview36.png",
+        "source_bbox": [
+          126,
+          117,
+          471,
+          579
+        ],
+        "source_dimensions": [
+          345,
+          462
+        ],
+        "visible_preview_rgba_colors": 169,
+        "sha256": "1d989470bdfc3f357dd884aac5b0f69b1740b01ae21c74406a62d4b4798f2bd9"
+      },
+      {
+        "path": "poses/tfj_staff_08-2-preview36.png",
+        "source_bbox": [
+          176,
+          117,
+          501,
+          589
+        ],
+        "source_dimensions": [
+          325,
+          472
+        ],
+        "visible_preview_rgba_colors": 155,
+        "sha256": "25753696ba91e01c99c72138791c846026ca6d69ededb5d2f183be5d6b5c02a5"
+      },
+      {
+        "path": "poses/tfj_staff_08-3-preview36.png",
+        "source_bbox": [
+          44,
+          262,
+          559,
+          452
+        ],
+        "source_dimensions": [
+          515,
+          190
+        ],
+        "visible_preview_rgba_colors": 121,
+        "sha256": "8554e5e1bba23906b447be81eb415b7360b96ef930e866f3ad3f9e128ea9a912"
+      },
+      {
+        "path": "poses/tfj_staff_08-4-preview36.png",
+        "source_bbox": [
+          68,
+          262,
+          579,
+          452
+        ],
+        "source_dimensions": [
+          511,
+          190
+        ],
+        "visible_preview_rgba_colors": 119,
+        "sha256": "0255470aa310c7455ffaa1199d6e5d9b936c35692ee73bd171d310104e62619f"
+      }
+    ],
+    "review": "Yew shaft, asymmetric fork, pink pebble and sage linen retained. Continuous shaft readable at miniature scale, no diffuse halo visible. Horizontal fork is broader than diagonal profile; native angles and hand positions UNKNOWN.",
+    "reviewed_evidence": [
+      "FULL_SOURCE_SHEET",
+      "BEFORE_AFTER_MINIATURE_BOARD"
+    ],
+    "no_visible_diffuse_halo": true,
+    "native_encoding": "NOT_CREATED",
+    "native_palette_id": null,
+    "native_sprite_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_16",
+    "name_fr": "Le Refus",
+    "sha256": "4ebbe94371c71600efe52dfbf7266df7fd372dfaef56888afd9495e876746404",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1134910,
+    "alpha255_pixels": 1643,
+    "alpha1_to239_pixels": 26246,
+    "visible_rgba_colors": 67529,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "VISUALLY_REVIEWED_ALTERNATIVE_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_16-1-preview36.png",
+        "source_bbox": [
+          188,
+          105,
+          536,
+          581
+        ],
+        "source_dimensions": [
+          348,
+          476
+        ],
+        "visible_preview_rgba_colors": 401,
+        "sha256": "7d8e449fa17896da37c3786b728c523ec6420323606d4a2ee2cec65ffc6e6bf4"
+      },
+      {
+        "path": "poses/tfj_shield_16-2-preview36.png",
+        "source_bbox": [
+          126,
+          107,
+          465,
+          583
+        ],
+        "source_dimensions": [
+          339,
+          476
+        ],
+        "visible_preview_rgba_colors": 435,
+        "sha256": "73f5f2a8a378e91c3a081020657c31d1e87635b433aa071b7bab0d75c65d74e9"
+      },
+      {
+        "path": "poses/tfj_shield_16-3-preview36.png",
+        "source_bbox": [
+          207,
+          63,
+          541,
+          519
+        ],
+        "source_dimensions": [
+          334,
+          456
+        ],
+        "visible_preview_rgba_colors": 419,
+        "sha256": "89a2ea648aed359e1754092876a1cb9064041639f74af020b0e62447d1644c64"
+      },
+      {
+        "path": "poses/tfj_shield_16-4-preview36.png",
+        "source_bbox": [
+          138,
+          60,
+          452,
+          523
+        ],
+        "source_dimensions": [
+          314,
+          463
+        ],
+        "visible_preview_rgba_colors": 402,
+        "sha256": "7559e70c5013c510c8468c31681f6bc6abfda977afb6e7c4fc97130e8f2f6baf"
+      }
+    ],
+    "review": "Ochre ceramic field, indigo band, missing side/corner, iron palm and diagonal crack retained. Muted flatter contrast and no diffuse halo visible. Thick metal rim is an artistic interpretation; two rear grips are proposed design, not native evidence.",
+    "reviewed_evidence": [
+      "FULL_SOURCE_SHEET",
+      "BEFORE_AFTER_MINIATURE_BOARD"
+    ],
+    "no_visible_diffuse_halo": true,
+    "native_encoding": "NOT_CREATED",
+    "native_palette_id": null,
+    "native_sprite_id": null,
+    "hand_anchor": "UNKNOWN"
+  }
+]

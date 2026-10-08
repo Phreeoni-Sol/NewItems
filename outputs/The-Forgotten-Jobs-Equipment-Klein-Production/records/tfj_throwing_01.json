@@ -1,0 +1,38 @@
+{
+  "id": "tfj_throwing_01",
+  "name_fr": "Étoile de ronce",
+  "category": "Throwing",
+  "rarity": "common",
+  "model": "black-forest-labs/flux.2-klein-4b",
+  "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+  "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_122_uitx.png",
+  "reference_sha256": "71588c701587a287cad848dcc04fbd8e654e3ae14719c4dfc6b3a3767c20164b",
+  "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_throwing_01.png",
+  "expected_cost_pollen": 0.005,
+  "runtime_ready": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "http_status": 200
+    }
+  ],
+  "http_status": 200,
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 1,
+    "total_tokens": 1,
+    "input_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "size": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "alpha_ready": false,
+  "sha256": "a21abadee28e25be408632d051ab8381bd4b580bce9be0af5966545c206ad8dd",
+  "seconds": 8.55,
+  "prompt": "Create ONE original Throwing equipment inventory icon. New design motif: small rough iron four point throwing star. The attached image is an actual native FFT The Ivalice Chronicles Enhanced inventory texture and is ONLY a style and composition reference. Follow its viewing angle, orientation, compact silhouette, relative object scale, muted color palette and delicate proportions. Match its worn hand-painted textured materials, restrained highlights, and soft slightly distressed painterly edges. Use practical believable construction and sparse ornament. Do not duplicate the reference object; follow the new design motif. Keep the complete object readable at 100x100 and 48x48 with safe padding. Single isolated object, no scenery, no frame, no floor shadow, no reflection, no cast shadow. Absolutely no lettering, words, numbers, logos, labels, writing, signatures or watermarks anywhere, including on the object itself. No product photography, glossy concept-art rendering, neon glow, thick black outlines or hard pixel-art clusters. Flat uniform pure white background if genuine transparent alpha is unsupported; never a checkerboard pattern."
+}

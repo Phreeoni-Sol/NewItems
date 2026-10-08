@@ -1,0 +1,10 @@
+{
+  "id": "tfj_bow_10",
+  "prompt": "Use-case: game-asset. Produce a TRANSPARENT authoring concept sheet for ONE new FFT weapon, 2 by 2 grid, four separated poses of exactly the SAME design, large empty gutters, no text, no labels, no frames, no characters or hands. First reference = preserve this specific weapon's silhouette and palette; second reference = authentic native FFT weapon pixel bank, copy its restrained chunky pixel grammar and small readable clusters, not the whole atlas. Le Fil du destin: asymmetrical recurved pale gray wooden longbow, upper limb longer, indigo wrap and a SINGLE taut indigo string, tiny red knot only at lower tip. No arrow, no stock, no crossbar, no glow in this weapon layer. Top left profile pointing up-left, top right opposing profile up-right, bottom left side profile horizontal toward left, bottom right side profile horizontal toward right. Bow instead remains vertical in top profiles and diagonally leaning in bottom poses, recognizable bow string and same asymmetry. Each pose should look like a small classic FFT battle weapon sprite enlarged by nearest neighbour, roughly 32-48 pixel high logical artwork, clearly stepped pixel edges and very sparse muted palette. This is a concept authoring sheet, NOT a proven native atlas. Avoid painterly illustration, ornamental detail, photoreal texture, smooth outline, halo, backdrop, other weapon types. Keep design invariant across all four poses; no copy of vanilla weapon.",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-ae964e99-0eae-4c2b-9205-cc010d691192.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "binding": "UNKNOWN",
+  "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+  "review": "Four readable separated views; dominant palette and signature retained. Mirrored profiles are proposals, not proven rear/front directions. No hand anchors or native animation timing. Gun versions before v3 rejected for background haze."
+}

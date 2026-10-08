@@ -1,0 +1,42 @@
+{
+  "id": "tfj_bow_03",
+  "name_fr": "Arc du guetteur",
+  "category": "Bow",
+  "rarity": "common",
+  "model": "black-forest-labs/flux.2-klein-4b",
+  "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+  "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_085_uitx.png",
+  "reference_sha256": "718b4f27a4491d778198b2b37bbc8833c15218a89006d3bff1737d211d36de01",
+  "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_bow_03.png",
+  "expected_cost_pollen": 0.005,
+  "runtime_ready": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "http_status": 200
+    }
+  ],
+  "http_status": 200,
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 1,
+    "total_tokens": 1,
+    "input_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "size": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "alpha_ready": false,
+  "sha256": "2f0c7f72d8c930507332ec5105295034ff3fe017f6388c6b21f78dda96e7f078",
+  "prompt": "Image 1 is a native FFT The Ivalice Chronicles Enhanced style reference. Image 2 is ONLY a guide to coherent object structure. Create one new distinct inventory item with this motif: tall oak longbow with iron nock collars. A complete C-shaped bow with two visibly curved limbs joined at one small central grip. ONE continuous taut bowstring joins the TWO far limb tips, never the center grip. Both limb tips and all the string are fully visible. No straight rod, no half-bow, no detached segment. Match the native reference in subdued hand-painted textured materials, soft slightly worn edges and restrained highlights. Practical compact delicate proportions, readable at 100 and 48 pixels. One complete isolated object, centered, safe padding. Pure flat white background, no scenery, no floor or cast shadow, no text, no labels, no words, no numbers, no watermark. No glossy product rendering or thick outlines. Do not make a sheet or comparison.",
+  "references": [
+    "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_085_uitx.png",
+    "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_bow_01.png"
+  ],
+  "seconds": 11.91
+}

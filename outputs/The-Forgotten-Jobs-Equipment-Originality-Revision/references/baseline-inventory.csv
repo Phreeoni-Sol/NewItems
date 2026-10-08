@@ -1,0 +1,262 @@
+﻿id,name_en,family,category,scope,group,source_family
+0,Nothing Equipped,weapon,None,sentinel_or_unknown,excluded,weapon
+1,Dagger,weapon,Knife,legacy_base,equipment,weapon
+2,Mythril Knife,weapon,Knife,legacy_base,equipment,weapon
+3,Blind Knife,weapon,Knife,legacy_base,equipment,weapon
+4,Mage Masher,weapon,Knife,legacy_base,equipment,weapon
+5,Platinum Dagger,weapon,Knife,legacy_base,equipment,weapon
+6,Main Gauche,weapon,Knife,legacy_base,equipment,weapon
+7,Orichalcum Dirk,weapon,Knife,legacy_base,equipment,weapon
+8,Assassin's Dagger,weapon,Knife,legacy_base,equipment,weapon
+9,Air Knife,weapon,Knife,legacy_base,equipment,weapon
+10,Zwill Straightblade,weapon,Knife,legacy_base,equipment,weapon
+11,Ninja Blade,weapon,NinjaBlade,legacy_base,equipment,weapon
+12,Kunai,weapon,NinjaBlade,legacy_base,equipment,weapon
+13,Kodachi,weapon,NinjaBlade,legacy_base,equipment,weapon
+14,Ninja Longblade,weapon,NinjaBlade,legacy_base,equipment,weapon
+15,Spellbinder,weapon,NinjaBlade,legacy_base,equipment,weapon
+16,Sasuke's Blade,weapon,NinjaBlade,legacy_base,equipment,weapon
+17,Iga Blade,weapon,NinjaBlade,legacy_base,equipment,weapon
+18,Koga Blade,weapon,NinjaBlade,legacy_base,equipment,weapon
+19,Broadsword,weapon,Sword,legacy_base,equipment,weapon
+20,Longsword,weapon,Sword,legacy_base,equipment,weapon
+21,Iron Sword,weapon,Sword,legacy_base,equipment,weapon
+22,Mythril Sword,weapon,Sword,legacy_base,equipment,weapon
+23,Blood Sword,weapon,Sword,legacy_base,equipment,weapon
+24,Coral Sword,weapon,Sword,legacy_base,equipment,weapon
+25,Ancient Sword,weapon,Sword,legacy_base,equipment,weapon
+26,Sleep Blade,weapon,Sword,legacy_base,equipment,weapon
+27,Platinum Sword,weapon,Sword,legacy_base,equipment,weapon
+28,Diamond Sword,weapon,Sword,legacy_base,equipment,weapon
+29,Icebrand,weapon,Sword,legacy_base,equipment,weapon
+30,Runeblade,weapon,Sword,legacy_base,equipment,weapon
+31,Nagnarok,weapon,Sword,legacy_base,equipment,weapon
+32,Materia Blade,weapon,Sword,legacy_base,equipment,weapon
+33,Defender,weapon,KnightSword,legacy_base,equipment,weapon
+34,Save the Queen,weapon,KnightSword,legacy_base,equipment,weapon
+35,Excalibur,weapon,KnightSword,legacy_base,equipment,weapon
+36,Ragnarok,weapon,KnightSword,legacy_base,equipment,weapon
+37,Chaos Blade,weapon,KnightSword,legacy_base,equipment,weapon
+38,Ashura,weapon,Katana,legacy_base,equipment,weapon
+39,Kotetsu,weapon,Katana,legacy_base,equipment,weapon
+40,Bizen Osafune,weapon,Katana,legacy_base,equipment,weapon
+41,Murasame,weapon,Katana,legacy_base,equipment,weapon
+42,Ame-no-Murakumo,weapon,Katana,legacy_base,equipment,weapon
+43,Kiyomori,weapon,Katana,legacy_base,equipment,weapon
+44,Muramasa,weapon,Katana,legacy_base,equipment,weapon
+45,Kiku-ichimonji,weapon,Katana,legacy_base,equipment,weapon
+46,Masamune,weapon,Katana,legacy_base,equipment,weapon
+47,Chirijiraden,weapon,Katana,legacy_base,equipment,weapon
+48,Battle Axe,weapon,Axe,legacy_base,equipment,weapon
+49,Giant's Axe,weapon,Axe,legacy_base,equipment,weapon
+50,Slasher,weapon,Axe,legacy_base,equipment,weapon
+51,Rod,weapon,Rod,legacy_base,equipment,weapon
+52,Thunder Rod,weapon,Rod,legacy_base,equipment,weapon
+53,Flame Rod,weapon,Rod,legacy_base,equipment,weapon
+54,Ice Rod,weapon,Rod,legacy_base,equipment,weapon
+55,Poison Rod,weapon,Rod,legacy_base,equipment,weapon
+56,Wizard's Rod,weapon,Rod,legacy_base,equipment,weapon
+57,Dragon Rod,weapon,Rod,legacy_base,equipment,weapon
+58,Rod of Faith,weapon,Rod,legacy_base,equipment,weapon
+59,Oak Staff,weapon,Staff,legacy_base,equipment,weapon
+60,White Staff,weapon,Staff,legacy_base,equipment,weapon
+61,Healing Staff,weapon,Staff,legacy_base,equipment,weapon
+62,Serpent Staff,weapon,Staff,legacy_base,equipment,weapon
+63,Mage's Staff,weapon,Staff,legacy_base,equipment,weapon
+64,Golden Staff,weapon,Staff,legacy_base,equipment,weapon
+65,Zeus Mace,weapon,Staff,legacy_base,equipment,weapon
+66,Staff of the Magi,weapon,Staff,legacy_base,equipment,weapon
+67,Iron Flail,weapon,Flail,legacy_base,equipment,weapon
+68,Flail of Flame,weapon,Flail,legacy_base,equipment,weapon
+69,Morning Star,weapon,Flail,legacy_base,equipment,weapon
+70,Scorpion Tail,weapon,Flail,legacy_base,equipment,weapon
+71,Romandan Pistol,weapon,Gun,legacy_base,equipment,weapon
+72,Mythril Gun,weapon,Gun,legacy_base,equipment,weapon
+73,Stoneshooter,weapon,Gun,legacy_base,equipment,weapon
+74,Glacial Gun,weapon,Gun,legacy_base,equipment,weapon
+75,Blaze Gun,weapon,Gun,legacy_base,equipment,weapon
+76,Blaster,weapon,Gun,legacy_base,equipment,weapon
+77,Bowgun,weapon,Crossbow,legacy_base,equipment,weapon
+78,Knightslayer,weapon,Crossbow,legacy_base,equipment,weapon
+79,Crossbow,weapon,Crossbow,legacy_base,equipment,weapon
+80,Poison Crossbow,weapon,Crossbow,legacy_base,equipment,weapon
+81,Hunting Crossbow,weapon,Crossbow,legacy_base,equipment,weapon
+82,Gastrophetes,weapon,Crossbow,legacy_base,equipment,weapon
+83,Longbow,weapon,Bow,legacy_base,equipment,weapon
+84,Silver Bow,weapon,Bow,legacy_base,equipment,weapon
+85,Ice Bow,weapon,Bow,legacy_base,equipment,weapon
+86,Lightning Bow,weapon,Bow,legacy_base,equipment,weapon
+87,Windslash Bow,weapon,Bow,legacy_base,equipment,weapon
+88,Mythril Bow,weapon,Bow,legacy_base,equipment,weapon
+89,Artemis Bow,weapon,Bow,legacy_base,equipment,weapon
+90,Yoichi Bow,weapon,Bow,legacy_base,equipment,weapon
+91,Perseus Bow,weapon,Bow,legacy_base,equipment,weapon
+92,Lamia's Harp,weapon,Instrument,legacy_base,equipment,weapon
+93,Bloodstring Harp,weapon,Instrument,legacy_base,equipment,weapon
+94,Faerie Harp,weapon,Instrument,legacy_base,equipment,weapon
+95,Battle Folio,weapon,Book,legacy_base,equipment,weapon
+96,Bestiary,weapon,Book,legacy_base,equipment,weapon
+97,Papyrus Codex,weapon,Book,legacy_base,equipment,weapon
+98,Omnilex,weapon,Book,legacy_base,equipment,weapon
+99,Javelin,weapon,Polearm,legacy_base,equipment,weapon
+100,Spear,weapon,Polearm,legacy_base,equipment,weapon
+101,Mythril Spear,weapon,Polearm,legacy_base,equipment,weapon
+102,Partisan,weapon,Polearm,legacy_base,equipment,weapon
+103,Obelisk,weapon,Polearm,legacy_base,equipment,weapon
+104,Holy Lance,weapon,Polearm,legacy_base,equipment,weapon
+105,Dragon Whisker,weapon,Polearm,legacy_base,equipment,weapon
+106,Javelin,weapon,Polearm,legacy_base,equipment,weapon
+107,Cypress Pole,weapon,Pole,legacy_base,equipment,weapon
+108,Battle Bamboo,weapon,Pole,legacy_base,equipment,weapon
+109,Musk Pole,weapon,Pole,legacy_base,equipment,weapon
+110,Iron Fan,weapon,Pole,legacy_base,equipment,weapon
+111,Gokuu's Pole,weapon,Pole,legacy_base,equipment,weapon
+112,Ivory Pole,weapon,Pole,legacy_base,equipment,weapon
+113,Eight-fluted Pole,weapon,Pole,legacy_base,equipment,weapon
+114,Whale Whisker,weapon,Pole,legacy_base,equipment,weapon
+115,Catskin Bag,weapon,Bag,legacy_base,equipment,weapon
+116,Fallingstar Bag,weapon,Bag,legacy_base,equipment,weapon
+117,Proudhide Bag,weapon,Bag,legacy_base,equipment,weapon
+118,Hardscale Bag,weapon,Bag,legacy_base,equipment,weapon
+119,Damask Cloth,weapon,Cloth,legacy_base,equipment,weapon
+120,Cashmere,weapon,Cloth,legacy_base,equipment,weapon
+121,Wyrmweave Silk,weapon,Cloth,legacy_base,equipment,weapon
+122,Shuriken,weapon,Throwing,legacy_base,throwable,weapon
+123,Fuma Shuriken,weapon,Throwing,legacy_base,throwable,weapon
+124,Yagyu Darkrood,weapon,Throwing,legacy_base,throwable,weapon
+125,Flameburst Bomb,weapon,Bomb,legacy_base,throwable,weapon
+126,Snowmelt Bomb,weapon,Bomb,legacy_base,throwable,weapon
+127,Spark Bomb,weapon,Bomb,legacy_base,throwable,weapon
+128,Escutcheon,shield,Shield,legacy_base,equipment,shield
+129,Buckler,shield,Shield,legacy_base,equipment,shield
+130,Bronze Shield,shield,Shield,legacy_base,equipment,shield
+131,Round Shield,shield,Shield,legacy_base,equipment,shield
+132,Mythril Shield,shield,Shield,legacy_base,equipment,shield
+133,Golden Shield,shield,Shield,legacy_base,equipment,shield
+134,Ice Shield,shield,Shield,legacy_base,equipment,shield
+135,Flame Shield,shield,Shield,legacy_base,equipment,shield
+136,Aegis Shield,shield,Shield,legacy_base,equipment,shield
+137,Diamond Shield,shield,Shield,legacy_base,equipment,shield
+138,Platinum Shield,shield,Shield,legacy_base,equipment,shield
+139,Crystal Shield,shield,Shield,legacy_base,equipment,shield
+140,Genji Shield,shield,Shield,legacy_base,equipment,shield
+141,Kaiser Shield,shield,Shield,legacy_base,equipment,shield
+142,Venetian Shield,shield,Shield,legacy_base,equipment,shield
+143,Escutcheon,shield,Shield,legacy_base,equipment,shield
+144,Leather Helm,headgear,Helmet,legacy_base,equipment,headgear
+145,Bronze Helm,headgear,Helmet,legacy_base,equipment,headgear
+146,Iron Helm,headgear,Helmet,legacy_base,equipment,headgear
+147,Barbut,headgear,Helmet,legacy_base,equipment,headgear
+148,Mythril Helm,headgear,Helmet,legacy_base,equipment,headgear
+149,Golden Helm,headgear,Helmet,legacy_base,equipment,headgear
+150,Close Helmet,headgear,Helmet,legacy_base,equipment,headgear
+151,Diamond Helm,headgear,Helmet,legacy_base,equipment,headgear
+152,Platinum Helm,headgear,Helmet,legacy_base,equipment,headgear
+153,Circlet,headgear,Helmet,legacy_base,equipment,headgear
+154,Crystal Helm,headgear,Helmet,legacy_base,equipment,headgear
+155,Genji Helm,headgear,Helmet,legacy_base,equipment,headgear
+156,Grand Helm,headgear,Helmet,legacy_base,equipment,headgear
+157,Leather Cap,headgear,Hat,legacy_base,equipment,headgear
+158,Plumed Hat,headgear,Hat,legacy_base,equipment,headgear
+159,Red Hood,headgear,Hat,legacy_base,equipment,headgear
+160,Headgear,headgear,Hat,legacy_base,equipment,headgear
+161,Wizard's Hat,headgear,Hat,legacy_base,equipment,headgear
+162,Green Beret,headgear,Hat,legacy_base,equipment,headgear
+163,Headband,headgear,Hat,legacy_base,equipment,headgear
+164,Celebrant's Miter,headgear,Hat,legacy_base,equipment,headgear
+165,Black Cowl,headgear,Hat,legacy_base,equipment,headgear
+166,Gold Hairpin,headgear,Hat,legacy_base,equipment,headgear
+167,Lambent Hat,headgear,Hat,legacy_base,equipment,headgear
+168,Thief's Cap,headgear,Hat,legacy_base,equipment,headgear
+169,Hairband,headgear,HairAdornment,legacy_base,equipment,headgear
+170,Barrette,headgear,HairAdornment,legacy_base,equipment,headgear
+171,Ribbon,headgear,HairAdornment,legacy_base,equipment,headgear
+172,Leather Armor,armor,Armor,legacy_base,equipment,armor
+173,Linen Cuirass,armor,Armor,legacy_base,equipment,armor
+174,Bronze Armor,armor,Armor,legacy_base,equipment,armor
+175,Chainmail,armor,Armor,legacy_base,equipment,armor
+176,Mythril Armor,armor,Armor,legacy_base,equipment,armor
+177,Plate Mail,armor,Armor,legacy_base,equipment,armor
+178,Golden Armor,armor,Armor,legacy_base,equipment,armor
+179,Diamond Armor,armor,Armor,legacy_base,equipment,armor
+180,Platinum Armor,armor,Armor,legacy_base,equipment,armor
+181,Carabineer Mail,armor,Armor,legacy_base,equipment,armor
+182,Crystal Mail,armor,Armor,legacy_base,equipment,armor
+183,Genji Armor,armor,Armor,legacy_base,equipment,armor
+184,Mirror Mail,armor,Armor,legacy_base,equipment,armor
+185,Maximillian,armor,Armor,legacy_base,equipment,armor
+186,Clothing,armor,Clothing,legacy_base,equipment,armor
+187,Leather Clothing,armor,Clothing,legacy_base,equipment,armor
+188,Leather Plate,armor,Clothing,legacy_base,equipment,armor
+189,Ringmail,armor,Clothing,legacy_base,equipment,armor
+190,Mythril Vest,armor,Clothing,legacy_base,equipment,armor
+191,Adamant Vest,armor,Clothing,legacy_base,equipment,armor
+192,Wizard Clothing,armor,Clothing,legacy_base,equipment,armor
+193,Brigandine,armor,Clothing,legacy_base,equipment,armor
+194,Jujitsu Gi,armor,Clothing,legacy_base,equipment,armor
+195,Power Garb,armor,Clothing,legacy_base,equipment,armor
+196,Gaia Gear,armor,Clothing,legacy_base,equipment,armor
+197,Ninja Gear,armor,Clothing,legacy_base,equipment,armor
+198,Black Garb,armor,Clothing,legacy_base,equipment,armor
+199,Rubber Suit,armor,Clothing,legacy_base,equipment,armor
+200,Hempen Robe,armor,Robe,legacy_base,equipment,armor
+201,Silken Robe,armor,Robe,legacy_base,equipment,armor
+202,Wizard's Robe,armor,Robe,legacy_base,equipment,armor
+203,Chameleon Robe,armor,Robe,legacy_base,equipment,armor
+204,White Robe,armor,Robe,legacy_base,equipment,armor
+205,Black Robe,armor,Robe,legacy_base,equipment,armor
+206,Luminous Robe,armor,Robe,legacy_base,equipment,armor
+207,Lordly Robe,armor,Robe,legacy_base,equipment,armor
+208,Battle Boots,accessory,Shoes,legacy_base,equipment,accessory
+209,Spiked Boots,accessory,Shoes,legacy_base,equipment,accessory
+210,Germinas Boots,accessory,Shoes,legacy_base,equipment,accessory
+211,Rubber Boots,accessory,Shoes,legacy_base,equipment,accessory
+212,Winged Boots,accessory,Shoes,legacy_base,equipment,accessory
+213,Hermes Shoes,accessory,Shoes,legacy_base,equipment,accessory
+214,Red Shoes,accessory,Shoes,legacy_base,equipment,accessory
+215,Power Gauntlets,accessory,Armguard,legacy_base,equipment,accessory
+216,Genji Gloves,accessory,Armguard,legacy_base,equipment,accessory
+217,Magepower Gloves,accessory,Armguard,legacy_base,equipment,accessory
+218,Bracers,accessory,Armguard,legacy_base,equipment,accessory
+219,Reflect Ring,accessory,Ring,legacy_base,equipment,accessory
+220,Protect Ring,accessory,Ring,legacy_base,equipment,accessory
+221,Magick Ring,accessory,Ring,legacy_base,equipment,accessory
+222,Cursed Ring,accessory,Ring,legacy_base,equipment,accessory
+223,Angel Ring,accessory,Ring,legacy_base,equipment,accessory
+224,Diamond Bracelet,accessory,Armlet,legacy_base,equipment,accessory
+225,Jade Armlet,accessory,Armlet,legacy_base,equipment,accessory
+226,Japa Mala,accessory,Armlet,legacy_base,equipment,accessory
+227,Nu Khai Armband,accessory,Armlet,legacy_base,equipment,accessory
+228,Guardian Bracelet,accessory,Armlet,legacy_base,equipment,accessory
+229,Shoulder Cape,accessory,Cloak,legacy_base,equipment,accessory
+230,Leather Cloak,accessory,Cloak,legacy_base,equipment,accessory
+231,Mage's Cloak,accessory,Cloak,legacy_base,equipment,accessory
+232,Elven Cloak,accessory,Cloak,legacy_base,equipment,accessory
+233,Vampire Cape,accessory,Cloak,legacy_base,equipment,accessory
+234,Featherweave Cloak,accessory,Cloak,legacy_base,equipment,accessory
+235,Invisibility Cloak,accessory,Cloak,legacy_base,equipment,accessory
+236,Chantage,accessory,Perfume,legacy_base,equipment,accessory
+237,Envoûtement,accessory,Perfume,legacy_base,equipment,accessory
+238,Septième Sens,accessory,Perfume,legacy_base,equipment,accessory
+239,Sortilège,accessory,Perfume,legacy_base,equipment,accessory
+240,Potion,other,Item,legacy_base,consumable,other
+241,High Potion,other,Item,legacy_base,consumable,other
+242,X-Potion,other,Item,legacy_base,consumable,other
+243,Ether,other,Item,legacy_base,consumable,other
+244,High Ether,other,Item,legacy_base,consumable,other
+245,Elixir,other,Item,legacy_base,consumable,other
+246,Antidote,other,Item,legacy_base,consumable,other
+247,Eye Drops,other,Item,legacy_base,consumable,other
+248,Echo Herbs,other,Item,legacy_base,consumable,other
+249,Maiden's Kiss,other,Item,legacy_base,consumable,other
+250,Gold Needle,other,Item,legacy_base,consumable,other
+251,Holy Water,other,Item,legacy_base,consumable,other
+252,Remedy,other,Item,legacy_base,consumable,other
+253,Phoenix Down,other,Item,legacy_base,consumable,other
+254,UNKNOWN,other,None,sentinel_or_unknown,excluded,other
+255,UNKNOWN,other,None,sentinel_or_unknown,excluded,other
+256,Materia Blade+,weapon,Sword,tic_added,equipment,weapon
+257,Akademy Blade,weapon,Sword,deluxe_bonus,equipment,weapon
+258,Akademy Beret,headgear,Hat,deluxe_bonus,equipment,armor
+259,Akademy Tunic,armor,Clothing,deluxe_bonus,equipment,armor
+260,Ring of Aptitude,accessory,Ring,deluxe_bonus,equipment,accessory

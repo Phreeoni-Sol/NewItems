@@ -1,0 +1,10 @@
+{
+  "id": "tfj_bow_10",
+  "prompt": "Targeted edit of the four-pose pixel bow study. Keep exactly the four pale-wood asymmetrical recurved bow silhouettes, indigo grips and tiny red lower-tip knot, same layout. Strengthen the SINGLE indigo bowstring in every pose: one straight UNBROKEN dark-blue thick pixel line from upper tip to lower tip, passing behind the grip, clearly readable as a bow even after reduction. The string must have a minimum visual thickness of roughly 18-22 pixels on this 1254-pixel sheet, about one coarse pixel cluster. Keep ample transparent gap between string and wooden limbs, and bow silhouette not a staff. Remove the decorative dangling blue tie below the grip that can be mistaken for a second string. Preserve transparent background, no glow/shadow/backdrop, simple opaque chunky pixel clusters. No text, hands, arrows, crossbow stock or new shapes. This is a miniature readability correction, not a native engine atlas.",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-8d5a88e0-bffb-4562-9406-0e6b2b4482c3.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "binding": "UNKNOWN",
+  "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+  "review": "Source and miniature previews inspected against the inventory icon: separated views, recognizable family, dominant palette and main signature retained. Fine details simplified. Mirrored profiles are author proposals, not proven native directions. Shield backs are author designs. Hand anchors, indexed palette and timing are not validated."
+}

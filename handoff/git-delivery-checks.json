@@ -1,0 +1,17 @@
+{
+  "Mode": "Core",
+  "CompletedUtc": "2026-10-08T09:45:21.8877819Z",
+  "Passed": true,
+  "Checks": 2,
+  "Results": [
+    {
+      "Name": "extension-core",
+      "ExitCode": 0
+    },
+    {
+      "Name": "build-core",
+      "ExitCode": 0
+    }
+  ],
+  "scope": "Offline core tests only, no game accessed or patched"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tfj_book_03",
+  "name_fr": "Chronique des ruines",
+  "category": "Book",
+  "image": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\outputs\\The-Forgotten-Jobs-Equipment-Ivalice-Style-V2\\images\\tfj_book_03.png",
+  "native_ref": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\references\\weapon-palette-03.png",
+  "prompt": "Use-case: game-asset. Generate a TRANSPARENT authoring concept sheet for ONE new FFT equipment design, in a clean 2 by 2 grid of four separated views with generous fully empty gutters (at least 12 percent horizontal and vertical). First reference is the inventory icon: preserve this object signature and colors. Second reference is the extracted native FFT pixel weapon bank: use its restrained readable chunky pixel clusters, not its layout or whole atlas. Equipment family Book. Signature: Closed thick battered ochre parchment codex with charcoal cloth spine, asymmetrical bronze corner plates and a simple dark green leather buckle. Palette: ochre, charcoal, green. Proposed view layout: top left up-left profile, top right opposite up-right profile, bottom left horizontal toward left, bottom right horizontal toward right. One CLOSED book per pose, preserve cover motif, spine, clasp and bookmark, no open pages or floating paper. Redraw as small classic FFT battle equipment sprites enlarged with nearest-neighbour appearance; coarse clearly stepped edges, sparse muted color clusters, simplified ornament and strong silhouette. Opaque equipment pixels within, alpha zero everywhere outside. No painterly texture, smooth detailed illustration, text, grid lines, labels, checkerboard backdrop, diffuse lighting, shadows, haze, halo or glow. Even if the icon has a magical effect, OMIT every effect cloud/particle; effects need separate validated layers. Four proposals of SAME item, not four different items. This is authoring study only, NOT a native atlas or proven animation. Keep all views away from canvas edges and each other.",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-b24b373d-f36c-465d-8d73-86c50b9c3a8c.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "binding": "UNKNOWN",
+  "review": "Source and miniature previews inspected against the inventory icon: separated views, recognizable family, dominant palette and main signature retained. Fine details simplified. Mirrored profiles are author proposals, not proven native directions. Shield backs are author designs. Hand anchors, indexed palette and timing are not validated."
+}

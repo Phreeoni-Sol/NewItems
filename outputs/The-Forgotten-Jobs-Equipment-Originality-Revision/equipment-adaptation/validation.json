@@ -1,0 +1,13 @@
+{
+  "status": "PASS_AUTHORING_ONLY",
+  "contracts": 38,
+  "previews": 152,
+  "families": 19,
+  "historical_resources_identical": 4,
+  "runtime_ready": false,
+  "original_art_sha_verified": true,
+  "native_binaries_modified": false,
+  "browser_qa": "BLOCKED_BY_URL_POLICY",
+  "game_tests": "NOT_RUN",
+  "local_html_links_verified": 160
+}

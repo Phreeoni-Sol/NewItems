@@ -1,0 +1,12 @@
+work/
+**/__pycache__/
+**/bin/
+**/obj/
+*.pyc
+*.dll
+*.exe
+*.pdb
+*.zip
+.env
+.env.*
+*.local.secret.*

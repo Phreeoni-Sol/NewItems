@@ -1,0 +1,13 @@
+{
+  "id": "tfj_knife_10",
+  "name_fr": "Dernier aveu",
+  "generator": "OPENAI_BUILT_IN_IMAGEGEN",
+  "prompt": "Precise object edit of the provided four-dagger sheet. Keep the FOUR DAGGERS ONLY exactly as drawn, with the same positions and copper black red design. REMOVE ALL diffuse brown amber and red glow, shadow, haze, vignette and partially transparent aura outside their hard stepped black outlines. Those diffuse halos are erroneous background, not part of any weapon. Every pixel outside the hard dagger outline must be completely empty alpha-zero transparent. All colored blade/grip/seal pixels inside each dagger outline must be fully opaque. No shadow behind, underneath or around a dagger. No lighting spill. Flat pixel asset cutouts, clean hard alpha boundaries, no background. Do not add detail or change silhouettes, views, proportions, layout or colors of the actual weapons. Preserve the sharp simplified flat pixel clusters. Four isolated transparent-background weapon cutouts.",
+  "source": "C:/Users/eSilRoy/.codex/generated_images/01a11269-acf4-72e3-9d21-88011efccada/exec-396b85f8-5d3f-4a9e-b354-251fb6e26dc2.png",
+  "references": [
+    "retouch-pilot/tfj_knife_10-v2.png"
+  ],
+  "status": "REJECTED_FOR_CLEAN_ALPHA_PRODUCTION",
+  "visual_review": "Four-view design preserved; wax seal became more saturated; diffuse halo still visible. Targeted correction did not meet alpha cleanup requirement. Do not replace selected concept or expand to other items based on this test.",
+  "runtime_ready": false
+}

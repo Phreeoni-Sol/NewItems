@@ -1,0 +1,3 @@
+PASS wildcard signature scanning and malformed signatures rejected.
+PASS RIP target calculation and exclusive range boundaries.
+PASS local collision evidence: 174 complete Job rows, 2 padding bytes, then Ability; no ID allocated.

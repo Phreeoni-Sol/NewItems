@@ -1,0 +1,26 @@
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\samples\0004.fr.pac_job.fr.nxd
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\samples\0004.fr.pac_ability.fr.nxd
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\samples\0004.fr.pac_jobcommand.fr.nxd
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\samples\0004.fr.pac_item.fr.nxd
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\samples\0004.fr.pac_uistatuseffect.fr.nxd
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\samples\0004.pac_generaljob.nxd
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\samples\0004.pac_overrideabilityactiondata.nxd
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\samples\0008.pac_wldface_001_08_uitx.utexpt
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\samples\0002.pac_battle_10m_spr.bin
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\samples\0002.pac_event_wldface_bin.bin
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\extraction\sample-summary.json
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\extraction\nxd-row-keys.csv
+
+Archive     Path                                                         Bytes Rows LayoutInlineSize
+-------     ----                                                         ----- ---- ----------------
+0004.fr.pac nxd/job.fr.nxd                                               38636  174               64
+0004.fr.pac nxd/ability.fr.nxd                                          140826  512               68
+0004.fr.pac nxd/jobcommand.fr.nxd                                        28683  227               36
+0004.fr.pac nxd/item.fr.nxd                                              68048  261               48
+0004.fr.pac nxd/uistatuseffect.fr.nxd                                    12542   45               36
+0004.pac    nxd/generaljob.nxd                                            3861   21              124
+0004.pac    nxd/overrideabilityactiondata.nxd                            17742  368               40
+0008.pac    ui/ffto/common/face/textureparts/wldface_001_08_uitx.utexpt    310                      
+0002.pac    fftpack/unit/battle_10m_spr.bin                              37377                      
+0002.pac    fftpack/event_wldface_bin.bin                               131072                      
+

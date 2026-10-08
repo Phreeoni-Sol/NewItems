@@ -1,0 +1,4 @@
+PASS reachable decoder follows both sides of conditional branches and later returns.
+PASS branch beyond bounded preview rejected.
+PASS RIP displacement recovered even with a trailing immediate.
+PASS local map: 72 address candidates, command accessor branches and progress-slot mapper recorded; coverage not approved.

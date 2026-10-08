@@ -1,0 +1,12 @@
+{
+  "id": "tfj_pole_07",
+  "name_fr": "Axe du monde",
+  "generator": "OPENAI_BUILT_IN_IMAGEGEN",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-42bbe157-423e-426b-bd94-26017eb19639.png",
+  "prompt": "Generate a NEW transparent four-view combat equipment sprite study FROM SCRATCH. Attached native FFT weapon atlas is a STYLE REFERENCE ONLY. Do not copy its arrangement or any vanilla item. Severe native visual economy: small readable silhouettes, UNIFORM square pixel grid, a FEW large flat opaque muted color clusters, only 2 or 3 hard-edged shades per material. Like a tiny low-resolution tactical RPG battle sprite enlarged by nearest-neighbour, not a detailed inventory illustration. Four isolated views of ONE SAME physical object in 2x2 arrangement, HUGE truly transparent gutters. All equipment visible fully, away from sheet edges. Outside hard-edged silhouettes alpha ZERO. No background, vignette, checkerboard, text, labels, characters, hands, grain, noise or painterly rendering. ABSOLUTELY NO glow, halo, aura, haze, cloud, particles, translucent shadow, lighting spill, gradients or bloom. Omit ALL mist/smoke/magical effects even if mentioned in the object's signature: those are separate effects, not part of this sprite. Keep proportions/materials/design consistent in all four views. Simplify ornament to one readable distinctive feature rather than adding detail. No generic golden filigree. This is an art study, not a native engine atlas or encoded asset.\nEquipment family: Pole. Object identity: Full pale bamboo fighting pole with uneven joint segments, three narrow dark green binding bands and blunt gray iron caps, a tiny pale leaf tied near upper end.\nPalette identity: pale bamboo, dark green, gray.\nUpper-left profile points up-left, upper-right profile points up-right; lower-left horizontal left, lower-right horizontal right. Same shape, tip/head, grip and proportions in all views. Continuous shaft/blade. No sheath or extra weapon.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment/references/weapon-palette-03.png",
+  "status": "VISUALLY_REVIEWED_ALTERNATIVE_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "selected_sha256": "05f9c02edb5a163ff82a7b55b7efcbcb5397b7d4f69b8fb0f6135cb9093ee1da",
+  "review": "Bamboo segments, green bands, leaf and blunt iron caps remain readable; no spear tip."
+}

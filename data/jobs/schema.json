@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "The Forgotten Jobs - Job Definition",
+  "type": "object",
+  "required": [
+    "id",
+    "display_name",
+    "tier",
+    "role",
+    "unlock",
+    "stats"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "display_name": {
+      "type": "string"
+    },
+    "tier": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 4
+    },
+    "role": {
+      "type": "string"
+    },
+    "unlock": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "stats": {
+      "type": "object",
+      "properties": {
+        "hp": {
+          "type": "number"
+        },
+        "mp": {
+          "type": "number"
+        },
+        "pa": {
+          "type": "number"
+        },
+        "ma": {
+          "type": "number"
+        },
+        "speed": {
+          "type": "number"
+        },
+        "move": {
+          "type": "integer"
+        },
+        "jump": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "hp",
+        "mp",
+        "pa",
+        "ma",
+        "speed",
+        "move",
+        "jump"
+      ]
+    },
+    "equipment": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "abilities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

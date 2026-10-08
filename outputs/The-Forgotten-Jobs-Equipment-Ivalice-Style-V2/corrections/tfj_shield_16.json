@@ -1,0 +1,12 @@
+{
+  "id": "tfj_shield_16",
+  "prompt": "Redesign this unique shield Le Refus to look like an exceptional Ivalice ward relic rather than a common painted wooden shield. Preserve native FFT small-icon soft textured hand-painted rendering and ochre/indigo/iron palette. Build one compact squat ASYMMETRICAL HEXAGONAL shield with ochre ceramic plates, one deliberately missing tiny top corner, irregular thick iron rim and dark indigo horizontal inset band. In the CENTER a flat CAST IRON EMBOSSED OPEN PALM with five clearly fused sculpted fingers points upward, a symbol integral to the shield, not a real human hand. One narrow repaired diagonal crack crosses the ceramic behind it. A subtle blue-gray circular distortion sits immediately around the raised palm, small and muted. No wooden plank face, round boss, gold jewelry, skulls, wings, spikes, text, person or extra objects. Exactly one complete shield, three-quarter inventory view, transparent background.",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-610d264e-1635-4ec2-b383-61adf75aa35d.png",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_shield_16.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "status": "CORRECTION_REQUIRES_REVIEW",
+  "signature_design_en": "Asymmetric hexagonal ochre ceramic ward shield, indigo horizontal band, cast iron open-palm emblem, missing corner and repaired diagonal crack.",
+  "palette": "ochre ceramic, indigo, iron",
+  "visual_effect": "muted blue-gray circular distortion at palm"
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "Archive": "0002.pac",
+    "Path": "fftpack/unit/battle_wep1_shp.bin",
+    "Bytes": 5218,
+    "SHA256": "C26DFD0A91188D3C8431B0B796048635CB8A13E0A49BDB256F7D8140F6E85B03",
+    "Header": "00-00-00-00-00-00-00-00-28-00-28-00-28-00-28-00",
+    "Rows": null,
+    "Type": null,
+    "Category": null,
+    "LayoutInlineSize": null
+  },
+  {
+    "Archive": "0002.pac",
+    "Path": "fftpack/unit/battle_wep2_shp.bin",
+    "Bytes": 5436,
+    "SHA256": "66C941F247FC1D8A188EFC3B4AF58986D2E5F73BE075EC342BA3EB818CF36FB1",
+    "Header": "00-00-00-00-00-00-00-00-2B-00-2B-00-2B-00-2B-00",
+    "Rows": null,
+    "Type": null,
+    "Category": null,
+    "LayoutInlineSize": null
+  },
+  {
+    "Archive": "0002.pac",
+    "Path": "fftpack/unit/battle_wep1_seq.bin",
+    "Bytes": 2607,
+    "SHA256": "D46A664883387D28D938E2037884DC3D606EBBC16F750492981B603FD21B5E33",
+    "Header": "00-00-00-00-00-00-00-00-1D-00-00-00-3A-00-00-00",
+    "Rows": null,
+    "Type": null,
+    "Category": null,
+    "LayoutInlineSize": null
+  },
+  {
+    "Archive": "0002.pac",
+    "Path": "fftpack/unit/battle_wep2_seq.bin",
+    "Bytes": 2657,
+    "SHA256": "CBA2E0C02A71CAD2B13D484AFC06D6732B003DE68B5F51910A647BDCA905A3C3",
+    "Header": "00-00-00-00-00-00-00-00-1B-00-00-00-36-00-00-00",
+    "Rows": null,
+    "Type": null,
+    "Category": null,
+    "LayoutInlineSize": null
+  },
+  {
+    "Archive": "0002.pac",
+    "Path": "fftpack/unit/battle_wep_spr.bin",
+    "Bytes": 85504,
+    "SHA256": "7A4C733E1654F9F1FF41E1281FD26FCE894BD608BC1C95E1E4713AECDC0EFF0A",
+    "Header": "00-00-C6-14-4A-29-10-42-F7-5E-C4-1C-69-4D-0A-62",
+    "Rows": null,
+    "Type": null,
+    "Category": null,
+    "LayoutInlineSize": null
+  }
+]

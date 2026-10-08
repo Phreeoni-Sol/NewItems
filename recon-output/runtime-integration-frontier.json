@@ -1,0 +1,18 @@
+{
+  "NativeCopiedAccessorsValidated": true,
+  "Version": "runtime-core-development",
+  "ConsumerCoverageApproved": false,
+  "Policy": "Independent jobs only; preserve vanilla jobs/progression",
+  "SaveBindingVerified": false,
+  "GameStartupVerified": false,
+  "CoreChecksPassed": 54,
+  "CoreLibraryCompiled": true,
+  "FileSystemAccess": "SquareEnix read permission granted, but tools still return Access denied/EPERM",
+  "NextRequired": "Game-process hook/menu integration, verified unit/save identity, progression access interception, then playable content",
+  "GameHooksInstalled": false,
+  "SavedUnitIdentityVerified": false,
+  "EngineIDAllocated": false,
+  "ConsumerCandidates": 72,
+  "NativeCommandPairsCompared": 5632,
+  "PlayableJob": false
+}

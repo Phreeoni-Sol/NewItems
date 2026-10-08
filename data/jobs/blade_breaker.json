@@ -1,0 +1,34 @@
+{
+  "id": "blade_breaker",
+  "display_name": "Brise-Lame",
+  "tier": 1,
+  "role": "Anti-armure / briseur de statistiques",
+  "unlock": [
+    "Knight Lv.3",
+    "400 JP investis en Knight"
+  ],
+  "stats": {
+    "hp": 120,
+    "mp": 70,
+    "pa": 120,
+    "ma": 70,
+    "speed": 95,
+    "move": 3,
+    "jump": 3
+  },
+  "equipment": [
+    "sword",
+    "shield",
+    "heavy_armor"
+  ],
+  "abilities": [
+    "break_weapon",
+    "break_armor",
+    "break_helm",
+    "break_shield",
+    "smash",
+    "shockwave",
+    "fracture",
+    "total_fracture"
+  ]
+}

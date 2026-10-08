@@ -1,0 +1,28 @@
+{
+  "status": "PASS_ART_REVIEW_ONLY",
+  "selected_equipment": 19,
+  "weapons": 18,
+  "shields": 1,
+  "proposed_views": 76,
+  "ordinary_total": 107,
+  "ordinary_remaining": 88,
+  "inventory_sha_verified": 107,
+  "runtime_ready": false,
+  "native_palette": "NOT_CREATED",
+  "new_native_ids": 0,
+  "hand_anchor": "UNKNOWN",
+  "game_test": "NOT_RUN",
+  "browser_test": "BLOCKED_BY_URL_POLICY",
+  "pollen_calls": 0,
+  "original_alpha_preserved": true,
+  "local_links_verified": 192,
+  "preview_rgba_color_range": [
+    82,
+    664
+  ],
+  "pixel_retouched": false,
+  "known_author_preview_issues": 10,
+  "preview_sizes_are_native_constraints": false,
+  "source_corrections": 1,
+  "archive_scope": "19 source designs; no native-ready assets"
+}

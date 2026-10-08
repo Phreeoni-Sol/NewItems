@@ -1,0 +1,28 @@
+{
+  "Sources": [
+    {
+      "Kind": "Full tracked-source snapshot without Git history",
+      "License": "MIT",
+      "URL": "https://github.com/Nenkai/fftivc.utility.modloader",
+      "Commit": "c74047dc1b36bfe1bf6a466cf3645f1fe9815425",
+      "Archive": "modloader-source.zip",
+      "Name": "fftivc.utility.modloader"
+    },
+    {
+      "Kind": "Full tracked-source snapshot without Git history",
+      "License": "MIT",
+      "URL": "https://github.com/cipherxof/FFTGenericJobs",
+      "Commit": "129931e09064577c33a59a9108d60e8c81e7e388",
+      "Archive": "genericjobs-source.zip",
+      "Name": "FFTGenericJobs"
+    },
+    {
+      "Kind": "Selected unmodified source excerpts, not a buildable checkout",
+      "License": "GPL-3.0-only plus third-party notices",
+      "URL": "https://github.com/sam-derby/Ivalice-Companion",
+      "Commit": "4b18c5dde0c1bfc51bef6da99422a6cc26b05568",
+      "Name": "Ivalice Companion",
+      "Directory": "ivalice-companion-excerpts"
+    }
+  ]
+}

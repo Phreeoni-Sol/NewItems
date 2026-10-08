@@ -1,0 +1,9 @@
+{
+  "id": "tfj_staff_02",
+  "prompt": "Create a new transparent 2x2 pixel-art sheet of the Bâton des sources combat equipment, using image1 for native FFT tiny pixel style and image2 for physical identity only. Pale wood shaft, pale collar, blue teardrop gem at the LOWER end just above wooden tip. Its upper head is a FOUR-TINED FORK: exactly FOUR visible parallel long pale prongs separated by THREE transparent gaps in ALL FOUR drawings. Not a trident. Count FOUR prongs in each view. Use near-front views with differently tilted orientations so no tine is hidden by perspective. Same object throughout. At miniature size use large square pixels, chunky continuous shaft, flat cream/brown clusters, opaque solid interiors, transparent exterior. 2x2 layout with very wide empty gutters, no text, no hands or characters, no glow or atmosphere. This is an artistic study, not a native animation.",
+  "generated_source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-7cb56b0a-2d3c-4750-90d2-efe22e6c4f85.png",
+  "reason": "v1 did not retain four prongs in all views",
+  "runtime_ready": false,
+  "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+  "pixel_retouched": false
+}

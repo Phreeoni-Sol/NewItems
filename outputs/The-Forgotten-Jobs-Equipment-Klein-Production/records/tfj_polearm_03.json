@@ -1,0 +1,38 @@
+{
+  "id": "tfj_polearm_03",
+  "name_fr": "Lance du héron gris",
+  "category": "Polearm",
+  "rarity": "uncommon",
+  "model": "black-forest-labs/flux.2-klein-4b",
+  "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+  "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_102_uitx.png",
+  "reference_sha256": "1e09caa87c04aad762972ee8cf143323647d260bad477e73ab4577e1b8d090e2",
+  "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_polearm_03.png",
+  "expected_cost_pollen": 0.005,
+  "runtime_ready": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "http_status": 200
+    }
+  ],
+  "http_status": 200,
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 1,
+    "total_tokens": 1,
+    "input_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "size": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "alpha_ready": false,
+  "sha256": "c95d3048b83fb348d1e46c674db24298285f88b16388e7b4ceecf6fe44fc5cb1",
+  "seconds": 12.3,
+  "prompt": "Create ONE original Polearm equipment inventory icon. New design motif: slender silver leaf spear with grey feather pennant. The attached image is an actual native FFT The Ivalice Chronicles Enhanced inventory texture and is ONLY a style and composition reference. Follow its viewing angle, orientation, compact silhouette, relative object scale, muted color palette and delicate proportions. Match its worn hand-painted textured materials, restrained highlights, and soft slightly distressed painterly edges. Use practical believable construction and sparse ornament. Do not duplicate the reference object; follow the new design motif. Keep the complete object readable at 100x100 and 48x48 with safe padding. Single isolated object, no scenery, no frame, no floor shadow, no reflection, no cast shadow. Absolutely no lettering, words, numbers, logos, labels, writing, signatures or watermarks anywhere, including on the object itself. No product photography, glossy concept-art rendering, neon glow, thick black outlines or hard pixel-art clusters. Flat uniform pure white background if genuine transparent alpha is unsupported; never a checkerboard pattern."
+}

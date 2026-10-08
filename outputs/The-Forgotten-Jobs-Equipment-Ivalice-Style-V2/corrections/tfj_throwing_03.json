@@ -1,0 +1,12 @@
+{
+  "id": "tfj_throwing_03",
+  "signature_design_en": "Three swept-back leaf-shaped pewter blades around a small triangular iron hub; one short faded red oath knot attached to center.",
+  "palette": "pewter, iron, faded red",
+  "visual_effect": "none",
+  "prompt": "Redesign this inventory throwing weapon as Les Trois adieux, a unique throwing star whose silhouette is visibly different from an ordinary FOUR-point star. EXACTLY THREE swept-back broad leaf-shaped pewter steel blades in a rotating triskelion, evenly spaced around a small triangular iron hub with an open central triangular hole. A single short faded red oath knot is directly attached at the center. THREE blade tips only, no fourth blade, no additional spikes or star points, no ordinary cross silhouette. Keep native FFT Ivalice small-icon softly textured hand-painted materials and subdued shading, no photorealistic 3D gloss or gold filigree, no text, labels, frames, scene or person. Exactly one complete isolated connected throwing weapon, genuine transparent background, safe margins, readable at 100 px.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_throwing_03.png",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-06a78626-4925-4022-b219-e6cec03135ca.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "status": "CORRECTION_REQUIRES_REVIEW"
+}

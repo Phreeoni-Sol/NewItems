@@ -1,0 +1,7 @@
+PASS semantic round-trip: Job, 174 rows
+PASS semantic round-trip: Ability, 512 rows
+PASS semantic round-trip: JobCommand, 227 rows
+PASS semantic round-trip: GeneralJob, 21 rows
+PASS semantic round-trip: OverrideAbilityActionData, 368 rows
+PASS localized text changes survive serialization; all other cells are preserved.
+PASS invalid IDs and columns are rejected.

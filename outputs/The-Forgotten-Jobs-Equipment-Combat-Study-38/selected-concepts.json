@@ -1,0 +1,1484 @@
+[
+  {
+    "id": "tfj_sword_18",
+    "name_fr": "L'Absent",
+    "category": "Sword",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_sword_18.png",
+    "record": "concepts/tfj_sword_18.json",
+    "sha256": "fe4b99370d961972c91106520f9303475863de0c33678a4c6465cffa5d43550b",
+    "inventory_sha256": "661a3e2d773ec603c12d56ddfe4d90d6f3584ed7e6185a2eea1a3a17447ef91a",
+    "signature": "Narrow slightly curved leaf-shaped weathered pewter sword, short plain iron crossguard missing one upward quillon, faded moss-green cord grip, small slate pommel, loose faded green remembrance ribbon below guard.",
+    "palette": "pewter, moss green",
+    "poses": [
+      "poses/tfj_sword_18-1-preview36.png",
+      "poses/tfj_sword_18-2-preview36.png",
+      "poses/tfj_sword_18-3-preview36.png",
+      "poses/tfj_sword_18-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      609,
+      644
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 108856,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_staff_08",
+    "name_fr": "Mémoire du premier soin",
+    "category": "Staff",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_staff_08.png",
+    "record": "concepts/tfj_staff_08.json",
+    "sha256": "6ea9fa428ebed531a7dd0bf353733e370f324e58f8d094ba22550d862ef37060",
+    "inventory_sha256": "0b78ff913ba7d0230f78456c795703c471b64b4512f4ec8c9640921b66d2260a",
+    "signature": "One slender bent polished reddish yew-wood staff, organic asymmetric fork cradles a small pale pink river pebble tied with sage linen, short worn linen strip at upper shaft.",
+    "palette": "red brown, dusty rose, sage",
+    "poses": [
+      "poses/tfj_staff_08-1-preview36.png",
+      "poses/tfj_staff_08-2-preview36.png",
+      "poses/tfj_staff_08-3-preview36.png",
+      "poses/tfj_staff_08-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      575,
+      608
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 81785,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_shield_16",
+    "name_fr": "Le Refus",
+    "category": "Shield",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_shield_16.png",
+    "record": "concepts/tfj_shield_16.json",
+    "sha256": "b90ba91d6a35aa2d3bcc3621352b995c189732b88193c21e295271833b7df65b",
+    "inventory_sha256": "4f7f006f542273b8abc7b73f10897e595f43f33a88efc4799379625d5fc4828c",
+    "signature": "Asymmetric hexagonal ochre ceramic ward shield, indigo horizontal band, cast iron open-palm emblem, missing corner and repaired diagonal crack.",
+    "palette": "ochre ceramic, indigo, iron",
+    "poses": [
+      "poses/tfj_shield_16-1-preview36.png",
+      "poses/tfj_shield_16-2-preview36.png",
+      "poses/tfj_shield_16-3-preview36.png",
+      "poses/tfj_shield_16-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      521,
+      612
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 138444,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_knife_09",
+    "name_fr": "Veilleuse de Nelveska",
+    "category": "Knife",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_knife_09.png",
+    "record": "concepts/tfj_knife_09.json",
+    "sha256": "f45cfc1b99b1eb8119728b436c1a9a32267cb247555e9982dcaf9f46340573ca",
+    "inventory_sha256": "db51ceb387b438cfa9726c6968939a671728c9e170306709db40d0c880be832c",
+    "signature": "Short straight narrow tarnished silver dagger, small square blue-glass lamp integrated into the iron guard, midnight blue linen grip, tiny cool mist near the lamp only.",
+    "palette": "silver, navy blue",
+    "poses": [
+      "poses/tfj_knife_09-1-preview36.png",
+      "poses/tfj_knife_09-2-preview36.png",
+      "poses/tfj_knife_09-3-preview36.png",
+      "poses/tfj_knife_09-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      609,
+      700
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 114320,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_knife_10",
+    "name_fr": "Dernier aveu",
+    "category": "Knife",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_knife_10.png",
+    "record": "concepts/tfj_knife_10.json",
+    "sha256": "2479e0d66708fafdfbe2fb358f99554b0b2f39adf731969b7c48ecdf4d61aaf1",
+    "inventory_sha256": "1144dd58b9efadb018312951e221f9efdebb3daa6db21710c1a685f016870a56",
+    "signature": "Broad dull copper leaf dagger with a chipped blunt spine, simple black leather handle, one red wax seal tied at the butt. Almost guardless, no jewel.",
+    "palette": "copper, black, red",
+    "poses": [
+      "poses/tfj_knife_10-1-preview36.png",
+      "poses/tfj_knife_10-2-preview36.png",
+      "poses/tfj_knife_10-3-preview36.png",
+      "poses/tfj_knife_10-4-preview36.png"
+    ],
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "split_xy": [
+      719,
+      551
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 129124,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_ninja_blade_07",
+    "name_fr": "Crépuscule d'Igros",
+    "category": "NinjaBlade",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_ninja_blade_07.png",
+    "record": "concepts/tfj_ninja_blade_07.json",
+    "sha256": "11f53059185d60a5933a7cde0949bb84155bb23b109a41aa52bf780691fc808c",
+    "inventory_sha256": "f02b3f1baf284bad34d5e83311e370a70510b30ffa28dab03e8f78dba6aa57fb",
+    "signature": "Slender gently curved dark violet steel ninja blade, flattened round iron guard, faded orange woven grip, single dim sunset reflection along lower edge.",
+    "palette": "violet, burnt orange",
+    "poses": [
+      "poses/tfj_ninja_blade_07-1-preview36.png",
+      "poses/tfj_ninja_blade_07-2-preview36.png",
+      "poses/tfj_ninja_blade_07-3-preview36.png",
+      "poses/tfj_ninja_blade_07-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      602,
+      612
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 104010,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_ninja_blade_08",
+    "name_fr": "La Sans-Trace",
+    "category": "NinjaBlade",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_ninja_blade_08.png",
+    "record": "concepts/tfj_ninja_blade_08.json",
+    "sha256": "747144f1258017a794be75813a31b9366490b7cc6d4d3382680da78bec2d5b83",
+    "inventory_sha256": "8883cd1f1e76d729a2f15263705b1b773311a5d14f5f7e6dde6e0871e3991029",
+    "signature": "Needle-like gray ninja blade with a hooked tip, very small oval guard, weathered charcoal braid, subtle smoke disappearing from the tip.",
+    "palette": "gray, charcoal",
+    "poses": [
+      "poses/tfj_ninja_blade_08-1-preview36.png",
+      "poses/tfj_ninja_blade_08-2-preview36.png",
+      "poses/tfj_ninja_blade_08-3-preview36.png",
+      "poses/tfj_ninja_blade_08-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      608,
+      685
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 71144,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_sword_17",
+    "name_fr": "Testament de Gallionne",
+    "category": "Sword",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_sword_17.png",
+    "record": "concepts/tfj_sword_17.json",
+    "sha256": "d87799779b27ebefbe6f248571b4abe22b5112bfc8a250643e887e404feb773f",
+    "inventory_sha256": "d7a2c65e606b1210351f478623cbf54e4a6345695c74da57e8c073da2064f619",
+    "signature": "Broad pale silver straight military sword, squat rectangular brass crossguard with a stamped lion outline, dark red leather grip, blue wool tassel at pommel. Regal but minimally ornamented.",
+    "palette": "silver, brick red, dull brass",
+    "poses": [
+      "poses/tfj_sword_17-1-preview36.png",
+      "poses/tfj_sword_17-2-preview36.png",
+      "poses/tfj_sword_17-3-preview36.png",
+      "poses/tfj_sword_17-4-preview36.png"
+    ],
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "split_xy": [
+      738,
+      585
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 168783,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_knight_sword_05",
+    "name_fr": "Serment de Lesalia",
+    "category": "KnightSword",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_knight_sword_05.png",
+    "record": "concepts/tfj_knight_sword_05.json",
+    "sha256": "10579162e863ba1790ca352fed3f5f462eb01b53e87532ec532c9d5547c043a1",
+    "inventory_sha256": "b51907cdb29df7259c55ae7043b483f28025f7a2b5e2cff20f27811ddf57225d",
+    "signature": "Long heavy flat-ended sword with tapered corners, brushed pale steel broad blade, simple wide square copper guard, deep green cloth handle, a narrow red oath thread tied around the guard.",
+    "palette": "pale steel, green, copper",
+    "poses": [
+      "poses/tfj_knight_sword_05-1-preview36.png",
+      "poses/tfj_knight_sword_05-2-preview36.png",
+      "poses/tfj_knight_sword_05-3-preview36.png",
+      "poses/tfj_knight_sword_05-4-preview36.png"
+    ],
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "split_xy": [
+      720,
+      591
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 129528,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_knight_sword_06",
+    "name_fr": "Le Trône vacant",
+    "category": "KnightSword",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_knight_sword_06.png",
+    "record": "concepts/tfj_knight_sword_06.json",
+    "sha256": "714237f139ea21ecdd2e6c1847b2dc01c70927f2d4f391ab5031a98165172248",
+    "inventory_sha256": "89c85743fae06ad0b41a4fe632c8324640ca54deafeccdf31afea432b4b598ab",
+    "signature": "Broad charcoal greatsword with a short angular point, plain bronze U-shaped guard, brown grip and a restrained violet recess near the blade base. Large blade slot from the initial prompt was simplified in the accepted rendering.",
+    "palette": "gray, brown, bronze",
+    "poses": [
+      "poses/tfj_knight_sword_06-1-preview36.png",
+      "poses/tfj_knight_sword_06-2-preview36.png",
+      "poses/tfj_knight_sword_06-3-preview36.png",
+      "poses/tfj_knight_sword_06-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      600,
+      620
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 69928,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_katana_09",
+    "name_fr": "Dernière lune",
+    "category": "Katana",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_katana_09.png",
+    "record": "concepts/tfj_katana_09.json",
+    "sha256": "a9668e09861db138fb2c95e1d3af27be2754dae90453ddf059ec1f82e8ea5710",
+    "inventory_sha256": "8d282de1bfc2aefdf06b81e2500353226db2c8966b6bed107050d0ed356aeb46",
+    "signature": "Elegant slim silver katana with gentle curve, small crescent steel guard, blue-gray wrap, a faint white crescent mist at tip. No sheath.",
+    "palette": "silver, blue gray",
+    "poses": [
+      "poses/tfj_katana_09-1-preview36.png",
+      "poses/tfj_katana_09-2-preview36.png",
+      "poses/tfj_katana_09-3-preview36.png",
+      "poses/tfj_katana_09-4-preview36.png"
+    ],
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "split_xy": [
+      721,
+      624
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 103206,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_katana_10",
+    "name_fr": "Le Septième silence",
+    "category": "Katana",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_katana_10.png",
+    "record": "concepts/tfj_katana_10.json",
+    "sha256": "4b753801a9acc07ac41c75f047ae186c740b098c7641b7cb54609a24af793d73",
+    "inventory_sha256": "fecf3250f559843740348f2c4b1bc62f63e0e58eb2ebf85aa6a42e7200127c22",
+    "signature": "Long matte black curved katana, tiny seven-notch plain iron disc guard, muted red winding, bare steel butt cap. No sheath.",
+    "palette": "black, dull crimson",
+    "poses": [
+      "poses/tfj_katana_10-1-preview36.png",
+      "poses/tfj_katana_10-2-preview36.png",
+      "poses/tfj_katana_10-3-preview36.png",
+      "poses/tfj_katana_10-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      604,
+      678
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 57662,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_axe_03",
+    "name_fr": "Hache du vieux chêne",
+    "category": "Axe",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_axe_03.png",
+    "record": "concepts/tfj_axe_03.json",
+    "sha256": "f90790b53255017a128273c97e9402a36252d4b6df27ab19f037b26f1d284e8e",
+    "inventory_sha256": "73206d84cbedb84a5ad7d98e90b9158e3502e3af4dd98809f789c33e140e990f",
+    "signature": "Single broad moss-stained steel axe head with scalloped oak-leaf cutting profile, thick gnarled oak haft, bark collar and one loose dry leaf held by twine.",
+    "palette": "moss, oak brown, iron",
+    "poses": [
+      "poses/tfj_axe_03-1-preview36.png",
+      "poses/tfj_axe_03-2-preview36.png",
+      "poses/tfj_axe_03-3-preview36.png",
+      "poses/tfj_axe_03-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      598,
+      640
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 164635,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_axe_04",
+    "name_fr": "Dette du bourreau",
+    "category": "Axe",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_axe_04.png",
+    "record": "concepts/tfj_axe_04.json",
+    "sha256": "80907efa735d942eb0ce9a2462480689d889d497421ab49b321f090ccb1b84b5",
+    "inventory_sha256": "e746a365a46a1b59c5bac8ef4ed67fb38b01c43e998e4214bfa0cefe4fa1826f",
+    "signature": "One squared heavy execution axe head of cold bluish iron, weathered pale ash haft, short black shackle bolted at butt, red cloth strip under head.",
+    "palette": "blue iron, ash, red",
+    "poses": [
+      "poses/tfj_axe_04-1-preview36.png",
+      "poses/tfj_axe_04-2-preview36.png",
+      "poses/tfj_axe_04-3-preview36.png",
+      "poses/tfj_axe_04-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      593,
+      628
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 155019,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_staff_07",
+    "name_fr": "Arbre de l'aube",
+    "category": "Staff",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_staff_07.png",
+    "record": "concepts/tfj_staff_07.json",
+    "sha256": "674fac72b7562de9f099f7deccceb3e9e2552495391bc779ec4ec9daf871f398",
+    "inventory_sha256": "956e9dbe77ab2917b81602c6fa291b87dfe41c3855716bee8d2b8049d155a8da",
+    "signature": "One slim weathered olive-wood crook staff, curved top worn smooth, three small flat copper leaves fixed below crook, plain muted blue linen grip.",
+    "palette": "olive wood, copper, muted blue",
+    "poses": [
+      "poses/tfj_staff_07-1-preview36.png",
+      "poses/tfj_staff_07-2-preview36.png",
+      "poses/tfj_staff_07-3-preview36.png",
+      "poses/tfj_staff_07-4-preview36.png"
+    ],
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "split_xy": [
+      714,
+      597
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 95296,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_flail_03",
+    "name_fr": "Fléau du glas",
+    "category": "Flail",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_flail_03.png",
+    "record": "concepts/tfj_flail_03.json",
+    "sha256": "f024d0b0e7248871d539853ee43a873f3020b9e5edc39e1a272302f8a6d12504",
+    "inventory_sha256": "35495903e03e6e1a40100c9b1028b01396b3883302faea88f59cde9559ff89b5",
+    "signature": "One iron flail with a hollow green-patinated bronze bell as striking head, short visible straight chain and plain ash wood handle, bell has one long split.",
+    "palette": "verdigris bronze, ash brown",
+    "poses": [
+      "poses/tfj_flail_03-1-preview36.png",
+      "poses/tfj_flail_03-2-preview36.png",
+      "poses/tfj_flail_03-3-preview36.png",
+      "poses/tfj_flail_03-4-preview36.png"
+    ],
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "split_xy": [
+      719,
+      539
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 187157,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_flail_04",
+    "name_fr": "L'Heure dernière",
+    "category": "Flail",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_flail_04.png",
+    "record": "concepts/tfj_flail_04.json",
+    "sha256": "bc4460e812287deee338296b0ed76966c6a70b7e32a75eb2154f58d1d2ad4058",
+    "inventory_sha256": "8b93c4f5bc46c444f8fe2ce81e2d236d548d0ef096066d0154d91b3b893c3c2c",
+    "signature": "One squat dark iron hourglass-shaped striking weight, short copper chain and black wrapped handle, severe functional silhouette. No glass hourglass.",
+    "palette": "dark iron, copper, black",
+    "poses": [
+      "poses/tfj_flail_04-1-preview36.png",
+      "poses/tfj_flail_04-2-preview36.png",
+      "poses/tfj_flail_04-3-preview36.png",
+      "poses/tfj_flail_04-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      610,
+      602
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 126744,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_gun_06",
+    "name_fr": "Le Dernier signal",
+    "category": "Gun",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_gun_06.png",
+    "record": "concepts/tfj_gun_06.json",
+    "sha256": "4cb30adc743e589c897a83ab377b9b0e2bd6caa806b5d0caf9495c69f43f4861",
+    "inventory_sha256": "12a4ff3317bd5c1baea940358a37dce4069b3935e789e753e88dd081992b3aa0",
+    "signature": "Antique compact single-barrel signal pistol with long narrow gray barrel, red ceramic ignition chamber, aged pale wood grip and square iron sight. No modern components.",
+    "palette": "gray, red ceramic, pale wood",
+    "poses": [
+      "poses/tfj_gun_06-1-preview36.png",
+      "poses/tfj_gun_06-2-preview36.png",
+      "poses/tfj_gun_06-3-preview36.png",
+      "poses/tfj_gun_06-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      603,
+      626
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 111347,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_gun_07",
+    "name_fr": "La Dette de Goug",
+    "category": "Gun",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_gun_07-v3.png",
+    "record": "concepts/tfj_gun_07-v3.json",
+    "sha256": "05b9de51a9f3d9975a44460ae04ab4f234135709e600dc1d164a043005fefabf",
+    "inventory_sha256": "739ae03d34636795bd64e503c5e6075324e75b66b296953d9026907812d49321",
+    "signature": "Heavy short Goug hand cannon with stepped oxidized bronze barrel, offset small exposed gear at breech, muted teal grip and worn flat iron fittings.",
+    "palette": "bronze, teal, iron",
+    "poses": [
+      "poses/tfj_gun_07-1-preview36.png",
+      "poses/tfj_gun_07-2-preview36.png",
+      "poses/tfj_gun_07-3-preview36.png",
+      "poses/tfj_gun_07-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      593,
+      645
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 159666,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_crossbow_05",
+    "name_fr": "Œil de la tour",
+    "category": "Crossbow",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_crossbow_05.png",
+    "record": "concepts/tfj_crossbow_05.json",
+    "sha256": "9b31036d44e3e701956eb21ac10d3ad02f961169310d8ca1d4d7102dc4f00cee",
+    "inventory_sha256": "e286f070596f6538c0a60f6109e2cb53e4320cec87caec48bfe70310c9cfd1cd",
+    "signature": "Tall compact medieval crossbow, narrow pewter limbs, a tawny wooden stock with a simple slit sight framed by blue iron, one taut string. No loose bolt.",
+    "palette": "pewter, tawny, blue iron",
+    "poses": [
+      "poses/tfj_crossbow_05-1-preview36.png",
+      "poses/tfj_crossbow_05-2-preview36.png",
+      "poses/tfj_crossbow_05-3-preview36.png",
+      "poses/tfj_crossbow_05-4-preview36.png"
+    ],
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "split_xy": [
+      721,
+      582
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 148398,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_rod_07",
+    "name_fr": "Clef des quatre vents",
+    "category": "Rod",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_rod_07.png",
+    "record": "concepts/tfj_rod_07.json",
+    "sha256": "22e862a4774cbb047637d04464e41f1636da9575d1eeb71212757c8d7e6e2a49",
+    "inventory_sha256": "f1538e44502bed94ff415491ef0d015ca3915c2ca95eee0393e3e980203b2248",
+    "signature": "Patinated copper cruciform wind-key head with four vanes, key tooth, indigo wrapped short shaft.",
+    "palette": "copper, indigo, pale sage",
+    "poses": [
+      "poses/tfj_rod_07-1-preview36.png",
+      "poses/tfj_rod_07-2-preview36.png",
+      "poses/tfj_rod_07-3-preview36.png",
+      "poses/tfj_rod_07-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      584,
+      641
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 152620,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_rod_08",
+    "name_fr": "Lanterne d'Ajoran",
+    "category": "Rod",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_rod_08.png",
+    "record": "concepts/tfj_rod_08.json",
+    "sha256": "5a7d1b24adc84b31acfe10e6d6dcd73e813e9b3da5db957150a1c3a90f3c5e31",
+    "inventory_sha256": "ba27c1d287d9e49fd67d1f0864d39ce46bccbd8851a91f7580de4b578f38c20c",
+    "signature": "Milky glass hexagonal lantern in worn blue iron cage on a short violet-wrapped shaft, pale linen knot.",
+    "palette": "milky glass, blue-gray iron, violet",
+    "poses": [
+      "poses/tfj_rod_08-1-preview36.png",
+      "poses/tfj_rod_08-2-preview36.png",
+      "poses/tfj_rod_08-3-preview36.png",
+      "poses/tfj_rod_08-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      571,
+      630
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 133914,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_crossbow_06",
+    "name_fr": "La Sans-Appel",
+    "category": "Crossbow",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_crossbow_06.png",
+    "record": "concepts/tfj_crossbow_06.json",
+    "sha256": "2e2e656661c05028efb11e906ffd21e9c09ddf7f0cd34ca97d6a4d6270d607ed",
+    "inventory_sha256": "7a1da261ce279cd5be9b4c35ba81bb30365265ac38b3ae7f3dd47c868a874048",
+    "signature": "One small powerful recurve crossbow with dark plum wooden stock, broad unornamented pale iron limbs and short rectangular central mechanism, a faded red binding across the grip.",
+    "palette": "plum, pale iron, red",
+    "poses": [
+      "poses/tfj_crossbow_06-1-preview36.png",
+      "poses/tfj_crossbow_06-2-preview36.png",
+      "poses/tfj_crossbow_06-3-preview36.png",
+      "poses/tfj_crossbow_06-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      586,
+      583
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 158772,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_bow_09",
+    "name_fr": "Horizon d'Orbonne",
+    "category": "Bow",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_bow_09-v2.png",
+    "record": "concepts/tfj_bow_09-v2.json",
+    "sha256": "3e7ab6f151f8e4470f1c2f374569cb070d56ece4e0c7324d5066919e00decd46",
+    "inventory_sha256": "60ca4c7932fb98800e52da083f781f877aca11de92f8846f8b45bd7035d6f9d3",
+    "signature": "True longbow with a continuous gently recurved honey-colored wood limb, thin dull silver tips, orange woven grip and one taut gray string, no stock or crossbar.",
+    "palette": "honey brown, silver, orange",
+    "poses": [
+      "poses/tfj_bow_09-1-preview36.png",
+      "poses/tfj_bow_09-2-preview36.png",
+      "poses/tfj_bow_09-3-preview36.png",
+      "poses/tfj_bow_09-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      588,
+      604
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 92985,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_bow_10",
+    "name_fr": "Le Fil du destin",
+    "category": "Bow",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_bow_10-v2.png",
+    "record": "concepts/tfj_bow_10-v2.json",
+    "sha256": "1a2c701053132aa47a27648176e5bd12ce3831b02b440d0cb32844b16db1d96c",
+    "inventory_sha256": "d315b228e9c612a9c229a57c0b52a44fe349d4c4d22d95fc348fc0b898dbc3be",
+    "signature": "True asymmetrical recurved longbow, pale gray bent wood upper limb longer than lower, indigo thread winds around middle and forms one taut string, red knot at lower tip. No stock, arrow or crossbar.",
+    "palette": "pale wood, indigo, red",
+    "poses": [
+      "poses/tfj_bow_10-1-preview36.png",
+      "poses/tfj_bow_10-2-preview36.png",
+      "poses/tfj_bow_10-3-preview36.png",
+      "poses/tfj_bow_10-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      696
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 69850,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_instrument_02",
+    "name_fr": "Cantique des pierres",
+    "category": "Instrument",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_instrument_02.png",
+    "record": "concepts/tfj_instrument_02.json",
+    "sha256": "91c05de0113c7fedf7888c870ab771313905358fa1e55693cf76152020e2a28c",
+    "inventory_sha256": "0dadb557ab6dbbaa9cca8f137f5723b6eeafbe40572767735fc7672f40cbf1a5",
+    "signature": "Compact ancient lyre built of dull gray stone-like wood, wide round base, squat curved arms, five bronze strings and a small ochre inset disk.",
+    "palette": "gray, ochre, bronze",
+    "poses": [
+      "poses/tfj_instrument_02-1-preview36.png",
+      "poses/tfj_instrument_02-2-preview36.png",
+      "poses/tfj_instrument_02-3-preview36.png",
+      "poses/tfj_instrument_02-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      603,
+      683
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 155674,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_instrument_03",
+    "name_fr": "Dernière chanson de Zelténnia",
+    "category": "Instrument",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_instrument_03.png",
+    "record": "concepts/tfj_instrument_03.json",
+    "sha256": "1b6e96dce5d6aab994c0a4979cc49e973c672cd09a077b0240736e2e88c4adc2",
+    "inventory_sha256": "fe92cb2987952a9da60625a28e8c406c1efc951128f1d990a78dd80e153796b8",
+    "signature": "One small pear-shaped dark plum wood harp, low hooked upper arm, pale wood soundboard, fine silver strings, a single faded blue ribbon at base.",
+    "palette": "plum wood, pale wood, blue",
+    "poses": [
+      "poses/tfj_instrument_03-1-preview36.png",
+      "poses/tfj_instrument_03-2-preview36.png",
+      "poses/tfj_instrument_03-3-preview36.png",
+      "poses/tfj_instrument_03-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      606,
+      686
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 151094,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_book_03",
+    "name_fr": "Chronique des ruines",
+    "category": "Book",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_book_03.png",
+    "record": "concepts/tfj_book_03.json",
+    "sha256": "ab5a32b3bc36332bebd6491b5b16e142b2d44b10bb21d72d5485457eaf499eaa",
+    "inventory_sha256": "b3353497c43af1089c91177247b79a0c0b19d9316942976fd00f5eb8128a72ea",
+    "signature": "Closed thick battered ochre parchment codex with charcoal cloth spine, asymmetrical bronze corner plates and a simple dark green leather buckle.",
+    "palette": "ochre, charcoal, green",
+    "poses": [
+      "poses/tfj_book_03-1-preview36.png",
+      "poses/tfj_book_03-2-preview36.png",
+      "poses/tfj_book_03-3-preview36.png",
+      "poses/tfj_book_03-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      591,
+      638
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 177960,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_book_04",
+    "name_fr": "Le Livre sans auteur",
+    "category": "Book",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_book_04.png",
+    "record": "concepts/tfj_book_04.json",
+    "sha256": "6ca9ff68d06e71fb06fd38848b739ce1a60e66fc442d0be9fb5589c247463d33",
+    "inventory_sha256": "6ce71c8282bbb04c477cd90960f48cd1ca6efc10da6805711ee7ccef96889a47",
+    "signature": "Closed small dusty blue cloth book with a blank torn circular parchment patch at center, worn gray iron clasp and one long red bookmark.",
+    "palette": "dusty blue, gray, red",
+    "poses": [
+      "poses/tfj_book_04-1-preview36.png",
+      "poses/tfj_book_04-2-preview36.png",
+      "poses/tfj_book_04-3-preview36.png",
+      "poses/tfj_book_04-4-preview36.png"
+    ],
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "split_xy": [
+      704,
+      566
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 189241,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_polearm_07",
+    "name_fr": "Étendard du ciel vide",
+    "category": "Polearm",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_polearm_07.png",
+    "record": "concepts/tfj_polearm_07.json",
+    "sha256": "d19ec97f2ff5de14907266dab70cdaa7062a6c4509051657cb6faee7e62adf60",
+    "inventory_sha256": "97f242a438fb78ccc4bb73ccb75a041c443efd954c81ea95b54d14a0c4c68c04",
+    "signature": "Full long spear with a narrow silver leaf blade and a short pale blue torn pennant directly below head, plain dark ash shaft, small iron butt. One weapon.",
+    "palette": "silver, pale blue, ash",
+    "poses": [
+      "poses/tfj_polearm_07-1-preview36.png",
+      "poses/tfj_polearm_07-2-preview36.png",
+      "poses/tfj_polearm_07-3-preview36.png",
+      "poses/tfj_polearm_07-4-preview36.png"
+    ],
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "split_xy": [
+      702,
+      589
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 110640,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_polearm_08",
+    "name_fr": "Le Dernier rempart",
+    "category": "Polearm",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_polearm_08.png",
+    "record": "concepts/tfj_polearm_08.json",
+    "sha256": "b537db8c9a14a49a176d830ba45b2285174c2cc3a842038f808925c24850050f",
+    "inventory_sha256": "42bf9b7cad2b431da82a3e353fe369eebcd18dff7de2506ffb06aff7d458928f",
+    "signature": "Full heavy dark iron lance with broad triangular head, two short squared side flanges below head like battlements, reddish wooden shaft and a gray cloth binding.",
+    "palette": "iron, reddish wood, gray",
+    "poses": [
+      "poses/tfj_polearm_08-1-preview36.png",
+      "poses/tfj_polearm_08-2-preview36.png",
+      "poses/tfj_polearm_08-3-preview36.png",
+      "poses/tfj_polearm_08-4-preview36.png"
+    ],
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "split_xy": [
+      722,
+      594
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 107522,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_pole_07",
+    "name_fr": "Axe du monde",
+    "category": "Pole",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_pole_07.png",
+    "record": "concepts/tfj_pole_07.json",
+    "sha256": "0ae10bf0b7610258a7a168f8cc5051b72c3b56c66124182bba5be4c6139d1dd7",
+    "inventory_sha256": "de05c61394320c496d3dc0972b32e892332ee626f44773f7266f1a6807f84abe",
+    "signature": "Full pale bamboo fighting pole with uneven joint segments, three narrow dark green binding bands and blunt gray iron caps, a tiny pale leaf tied near upper end.",
+    "palette": "pale bamboo, dark green, gray",
+    "poses": [
+      "poses/tfj_pole_07-1-preview36.png",
+      "poses/tfj_pole_07-2-preview36.png",
+      "poses/tfj_pole_07-3-preview36.png",
+      "poses/tfj_pole_07-4-preview36.png"
+    ],
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "split_xy": [
+      715,
+      568
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 123458,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_pole_08",
+    "name_fr": "La Branche immobile",
+    "category": "Pole",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_pole_08.png",
+    "record": "concepts/tfj_pole_08.json",
+    "sha256": "977e00e07d80369c57643b96ddb68883a1904e03774334f91099d61e862e5869",
+    "inventory_sha256": "303b92bbf51ea9b5f0bf3b91dc72266b981c9f91f4694ec7e1d88009d0c2e88b",
+    "signature": "Full charcoal lacquered fighting pole, three broad muted violet bands, one cracked pale ceramic collar near top and blunt ends.",
+    "palette": "charcoal, violet, pale ceramic",
+    "poses": [
+      "poses/tfj_pole_08-1-preview36.png",
+      "poses/tfj_pole_08-2-preview36.png",
+      "poses/tfj_pole_08-3-preview36.png",
+      "poses/tfj_pole_08-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      576,
+      614
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 74365,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_bag_03",
+    "name_fr": "Besace du marché ancien",
+    "category": "Bag",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_bag_03.png",
+    "record": "concepts/tfj_bag_03.json",
+    "sha256": "c2ca8d8e57c3f4acc8b100ebb69c4b3a530d2c11fab98612087fec301ada98e5",
+    "inventory_sha256": "74905dae30df43b5ac0b7cdaaa4d41b8efbd4dff0cd52401326357d9defca859",
+    "signature": "One squat rich brown leather satchel with a broad dull brass buckle shaped as two clasped hands, a faded orange fabric flap, patched corners and short handle.",
+    "palette": "brown leather, orange, brass",
+    "poses": [
+      "poses/tfj_bag_03-1-preview36.png",
+      "poses/tfj_bag_03-2-preview36.png",
+      "poses/tfj_bag_03-3-preview36.png",
+      "poses/tfj_bag_03-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      593,
+      627
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 163644,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_bag_04",
+    "name_fr": "Le Dernier denier",
+    "category": "Bag",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_bag_04.png",
+    "record": "concepts/tfj_bag_04.json",
+    "sha256": "24d7f64edfc17e29e936775cf5b0028010057d3128e1f1d8a5aa82d79b5f4166",
+    "inventory_sha256": "3f433ba6b4b1e5f0b4204f94ea087992eb2e839795d53de2805b8f690410a8d5",
+    "signature": "One small soft ash-blue linen bag tied with plum cord, one empty open square iron clasp attached to flap, a torn white stitched patch and short carrying loop.",
+    "palette": "ash blue, plum, white",
+    "poses": [
+      "poses/tfj_bag_04-1-preview36.png",
+      "poses/tfj_bag_04-2-preview36.png",
+      "poses/tfj_bag_04-3-preview36.png",
+      "poses/tfj_bag_04-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      579,
+      595
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 124538,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_cloth_02",
+    "name_fr": "Voile du vieux sanctuaire",
+    "category": "Cloth",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_cloth_02.png",
+    "record": "concepts/tfj_cloth_02.json",
+    "sha256": "20aa89efe74406605336eb9aed7b24517fe71e21de49fc2a6e6433930a6e1eee",
+    "inventory_sha256": "64a3a4a7bc904519f1df9c757ba35f22b5dfb8af44999cac065032043aa3bcd1",
+    "signature": "One coherent folded ochre cloth with an angular blue woven border and an asymmetrical flowing corner, tactile heavy weave. No floating ornaments.",
+    "palette": "ochre, dusty blue",
+    "poses": [
+      "poses/tfj_cloth_02-1-preview36.png",
+      "poses/tfj_cloth_02-2-preview36.png",
+      "poses/tfj_cloth_02-3-preview36.png",
+      "poses/tfj_cloth_02-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      619,
+      723
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 136425,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_cloth_03",
+    "name_fr": "Linceul de l'oubli",
+    "category": "Cloth",
+    "rarity": "unique",
+    "sheet": "concepts/tfj_cloth_03.png",
+    "record": "concepts/tfj_cloth_03.json",
+    "sha256": "43770e1224e9a2113c7e9755baa1430e53d2c6a111d9fa3c68e784b68d2ad5ac",
+    "inventory_sha256": "bad22a7ab7e2a208d77dfcf0a4774d70217669c864df25dadeec8cab17fe2f4c",
+    "signature": "One long plum silk ribbon folded as an open spiral, pale gray frayed outer edge and one burgundy stitched seam, physically connected fabric.",
+    "palette": "plum, gray, burgundy",
+    "poses": [
+      "poses/tfj_cloth_03-1-preview36.png",
+      "poses/tfj_cloth_03-2-preview36.png",
+      "poses/tfj_cloth_03-3-preview36.png",
+      "poses/tfj_cloth_03-4-preview36.png"
+    ],
+    "sheet_size": [
+      1536,
+      1024
+    ],
+    "split_xy": [
+      727,
+      648
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 125096,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  },
+  {
+    "id": "tfj_shield_15",
+    "name_fr": "Porte de Bervénia",
+    "category": "Shield",
+    "rarity": "legendary",
+    "sheet": "concepts/tfj_shield_15.png",
+    "record": "concepts/tfj_shield_15.json",
+    "sha256": "afe2e8e24c152fd312643f4a5cdf96a32ea4fb3e9428942e35a3b1683ef546db",
+    "inventory_sha256": "1d5acb86882197b6030aaba6e69c14b97c79a25592d1d2ab65dbfb226be0c168",
+    "signature": "Compact tall shield of overlapping slate-blue iron plates with a wide tan leather band across center, squared top and narrow rounded base, shallow blunt boss.",
+    "palette": "slate blue, tan, iron",
+    "poses": [
+      "poses/tfj_shield_15-1-preview36.png",
+      "poses/tfj_shield_15-2-preview36.png",
+      "poses/tfj_shield_15-3-preview36.png",
+      "poses/tfj_shield_15-4-preview36.png"
+    ],
+    "sheet_size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      523,
+      608
+    ],
+    "crop_detection_alpha_threshold": 16,
+    "original_alpha_preserved": true,
+    "distinct_rgba_colors": 161108,
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "binding": "UNKNOWN",
+    "anchor": "UNKNOWN",
+    "native_frame_mapping": "UNKNOWN",
+    "effects_layer": "NOT_CREATED"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "tfj_shield_16",
+  "ref": "ei_139_uitx.png",
+  "prompt": "NEW ORIGINAL unique shield icon, Le Refus. One compact asymmetrical hexagonal worn shield, ochre-yellow lacquered wooden face with broad plain dark indigo vertical stripe deliberately interrupted by one hand-forged gray iron bar, thick dull iron rim, shallow center boss with a cracked concentric depression. Broad blunt defensive silhouette, one upper corner squared and opposite corner chamfered. Yellow ochre and indigo give an immediate different identity. No gold filigree, gems, spikes, heraldic animals, wings or glow; exceptional through quiet stubborn construction and a memorable broken stripe. Front three-quarter view, no separate handle or wearer. Match the supplied actual FFT The Ivalice Chronicles Enhanced inventory icon ONLY in its rendering style and compact equipment scale, never copy its design. Small delicate gritty hand-painted fantasy equipment, muted mineral colors, soft broken textured contour, simple material masses, soft low-contrast shading, minimal fine ornament, no crisp thick outlines or photorealistic glossy luxury product rendering. Precisely one complete isolated unworn object, no person/mannequin/body parts, text, border, pedestal, panels or extra items. Genuine transparent background; generous margin. Clearly readable in a 100x100 inventory slot. Do not reuse the previous shared gold/ivory/darksteel jewelry language. This is inventory artwork, not a combat sprite.",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Equipment-Enhanced-Revision/references/native-png/ei_139_uitx.png",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-527e53b2-2e15-4f37-add2-7b6a5522f023.png",
+  "runtime_ready": false
+}

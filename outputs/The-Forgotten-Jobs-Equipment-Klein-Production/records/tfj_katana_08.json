@@ -1,0 +1,38 @@
+{
+  "id": "tfj_katana_08",
+  "name_fr": "Lame du héron",
+  "category": "Katana",
+  "rarity": "rare",
+  "model": "black-forest-labs/flux.2-klein-4b",
+  "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+  "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_045_uitx.png",
+  "reference_sha256": "575026b9c31022a7e15f12f7c9b47c0e6ea769c1cd43395d43d40c09302ae25a",
+  "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_katana_08.png",
+  "expected_cost_pollen": 0.005,
+  "runtime_ready": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "http_status": 200
+    }
+  ],
+  "http_status": 200,
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 1,
+    "total_tokens": 1,
+    "input_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "size": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "alpha_ready": false,
+  "sha256": "2a3c41ce1a6af4ffe9d6bff80ab5613c48d35104fbc695d94633b72d2f2c6e5a",
+  "seconds": 5.92,
+  "prompt": "Create ONE original Katana equipment inventory icon. New design motif: long bright steel katana with ivory bird tsuba. The attached image is an actual native FFT The Ivalice Chronicles Enhanced inventory texture and is ONLY a style and composition reference. Follow its viewing angle, orientation, compact silhouette, relative object scale, muted color palette and delicate proportions. Match its worn hand-painted textured materials, restrained highlights, and soft slightly distressed painterly edges. Use practical believable construction and sparse ornament. Do not duplicate the reference object; follow the new design motif. Keep the complete object readable at 100x100 and 48x48 with safe padding. Single isolated object, no scenery, no frame, no floor shadow, no reflection, no cast shadow. Absolutely no lettering, words, numbers, logos, labels, writing, signatures or watermarks anywhere, including on the object itself. No product photography, glossy concept-art rendering, neon glow, thick black outlines or hard pixel-art clusters. Flat uniform pure white background if genuine transparent alpha is unsupported; never a checkerboard pattern. IMPORTANT: blade point at UPPER LEFT and grip at LOWER RIGHT. Never reverse this diagonal; never place the grip at the upper right. Show only ONE unsheathed weapon: absolutely no scabbard, sheath, carrying case, second grip, second blade, floating extra handle or crossed objects."
+}

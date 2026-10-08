@@ -1,0 +1,42 @@
+{
+  "id": "tfj_hat_07",
+  "name_fr": "Capuche de brume",
+  "category": "Hat",
+  "rarity": "uncommon",
+  "model": "black-forest-labs/flux.2-klein-4b",
+  "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+  "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_162_uitx.png",
+  "reference_sha256": "00a6c2ce1e781b2aaa1521df0b8c8c5aa63407d130c10e42235c80bea161993f",
+  "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_hat_07.png",
+  "expected_cost_pollen": 0.005,
+  "runtime_ready": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "http_status": 200
+    }
+  ],
+  "http_status": 200,
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 1,
+    "total_tokens": 1,
+    "input_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "size": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "alpha_ready": false,
+  "sha256": "0dc630cf084ee54f05168a0b393c453e1837ee9924cbbbf92be3009f94c0da67",
+  "prompt": "Image 1 is a native FFT The Ivalice Chronicles Enhanced style reference. Image 2 is ONLY a guide to coherent object structure. Create one new distinct inventory item with this motif: grey blue hood with white scarf edge. A hood made of grey-blue soft cloth with a white scarf-like edge: visible dark face opening and draped cloth. Not a brimmed hat, not a cap, no feather. Match the native reference in subdued hand-painted textured materials, soft slightly worn edges and restrained highlights. Practical compact delicate proportions, readable at 100 and 48 pixels. One complete isolated object, centered, safe padding. Pure flat white background, no scenery, no floor or cast shadow, no text, no labels, no words, no numbers, no watermark. No glossy product rendering or thick outlines. Do not make a sheet or comparison.",
+  "references": [
+    "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_162_uitx.png",
+    "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_hat_11.png"
+  ],
+  "seconds": 12.2
+}

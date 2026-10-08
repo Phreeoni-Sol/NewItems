@@ -1,0 +1,1820 @@
+{
+  "files": [
+    {
+      "path": "art/full/tfj_armguard_04.png",
+      "bytes": 1641786,
+      "sha256": "4786ea5bc7bc8bdaa02d28e24d65f8e2799786130d612cca7dffb462c519c3f0"
+    },
+    {
+      "path": "art/full/tfj_armguard_05.png",
+      "bytes": 1526482,
+      "sha256": "4237801e86968b190ad6dcc9788ebbe449dc63f197e27ed44982f29b6c139fc5"
+    },
+    {
+      "path": "art/full/tfj_armlet_04.png",
+      "bytes": 1394298,
+      "sha256": "f998580338fa95ac6154bd73afa82109499403a2d26ab869fed1898d1eb931f1"
+    },
+    {
+      "path": "art/full/tfj_armlet_05.png",
+      "bytes": 1497978,
+      "sha256": "0f32c444cfca71909c0f89a245ab53bc30b8c17a740d855f022ceee65eca3b21"
+    },
+    {
+      "path": "art/full/tfj_armor_13.png",
+      "bytes": 1566438,
+      "sha256": "1130ff2a96dd6adfbe8dd2ec7a709db0098393aac7dd0936fd6f48d2706007b3"
+    },
+    {
+      "path": "art/full/tfj_armor_14.png",
+      "bytes": 1901063,
+      "sha256": "91a1d5bb1203807b8bc250b92ba3bd70cf1f8c5fbf2265af858395219db8e063"
+    },
+    {
+      "path": "art/full/tfj_axe_03.png",
+      "bytes": 985079,
+      "sha256": "73206d84cbedb84a5ad7d98e90b9158e3502e3af4dd98809f789c33e140e990f"
+    },
+    {
+      "path": "art/full/tfj_axe_04.png",
+      "bytes": 879304,
+      "sha256": "e746a365a46a1b59c5bac8ef4ed67fb38b01c43e998e4214bfa0cefe4fa1826f"
+    },
+    {
+      "path": "art/full/tfj_bag_03.png",
+      "bytes": 2043599,
+      "sha256": "74905dae30df43b5ac0b7cdaaa4d41b8efbd4dff0cd52401326357d9defca859"
+    },
+    {
+      "path": "art/full/tfj_bag_04.png",
+      "bytes": 1365963,
+      "sha256": "3f433ba6b4b1e5f0b4204f94ea087992eb2e839795d53de2805b8f690410a8d5"
+    },
+    {
+      "path": "art/full/tfj_bomb_02.png",
+      "bytes": 1032679,
+      "sha256": "7fe3236cdf74581c5cb27d5d7dae50dffccaf28364f35feb11795dcb67a4900c"
+    },
+    {
+      "path": "art/full/tfj_bomb_03.png",
+      "bytes": 1302063,
+      "sha256": "62ada67d4a339258586a33659255cacf7a3f3ab87cd102069a61332686bbd98e"
+    },
+    {
+      "path": "art/full/tfj_book_03.png",
+      "bytes": 2140539,
+      "sha256": "b3353497c43af1089c91177247b79a0c0b19d9316942976fd00f5eb8128a72ea"
+    },
+    {
+      "path": "art/full/tfj_book_04.png",
+      "bytes": 1559947,
+      "sha256": "6ce71c8282bbb04c477cd90960f48cd1ca6efc10da6805711ee7ccef96889a47"
+    },
+    {
+      "path": "art/full/tfj_bow_09.png",
+      "bytes": 415719,
+      "sha256": "60ca4c7932fb98800e52da083f781f877aca11de92f8846f8b45bd7035d6f9d3"
+    },
+    {
+      "path": "art/full/tfj_bow_10.png",
+      "bytes": 471917,
+      "sha256": "d315b228e9c612a9c229a57c0b52a44fe349d4c4d22d95fc348fc0b898dbc3be"
+    },
+    {
+      "path": "art/full/tfj_cloak_06.png",
+      "bytes": 1501384,
+      "sha256": "943e4e0029e10f1021e96c8a1f2fbd7711a1a1fb375cd079ce01ad903a661e45"
+    },
+    {
+      "path": "art/full/tfj_cloak_07.png",
+      "bytes": 1405721,
+      "sha256": "7ceb7f0138f244be465c97708b6f7820f53ea5ad95085c9f066732e12c97d164"
+    },
+    {
+      "path": "art/full/tfj_cloth_02.png",
+      "bytes": 1519716,
+      "sha256": "64a3a4a7bc904519f1df9c757ba35f22b5dfb8af44999cac065032043aa3bcd1"
+    },
+    {
+      "path": "art/full/tfj_cloth_03.png",
+      "bytes": 1541233,
+      "sha256": "bad22a7ab7e2a208d77dfcf0a4774d70217669c864df25dadeec8cab17fe2f4c"
+    },
+    {
+      "path": "art/full/tfj_clothing_15.png",
+      "bytes": 1452258,
+      "sha256": "6fb7a6f58dd410f596726b18c3abfaf47f7e4b973911e7327f6585f4bc5d3044"
+    },
+    {
+      "path": "art/full/tfj_clothing_16.png",
+      "bytes": 1246233,
+      "sha256": "a9d6539f927542a5b17e6d3b52148371a5e35f6b955f5a54ffbd5e3569e54a04"
+    },
+    {
+      "path": "art/full/tfj_crossbow_05.png",
+      "bytes": 802340,
+      "sha256": "e286f070596f6538c0a60f6109e2cb53e4320cec87caec48bfe70310c9cfd1cd"
+    },
+    {
+      "path": "art/full/tfj_crossbow_06.png",
+      "bytes": 912522,
+      "sha256": "7a1da261ce279cd5be9b4c35ba81bb30365265ac38b3ae7f3dd47c868a874048"
+    },
+    {
+      "path": "art/full/tfj_flail_03.png",
+      "bytes": 897838,
+      "sha256": "35495903e03e6e1a40100c9b1028b01396b3883302faea88f59cde9559ff89b5"
+    },
+    {
+      "path": "art/full/tfj_flail_04.png",
+      "bytes": 982801,
+      "sha256": "8b93c4f5bc46c444f8fe2ce81e2d236d548d0ef096066d0154d91b3b893c3c2c"
+    },
+    {
+      "path": "art/full/tfj_gun_06.png",
+      "bytes": 775576,
+      "sha256": "12a4ff3317bd5c1baea940358a37dce4069b3935e789e753e88dd081992b3aa0"
+    },
+    {
+      "path": "art/full/tfj_gun_07.png",
+      "bytes": 1139829,
+      "sha256": "739ae03d34636795bd64e503c5e6075324e75b66b296953d9026907812d49321"
+    },
+    {
+      "path": "art/full/tfj_hair_adornment_02.png",
+      "bytes": 1051055,
+      "sha256": "0e5888874e8c736440d1ca1b3f0383078475fdd596838a9f8f64203652ea66cb"
+    },
+    {
+      "path": "art/full/tfj_hair_adornment_03.png",
+      "bytes": 694935,
+      "sha256": "c1988ba2dcb098345d72ded88a62393b8d23ca0d95761e7d2ad0520639194dea"
+    },
+    {
+      "path": "art/full/tfj_hat_13.png",
+      "bytes": 1206591,
+      "sha256": "4aecae88bf62b4fab03ce2e048d94bfe460c94d4898a2d86c44dfc3a39d4431b"
+    },
+    {
+      "path": "art/full/tfj_hat_14.png",
+      "bytes": 1381380,
+      "sha256": "90a9921da3c1eabe1eec98a6ba25b710dcd50114063bf50521f9236c30503dee"
+    },
+    {
+      "path": "art/full/tfj_helmet_12.png",
+      "bytes": 1382876,
+      "sha256": "9700e9d47d10c9bcd4a1e58cc3458f15fdcd445d93e21890601cc602862d4150"
+    },
+    {
+      "path": "art/full/tfj_helmet_13.png",
+      "bytes": 1055946,
+      "sha256": "40ae9fe35e276aaa3fd5b661969535b906c088e54b571932b59be71552ccbf30"
+    },
+    {
+      "path": "art/full/tfj_instrument_02.png",
+      "bytes": 1301742,
+      "sha256": "0dadb557ab6dbbaa9cca8f137f5723b6eeafbe40572767735fc7672f40cbf1a5"
+    },
+    {
+      "path": "art/full/tfj_instrument_03.png",
+      "bytes": 1145095,
+      "sha256": "fe92cb2987952a9da60625a28e8c406c1efc951128f1d990a78dd80e153796b8"
+    },
+    {
+      "path": "art/full/tfj_item_15.png",
+      "bytes": 729413,
+      "sha256": "1e3a29482bc0ab86b4f47d7a62f9ebc38e13afdb316f4980fd45117832839667"
+    },
+    {
+      "path": "art/full/tfj_item_16.png",
+      "bytes": 887513,
+      "sha256": "445db1f2daa1074bbca8ea5e1bfafa5bf36a4d1ba7a636f135219b73966e34b6"
+    },
+    {
+      "path": "art/full/tfj_katana_09.png",
+      "bytes": 624844,
+      "sha256": "8d282de1bfc2aefdf06b81e2500353226db2c8966b6bed107050d0ed356aeb46"
+    },
+    {
+      "path": "art/full/tfj_katana_10.png",
+      "bytes": 393989,
+      "sha256": "fecf3250f559843740348f2c4b1bc62f63e0e58eb2ebf85aa6a42e7200127c22"
+    },
+    {
+      "path": "art/full/tfj_knife_09.png",
+      "bytes": 854692,
+      "sha256": "db51ceb387b438cfa9726c6968939a671728c9e170306709db40d0c880be832c"
+    },
+    {
+      "path": "art/full/tfj_knife_10.png",
+      "bytes": 803248,
+      "sha256": "1144dd58b9efadb018312951e221f9efdebb3daa6db21710c1a685f016870a56"
+    },
+    {
+      "path": "art/full/tfj_knight_sword_05.png",
+      "bytes": 763331,
+      "sha256": "b51907cdb29df7259c55ae7043b483f28025f7a2b5e2cff20f27811ddf57225d"
+    },
+    {
+      "path": "art/full/tfj_knight_sword_06.png",
+      "bytes": 885489,
+      "sha256": "89c85743fae06ad0b41a4fe632c8324640ca54deafeccdf31afea432b4b598ab"
+    },
+    {
+      "path": "art/full/tfj_ninja_blade_07.png",
+      "bytes": 505651,
+      "sha256": "f02b3f1baf284bad34d5e83311e370a70510b30ffa28dab03e8f78dba6aa57fb"
+    },
+    {
+      "path": "art/full/tfj_ninja_blade_08.png",
+      "bytes": 467373,
+      "sha256": "8883cd1f1e76d729a2f15263705b1b773311a5d14f5f7e6dde6e0871e3991029"
+    },
+    {
+      "path": "art/full/tfj_perfume_03.png",
+      "bytes": 1335480,
+      "sha256": "172510ff302de2548fa46aab74fa6eea5220a189e9b0a4f8e810097f7b4f5eda"
+    },
+    {
+      "path": "art/full/tfj_perfume_04.png",
+      "bytes": 739968,
+      "sha256": "790dc77ffde4549b5a523152ce8fd2090b648b50d0e907a682cf75e7e9faadeb"
+    },
+    {
+      "path": "art/full/tfj_pole_07.png",
+      "bytes": 380956,
+      "sha256": "de05c61394320c496d3dc0972b32e892332ee626f44773f7266f1a6807f84abe"
+    },
+    {
+      "path": "art/full/tfj_pole_08.png",
+      "bytes": 471893,
+      "sha256": "303b92bbf51ea9b5f0bf3b91dc72266b981c9f91f4694ec7e1d88009d0c2e88b"
+    },
+    {
+      "path": "art/full/tfj_polearm_07.png",
+      "bytes": 494317,
+      "sha256": "97f242a438fb78ccc4bb73ccb75a041c443efd954c81ea95b54d14a0c4c68c04"
+    },
+    {
+      "path": "art/full/tfj_polearm_08.png",
+      "bytes": 561333,
+      "sha256": "42bf9b7cad2b431da82a3e353fe369eebcd18dff7de2506ffb06aff7d458928f"
+    },
+    {
+      "path": "art/full/tfj_ring_06.png",
+      "bytes": 1531217,
+      "sha256": "a8f59a0a46d270a20faa3ef821e3ed3e58731bb9ba4e3b53f9d2cca76199d24a"
+    },
+    {
+      "path": "art/full/tfj_ring_07.png",
+      "bytes": 1018450,
+      "sha256": "35b31a8c43d38ac9c6e9d75fdf5b687d4491a209762911db4c74521a916264ed"
+    },
+    {
+      "path": "art/full/tfj_robe_07.png",
+      "bytes": 1578982,
+      "sha256": "289ea41a06fbe8995d74b1f1bd9994605cc3a1dfd097c93af60d8857ff0c94f0"
+    },
+    {
+      "path": "art/full/tfj_robe_08.png",
+      "bytes": 1842682,
+      "sha256": "3ed1e406e1bb338605c17cff2f0d4d18238cda423d8d38285c124813ee166653"
+    },
+    {
+      "path": "art/full/tfj_rod_07.png",
+      "bytes": 726709,
+      "sha256": "f1538e44502bed94ff415491ef0d015ca3915c2ca95eee0393e3e980203b2248"
+    },
+    {
+      "path": "art/full/tfj_rod_08.png",
+      "bytes": 642602,
+      "sha256": "ba27c1d287d9e49fd67d1f0864d39ce46bccbd8851a91f7580de4b578f38c20c"
+    },
+    {
+      "path": "art/full/tfj_shield_15.png",
+      "bytes": 1394322,
+      "sha256": "1d5acb86882197b6030aaba6e69c14b97c79a25592d1d2ab65dbfb226be0c168"
+    },
+    {
+      "path": "art/full/tfj_shield_16.png",
+      "bytes": 2063109,
+      "sha256": "4f7f006f542273b8abc7b73f10897e595f43f33a88efc4799379625d5fc4828c"
+    },
+    {
+      "path": "art/full/tfj_shoes_07.png",
+      "bytes": 1502657,
+      "sha256": "4d09e21b18d56ab2d1c9a3e4ab1d4cc0819b5bb5b094c367e6f77a26f68fb57c"
+    },
+    {
+      "path": "art/full/tfj_shoes_08.png",
+      "bytes": 1801080,
+      "sha256": "9957fba7de7dd6d055901e3bac353be5dd6a742f2977d7e7a2cf59afeb01ce3a"
+    },
+    {
+      "path": "art/full/tfj_staff_07.png",
+      "bytes": 562423,
+      "sha256": "956e9dbe77ab2917b81602c6fa291b87dfe41c3855716bee8d2b8049d155a8da"
+    },
+    {
+      "path": "art/full/tfj_staff_08.png",
+      "bytes": 444919,
+      "sha256": "0b78ff913ba7d0230f78456c795703c471b64b4512f4ec8c9640921b66d2260a"
+    },
+    {
+      "path": "art/full/tfj_sword_17.png",
+      "bytes": 663625,
+      "sha256": "d7a2c65e606b1210351f478623cbf54e4a6345695c74da57e8c073da2064f619"
+    },
+    {
+      "path": "art/full/tfj_sword_18.png",
+      "bytes": 756681,
+      "sha256": "661a3e2d773ec603c12d56ddfe4d90d6f3584ed7e6185a2eea1a3a17447ef91a"
+    },
+    {
+      "path": "art/full/tfj_throwing_02.png",
+      "bytes": 1017911,
+      "sha256": "17995e37f4647e8c50436a89ff40e55d497d731094c12a1368e63361ca3cf9fe"
+    },
+    {
+      "path": "art/full/tfj_throwing_03.png",
+      "bytes": 883576,
+      "sha256": "45758ed31e7b89214426a3171f0a17ce5d4b631ffca884cb5d879c8e755e3278"
+    },
+    {
+      "path": "art/previews100/tfj_armguard_01.png",
+      "bytes": 7804,
+      "sha256": "f1ac55c7d61fb8932262f16326fdf931567f9cc4c44ab20c36bc1367b272ae92"
+    },
+    {
+      "path": "art/previews100/tfj_armguard_02.png",
+      "bytes": 9812,
+      "sha256": "42d41114344d5e26ddd9df4d6ae2d4c83ff0c72733ef5738e30a57b18f552729"
+    },
+    {
+      "path": "art/previews100/tfj_armguard_03.png",
+      "bytes": 8981,
+      "sha256": "21a7e2e7e15e5b2dbf6eb4e7421cad2428ea56afd3d6d1362b1ac32fae42628c"
+    },
+    {
+      "path": "art/previews100/tfj_armguard_04.png",
+      "bytes": 12459,
+      "sha256": "4e6e422291568b0e35d7d527bb1cfd3a502aaa6e7bb4977f3a40302e112f651d"
+    },
+    {
+      "path": "art/previews100/tfj_armguard_05.png",
+      "bytes": 11969,
+      "sha256": "4039e901032b9c3d59fabf22a1c30484620ee36138a071c9cb11e68a2c4993ad"
+    },
+    {
+      "path": "art/previews100/tfj_armlet_01.png",
+      "bytes": 6459,
+      "sha256": "22de58716cf826dc05839c4ab25b0ba034a6bf2332c1fc76d61762f099dd3adc"
+    },
+    {
+      "path": "art/previews100/tfj_armlet_02.png",
+      "bytes": 5505,
+      "sha256": "d911336c10d56667f3cfb85762b7d8e5c420a881de8dd633f65f3691bd796920"
+    },
+    {
+      "path": "art/previews100/tfj_armlet_03.png",
+      "bytes": 7060,
+      "sha256": "902fd1947bcdc72c3432f69eeecea8a188b64a6bc497262830a6e4163be6b911"
+    },
+    {
+      "path": "art/previews100/tfj_armlet_04.png",
+      "bytes": 11213,
+      "sha256": "38b507f76724bd4eecb42441fda6e3cd360a20c812aae95549c662302fbaa4c3"
+    },
+    {
+      "path": "art/previews100/tfj_armlet_05.png",
+      "bytes": 11165,
+      "sha256": "11e8f050671a0ab5cbdbc555a86d910557da25c1a19f3539466677f87bedb9f7"
+    },
+    {
+      "path": "art/previews100/tfj_armor_01.png",
+      "bytes": 9626,
+      "sha256": "9a7f0db86239509ede0e7e62f6a6b234cdba9462c54d4a1b2cb303f3fec1d5df"
+    },
+    {
+      "path": "art/previews100/tfj_armor_02.png",
+      "bytes": 9754,
+      "sha256": "2148682e4443d9e2aafdcfc5b202847af70ae11edae74a2401710c78a85aedde"
+    },
+    {
+      "path": "art/previews100/tfj_armor_03.png",
+      "bytes": 13359,
+      "sha256": "c94e6e608c61b71b3841af9859d4aa2bdfc20f2310f6d62c57ed45de3ac4bd84"
+    },
+    {
+      "path": "art/previews100/tfj_armor_04.png",
+      "bytes": 11524,
+      "sha256": "1d421e3955ff707b31a9d47c2ec75e90258e077beec5e95f8c5f2f976408c730"
+    },
+    {
+      "path": "art/previews100/tfj_armor_05.png",
+      "bytes": 10468,
+      "sha256": "1a6625ae839e9dc5a82450bca8215b8ef4dad95a126ba7af03b8bc86b44b7fb5"
+    },
+    {
+      "path": "art/previews100/tfj_armor_06.png",
+      "bytes": 9973,
+      "sha256": "7a0d9b03482144c40f661d70b6cda499bb3c1cd8a933672cde8f668e692f5ca6"
+    },
+    {
+      "path": "art/previews100/tfj_armor_07.png",
+      "bytes": 10907,
+      "sha256": "644bddc34911dd68b6958748ba5f2135dca72e7ceb776375d4a3d9c0cf979b08"
+    },
+    {
+      "path": "art/previews100/tfj_armor_08.png",
+      "bytes": 11262,
+      "sha256": "00377d1a305661554f13863f5f63d3c306e1e7a897e3ebd3523a6884e3e2a797"
+    },
+    {
+      "path": "art/previews100/tfj_armor_09.png",
+      "bytes": 11710,
+      "sha256": "4b3bcb3597fd2fe666ea9bec2596523b8c74990b7e313d1fd02eae65ef04234f"
+    },
+    {
+      "path": "art/previews100/tfj_armor_10.png",
+      "bytes": 13134,
+      "sha256": "a3f2fb1cc052cbbdef2e93b65dc2818cfa3b2ce40e7a7b3445572e98d662f58d"
+    },
+    {
+      "path": "art/previews100/tfj_armor_11.png",
+      "bytes": 11974,
+      "sha256": "9fbda209aa8607277fe2bc38a9a1f6238c9dead1320bf3704dbc1388c8999119"
+    },
+    {
+      "path": "art/previews100/tfj_armor_12.png",
+      "bytes": 10338,
+      "sha256": "32afcba64cf4d113dac22c7bc172aee8664e9e0628ff9d82723f5f1fd26dec26"
+    },
+    {
+      "path": "art/previews100/tfj_armor_13.png",
+      "bytes": 11024,
+      "sha256": "61c1fe3b94e0840bdad570201be99d03efb54bec2ccfa9ae2fad31d5943d9b47"
+    },
+    {
+      "path": "art/previews100/tfj_armor_14.png",
+      "bytes": 13645,
+      "sha256": "9017656ae17ebf4a79335ac013ccbe26949e8b826d518648e0283dda1e382daa"
+    },
+    {
+      "path": "art/previews100/tfj_axe_01.png",
+      "bytes": 5877,
+      "sha256": "09a244477b13aee07bfffd8ad6cc132e0b6230b182006100c4b2270e56fd94da"
+    },
+    {
+      "path": "art/previews100/tfj_axe_02.png",
+      "bytes": 6971,
+      "sha256": "05268cde6da31f5a575ec273aa5148ecfb0129e1ed7bd5bc867239f50722507b"
+    },
+    {
+      "path": "art/previews100/tfj_axe_03.png",
+      "bytes": 8076,
+      "sha256": "023fea0982f329557a0036ed9cc32c2f3fd7d6d881833b731205d8ff60a4a75b"
+    },
+    {
+      "path": "art/previews100/tfj_axe_04.png",
+      "bytes": 7996,
+      "sha256": "cdcb989fb467a7ea379215c908d5e2c2f2aa9bbe8a58c47d2afd556c99305e6a"
+    },
+    {
+      "path": "art/previews100/tfj_bag_01.png",
+      "bytes": 6584,
+      "sha256": "891a85428f058ebebb69c1bb02eeeda0840ec8fc826d77ecdbdf1af48b19dac6"
+    },
+    {
+      "path": "art/previews100/tfj_bag_02.png",
+      "bytes": 8394,
+      "sha256": "ec24f029b10a60063acd4c7c7b4a8108a6f532ff4dac1a7d043f0cc777d5a734"
+    },
+    {
+      "path": "art/previews100/tfj_bag_03.png",
+      "bytes": 14836,
+      "sha256": "90da5bd4bdca55c153e297fc63d761d16eeaa308904e37986640d5cd484ceff3"
+    },
+    {
+      "path": "art/previews100/tfj_bag_04.png",
+      "bytes": 10114,
+      "sha256": "156c0ca666f62d91e5d3bf076fe86169630ee8327d0000c8faa9e248b7e232a0"
+    },
+    {
+      "path": "art/previews100/tfj_bomb_01.png",
+      "bytes": 6237,
+      "sha256": "341b8cc4419729d4a70d71349f60cea01fd68bf6a3620f33668450a2eb874e6c"
+    },
+    {
+      "path": "art/previews100/tfj_bomb_02.png",
+      "bytes": 6874,
+      "sha256": "28c6c3b5abb06408d740596aa35b353ed856c064cd072c759cd168c0c610ba01"
+    },
+    {
+      "path": "art/previews100/tfj_bomb_03.png",
+      "bytes": 9775,
+      "sha256": "1db8f34c9ee782fd7e60c81ed561166275753181a4f4bfb59e43a09ed0c34e0b"
+    },
+    {
+      "path": "art/previews100/tfj_book_01.png",
+      "bytes": 9294,
+      "sha256": "d7de77f40bb9489510888c02c31736aa1eb01eca5b6056bd854c2af41dfefd90"
+    },
+    {
+      "path": "art/previews100/tfj_book_02.png",
+      "bytes": 6444,
+      "sha256": "fd6aace6ba7def3a4a8889e86c744c49126e72fda369567f4b37a8db93bc0041"
+    },
+    {
+      "path": "art/previews100/tfj_book_03.png",
+      "bytes": 13596,
+      "sha256": "55a4c3d2447aafb4583f5e0ef960ca73658ea647c8847800370a0f33473db7d1"
+    },
+    {
+      "path": "art/previews100/tfj_book_04.png",
+      "bytes": 10671,
+      "sha256": "0ccd734b13bd3f00fa4d76510f104ca1dc037ab716a07f11002edbc9a1ec9961"
+    },
+    {
+      "path": "art/previews100/tfj_bow_01.png",
+      "bytes": 6253,
+      "sha256": "9e6318c3858746f2d40ff666d91e1f86d4192e42f06dd702c5803758687db878"
+    },
+    {
+      "path": "art/previews100/tfj_bow_02.png",
+      "bytes": 5237,
+      "sha256": "3e90625373cea76126d78c2e6058816c57797dd0af2e076466794d76ad8c08f7"
+    },
+    {
+      "path": "art/previews100/tfj_bow_03.png",
+      "bytes": 6477,
+      "sha256": "347fdeac5f2d31de759fe1e591f1cdfaffcd5c81461a14619e23d48c92945712"
+    },
+    {
+      "path": "art/previews100/tfj_bow_04.png",
+      "bytes": 4635,
+      "sha256": "e82b3b62c10e9885d6d6c69f8be44ab8ff97eb06ce144e6c680b1a95a3ae2a15"
+    },
+    {
+      "path": "art/previews100/tfj_bow_05.png",
+      "bytes": 7552,
+      "sha256": "d26a8497c3ee60dbd9ace30b45efb5f579ac74040f753f0eeffea66687e9f4fd"
+    },
+    {
+      "path": "art/previews100/tfj_bow_06.png",
+      "bytes": 4783,
+      "sha256": "1abd7a016635ae78d588b508b056252f0374149f998947c68d2335dd1a46b5cf"
+    },
+    {
+      "path": "art/previews100/tfj_bow_07.png",
+      "bytes": 5616,
+      "sha256": "edc12ac11cc8122c252c6ae23094a5844d1588339615d602fbb7223857fe8a17"
+    },
+    {
+      "path": "art/previews100/tfj_bow_08.png",
+      "bytes": 7475,
+      "sha256": "1b28b5538669681ad03767553432328be689a3821e0318ab621e56cfe5e90918"
+    },
+    {
+      "path": "art/previews100/tfj_bow_09.png",
+      "bytes": 4001,
+      "sha256": "ec9ea8a307161e8f0a766930af45ee7d1833113fb59ceca2d76723e2f59fb0a2"
+    },
+    {
+      "path": "art/previews100/tfj_bow_10.png",
+      "bytes": 4608,
+      "sha256": "c37ee2e5a6eb2301a4fbf9a7a1d56f9e1b3bfb249bbc6256981b1c4cdbe86225"
+    },
+    {
+      "path": "art/previews100/tfj_cloak_01.png",
+      "bytes": 9228,
+      "sha256": "e2816180901eeaab4d8a69d784157addb0279016cd3d8cf7746670ae38c3b389"
+    },
+    {
+      "path": "art/previews100/tfj_cloak_02.png",
+      "bytes": 8639,
+      "sha256": "8c456f7c9e9889657394d4b40ce46e430241a5ab020a41b82b4acafa18f0f910"
+    },
+    {
+      "path": "art/previews100/tfj_cloak_03.png",
+      "bytes": 9682,
+      "sha256": "0800b1874732bd9ee71e4d36552be2621f62bf750e60a1b1dacb5fcd71262eba"
+    },
+    {
+      "path": "art/previews100/tfj_cloak_04.png",
+      "bytes": 9071,
+      "sha256": "0f1ec531c0e2a0e9b944362e21bf8babcf75ddeb45943a1171af32f751648c4a"
+    },
+    {
+      "path": "art/previews100/tfj_cloak_05.png",
+      "bytes": 9499,
+      "sha256": "e3c06f700b3745b12ebb0fcdaf88eb717d19f1df3595962ae71cddac140c69a1"
+    },
+    {
+      "path": "art/previews100/tfj_cloak_06.png",
+      "bytes": 11639,
+      "sha256": "1e23b08f0203b99403d64092ce70390f727f896f34cbb8c8c865426cd3e72e91"
+    },
+    {
+      "path": "art/previews100/tfj_cloak_07.png",
+      "bytes": 10830,
+      "sha256": "f35ee88711f61fefb984e6d0c59b68d43785ea89467b3ca78bf95514a791c0c5"
+    },
+    {
+      "path": "art/previews100/tfj_cloth_01.png",
+      "bytes": 8068,
+      "sha256": "9f0a4ad40e87e888c6da36a949571a95762213da936544d8ff701bd314995c9f"
+    },
+    {
+      "path": "art/previews100/tfj_cloth_02.png",
+      "bytes": 13362,
+      "sha256": "5e33630f4abc3089e49237d34780d696b91b90c37161754f7356e30994bbd8f4"
+    },
+    {
+      "path": "art/previews100/tfj_cloth_03.png",
+      "bytes": 12336,
+      "sha256": "d129dccdb7f4098584a35e6068db26217f256737df16bd82e608b101d614ae21"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_01.png",
+      "bytes": 9883,
+      "sha256": "90013c445866c4ab03b2e8d8db802765f9f4de17d6e7bbd62f671f92a65c4aa9"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_02.png",
+      "bytes": 8864,
+      "sha256": "4de7ed1ce3c4028bf667a464417fbcee7678badba082aac1c15ae2a42a697e6d"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_03.png",
+      "bytes": 10382,
+      "sha256": "2605d7faa1a0aac76dc5ad16b94d0cd67575ac0f8258f58eee5188b4a3b1ac87"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_04.png",
+      "bytes": 12079,
+      "sha256": "1832de233e8d4c9a8cf5b652421ca53b9e12374be52325c7da322bb67d1083c4"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_05.png",
+      "bytes": 8817,
+      "sha256": "de42d12fd360b604c1f381aad6cdcddc894dcae1bb94312f2ca072faf6574e61"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_06.png",
+      "bytes": 8530,
+      "sha256": "45f32b04ebbdbea38e0749975ab7e30c1a1bcbe0d368f541070d8bdeffd97e52"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_07.png",
+      "bytes": 9512,
+      "sha256": "07d4dc454b837c0e484ba4cd19addf4ff84279d2a036fd1026ae9f53f0e29997"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_08.png",
+      "bytes": 8754,
+      "sha256": "946260032888b7ff0c50a31157a47ca3175fad0dbe39f032cb2faa71e05c854b"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_09.png",
+      "bytes": 8540,
+      "sha256": "eea858a0563fc7eb8ed50f44978cd06c253a2e62f22971d1ee2a6ca2a8d5b438"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_10.png",
+      "bytes": 12375,
+      "sha256": "e98f67809fdf25b62e3d909ebe536a3612574c042aebbc2c11117826e2841d97"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_11.png",
+      "bytes": 10351,
+      "sha256": "3b42048c2d054dfdca2461be6a952467c2904f0410f4820a214bf57e0daa38cd"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_12.png",
+      "bytes": 9159,
+      "sha256": "4ad542052b1b7936a61c4c1895ad2722fe9701ca82a089bb07135841f7391d4e"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_13.png",
+      "bytes": 10200,
+      "sha256": "cf948f9c0120864de6737ec36c39a1fe299f090d02b3a17db962d4217afca909"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_14.png",
+      "bytes": 11284,
+      "sha256": "bfe29e76653b4178bc8fb914c1d7180f630a637d609cb05fee0245f90a57d156"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_15.png",
+      "bytes": 11166,
+      "sha256": "14fee9c345d0b6467f8d65a801eb8ef53896cdccb97f72944cb1259a847d4078"
+    },
+    {
+      "path": "art/previews100/tfj_clothing_16.png",
+      "bytes": 9604,
+      "sha256": "8eacd5fee340e57e394a09e9f5c1697fa76f21b8d970e9e9b390f55c68e19505"
+    },
+    {
+      "path": "art/previews100/tfj_crossbow_01.png",
+      "bytes": 7359,
+      "sha256": "226c8790dab56605082a60245a8f677bcc1392c1f69686c21cfdf1d712701ec3"
+    },
+    {
+      "path": "art/previews100/tfj_crossbow_02.png",
+      "bytes": 6347,
+      "sha256": "4928b874210bb739882c652b9a1bc0dce5528e3f50cab2172dc6b1a715d18d8c"
+    },
+    {
+      "path": "art/previews100/tfj_crossbow_03.png",
+      "bytes": 6972,
+      "sha256": "89f2b56d6981317464c98d7d4309e595e1f26945dc1c8bd379081c4ceded4989"
+    },
+    {
+      "path": "art/previews100/tfj_crossbow_04.png",
+      "bytes": 6651,
+      "sha256": "f10c40e34e2f03491fb401804fc3e2697c7a7c688def25e08fad1416f00b167f"
+    },
+    {
+      "path": "art/previews100/tfj_crossbow_05.png",
+      "bytes": 7398,
+      "sha256": "52b3f58af0b7a0081dec1f334607f0e08b6fa04671bd88817a6ba26c3b6c54b2"
+    },
+    {
+      "path": "art/previews100/tfj_crossbow_06.png",
+      "bytes": 8921,
+      "sha256": "284edb6e5ee881132c2f4506e799803e333e3fa02341bbd4a063362b178bddcd"
+    },
+    {
+      "path": "art/previews100/tfj_flail_01.png",
+      "bytes": 5670,
+      "sha256": "4892f0d5d4a29d19eae2fd1446836d489b5b240da83bb282d87f9909d993aa50"
+    },
+    {
+      "path": "art/previews100/tfj_flail_02.png",
+      "bytes": 8837,
+      "sha256": "30cf7e2eedf986f2a06e80a4fcadfb790c67761f5c242958eebbdbfc96be1578"
+    },
+    {
+      "path": "art/previews100/tfj_flail_03.png",
+      "bytes": 7920,
+      "sha256": "2f84615a26272b7569274e09b10c0b79f86cde7450357b47de52ff68c8683586"
+    },
+    {
+      "path": "art/previews100/tfj_flail_04.png",
+      "bytes": 8184,
+      "sha256": "268ab1921bb6bf5342d1e23726209b5733de931a5f374e90fd65b4128c437d02"
+    },
+    {
+      "path": "art/previews100/tfj_gun_01.png",
+      "bytes": 6279,
+      "sha256": "c29a1a8e65d5f1261c7ccdbe51d78855aba84a10eb9bccbc7e696224fed46630"
+    },
+    {
+      "path": "art/previews100/tfj_gun_02.png",
+      "bytes": 5943,
+      "sha256": "3771e419c79f2c3de04bf40f8e1da23f460bdd11fed61a4423b1fb27c776d1d5"
+    },
+    {
+      "path": "art/previews100/tfj_gun_03.png",
+      "bytes": 7837,
+      "sha256": "d6601e8e05cba212594e5476be8034714abe217be14bdebcf4c6020aa5aa4e92"
+    },
+    {
+      "path": "art/previews100/tfj_gun_04.png",
+      "bytes": 5692,
+      "sha256": "18fe5c0e6b23bf26616e3d40f5366e74825e12d2111aa78442751e71b91c854a"
+    },
+    {
+      "path": "art/previews100/tfj_gun_05.png",
+      "bytes": 5906,
+      "sha256": "1b41e8232adfd998e787ff876808cae6d8cb4ad381fe8e9c50513e8091017f3d"
+    },
+    {
+      "path": "art/previews100/tfj_gun_06.png",
+      "bytes": 6802,
+      "sha256": "0ecf305be437366773710a9f39c7498829085e138a46a135988b2be6f02dd578"
+    },
+    {
+      "path": "art/previews100/tfj_gun_07.png",
+      "bytes": 9347,
+      "sha256": "155892235cae30c871861c838aa5c46975d948859208d2bd3ebd76ee403cc7a2"
+    },
+    {
+      "path": "art/previews100/tfj_hair_adornment_01.png",
+      "bytes": 7428,
+      "sha256": "bd3fd213933aaf7822bbbcf11a911c0603bb973e3ed4a5e8ec34e970ec77109d"
+    },
+    {
+      "path": "art/previews100/tfj_hair_adornment_02.png",
+      "bytes": 9494,
+      "sha256": "48b8618808c278c7cc2b318b04fae731bfcfd649c4dd82c972938950c3b0ff5a"
+    },
+    {
+      "path": "art/previews100/tfj_hair_adornment_03.png",
+      "bytes": 6167,
+      "sha256": "81bacadcc716a07e5bb8113973c365d7b5fa79a92147a78809c7ab5fd180faa0"
+    },
+    {
+      "path": "art/previews100/tfj_hat_01.png",
+      "bytes": 8168,
+      "sha256": "2e12bc6844430090ce4db928506b1d07f53cecb10ca7c46bdd9d6d975a76cddc"
+    },
+    {
+      "path": "art/previews100/tfj_hat_02.png",
+      "bytes": 6219,
+      "sha256": "60bc55519dc4e41ccf7c72bd4686d536de6db1e25071dd1c17db6eabbe5e2f78"
+    },
+    {
+      "path": "art/previews100/tfj_hat_03.png",
+      "bytes": 8523,
+      "sha256": "86e1fb6e0eeb35f2eaa38a550a4bead1ebe70a841e2dde0f7a92ca89978e140b"
+    },
+    {
+      "path": "art/previews100/tfj_hat_04.png",
+      "bytes": 7471,
+      "sha256": "b5cb5974825fab9a1ba533a58fa01580885124be9528047f36b697eb1f62345a"
+    },
+    {
+      "path": "art/previews100/tfj_hat_05.png",
+      "bytes": 7090,
+      "sha256": "4a714c5b50f956d29478d7fd3b367dfa72744750563ed374caa0f9e3589cbbcc"
+    },
+    {
+      "path": "art/previews100/tfj_hat_06.png",
+      "bytes": 7356,
+      "sha256": "5685ab70e39ed4c9602cb6509aecf95ddce7c86ac110824e8c10a2d923c43e2d"
+    },
+    {
+      "path": "art/previews100/tfj_hat_07.png",
+      "bytes": 8449,
+      "sha256": "a89292732d5a157826a3fc324ed11244ddd2333fbb4e92290f71cbd85875c1ae"
+    },
+    {
+      "path": "art/previews100/tfj_hat_08.png",
+      "bytes": 7013,
+      "sha256": "f65098b47c388c85e6e06d3b18c1e974b36c5e6dbfa70afb0dacea27b3151869"
+    },
+    {
+      "path": "art/previews100/tfj_hat_09.png",
+      "bytes": 7194,
+      "sha256": "e4aeeaa4a68d460ad3dfdd42fc3ffb0c815590d53b31271b8ad75d697f12e386"
+    },
+    {
+      "path": "art/previews100/tfj_hat_10.png",
+      "bytes": 7468,
+      "sha256": "331a9e3037f783906053acd9a2224b6e6cd47ad252329d54069709aed5e68262"
+    },
+    {
+      "path": "art/previews100/tfj_hat_11.png",
+      "bytes": 8666,
+      "sha256": "32ef5fddf112e5363271ffc2efc6116a160e83905e0b922793c9e3a5bfbe9aca"
+    },
+    {
+      "path": "art/previews100/tfj_hat_12.png",
+      "bytes": 7885,
+      "sha256": "2e2f57e96b5c2b66be21445eaf348595fc5f84a567e4771c08f2a9d7c43ed73d"
+    },
+    {
+      "path": "art/previews100/tfj_hat_13.png",
+      "bytes": 8873,
+      "sha256": "3adeab563aa99df165f6b03fa5ec755fddfafc5abd48e157b8977797b94ea926"
+    },
+    {
+      "path": "art/previews100/tfj_hat_14.png",
+      "bytes": 10438,
+      "sha256": "ca7d247c86e343bd4c68b265e0797790a66f77c82abc85f044903ab38416a5f8"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_01.png",
+      "bytes": 7727,
+      "sha256": "b572adc9f015aa31902c5d1ee45ace34a5862d9cd2e0d2509e66df5609926b1e"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_02.png",
+      "bytes": 7329,
+      "sha256": "fb6229c88fe6714f3f1a45aa26a3ba5faaaec791ec781fdce756e5a47809153e"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_03.png",
+      "bytes": 9281,
+      "sha256": "d843422ce7f1467a1a6490fc2348ca1ed80646b11387d76a2bf24c7de97e744a"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_04.png",
+      "bytes": 8148,
+      "sha256": "95a9fc67109d0f770fee381269999d80c7f05433d126f6848ceea5f75dc6a42c"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_05.png",
+      "bytes": 7287,
+      "sha256": "836c631f038ed62e9793077f4b05bec4269d73f58ecb2e925b881fd75a185b5d"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_06.png",
+      "bytes": 7573,
+      "sha256": "419bd9ead420ce24a006e0b5ad20da68aa69c0665a87a51a682a7e1ba92d0905"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_07.png",
+      "bytes": 8107,
+      "sha256": "b1973ce8ed472f5703e05200cf06be6a15d53315bc388f813fe5b16dbe6f0591"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_08.png",
+      "bytes": 9995,
+      "sha256": "754bb70bec4935e16981971e542978113fcf464ea555a5ccbf16802ff856a0a2"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_09.png",
+      "bytes": 9153,
+      "sha256": "f70cb53f008ed53b6941150e85d7ec5ca2d1f189b45f9a5e57f11c784c6ac8ee"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_10.png",
+      "bytes": 8641,
+      "sha256": "95ac2a91bc4c1a4cc50b44711d4b4b65493bf9443fd00a7d832bac1b311375fa"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_11.png",
+      "bytes": 9047,
+      "sha256": "b53f6963bb069707d2433a2ffb940f6d3acd7d6fa3e57f8f3ecc8617767d389a"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_12.png",
+      "bytes": 9971,
+      "sha256": "13989f526a8850d4fc437ddc14ffe9116ce6bbe8507c056182c41bf82988783e"
+    },
+    {
+      "path": "art/previews100/tfj_helmet_13.png",
+      "bytes": 8172,
+      "sha256": "80099f44a49977f8ed6fc2833ea002243e67a954a37ce253c96c6937c0fba507"
+    },
+    {
+      "path": "art/previews100/tfj_instrument_01.png",
+      "bytes": 6409,
+      "sha256": "b518c5e0f91e427da63d49c7bcc48e24d7a34cc718afb487f8bc93173d91e331"
+    },
+    {
+      "path": "art/previews100/tfj_instrument_02.png",
+      "bytes": 10808,
+      "sha256": "ced943bc6b3befa3ea4af97a429f9bb8faaa22479896150aef5e5da90a69919b"
+    },
+    {
+      "path": "art/previews100/tfj_instrument_03.png",
+      "bytes": 9271,
+      "sha256": "c01e0057a4d5eeaea3de2a1d99c1f0af81721be2913486ac264bc39d9a082c4d"
+    },
+    {
+      "path": "art/previews100/tfj_item_01.png",
+      "bytes": 5724,
+      "sha256": "e58a798e0357b51e81ba5fdfec313640e54a4e1903c25480dfc63d28a4999057"
+    },
+    {
+      "path": "art/previews100/tfj_item_02.png",
+      "bytes": 6026,
+      "sha256": "74327b5159aeabc1aa25b5f6b0a3ebeba554b4239eb8a070055e38d745025054"
+    },
+    {
+      "path": "art/previews100/tfj_item_03.png",
+      "bytes": 5237,
+      "sha256": "518f176c7d21ae2140870270bc8d184c57b738775bc38a60f51c862ac4fdc89f"
+    },
+    {
+      "path": "art/previews100/tfj_item_04.png",
+      "bytes": 5371,
+      "sha256": "ed7f886b3b33d47b20d06896a59cbdb687e29810e5dda965f0c00b0fa0b8b94f"
+    },
+    {
+      "path": "art/previews100/tfj_item_05.png",
+      "bytes": 5236,
+      "sha256": "3181c5e6facf90c675138346805cf80542af50b9e99536130d1f3e35df6fe2a5"
+    },
+    {
+      "path": "art/previews100/tfj_item_06.png",
+      "bytes": 4583,
+      "sha256": "e5964e96eca2c5407ba889e3b675513e4305b75eab0deb2c08de105f38faecf1"
+    },
+    {
+      "path": "art/previews100/tfj_item_07.png",
+      "bytes": 5044,
+      "sha256": "ab04dad16fc76ae80c1102bd061d655294bae498d4ea2bcdf5f3281dc1ae2b28"
+    },
+    {
+      "path": "art/previews100/tfj_item_08.png",
+      "bytes": 5823,
+      "sha256": "5243459c96b8ee018a834ed44c0316f43640fc42692827d533abab5b5f2aeab4"
+    },
+    {
+      "path": "art/previews100/tfj_item_09.png",
+      "bytes": 6015,
+      "sha256": "5db3195e6c5edc3f43e86a7e1c3988662fb8879acfa42bafccf435720e5c513d"
+    },
+    {
+      "path": "art/previews100/tfj_item_10.png",
+      "bytes": 6952,
+      "sha256": "56d0d539752c136a8f92b7fc04334149daa7c087a5e51ba624e44e21a663fc42"
+    },
+    {
+      "path": "art/previews100/tfj_item_11.png",
+      "bytes": 6476,
+      "sha256": "ea65e9fe36451d44da19797fa74dd2e8b41120a28ef8e1e2d1b27b17a06b06d1"
+    },
+    {
+      "path": "art/previews100/tfj_item_12.png",
+      "bytes": 6223,
+      "sha256": "42646ad20e96e5a462157ca23be4efd519dc2246297368e1890b3dde0fbe31cb"
+    },
+    {
+      "path": "art/previews100/tfj_item_13.png",
+      "bytes": 4810,
+      "sha256": "e47b559f824a4dd178b9203999239500e1c282359d487297d6e8d8a87e19e592"
+    },
+    {
+      "path": "art/previews100/tfj_item_14.png",
+      "bytes": 5724,
+      "sha256": "f670070540764b3ede3ba6ea683e00a1e545b8b4ef372875b82cf91cee6258e4"
+    },
+    {
+      "path": "art/previews100/tfj_item_15.png",
+      "bytes": 6082,
+      "sha256": "d9411665d2b2d442c7fdad9a3648cefb40751e8b8180836a10d9525b1aae1b51"
+    },
+    {
+      "path": "art/previews100/tfj_item_16.png",
+      "bytes": 8013,
+      "sha256": "c231cf88c94f19d45c19b27072943e79e207af691eeb5f735166e41847542438"
+    },
+    {
+      "path": "art/previews100/tfj_katana_01.png",
+      "bytes": 5538,
+      "sha256": "5129bdcfdcfa5df0d5690f2b1e202b1826e59c9bb2c7864e4051f13c2d474e0b"
+    },
+    {
+      "path": "art/previews100/tfj_katana_02.png",
+      "bytes": 7608,
+      "sha256": "7a9e54c6728af531743727bff596db485824a5b7afa165056113e97288560fbe"
+    },
+    {
+      "path": "art/previews100/tfj_katana_03.png",
+      "bytes": 5140,
+      "sha256": "3ba5775a8034a5560226578beb9e7174e303f1e1a8d01f1ac2159d7a2ae5ba8b"
+    },
+    {
+      "path": "art/previews100/tfj_katana_04.png",
+      "bytes": 5777,
+      "sha256": "4766af3a1ec0ad14de4b6bc56af55859878f362e50d05e2201c94f3cb39a8bd3"
+    },
+    {
+      "path": "art/previews100/tfj_katana_05.png",
+      "bytes": 5445,
+      "sha256": "933d16db6186075d3208e92be4ea20d72c4040f88ca6d7cb6dc40b033831d56f"
+    },
+    {
+      "path": "art/previews100/tfj_katana_06.png",
+      "bytes": 6573,
+      "sha256": "d6d71073f38709437184d61df32cfa89db00be23b9e4b1dd43f715e7ab93fa47"
+    },
+    {
+      "path": "art/previews100/tfj_katana_07.png",
+      "bytes": 5676,
+      "sha256": "2915adc382e9d63115f7a7e9fca7826419730f0fcab713791d89d0783c611a26"
+    },
+    {
+      "path": "art/previews100/tfj_katana_08.png",
+      "bytes": 7672,
+      "sha256": "9d7e191a89f8f738dcf09211c439b63f8a877bbfe92f47764675b827e68174e4"
+    },
+    {
+      "path": "art/previews100/tfj_katana_09.png",
+      "bytes": 5316,
+      "sha256": "f1f2d38adb2fdd379799d1464b39eaf5121972e3bc5e6e96998118a8f9fc3b3f"
+    },
+    {
+      "path": "art/previews100/tfj_katana_10.png",
+      "bytes": 4359,
+      "sha256": "229d28a32e1a4513a9cf54eba7ed4c6e89ad055c56f422844dda556a74d35d23"
+    },
+    {
+      "path": "art/previews100/tfj_knife_01.png",
+      "bytes": 6880,
+      "sha256": "26f0a0748bf10d9a8b0d4b4fcdfea753f277b5e269e21fdc70426c107cd1e116"
+    },
+    {
+      "path": "art/previews100/tfj_knife_02.png",
+      "bytes": 5707,
+      "sha256": "70e08e96b58470e43809fc3054a8db1e4aaa854ad09dd603a98b09d864d4336e"
+    },
+    {
+      "path": "art/previews100/tfj_knife_03.png",
+      "bytes": 5252,
+      "sha256": "3ea9e631080d5ce4e631e7821ccdef1a2209060b56f4e18e1e9bc730727b2d03"
+    },
+    {
+      "path": "art/previews100/tfj_knife_04.png",
+      "bytes": 6570,
+      "sha256": "1c0f5cf7612f523eb5856e33118a495e0811caef8195bde9890e3a5e74c33d76"
+    },
+    {
+      "path": "art/previews100/tfj_knife_05.png",
+      "bytes": 5613,
+      "sha256": "e70807c15c30f3b5970df522ed33547c0941f886520d3659950efce159e58659"
+    },
+    {
+      "path": "art/previews100/tfj_knife_06.png",
+      "bytes": 6608,
+      "sha256": "994c2e1008dfb13d8ac5bb62ccda14707e0f1ab882f9371c73c75c2f48932d68"
+    },
+    {
+      "path": "art/previews100/tfj_knife_07.png",
+      "bytes": 8004,
+      "sha256": "80b0132dfadbd85f0821b8640ecb396c0aa9b05217e3a2b79ec5afa8b30e4dc2"
+    },
+    {
+      "path": "art/previews100/tfj_knife_08.png",
+      "bytes": 6433,
+      "sha256": "28b372834fac01a6a4aafed922fd4cc3abc7a4d2f6c8e70f0638f07020af13e1"
+    },
+    {
+      "path": "art/previews100/tfj_knife_09.png",
+      "bytes": 7105,
+      "sha256": "339d60c570e57d91a82718f758e011e4549fa599a39519c6ed3047f033e05249"
+    },
+    {
+      "path": "art/previews100/tfj_knife_10.png",
+      "bytes": 6955,
+      "sha256": "290a94271d5a04ac79e86af8dd22d8d7e03596399943fcac5645a4277d4c12d1"
+    },
+    {
+      "path": "art/previews100/tfj_knight_sword_01.png",
+      "bytes": 6491,
+      "sha256": "41cb86429e87b64cd18914524b6a01a68308a269c6a8b1412e28a58128cafceb"
+    },
+    {
+      "path": "art/previews100/tfj_knight_sword_02.png",
+      "bytes": 6899,
+      "sha256": "a503fe9972e33f1e30376dbfd16e5cddb860994868e4d9048843ccf4b5f3b97b"
+    },
+    {
+      "path": "art/previews100/tfj_knight_sword_03.png",
+      "bytes": 7495,
+      "sha256": "46a3d8cece86772f98aafac2bc02460f48b48e60e8609c5c6f0767e0abbf66c1"
+    },
+    {
+      "path": "art/previews100/tfj_knight_sword_04.png",
+      "bytes": 5716,
+      "sha256": "58a29d24157d52b29f4d7b650cb393083d8b715e4a40a6a9a40c4613e30e2daa"
+    },
+    {
+      "path": "art/previews100/tfj_knight_sword_05.png",
+      "bytes": 6916,
+      "sha256": "a60694e68f3691a38d98ead1add40b691ea544f1eaf6cbcefd7d02100ab2fe1e"
+    },
+    {
+      "path": "art/previews100/tfj_knight_sword_06.png",
+      "bytes": 7535,
+      "sha256": "38f98cc046f1261ec035b241908724064b4b62556b47ad978507065ed3c2e7b7"
+    },
+    {
+      "path": "art/previews100/tfj_ninja_blade_01.png",
+      "bytes": 7800,
+      "sha256": "1ac4c66bed43e1103afd95d4e710c25caf9127abe31f5298ff4675b6935bb00c"
+    },
+    {
+      "path": "art/previews100/tfj_ninja_blade_02.png",
+      "bytes": 5315,
+      "sha256": "1b2caa1ac95bea14091e3b3fc876385573ff02204e315456c04c8cd6921e44be"
+    },
+    {
+      "path": "art/previews100/tfj_ninja_blade_03.png",
+      "bytes": 6882,
+      "sha256": "3858091e3ea2709bb5d3ece8c7ef3b8e0e8267aac2b756386d44acef90d91219"
+    },
+    {
+      "path": "art/previews100/tfj_ninja_blade_04.png",
+      "bytes": 6593,
+      "sha256": "ced631b0f16d21bb163c16246eb485d1f93915c638caaf0dcf79e15d81695dba"
+    },
+    {
+      "path": "art/previews100/tfj_ninja_blade_05.png",
+      "bytes": 7943,
+      "sha256": "bf6873174a87865e6ea2914de6cea7fde6c817ddc2113a9e8aa29d1222e83301"
+    },
+    {
+      "path": "art/previews100/tfj_ninja_blade_06.png",
+      "bytes": 6116,
+      "sha256": "56aa2d1bf4212664e5ef81e70bd7632757707f6500a2ed4228c36bc10d17fa74"
+    },
+    {
+      "path": "art/previews100/tfj_ninja_blade_07.png",
+      "bytes": 4993,
+      "sha256": "1181ccd98d6f045641ad9dabcc2a8b67508b6266eb52daaa7b73dd87c7cf40df"
+    },
+    {
+      "path": "art/previews100/tfj_ninja_blade_08.png",
+      "bytes": 4687,
+      "sha256": "90dd735764e05d64b3469171306eb3885ed87e85eb1479e498e5538d967a4d1e"
+    },
+    {
+      "path": "art/previews100/tfj_perfume_01.png",
+      "bytes": 4609,
+      "sha256": "b796a86ca4068fafea89612b533ac243ef2bbad6c9eec1d994c156608684b795"
+    },
+    {
+      "path": "art/previews100/tfj_perfume_02.png",
+      "bytes": 7033,
+      "sha256": "558f995b83c58330341c249eb9808568c9a5ac116f883e2feedd08d3c5ea783a"
+    },
+    {
+      "path": "art/previews100/tfj_perfume_03.png",
+      "bytes": 10080,
+      "sha256": "da676dd0c550cf6daeba5b531c4619a50fbe7d148552d474bf7d8809c0c78ed7"
+    },
+    {
+      "path": "art/previews100/tfj_perfume_04.png",
+      "bytes": 6543,
+      "sha256": "ace10fb8106676c46672802fcc84907db2d257be85a65fe137caebbf2af01c96"
+    },
+    {
+      "path": "art/previews100/tfj_pole_01.png",
+      "bytes": 5071,
+      "sha256": "4870628a3c76efe252fdc026fec45ee6343855e003193c35430132ebc5ee3316"
+    },
+    {
+      "path": "art/previews100/tfj_pole_02.png",
+      "bytes": 4751,
+      "sha256": "73028138ec2485448bf7133d47297b6050509ea72a557c39556b89df5957b0e2"
+    },
+    {
+      "path": "art/previews100/tfj_pole_03.png",
+      "bytes": 4099,
+      "sha256": "8bc5379a78d5284a5ab4e4f7ea3bba992718ccf3883efef65de5331be485ac90"
+    },
+    {
+      "path": "art/previews100/tfj_pole_04.png",
+      "bytes": 3291,
+      "sha256": "0154418ed671becaa6b7a3c3fe58ce301350bcdc44c67b5d96a2cefeb65cd848"
+    },
+    {
+      "path": "art/previews100/tfj_pole_05.png",
+      "bytes": 6656,
+      "sha256": "8be31252fc880b0bd31aa4e624161b577383a3359c1de44294de7424855d1d97"
+    },
+    {
+      "path": "art/previews100/tfj_pole_06.png",
+      "bytes": 4370,
+      "sha256": "c2b0e8e9e578a0526368fbe5f4ea111ee145231cdaae8c067208103a4c6497ec"
+    },
+    {
+      "path": "art/previews100/tfj_pole_07.png",
+      "bytes": 3740,
+      "sha256": "dbfaaaa4dbfb71c664d6936cf0f82ee2a749142a81b227a049653665d3efd75f"
+    },
+    {
+      "path": "art/previews100/tfj_pole_08.png",
+      "bytes": 4942,
+      "sha256": "c45b7ce623919bf70235cc9c14de2051b5f752798b763f209807d540764d11d0"
+    },
+    {
+      "path": "art/previews100/tfj_polearm_01.png",
+      "bytes": 3890,
+      "sha256": "23f96317026e615cc1028004cf97fa79b8b3f008857f77a859e3b1448d892f30"
+    },
+    {
+      "path": "art/previews100/tfj_polearm_02.png",
+      "bytes": 6116,
+      "sha256": "a1d672b72fcde93118988b4a9d94e638fc87c7db1ca26188c07ba14e7317a34a"
+    },
+    {
+      "path": "art/previews100/tfj_polearm_03.png",
+      "bytes": 5530,
+      "sha256": "a06fb11cb368be38fde10c8524dc3c481e6a6c1ba975714e27fe58b0aa437d58"
+    },
+    {
+      "path": "art/previews100/tfj_polearm_04.png",
+      "bytes": 7059,
+      "sha256": "d94a0cc8d08612bc9538cdf0743d2ec06acccea6b66862810fab05fe366b0671"
+    },
+    {
+      "path": "art/previews100/tfj_polearm_05.png",
+      "bytes": 4888,
+      "sha256": "f3c9806e26b1745819158b19df48e4fe1cdc6d54ee19703802a2c00e1eb2218a"
+    },
+    {
+      "path": "art/previews100/tfj_polearm_06.png",
+      "bytes": 5175,
+      "sha256": "ab7c2168e1822a8dce20ad8d0eab36fc1ae663870d48e80bfc6789057e109c8e"
+    },
+    {
+      "path": "art/previews100/tfj_polearm_07.png",
+      "bytes": 4367,
+      "sha256": "448e4ea4a03bf7bb232cd9402584b31e269f41d016c06cdc53d69b65e554c98d"
+    },
+    {
+      "path": "art/previews100/tfj_polearm_08.png",
+      "bytes": 5493,
+      "sha256": "53ef72b77aaa79b1e969792ee28077181a0d1adcad03f0f2e01f98f2af44ec2b"
+    },
+    {
+      "path": "art/previews100/tfj_ring_01.png",
+      "bytes": 6381,
+      "sha256": "db632593602a70b92c0f9cf1ae958aa99212db0eafbee91cc09bb5d6901eeefc"
+    },
+    {
+      "path": "art/previews100/tfj_ring_02.png",
+      "bytes": 6980,
+      "sha256": "ec8dd80b9d25f6b97cb442b1f1dc457d33bf0cde22d8020eccce4f2d4ac0c5ee"
+    },
+    {
+      "path": "art/previews100/tfj_ring_03.png",
+      "bytes": 6134,
+      "sha256": "5d17cd0903e52c289c3ba75273a80ea3980f45f8ceed77d466856185ad2c81bb"
+    },
+    {
+      "path": "art/previews100/tfj_ring_04.png",
+      "bytes": 7021,
+      "sha256": "9c18fdd4af927ec1a220e90cceab579ed5678c4193c34d2c8b84de9df4725dc8"
+    },
+    {
+      "path": "art/previews100/tfj_ring_05.png",
+      "bytes": 6096,
+      "sha256": "e0c8c88dbe90de7bae3166c5529eaca92f00fea9a12ecf3ed6e5e5d3f915a0f8"
+    },
+    {
+      "path": "art/previews100/tfj_ring_06.png",
+      "bytes": 11902,
+      "sha256": "761155afb4a4f56044def75bfa587e4ff81641ddd61366a9b32ea3923f990977"
+    },
+    {
+      "path": "art/previews100/tfj_ring_07.png",
+      "bytes": 8904,
+      "sha256": "fe99e4bd0c168a213209d044c5cd96f33afdfe7a932d63690b7270e38409abbe"
+    },
+    {
+      "path": "art/previews100/tfj_robe_01.png",
+      "bytes": 10155,
+      "sha256": "c4c04c0c68a39568382e8730b69eb931fe84fd3e4da598cc91c91e69c71876db"
+    },
+    {
+      "path": "art/previews100/tfj_robe_02.png",
+      "bytes": 11645,
+      "sha256": "3ec3eb79d52046c1804cb29050142e1b38abeb2f9befd8af1d19ae40d15df910"
+    },
+    {
+      "path": "art/previews100/tfj_robe_03.png",
+      "bytes": 9757,
+      "sha256": "5520c9986344f54f862770c5d4fe251ded794586dbcbb44f6cf8b549f63abcc6"
+    },
+    {
+      "path": "art/previews100/tfj_robe_04.png",
+      "bytes": 10292,
+      "sha256": "607557bd35ea245e51b6074347f7360b5db43d90385733ad176a07b91e614586"
+    },
+    {
+      "path": "art/previews100/tfj_robe_05.png",
+      "bytes": 9771,
+      "sha256": "3127886c1ecf16e42711657503f66aebc73ead4ccae5b5d8fb3751da9abf2d93"
+    },
+    {
+      "path": "art/previews100/tfj_robe_06.png",
+      "bytes": 11026,
+      "sha256": "9747cc00ed44b83a704a125d61f24be8b6e845f12b98550153503428bfa39f19"
+    },
+    {
+      "path": "art/previews100/tfj_robe_07.png",
+      "bytes": 11944,
+      "sha256": "b2d156e1e282e3d9510c300b737602574239343f3db49ca275eab099b11ed20b"
+    },
+    {
+      "path": "art/previews100/tfj_robe_08.png",
+      "bytes": 14674,
+      "sha256": "99ce4baed91416aff30e6e10de13b202c1b06d4fad2989c4a37da1c80bffce11"
+    },
+    {
+      "path": "art/previews100/tfj_rod_01.png",
+      "bytes": 4970,
+      "sha256": "cdaf775339e439cb5dbe8022e563dcdff561abed1c94292d3954910ca0c14ff7"
+    },
+    {
+      "path": "art/previews100/tfj_rod_02.png",
+      "bytes": 4475,
+      "sha256": "539333d17223cd8b0cbbf7e8a1dfeaeec9aa00326b3a8369db2edeffed5297da"
+    },
+    {
+      "path": "art/previews100/tfj_rod_03.png",
+      "bytes": 4560,
+      "sha256": "82cfaf26fa991e8db2a0afaf22e5540e0d5a91868ddfdb351cdaf8068e2f9cc2"
+    },
+    {
+      "path": "art/previews100/tfj_rod_04.png",
+      "bytes": 5620,
+      "sha256": "b1f48382324d7658ae445319ef57040b1d52154181bea18e05bcc18a2a44e284"
+    },
+    {
+      "path": "art/previews100/tfj_rod_05.png",
+      "bytes": 4463,
+      "sha256": "0acab863fd7841bb4c4346ac3f2a66f3c5897476bd4b996aae647fe31238109a"
+    },
+    {
+      "path": "art/previews100/tfj_rod_06.png",
+      "bytes": 4881,
+      "sha256": "c5b6a15f4d2282d3e2ae6393a50de83c92598e93d13bf8a96c36b3e0b6571c0c"
+    },
+    {
+      "path": "art/previews100/tfj_rod_07.png",
+      "bytes": 6934,
+      "sha256": "89bdf75ec0aa69972291b5cee151fdd359714714dcb4ca1f569cb62d80381f46"
+    },
+    {
+      "path": "art/previews100/tfj_rod_08.png",
+      "bytes": 5446,
+      "sha256": "5c6ee066b4cdb64b608a54c83e3c22cbe3b2db3462e4350b7fca0cf2df72d734"
+    },
+    {
+      "path": "art/previews100/tfj_shield_01.png",
+      "bytes": 8078,
+      "sha256": "0d459144148e54b58f220f2e01ebc5720bd6db2568a3273d0dac747404cf06cd"
+    },
+    {
+      "path": "art/previews100/tfj_shield_02.png",
+      "bytes": 7057,
+      "sha256": "1f2b2730866fcf7c51c5751b470427c065523832117d69d0d42418928b2222dc"
+    },
+    {
+      "path": "art/previews100/tfj_shield_03.png",
+      "bytes": 11202,
+      "sha256": "f04ac0e466fcb492da65170efe6f4a573164ebe65521d51dd04adc19fd50fea5"
+    },
+    {
+      "path": "art/previews100/tfj_shield_04.png",
+      "bytes": 10896,
+      "sha256": "60a6483a7ada2d7e91cb63f4cadb3141f8519929d30cfecddd3062277ecf5c0a"
+    },
+    {
+      "path": "art/previews100/tfj_shield_05.png",
+      "bytes": 10330,
+      "sha256": "47f49255fa88ac051e1d016ce3a53fcd0a7d68fd5f81839dc740c1f92cde3ad4"
+    },
+    {
+      "path": "art/previews100/tfj_shield_06.png",
+      "bytes": 10020,
+      "sha256": "995e9041ebbaee5fe8f487fcd40c2d469bdbdcc1677ac02edba0d9a189dcf96e"
+    },
+    {
+      "path": "art/previews100/tfj_shield_07.png",
+      "bytes": 10123,
+      "sha256": "a14abce8550181f975ba3adc7cb62797382c4ee5759dd5be511ffbf965b60473"
+    },
+    {
+      "path": "art/previews100/tfj_shield_08.png",
+      "bytes": 9649,
+      "sha256": "92c8e6d1cb6761341d2b8ee2e8e4b36f30db566a7316096e6284d50596db3a4c"
+    },
+    {
+      "path": "art/previews100/tfj_shield_09.png",
+      "bytes": 8707,
+      "sha256": "6867f303e85e48e4f7880d5b395c73a8792a6ae99fcf17baefcb6d708526b977"
+    },
+    {
+      "path": "art/previews100/tfj_shield_10.png",
+      "bytes": 10936,
+      "sha256": "19c41325cb93403f5957154fba66a0c5e3820c019bf518b3e2183b75d28f7d32"
+    },
+    {
+      "path": "art/previews100/tfj_shield_11.png",
+      "bytes": 10504,
+      "sha256": "015d15e7fd084b26ed8d4fa2a8134da45cdf62920ecfe20eb7e9a3654bee7dea"
+    },
+    {
+      "path": "art/previews100/tfj_shield_12.png",
+      "bytes": 9188,
+      "sha256": "c5aa1ca169db5bdb2837c6ad71fb16d51a921baaefe53e6f0c76f91238893549"
+    },
+    {
+      "path": "art/previews100/tfj_shield_13.png",
+      "bytes": 8868,
+      "sha256": "7787badb06631abee984c334dc88cd74a2a9cac442ea98014f3a282327b54e3c"
+    },
+    {
+      "path": "art/previews100/tfj_shield_14.png",
+      "bytes": 9920,
+      "sha256": "b11796c79fbc49dfcd110df116f9c27c7b2a28c25fc5d58260ace56e9e57d27b"
+    },
+    {
+      "path": "art/previews100/tfj_shield_15.png",
+      "bytes": 9568,
+      "sha256": "7cdaa698e111d731b343c67939b1775348d909e05ae40dc35b743e391a336d92"
+    },
+    {
+      "path": "art/previews100/tfj_shield_16.png",
+      "bytes": 12771,
+      "sha256": "8efb607e7b48c3aebdb2308453e1516210ffd99e01c627d426fcd41dc84c4ad9"
+    },
+    {
+      "path": "art/previews100/tfj_shoes_01.png",
+      "bytes": 9091,
+      "sha256": "ab02c787fd2c26f9ff49c317959906fcc4df59951106aeb02832c776a9538862"
+    },
+    {
+      "path": "art/previews100/tfj_shoes_02.png",
+      "bytes": 9947,
+      "sha256": "3358675f5a47994918f91212c28034f26db8a65df1d4ee6ac7af06a71a801aa4"
+    },
+    {
+      "path": "art/previews100/tfj_shoes_03.png",
+      "bytes": 10339,
+      "sha256": "ef8124e6948e7328d4a377177f540ce82838af8bd435bd944941c6c1492f71de"
+    },
+    {
+      "path": "art/previews100/tfj_shoes_04.png",
+      "bytes": 8912,
+      "sha256": "5c89dc25e3bc9a975607bce6e1e18d6ce1ed022d17eb93cdec3d3953118583f8"
+    },
+    {
+      "path": "art/previews100/tfj_shoes_05.png",
+      "bytes": 8956,
+      "sha256": "0b81d8e2c6217f7cc7188d678b3883695f3edd7310ec35e578a25ac2ff25a749"
+    },
+    {
+      "path": "art/previews100/tfj_shoes_06.png",
+      "bytes": 8060,
+      "sha256": "120e94454dfb3de3694131763a2cb96124b75745cd894305da4067c66fe08aac"
+    },
+    {
+      "path": "art/previews100/tfj_shoes_07.png",
+      "bytes": 11323,
+      "sha256": "3d47758e804464616e23edb8505a55f12e8289b14a68d6596bd49879f756bcce"
+    },
+    {
+      "path": "art/previews100/tfj_shoes_08.png",
+      "bytes": 13168,
+      "sha256": "6402831e8390a3deefd44963e4c4e9d167fa9df7d27d8f57e3b81f03b57831b5"
+    },
+    {
+      "path": "art/previews100/tfj_staff_01.png",
+      "bytes": 5062,
+      "sha256": "28f8cc5ace3e2c491d47d2b28b9373ad19b87606ba78b6f23fdfbbb10b70b816"
+    },
+    {
+      "path": "art/previews100/tfj_staff_02.png",
+      "bytes": 6571,
+      "sha256": "c1039ac022119fb6f84153b4325210437fb7a0c39e86e93426018132e7a35a51"
+    },
+    {
+      "path": "art/previews100/tfj_staff_03.png",
+      "bytes": 5013,
+      "sha256": "3fb279c521581935a94929f5a53b5c81074a4bf45bce2ac75c2e4807bdbc92d9"
+    },
+    {
+      "path": "art/previews100/tfj_staff_04.png",
+      "bytes": 5035,
+      "sha256": "ecfc76a3de09166908a18e1e979f463d4e4444591191898368c996c769e20174"
+    },
+    {
+      "path": "art/previews100/tfj_staff_05.png",
+      "bytes": 3359,
+      "sha256": "e8616e06297d42c47f60accc0789754c44d26857ea66215b8dfa32090f75f39d"
+    },
+    {
+      "path": "art/previews100/tfj_staff_06.png",
+      "bytes": 5711,
+      "sha256": "302191fc30d5bf9675513bc4f130cb009c2734a786a7b27e6d2b072782740613"
+    },
+    {
+      "path": "art/previews100/tfj_staff_07.png",
+      "bytes": 5555,
+      "sha256": "78e7b6f3f0134de85399dfbfad8f991ac78c02316160702c707792a977f5fb4e"
+    },
+    {
+      "path": "art/previews100/tfj_staff_08.png",
+      "bytes": 4513,
+      "sha256": "b001ae6c156c6e21d80bad9084bc2cd96fbfb85e089172c56fc25d355fc80049"
+    },
+    {
+      "path": "art/previews100/tfj_sword_01.png",
+      "bytes": 6993,
+      "sha256": "d3d1e8cab686e873040ab853ed61c7d81021fea056ce1b49092f4efff6fd994a"
+    },
+    {
+      "path": "art/previews100/tfj_sword_02.png",
+      "bytes": 5714,
+      "sha256": "5f1c2b57cdd053b59306ac8814dc21d6b84da658522a2c3d714147f7ab843077"
+    },
+    {
+      "path": "art/previews100/tfj_sword_03.png",
+      "bytes": 6186,
+      "sha256": "ab1c5d5234447b4aaf9df0d63c18256e717ad96fe7706865732a9135b99cc384"
+    },
+    {
+      "path": "art/previews100/tfj_sword_04.png",
+      "bytes": 6281,
+      "sha256": "724282574952ed0cf96db1f72c7019b99e4fe8c2b018d9d4f4c69de81d349f99"
+    },
+    {
+      "path": "art/previews100/tfj_sword_05.png",
+      "bytes": 6414,
+      "sha256": "e037bd6757f1e2efc4a2b3063beb30765008e5c49457232886c16a66c888469e"
+    },
+    {
+      "path": "art/previews100/tfj_sword_06.png",
+      "bytes": 5934,
+      "sha256": "94bfdf30a602306ab16171bbda65059825845a01817999594e780a25623c409d"
+    },
+    {
+      "path": "art/previews100/tfj_sword_07.png",
+      "bytes": 7710,
+      "sha256": "f0bda8abb2d45ac7f387e7903b5a3fd561cb718792cebabee456664857a21cc5"
+    },
+    {
+      "path": "art/previews100/tfj_sword_08.png",
+      "bytes": 7245,
+      "sha256": "6c042d6044f5243408ddb820fa64c6d32abdea30bb7b6fb896d872836165989b"
+    },
+    {
+      "path": "art/previews100/tfj_sword_09.png",
+      "bytes": 6448,
+      "sha256": "fcd179c12be2ba49367e2633dae5348973740b0417d05e61ce762613e9915960"
+    },
+    {
+      "path": "art/previews100/tfj_sword_10.png",
+      "bytes": 5836,
+      "sha256": "8e6dd2ac2e68e8f522585f90ba28396680dcaed83f4dce6db750f01ba6d337b3"
+    },
+    {
+      "path": "art/previews100/tfj_sword_11.png",
+      "bytes": 6900,
+      "sha256": "3f0b95c6168bbc5a354778e9c200fafc632f6add75959502b347829e56d2d2b8"
+    },
+    {
+      "path": "art/previews100/tfj_sword_12.png",
+      "bytes": 6038,
+      "sha256": "31d3bc1c6517656aa01d0d8f5e8f18612cf757fe782c9937674f85ad0b1139c3"
+    },
+    {
+      "path": "art/previews100/tfj_sword_13.png",
+      "bytes": 6566,
+      "sha256": "2d51a5b4f5a066b93deab5c46db440a32cdfbbeb6e8a0765b5fc6ed192b2064b"
+    },
+    {
+      "path": "art/previews100/tfj_sword_14.png",
+      "bytes": 8073,
+      "sha256": "3f9d66fcfa1dc017099c21bb253fa0262402a067769a3c76aee32d5f5ba2219d"
+    },
+    {
+      "path": "art/previews100/tfj_sword_15.png",
+      "bytes": 6325,
+      "sha256": "1108b43854575001b3979d0a1699bea36686a4b244c5dabd76344b5fa5a7d938"
+    },
+    {
+      "path": "art/previews100/tfj_sword_16.png",
+      "bytes": 6856,
+      "sha256": "36c420dd7b4de844f66e2d85e96775d8ca5b22bc4937c011977151e9a2d19a6a"
+    },
+    {
+      "path": "art/previews100/tfj_sword_17.png",
+      "bytes": 6301,
+      "sha256": "44ef2c6a150f9a3011bb1f039ef3b16c950269dc90b26e44e482e9358c36f2c2"
+    },
+    {
+      "path": "art/previews100/tfj_sword_18.png",
+      "bytes": 6337,
+      "sha256": "896f44ffc4f48f5e9588e48841688d66fcb0b0056238985e9474d076b3836729"
+    },
+    {
+      "path": "art/previews100/tfj_throwing_01.png",
+      "bytes": 6730,
+      "sha256": "3fc4db7cc88e4cd1692362730647826f42e0a528b3140fe5ee4fcb7253b4a374"
+    },
+    {
+      "path": "art/previews100/tfj_throwing_02.png",
+      "bytes": 8599,
+      "sha256": "a1f255f7e051e9e1c82c0811ddd9c47e4b59ebd5fe5f43d9d906dea7873eb55c"
+    },
+    {
+      "path": "art/previews100/tfj_throwing_03.png",
+      "bytes": 7745,
+      "sha256": "1e9417c36624f31fb6814714801d340cb9314df6aed41d5b43472b48dc3c0d8c"
+    },
+    {
+      "path": "art/provenance.json",
+      "bytes": 129455,
+      "sha256": "d00e1214bc6fe9bdad08b220a099f735d3131a1ee9cbd840b930aaa31c814024"
+    },
+    {
+      "path": "BALANCE_RULES.md",
+      "bytes": 5751,
+      "sha256": "97bff36fa9f80acaa77e9fcce054277f8875cb723205e56b39e13d8c277081cd"
+    },
+    {
+      "path": "catalogue-pastille-review.jpg",
+      "bytes": 81631,
+      "sha256": "5da7d046b19315b87db4e0a0ce0c3a7de47167d84c9113f07228d9ce1b386cea"
+    },
+    {
+      "path": "catalogue.html",
+      "bytes": 624981,
+      "sha256": "1792da327fc344433247c70ca269ffd0ff4b9c4593f744831017c51596f2dca0"
+    },
+    {
+      "path": "changes.json",
+      "bytes": 198020,
+      "sha256": "3fa6671a1f1018e006ade4e4f1fe7d72c544556e1a10db4961d235c937936ed5"
+    },
+    {
+      "path": "CLAUDE_HANDOFF.md",
+      "bytes": 6721,
+      "sha256": "7bb8f341c436e6779a91fc35cd766b73918b748698dcec589315b6d422bbc40c"
+    },
+    {
+      "path": "items.json",
+      "bytes": 2517388,
+      "sha256": "e96705e58de5825b4564535cd76d6c6023386d20113d5a71704cd716ec75e9a6"
+    },
+    {
+      "path": "mechanics.json",
+      "bytes": 513274,
+      "sha256": "c1f320c6dce2cbc79522bd06fe92f7297e82c858ce6acbdbb36aa33fdf82796d"
+    },
+    {
+      "path": "native-before-after.jpg",
+      "bytes": 83236,
+      "sha256": "69371864b05ef358b13908fe89788eedc1e7794f72adce863614b8ed3248910e"
+    },
+    {
+      "path": "originality-audit.json",
+      "bytes": 1401,
+      "sha256": "3c7bb1eb70643e15ff57c9424be865fa63a79f61fb0c7a035b33ca91fce5888a"
+    },
+    {
+      "path": "references/baseline-inventory.csv",
+      "bytes": 15756,
+      "sha256": "ff42084e5e28ebfd48a92b37eee5a83cc2181fecb3ea02269045f8ce9c58c31b"
+    },
+    {
+      "path": "references/baseline-tables/ItemAccessoryData.xml",
+      "bytes": 8478,
+      "sha256": "f706004c1d155923478b27cea7fd9e9c49f09a60be18e5b4c5c8d8e7a3afad1e"
+    },
+    {
+      "path": "references/baseline-tables/ItemArmorData.xml",
+      "bytes": 13102,
+      "sha256": "1dc02d979f91532383fc98fb02e1cd2eecc8fa82f51e2e3908d7e27cf2ee62c1"
+    },
+    {
+      "path": "references/baseline-tables/ItemConsumableData.xml",
+      "bytes": 5047,
+      "sha256": "d21cd0d21af48da89ce6e724456a76c29d1b5079661f541923636b82248d5a12"
+    },
+    {
+      "path": "references/baseline-tables/ItemData.xml",
+      "bytes": 150554,
+      "sha256": "c724d1e5475eff2633d1ff3295f641f450dc341d90c443491860b5f5df1d49c5"
+    },
+    {
+      "path": "references/baseline-tables/ItemEquipBonusData.xml",
+      "bytes": 52644,
+      "sha256": "5ebcad4babd93d796dc7c53c8d5e15e74deb334a5ab2ec1d86ef90fcfd1ea3f7"
+    },
+    {
+      "path": "references/baseline-tables/ItemShieldData.xml",
+      "bytes": 4780,
+      "sha256": "e345891fa82dc4eecacd2956e93f423351832027ce8467cb125a6b0891022b56"
+    },
+    {
+      "path": "references/baseline-tables/ItemWeaponData.xml",
+      "bytes": 54552,
+      "sha256": "30ca54ac24746960d86cf97f6f4467895960bf925a4437e20297f549a55b8de1"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 4006,
+      "sha256": "c9f818795c2ef2af51a36040cfce565589ed47485be6850a37ecf3d3f0af36f7"
+    },
+    {
+      "path": "tools/build_revision.py",
+      "bytes": 21270,
+      "sha256": "5eb5fa9998cb8645c49dc6f762a851425e35088f197e70a7853809cbff4e0bbc"
+    },
+    {
+      "path": "tools/original-mechanics.txt",
+      "bytes": 67385,
+      "sha256": "09b93bd32c55cf5e119e9016168319992f00b851bc4748b2220872069bcfd3e1"
+    },
+    {
+      "path": "tools/package_revision.py",
+      "bytes": 1389,
+      "sha256": "d4c5a9510f08afed1ae3a16af5ef034cb6c6df51a128e609fe918da127116e06"
+    },
+    {
+      "path": "tools/validate_revision.py",
+      "bytes": 4263,
+      "sha256": "e3e734ad12b4a088bc78d49237baf2672639f86a6f3c119add837473b072a55b"
+    },
+    {
+      "path": "validation-report.json",
+      "bytes": 359,
+      "sha256": "e4f9fb3f48eab4c40d5d8311f94cdc57b61c34ed01c754643c92923404f06388"
+    }
+  ],
+  "runtime_ready": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tfj_item_15",
+  "signature_design_en": "One solid translucent pale amber tear crystal set in a small sage-green glazed ceramic three-leaf cup, suspended white pinpoint of light inside the crystal.",
+  "palette": "pale amber crystal, sage ceramic, white",
+  "visual_effect": "tiny white light inside crystal",
+  "prompt": "Completely redesign this legendary consumable inventory icon Larme de Saint-Mosco so it does NOT resemble a round perfume or ordinary potion flask. One SOLID translucent pale amber TEAR-SHAPED sacred crystal, tapering to a pointed top, seated directly in a very small sage-green glazed ceramic cup shaped as THREE connected cupping leaves. A single tiny suspended WHITE pinpoint of light inside the solid amber crystal, quiet sacred relic. No liquid bottle, glass flask neck, stopper, cork, paper label or loose petals, no royal gold filigree. Exactly one complete small connected crystal-and-leaf relic, no extra objects, person, text, frames or scene. Preserve native FFT Ivalice inventory rendering: small softly textured gritty hand-painted icon, muted warm amber and sage ceramic, delicate edges, subdued material shading, not a glossy photorealistic jewelry product or modern mobile-game glow. Genuine transparent background, safe margin, legible at 100 px.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_item_15.png",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-bbe177eb-2221-48cf-9cfd-236cc125642a.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "status": "CORRECTION_REQUIRES_REVIEW"
+}

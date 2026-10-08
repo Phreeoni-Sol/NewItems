@@ -1,0 +1,881 @@
+{
+  "generated": 38,
+  "target": 38,
+  "errors": [],
+  "records": [
+    {
+      "id": "tfj_sword_18",
+      "image": "tfj_sword_18.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        609,
+        644
+      ],
+      "preview_poses": [
+        "review/tfj_sword_18-view-1-36.png",
+        "review/tfj_sword_18-view-2-36.png",
+        "review/tfj_sword_18-view-3-36.png",
+        "review/tfj_sword_18-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_staff_08",
+      "image": "tfj_staff_08.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        575,
+        608
+      ],
+      "preview_poses": [
+        "review/tfj_staff_08-view-1-36.png",
+        "review/tfj_staff_08-view-2-36.png",
+        "review/tfj_staff_08-view-3-36.png",
+        "review/tfj_staff_08-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_shield_16",
+      "image": "tfj_shield_16.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        521,
+        612
+      ],
+      "preview_poses": [
+        "review/tfj_shield_16-view-1-36.png",
+        "review/tfj_shield_16-view-2-36.png",
+        "review/tfj_shield_16-view-3-36.png",
+        "review/tfj_shield_16-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_knife_09",
+      "image": "tfj_knife_09.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        609,
+        700
+      ],
+      "preview_poses": [
+        "review/tfj_knife_09-view-1-36.png",
+        "review/tfj_knife_09-view-2-36.png",
+        "review/tfj_knife_09-view-3-36.png",
+        "review/tfj_knife_09-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_knife_10",
+      "image": "tfj_knife_10.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        719,
+        551
+      ],
+      "preview_poses": [
+        "review/tfj_knife_10-view-1-36.png",
+        "review/tfj_knife_10-view-2-36.png",
+        "review/tfj_knife_10-view-3-36.png",
+        "review/tfj_knife_10-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_ninja_blade_07",
+      "image": "tfj_ninja_blade_07.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        602,
+        612
+      ],
+      "preview_poses": [
+        "review/tfj_ninja_blade_07-view-1-36.png",
+        "review/tfj_ninja_blade_07-view-2-36.png",
+        "review/tfj_ninja_blade_07-view-3-36.png",
+        "review/tfj_ninja_blade_07-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_ninja_blade_08",
+      "image": "tfj_ninja_blade_08.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        608,
+        685
+      ],
+      "preview_poses": [
+        "review/tfj_ninja_blade_08-view-1-36.png",
+        "review/tfj_ninja_blade_08-view-2-36.png",
+        "review/tfj_ninja_blade_08-view-3-36.png",
+        "review/tfj_ninja_blade_08-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_sword_17",
+      "image": "tfj_sword_17.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        738,
+        585
+      ],
+      "preview_poses": [
+        "review/tfj_sword_17-view-1-36.png",
+        "review/tfj_sword_17-view-2-36.png",
+        "review/tfj_sword_17-view-3-36.png",
+        "review/tfj_sword_17-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_knight_sword_05",
+      "image": "tfj_knight_sword_05.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        720,
+        591
+      ],
+      "preview_poses": [
+        "review/tfj_knight_sword_05-view-1-36.png",
+        "review/tfj_knight_sword_05-view-2-36.png",
+        "review/tfj_knight_sword_05-view-3-36.png",
+        "review/tfj_knight_sword_05-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_knight_sword_06",
+      "image": "tfj_knight_sword_06.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        600,
+        620
+      ],
+      "preview_poses": [
+        "review/tfj_knight_sword_06-view-1-36.png",
+        "review/tfj_knight_sword_06-view-2-36.png",
+        "review/tfj_knight_sword_06-view-3-36.png",
+        "review/tfj_knight_sword_06-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_katana_09",
+      "image": "tfj_katana_09.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        721,
+        624
+      ],
+      "preview_poses": [
+        "review/tfj_katana_09-view-1-36.png",
+        "review/tfj_katana_09-view-2-36.png",
+        "review/tfj_katana_09-view-3-36.png",
+        "review/tfj_katana_09-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_katana_10",
+      "image": "tfj_katana_10.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        604,
+        678
+      ],
+      "preview_poses": [
+        "review/tfj_katana_10-view-1-36.png",
+        "review/tfj_katana_10-view-2-36.png",
+        "review/tfj_katana_10-view-3-36.png",
+        "review/tfj_katana_10-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_axe_03",
+      "image": "tfj_axe_03.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        598,
+        640
+      ],
+      "preview_poses": [
+        "review/tfj_axe_03-view-1-36.png",
+        "review/tfj_axe_03-view-2-36.png",
+        "review/tfj_axe_03-view-3-36.png",
+        "review/tfj_axe_03-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_axe_04",
+      "image": "tfj_axe_04.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        593,
+        628
+      ],
+      "preview_poses": [
+        "review/tfj_axe_04-view-1-36.png",
+        "review/tfj_axe_04-view-2-36.png",
+        "review/tfj_axe_04-view-3-36.png",
+        "review/tfj_axe_04-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_staff_07",
+      "image": "tfj_staff_07.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        714,
+        597
+      ],
+      "preview_poses": [
+        "review/tfj_staff_07-view-1-36.png",
+        "review/tfj_staff_07-view-2-36.png",
+        "review/tfj_staff_07-view-3-36.png",
+        "review/tfj_staff_07-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_flail_03",
+      "image": "tfj_flail_03.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        719,
+        539
+      ],
+      "preview_poses": [
+        "review/tfj_flail_03-view-1-36.png",
+        "review/tfj_flail_03-view-2-36.png",
+        "review/tfj_flail_03-view-3-36.png",
+        "review/tfj_flail_03-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_flail_04",
+      "image": "tfj_flail_04.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        610,
+        602
+      ],
+      "preview_poses": [
+        "review/tfj_flail_04-view-1-36.png",
+        "review/tfj_flail_04-view-2-36.png",
+        "review/tfj_flail_04-view-3-36.png",
+        "review/tfj_flail_04-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_gun_06",
+      "image": "tfj_gun_06.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        603,
+        626
+      ],
+      "preview_poses": [
+        "review/tfj_gun_06-view-1-36.png",
+        "review/tfj_gun_06-view-2-36.png",
+        "review/tfj_gun_06-view-3-36.png",
+        "review/tfj_gun_06-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_gun_07",
+      "image": "tfj_gun_07-v3.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        593,
+        645
+      ],
+      "preview_poses": [
+        "review/tfj_gun_07-view-1-36.png",
+        "review/tfj_gun_07-view-2-36.png",
+        "review/tfj_gun_07-view-3-36.png",
+        "review/tfj_gun_07-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_crossbow_05",
+      "image": "tfj_crossbow_05.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        721,
+        582
+      ],
+      "preview_poses": [
+        "review/tfj_crossbow_05-view-1-36.png",
+        "review/tfj_crossbow_05-view-2-36.png",
+        "review/tfj_crossbow_05-view-3-36.png",
+        "review/tfj_crossbow_05-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_rod_07",
+      "image": "tfj_rod_07.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        584,
+        641
+      ],
+      "preview_poses": [
+        "review/tfj_rod_07-view-1-36.png",
+        "review/tfj_rod_07-view-2-36.png",
+        "review/tfj_rod_07-view-3-36.png",
+        "review/tfj_rod_07-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_rod_08",
+      "image": "tfj_rod_08.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        571,
+        630
+      ],
+      "preview_poses": [
+        "review/tfj_rod_08-view-1-36.png",
+        "review/tfj_rod_08-view-2-36.png",
+        "review/tfj_rod_08-view-3-36.png",
+        "review/tfj_rod_08-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_crossbow_06",
+      "image": "tfj_crossbow_06.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        586,
+        583
+      ],
+      "preview_poses": [
+        "review/tfj_crossbow_06-view-1-36.png",
+        "review/tfj_crossbow_06-view-2-36.png",
+        "review/tfj_crossbow_06-view-3-36.png",
+        "review/tfj_crossbow_06-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_bow_09",
+      "image": "tfj_bow_09-v2.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        588,
+        604
+      ],
+      "preview_poses": [
+        "review/tfj_bow_09-view-1-36.png",
+        "review/tfj_bow_09-view-2-36.png",
+        "review/tfj_bow_09-view-3-36.png",
+        "review/tfj_bow_09-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_bow_10",
+      "image": "tfj_bow_10-v2.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        627,
+        696
+      ],
+      "preview_poses": [
+        "review/tfj_bow_10-view-1-36.png",
+        "review/tfj_bow_10-view-2-36.png",
+        "review/tfj_bow_10-view-3-36.png",
+        "review/tfj_bow_10-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_instrument_02",
+      "image": "tfj_instrument_02.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        603,
+        683
+      ],
+      "preview_poses": [
+        "review/tfj_instrument_02-view-1-36.png",
+        "review/tfj_instrument_02-view-2-36.png",
+        "review/tfj_instrument_02-view-3-36.png",
+        "review/tfj_instrument_02-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_instrument_03",
+      "image": "tfj_instrument_03.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        606,
+        686
+      ],
+      "preview_poses": [
+        "review/tfj_instrument_03-view-1-36.png",
+        "review/tfj_instrument_03-view-2-36.png",
+        "review/tfj_instrument_03-view-3-36.png",
+        "review/tfj_instrument_03-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_book_03",
+      "image": "tfj_book_03.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        591,
+        638
+      ],
+      "preview_poses": [
+        "review/tfj_book_03-view-1-36.png",
+        "review/tfj_book_03-view-2-36.png",
+        "review/tfj_book_03-view-3-36.png",
+        "review/tfj_book_03-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_book_04",
+      "image": "tfj_book_04.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        704,
+        566
+      ],
+      "preview_poses": [
+        "review/tfj_book_04-view-1-36.png",
+        "review/tfj_book_04-view-2-36.png",
+        "review/tfj_book_04-view-3-36.png",
+        "review/tfj_book_04-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_polearm_07",
+      "image": "tfj_polearm_07.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        702,
+        589
+      ],
+      "preview_poses": [
+        "review/tfj_polearm_07-view-1-36.png",
+        "review/tfj_polearm_07-view-2-36.png",
+        "review/tfj_polearm_07-view-3-36.png",
+        "review/tfj_polearm_07-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_polearm_08",
+      "image": "tfj_polearm_08.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        722,
+        594
+      ],
+      "preview_poses": [
+        "review/tfj_polearm_08-view-1-36.png",
+        "review/tfj_polearm_08-view-2-36.png",
+        "review/tfj_polearm_08-view-3-36.png",
+        "review/tfj_polearm_08-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_pole_07",
+      "image": "tfj_pole_07.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        715,
+        568
+      ],
+      "preview_poses": [
+        "review/tfj_pole_07-view-1-36.png",
+        "review/tfj_pole_07-view-2-36.png",
+        "review/tfj_pole_07-view-3-36.png",
+        "review/tfj_pole_07-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_pole_08",
+      "image": "tfj_pole_08.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        576,
+        614
+      ],
+      "preview_poses": [
+        "review/tfj_pole_08-view-1-36.png",
+        "review/tfj_pole_08-view-2-36.png",
+        "review/tfj_pole_08-view-3-36.png",
+        "review/tfj_pole_08-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_bag_03",
+      "image": "tfj_bag_03.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        593,
+        627
+      ],
+      "preview_poses": [
+        "review/tfj_bag_03-view-1-36.png",
+        "review/tfj_bag_03-view-2-36.png",
+        "review/tfj_bag_03-view-3-36.png",
+        "review/tfj_bag_03-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_bag_04",
+      "image": "tfj_bag_04.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        579,
+        595
+      ],
+      "preview_poses": [
+        "review/tfj_bag_04-view-1-36.png",
+        "review/tfj_bag_04-view-2-36.png",
+        "review/tfj_bag_04-view-3-36.png",
+        "review/tfj_bag_04-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_cloth_02",
+      "image": "tfj_cloth_02.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        619,
+        723
+      ],
+      "preview_poses": [
+        "review/tfj_cloth_02-view-1-36.png",
+        "review/tfj_cloth_02-view-2-36.png",
+        "review/tfj_cloth_02-view-3-36.png",
+        "review/tfj_cloth_02-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_cloth_03",
+      "image": "tfj_cloth_03.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "alpha": [
+        0,
+        254
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        727,
+        648
+      ],
+      "preview_poses": [
+        "review/tfj_cloth_03-view-1-36.png",
+        "review/tfj_cloth_03-view-2-36.png",
+        "review/tfj_cloth_03-view-3-36.png",
+        "review/tfj_cloth_03-view-4-36.png"
+      ]
+    },
+    {
+      "id": "tfj_shield_15",
+      "image": "tfj_shield_15.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "alpha": [
+        0,
+        255
+      ],
+      "structural_check": "PASS",
+      "split_xy": [
+        523,
+        608
+      ],
+      "preview_poses": [
+        "review/tfj_shield_15-view-1-36.png",
+        "review/tfj_shield_15-view-2-36.png",
+        "review/tfj_shield_15-view-3-36.png",
+        "review/tfj_shield_15-view-4-36.png"
+      ]
+    }
+  ]
+}

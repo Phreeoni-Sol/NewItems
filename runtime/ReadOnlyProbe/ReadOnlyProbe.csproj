@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>ForgottenJobs.ReadOnlyProbe</AssemblyName>
+    <EnableDefaultEmbeddedResourceItems>false</EnableDefaultEmbeddedResourceItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Reloaded.Mod.Interfaces">
+      <HintPath>$(ReloadedInterfacesPath)</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <EmbeddedResource Include="$(ProbeManifestPath)" LogicalName="probe-manifest.json" />
+  </ItemGroup>
+  <Target Name="ValidateInputs" BeforeTargets="PrepareForBuild">
+    <Error Condition="!Exists('$(ReloadedInterfacesPath)')" Text="Provide ReloadedInterfacesPath." />
+    <Error Condition="!Exists('$(ProbeManifestPath)')" Text="Provide ProbeManifestPath generated from the verified audit." />
+  </Target>
+</Project>

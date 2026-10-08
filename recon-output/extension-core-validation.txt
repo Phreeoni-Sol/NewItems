@@ -1,0 +1,55 @@
+PASS RIP target relocated with field offset preserved
+PASS planner does not mutate input instruction
+PASS unknown address origin rejected
+PASS out-of-range signed disp32 rejected
+PASS source table overrun rejected
+PASS duplicate relocation rejected
+PASS image-relative target relocated separately from RIP math
+PASS append preserves vanilla bytes and source ownership
+PASS incomplete vanilla row rejected
+PASS appended row size rejected
+PASS dry-run verifies all sites with zero writes
+PASS foreign-mod byte drift rejected before first write
+PASS preflight failure does not partially patch earlier sites
+PASS transaction commits all patches
+PASS rollback restores every instruction
+PASS partial failing write is rolled back
+PASS rollback includes partially written current site
+PASS incomplete rollback marks faulted state and retains ownership requirement
+PASS faulted transaction cannot be reused
+PASS rollback refuses to overwrite a later foreign-mod change
+PASS buffers remain owned when rollback preflight fails
+PASS router delegates all vanilla/monster/WotL command fixtures unchanged
+PASS custom command resolves active and RSM slots separately
+PASS custom command rejects out-of-range slots without vanilla fallback
+PASS vanilla command cannot be repurposed
+PASS duplicate custom command rejected
+PASS unsupported local ability ID encoding rejected
+PASS first menu page preserves vanilla job order
+PASS additional page preserves remaining vanilla jobs before additions
+PASS menu selection identifies custom entry without changing source list
+PASS empty menu slot cannot select a job
+PASS page beyond menu bounds rejected
+PASS custom menu identity cannot collide with vanilla
+PASS Brise-Lame prerequisite checks both Knight level and invested JP
+PASS vanilla job is outside custom progression registry
+PASS custom ability learning spends only configured custom JP
+PASS repeat learning never spends JP twice
+PASS insufficient JP leaves learned abilities unchanged
+PASS unknown ability/JP cost rejected
+PASS job level uses earned JP independently of remaining balance
+PASS reading state cannot mutate learned-ability storage
+PASS unit progression remains independent
+PASS custom JP and learned abilities survive sidecar round-trip
+PASS progression from another vanilla-save fingerprint rejected
+PASS unknown progression schema rejected
+PASS duplicate unit/job identity rejected before committing state
+PASS failed restore preserves previously loaded progress
+PASS sidecar paths use hashed lineage identity
+PASS native lookup baseline reads vanilla fixture entries
+PASS executed native consumer sees added row while vanilla values stay identical
+PASS original native table is never overwritten
+PASS code-page execute/read protection restored after patch
+PASS native rollback restores original pointer and lookup
+PASS code-page protection restored after rollback
+54 checks passed. Native fixture only; game not accessed or patched.

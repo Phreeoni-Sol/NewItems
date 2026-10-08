@@ -1,0 +1,17 @@
+{
+  "IsLibrary": false,
+  "IsUniversalMod": false,
+  "SupportedAppId": [
+    "fft_enhanced.exe"
+  ],
+  "OptionalDependencies": [],
+  "ModAuthor": "The Forgotten Jobs",
+  "ModDependencies": [],
+  "ModVersion": "0.1.0",
+  "ModDll": "ForgottenJobs.ReadOnlyProbe.dll",
+  "HasExports": false,
+  "ModId": "forgottenjobs.diagnostic.readonly",
+  "ModDescription": "Diagnostic only; no new job, patches or save access. Requires Reloaded .NET 9.",
+  "CanUnload": true,
+  "ModName": "The Forgotten Jobs - Read-only diagnostic"
+}

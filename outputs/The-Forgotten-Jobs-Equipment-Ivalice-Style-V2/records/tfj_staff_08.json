@@ -1,0 +1,9 @@
+{
+  "id": "tfj_staff_08",
+  "ref": "ei_066_uitx.png",
+  "prompt": "NEW ORIGINAL unique healing staff icon, Mémoire du premier soin. One slender bent polished reddish yew-wood staff, organic asymmetric forked top cradling a small pale pink river pebble tied with plain sage linen, short worn linen strip wrapping upper shaft, smooth wooden grip. A delicate pale rose wispy ring only just around the fork, tender healing memory. Dominant reddish brown, dusty rose and sage; no metal jeweled cathedral head, no gold, blue crystal, mechanical gears or oversized orb. Full diagonal staff from upper left top to lower right foot, gentle recognizable crooked staff silhouette. Match the supplied actual FFT The Ivalice Chronicles Enhanced inventory icon ONLY in its rendering style and compact equipment scale, never copy its design. Small delicate gritty hand-painted fantasy equipment, muted mineral colors, soft broken textured contour, simple material masses, soft low-contrast shading, minimal fine ornament, no crisp thick outlines or photorealistic glossy luxury product rendering. Precisely one complete isolated unworn object, no person/mannequin/body parts, text, border, pedestal, panels or extra items. Genuine transparent background; generous margin. Clearly readable in a 100x100 inventory slot. Do not reuse the previous shared gold/ivory/darksteel jewelry language. This is inventory artwork, not a combat sprite.",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Equipment-Enhanced-Revision/references/native-png/ei_066_uitx.png",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-8cca5b7f-205e-41c9-b0e5-c0481c1ba5ed.png",
+  "runtime_ready": false
+}

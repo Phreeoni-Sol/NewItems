@@ -1,0 +1,13 @@
+{
+  "id": "tfj_bow_09",
+  "name_fr": "Horizon d'Orbonne",
+  "category": "Bow",
+  "image": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\outputs\\The-Forgotten-Jobs-Equipment-Ivalice-Style-V2\\images\\tfj_bow_09.png",
+  "native_ref": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\outputs\\The-Forgotten-Jobs-Equipment-Combat-Study-38\\references\\weapon-palette-03.png",
+  "prompt": "Use-case: game-asset. Generate a TRANSPARENT authoring concept sheet for ONE new FFT equipment design, in a clean 2 by 2 grid of four separated views with generous fully empty gutters (at least 12 percent horizontal and vertical). First reference is the inventory icon: preserve this object signature and colors. Second reference is the extracted native FFT pixel weapon bank: use its restrained readable chunky pixel clusters, not its layout or whole atlas. Equipment family Bow. Signature: True longbow with a continuous gently recurved honey-colored wood limb, thin dull silver tips, orange woven grip and one taut gray string, no stock or crossbar. Palette: honey brown, silver, orange. Proposed view layout: top left upright bow leaning left, top right upright bow leaning right, bottom left oblique leaning left, bottom right oblique leaning right. This is a TRUE longbow, no stock/crossbar/arrow. One straight continuous bowstring with a thick readable pixel line (roughly 20 source pixels on a 1254-pixel sheet), clear gap to wood. Preserve upper/lower limb asymmetry. Redraw as small classic FFT battle equipment sprites enlarged with nearest-neighbour appearance; coarse clearly stepped edges, sparse muted color clusters, simplified ornament and strong silhouette. Opaque equipment pixels within, alpha zero everywhere outside. No painterly texture, smooth detailed illustration, text, grid lines, labels, checkerboard backdrop, diffuse lighting, shadows, haze, halo or glow. Even if the icon has a magical effect, OMIT every effect cloud/particle; effects need separate validated layers. Four proposals of SAME item, not four different items. This is authoring study only, NOT a native atlas or proven animation. Keep all views away from canvas edges and each other.",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-f80318c7-4b40-4825-8b00-e3e363f52cac.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "status": "PENDING_VISUAL_REVIEW",
+  "runtime_ready": false,
+  "binding": "UNKNOWN"
+}

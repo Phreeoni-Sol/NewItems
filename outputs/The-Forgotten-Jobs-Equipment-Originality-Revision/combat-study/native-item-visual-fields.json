@@ -1,0 +1,2618 @@
+{
+  "source": "outputs\\The-Forgotten-Jobs-Equipment-Originality-Revision\\references\\baseline-tables\\ItemData.xml",
+  "source_sha256": "c724d1e5475eff2633d1ff3295f641f450dc341d90c443491860b5f5df1d49c5",
+  "evidence": "Values read from the local modloader reference XML, not a live engine capture. XML notes that the nex Item table may override properties. Model Item.cs exposes nullable fields; runtime consumer and Enhanced mapping not traced.",
+  "new_ids_allocated": false,
+  "items": [
+    {
+      "reference_item_id": 0,
+      "name_en": "Nothing Equipped",
+      "category": "None",
+      "SpriteID": 0,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 1,
+      "name_en": "Dagger",
+      "category": "Knife",
+      "SpriteID": 1,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 2,
+      "name_en": "Mythril Knife",
+      "category": "Knife",
+      "SpriteID": 2,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 3,
+      "name_en": "Blind Knife",
+      "category": "Knife",
+      "SpriteID": 4,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 4,
+      "name_en": "Mage Masher",
+      "category": "Knife",
+      "SpriteID": 6,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 5,
+      "name_en": "Platinum Dagger",
+      "category": "Knife",
+      "SpriteID": 1,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 6,
+      "name_en": "Main Gauche",
+      "category": "Knife",
+      "SpriteID": 3,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 7,
+      "name_en": "Orichalcum Dirk",
+      "category": "Knife",
+      "SpriteID": 5,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 8,
+      "name_en": "Assassin's Dagger",
+      "category": "Knife",
+      "SpriteID": 6,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 9,
+      "name_en": "Air Knife",
+      "category": "Knife",
+      "SpriteID": 2,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 10,
+      "name_en": "Zwill Straightblade",
+      "category": "Knife",
+      "SpriteID": 4,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 11,
+      "name_en": "Ninja Blade",
+      "category": "NinjaBlade",
+      "SpriteID": 7,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 12,
+      "name_en": "Kunai",
+      "category": "NinjaBlade",
+      "SpriteID": 9,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 13,
+      "name_en": "Kodachi",
+      "category": "NinjaBlade",
+      "SpriteID": 8,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 14,
+      "name_en": "Ninja Longblade",
+      "category": "NinjaBlade",
+      "SpriteID": 7,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 15,
+      "name_en": "Spellbinder",
+      "category": "NinjaBlade",
+      "SpriteID": 8,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 16,
+      "name_en": "Sasuke's Blade",
+      "category": "NinjaBlade",
+      "SpriteID": 7,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 17,
+      "name_en": "Iga Blade",
+      "category": "NinjaBlade",
+      "SpriteID": 10,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 18,
+      "name_en": "Koga Blade",
+      "category": "NinjaBlade",
+      "SpriteID": 11,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 19,
+      "name_en": "Broadsword",
+      "category": "Sword",
+      "SpriteID": 12,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 20,
+      "name_en": "Longsword",
+      "category": "Sword",
+      "SpriteID": 13,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 21,
+      "name_en": "Iron Sword",
+      "category": "Sword",
+      "SpriteID": 14,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 22,
+      "name_en": "Mythril Sword",
+      "category": "Sword",
+      "SpriteID": 15,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 23,
+      "name_en": "Blood Sword",
+      "category": "Sword",
+      "SpriteID": 14,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 24,
+      "name_en": "Coral Sword",
+      "category": "Sword",
+      "SpriteID": 16,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 25,
+      "name_en": "Ancient Sword",
+      "category": "Sword",
+      "SpriteID": 15,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 26,
+      "name_en": "Sleep Blade",
+      "category": "Sword",
+      "SpriteID": 12,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 27,
+      "name_en": "Platinum Sword",
+      "category": "Sword",
+      "SpriteID": 17,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 28,
+      "name_en": "Diamond Sword",
+      "category": "Sword",
+      "SpriteID": 18,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 29,
+      "name_en": "Icebrand",
+      "category": "Sword",
+      "SpriteID": 13,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 30,
+      "name_en": "Runeblade",
+      "category": "Sword",
+      "SpriteID": 19,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 31,
+      "name_en": "Nagnarok",
+      "category": "Sword",
+      "SpriteID": 20,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 32,
+      "name_en": "Materia Blade",
+      "category": "Sword",
+      "SpriteID": 21,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 33,
+      "name_en": "Defender",
+      "category": "KnightSword",
+      "SpriteID": 22,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 34,
+      "name_en": "Save the Queen",
+      "category": "KnightSword",
+      "SpriteID": 23,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 35,
+      "name_en": "Excalibur",
+      "category": "KnightSword",
+      "SpriteID": 24,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 36,
+      "name_en": "Ragnarok",
+      "category": "KnightSword",
+      "SpriteID": 25,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 37,
+      "name_en": "Chaos Blade",
+      "category": "KnightSword",
+      "SpriteID": 22,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 38,
+      "name_en": "Ashura",
+      "category": "Katana",
+      "SpriteID": 26,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 39,
+      "name_en": "Kotetsu",
+      "category": "Katana",
+      "SpriteID": 27,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 40,
+      "name_en": "Bizen Osafune",
+      "category": "Katana",
+      "SpriteID": 28,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 41,
+      "name_en": "Murasame",
+      "category": "Katana",
+      "SpriteID": 26,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 42,
+      "name_en": "Ame-no-Murakumo",
+      "category": "Katana",
+      "SpriteID": 29,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 43,
+      "name_en": "Kiyomori",
+      "category": "Katana",
+      "SpriteID": 28,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 44,
+      "name_en": "Muramasa",
+      "category": "Katana",
+      "SpriteID": 30,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 45,
+      "name_en": "Kiku-ichimonji",
+      "category": "Katana",
+      "SpriteID": 31,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 46,
+      "name_en": "Masamune",
+      "category": "Katana",
+      "SpriteID": 27,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 47,
+      "name_en": "Chirijiraden",
+      "category": "Katana",
+      "SpriteID": 26,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 48,
+      "name_en": "Battle Axe",
+      "category": "Axe",
+      "SpriteID": 32,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 49,
+      "name_en": "Giant's Axe",
+      "category": "Axe",
+      "SpriteID": 33,
+      "Palette": 15,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 50,
+      "name_en": "Slasher",
+      "category": "Axe",
+      "SpriteID": 34,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 51,
+      "name_en": "Rod",
+      "category": "Rod",
+      "SpriteID": 35,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 52,
+      "name_en": "Thunder Rod",
+      "category": "Rod",
+      "SpriteID": 37,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 53,
+      "name_en": "Flame Rod",
+      "category": "Rod",
+      "SpriteID": 36,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 54,
+      "name_en": "Ice Rod",
+      "category": "Rod",
+      "SpriteID": 37,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 55,
+      "name_en": "Poison Rod",
+      "category": "Rod",
+      "SpriteID": 36,
+      "Palette": 6,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 56,
+      "name_en": "Wizard's Rod",
+      "category": "Rod",
+      "SpriteID": 38,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 57,
+      "name_en": "Dragon Rod",
+      "category": "Rod",
+      "SpriteID": 36,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 58,
+      "name_en": "Rod of Faith",
+      "category": "Rod",
+      "SpriteID": 37,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 59,
+      "name_en": "Oak Staff",
+      "category": "Staff",
+      "SpriteID": 39,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 60,
+      "name_en": "White Staff",
+      "category": "Staff",
+      "SpriteID": 39,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 61,
+      "name_en": "Healing Staff",
+      "category": "Staff",
+      "SpriteID": 40,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 62,
+      "name_en": "Serpent Staff",
+      "category": "Staff",
+      "SpriteID": 39,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 63,
+      "name_en": "Mage's Staff",
+      "category": "Staff",
+      "SpriteID": 41,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 64,
+      "name_en": "Golden Staff",
+      "category": "Staff",
+      "SpriteID": 41,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 65,
+      "name_en": "Zeus Mace",
+      "category": "Staff",
+      "SpriteID": 42,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 66,
+      "name_en": "Staff of the Magi",
+      "category": "Staff",
+      "SpriteID": 42,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 67,
+      "name_en": "Iron Flail",
+      "category": "Flail",
+      "SpriteID": 43,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 68,
+      "name_en": "Flail of Flame",
+      "category": "Flail",
+      "SpriteID": 43,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 69,
+      "name_en": "Morning Star",
+      "category": "Flail",
+      "SpriteID": 43,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 70,
+      "name_en": "Scorpion Tail",
+      "category": "Flail",
+      "SpriteID": 43,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 71,
+      "name_en": "Romandan Pistol",
+      "category": "Gun",
+      "SpriteID": 44,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 72,
+      "name_en": "Mythril Gun",
+      "category": "Gun",
+      "SpriteID": 44,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 73,
+      "name_en": "Stoneshooter",
+      "category": "Gun",
+      "SpriteID": 45,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 74,
+      "name_en": "Glacial Gun",
+      "category": "Gun",
+      "SpriteID": 46,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 75,
+      "name_en": "Blaze Gun",
+      "category": "Gun",
+      "SpriteID": 46,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 76,
+      "name_en": "Blaster",
+      "category": "Gun",
+      "SpriteID": 46,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 77,
+      "name_en": "Bowgun",
+      "category": "Crossbow",
+      "SpriteID": 47,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 78,
+      "name_en": "Knightslayer",
+      "category": "Crossbow",
+      "SpriteID": 47,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 79,
+      "name_en": "Crossbow",
+      "category": "Crossbow",
+      "SpriteID": 47,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 80,
+      "name_en": "Poison Crossbow",
+      "category": "Crossbow",
+      "SpriteID": 48,
+      "Palette": 6,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 81,
+      "name_en": "Hunting Crossbow",
+      "category": "Crossbow",
+      "SpriteID": 48,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 82,
+      "name_en": "Gastrophetes",
+      "category": "Crossbow",
+      "SpriteID": 48,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 83,
+      "name_en": "Longbow",
+      "category": "Bow",
+      "SpriteID": 49,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 84,
+      "name_en": "Silver Bow",
+      "category": "Bow",
+      "SpriteID": 49,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 85,
+      "name_en": "Ice Bow",
+      "category": "Bow",
+      "SpriteID": 49,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 86,
+      "name_en": "Lightning Bow",
+      "category": "Bow",
+      "SpriteID": 50,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 87,
+      "name_en": "Windslash Bow",
+      "category": "Bow",
+      "SpriteID": 49,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 88,
+      "name_en": "Mythril Bow",
+      "category": "Bow",
+      "SpriteID": 51,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 89,
+      "name_en": "Artemis Bow",
+      "category": "Bow",
+      "SpriteID": 51,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 90,
+      "name_en": "Yoichi Bow",
+      "category": "Bow",
+      "SpriteID": 52,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 91,
+      "name_en": "Perseus Bow",
+      "category": "Bow",
+      "SpriteID": 53,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 92,
+      "name_en": "Lamia's Harp",
+      "category": "Instrument",
+      "SpriteID": 54,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 93,
+      "name_en": "Bloodstring Harp",
+      "category": "Instrument",
+      "SpriteID": 54,
+      "Palette": 6,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 94,
+      "name_en": "Faerie Harp",
+      "category": "Instrument",
+      "SpriteID": 54,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 95,
+      "name_en": "Battle Folio",
+      "category": "Book",
+      "SpriteID": 55,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 96,
+      "name_en": "Bestiary",
+      "category": "Book",
+      "SpriteID": 55,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 97,
+      "name_en": "Papyrus Codex",
+      "category": "Book",
+      "SpriteID": 55,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 98,
+      "name_en": "Omnilex",
+      "category": "Book",
+      "SpriteID": 55,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 99,
+      "name_en": "Javelin",
+      "category": "Polearm",
+      "SpriteID": 56,
+      "Palette": 8,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 100,
+      "name_en": "Spear",
+      "category": "Polearm",
+      "SpriteID": 59,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 101,
+      "name_en": "Mythril Spear",
+      "category": "Polearm",
+      "SpriteID": 57,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 102,
+      "name_en": "Partisan",
+      "category": "Polearm",
+      "SpriteID": 59,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 103,
+      "name_en": "Obelisk",
+      "category": "Polearm",
+      "SpriteID": 58,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 104,
+      "name_en": "Holy Lance",
+      "category": "Polearm",
+      "SpriteID": 60,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 105,
+      "name_en": "Dragon Whisker",
+      "category": "Polearm",
+      "SpriteID": 56,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 106,
+      "name_en": "Javelin",
+      "category": "Polearm",
+      "SpriteID": 58,
+      "Palette": 8,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 107,
+      "name_en": "Cypress Pole",
+      "category": "Pole",
+      "SpriteID": 61,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 108,
+      "name_en": "Battle Bamboo",
+      "category": "Pole",
+      "SpriteID": 62,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 109,
+      "name_en": "Musk Pole",
+      "category": "Pole",
+      "SpriteID": 61,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 110,
+      "name_en": "Iron Fan",
+      "category": "Pole",
+      "SpriteID": 62,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 111,
+      "name_en": "Gokuu's Pole",
+      "category": "Pole",
+      "SpriteID": 63,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 112,
+      "name_en": "Ivory Pole",
+      "category": "Pole",
+      "SpriteID": 64,
+      "Palette": 6,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 113,
+      "name_en": "Eight-fluted Pole",
+      "category": "Pole",
+      "SpriteID": 63,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 114,
+      "name_en": "Whale Whisker",
+      "category": "Pole",
+      "SpriteID": 65,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 115,
+      "name_en": "Catskin Bag",
+      "category": "Bag",
+      "SpriteID": 66,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 116,
+      "name_en": "Fallingstar Bag",
+      "category": "Bag",
+      "SpriteID": 66,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 117,
+      "name_en": "Proudhide Bag",
+      "category": "Bag",
+      "SpriteID": 66,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 118,
+      "name_en": "Hardscale Bag",
+      "category": "Bag",
+      "SpriteID": 66,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 119,
+      "name_en": "Damask Cloth",
+      "category": "Cloth",
+      "SpriteID": 67,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 120,
+      "name_en": "Cashmere",
+      "category": "Cloth",
+      "SpriteID": 68,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 121,
+      "name_en": "Wyrmweave Silk",
+      "category": "Cloth",
+      "SpriteID": 67,
+      "Palette": 6,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 122,
+      "name_en": "Shuriken",
+      "category": "Throwing",
+      "SpriteID": 69,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 123,
+      "name_en": "Fuma Shuriken",
+      "category": "Throwing",
+      "SpriteID": 69,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 124,
+      "name_en": "Yagyu Darkrood",
+      "category": "Throwing",
+      "SpriteID": 69,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 125,
+      "name_en": "Flameburst Bomb",
+      "category": "Bomb",
+      "SpriteID": 70,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 126,
+      "name_en": "Snowmelt Bomb",
+      "category": "Bomb",
+      "SpriteID": 70,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 127,
+      "name_en": "Spark Bomb",
+      "category": "Bomb",
+      "SpriteID": 70,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 128,
+      "name_en": "Escutcheon",
+      "category": "Shield",
+      "SpriteID": 71,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 129,
+      "name_en": "Buckler",
+      "category": "Shield",
+      "SpriteID": 76,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 130,
+      "name_en": "Bronze Shield",
+      "category": "Shield",
+      "SpriteID": 72,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 131,
+      "name_en": "Round Shield",
+      "category": "Shield",
+      "SpriteID": 76,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 132,
+      "name_en": "Mythril Shield",
+      "category": "Shield",
+      "SpriteID": 74,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 133,
+      "name_en": "Golden Shield",
+      "category": "Shield",
+      "SpriteID": 78,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 134,
+      "name_en": "Ice Shield",
+      "category": "Shield",
+      "SpriteID": 73,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 135,
+      "name_en": "Flame Shield",
+      "category": "Shield",
+      "SpriteID": 79,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 136,
+      "name_en": "Aegis Shield",
+      "category": "Shield",
+      "SpriteID": 73,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 137,
+      "name_en": "Diamond Shield",
+      "category": "Shield",
+      "SpriteID": 77,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 138,
+      "name_en": "Platinum Shield",
+      "category": "Shield",
+      "SpriteID": 74,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 139,
+      "name_en": "Crystal Shield",
+      "category": "Shield",
+      "SpriteID": 77,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 140,
+      "name_en": "Genji Shield",
+      "category": "Shield",
+      "SpriteID": 73,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 141,
+      "name_en": "Kaiser Shield",
+      "category": "Shield",
+      "SpriteID": 76,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 142,
+      "name_en": "Venetian Shield",
+      "category": "Shield",
+      "SpriteID": 75,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 143,
+      "name_en": "Escutcheon",
+      "category": "Shield",
+      "SpriteID": 78,
+      "Palette": 7,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 144,
+      "name_en": "Leather Helm",
+      "category": "Helmet",
+      "SpriteID": 80,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 145,
+      "name_en": "Bronze Helm",
+      "category": "Helmet",
+      "SpriteID": 81,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 146,
+      "name_en": "Iron Helm",
+      "category": "Helmet",
+      "SpriteID": 81,
+      "Palette": 9,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 147,
+      "name_en": "Barbut",
+      "category": "Helmet",
+      "SpriteID": 82,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 148,
+      "name_en": "Mythril Helm",
+      "category": "Helmet",
+      "SpriteID": 83,
+      "Palette": 10,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 149,
+      "name_en": "Golden Helm",
+      "category": "Helmet",
+      "SpriteID": 83,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 150,
+      "name_en": "Close Helmet",
+      "category": "Helmet",
+      "SpriteID": 84,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 151,
+      "name_en": "Diamond Helm",
+      "category": "Helmet",
+      "SpriteID": 85,
+      "Palette": 12,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 152,
+      "name_en": "Platinum Helm",
+      "category": "Helmet",
+      "SpriteID": 86,
+      "Palette": 10,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 153,
+      "name_en": "Circlet",
+      "category": "Helmet",
+      "SpriteID": 87,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 154,
+      "name_en": "Crystal Helm",
+      "category": "Helmet",
+      "SpriteID": 85,
+      "Palette": 9,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 155,
+      "name_en": "Genji Helm",
+      "category": "Helmet",
+      "SpriteID": 88,
+      "Palette": 12,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 156,
+      "name_en": "Grand Helm",
+      "category": "Helmet",
+      "SpriteID": 89,
+      "Palette": 9,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 157,
+      "name_en": "Leather Cap",
+      "category": "Hat",
+      "SpriteID": 90,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 158,
+      "name_en": "Plumed Hat",
+      "category": "Hat",
+      "SpriteID": 91,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 159,
+      "name_en": "Red Hood",
+      "category": "Hat",
+      "SpriteID": 92,
+      "Palette": 12,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 160,
+      "name_en": "Headgear",
+      "category": "Hat",
+      "SpriteID": 93,
+      "Palette": 10,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 161,
+      "name_en": "Wizard's Hat",
+      "category": "Hat",
+      "SpriteID": 94,
+      "Palette": 12,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 162,
+      "name_en": "Green Beret",
+      "category": "Hat",
+      "SpriteID": 95,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 163,
+      "name_en": "Headband",
+      "category": "Hat",
+      "SpriteID": 96,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 164,
+      "name_en": "Celebrant's Miter",
+      "category": "Hat",
+      "SpriteID": 97,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 165,
+      "name_en": "Black Cowl",
+      "category": "Hat",
+      "SpriteID": 92,
+      "Palette": 15,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 166,
+      "name_en": "Gold Hairpin",
+      "category": "Hat",
+      "SpriteID": 98,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 167,
+      "name_en": "Lambent Hat",
+      "category": "Hat",
+      "SpriteID": 99,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 168,
+      "name_en": "Thief's Cap",
+      "category": "Hat",
+      "SpriteID": 95,
+      "Palette": 9,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 169,
+      "name_en": "Hairband",
+      "category": "HairAdornment",
+      "SpriteID": 100,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 170,
+      "name_en": "Barrette",
+      "category": "HairAdornment",
+      "SpriteID": 101,
+      "Palette": 12,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 171,
+      "name_en": "Ribbon",
+      "category": "HairAdornment",
+      "SpriteID": 102,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 172,
+      "name_en": "Leather Armor",
+      "category": "Armor",
+      "SpriteID": 106,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 173,
+      "name_en": "Linen Cuirass",
+      "category": "Armor",
+      "SpriteID": 107,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 174,
+      "name_en": "Bronze Armor",
+      "category": "Armor",
+      "SpriteID": 103,
+      "Palette": 14,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 175,
+      "name_en": "Chainmail",
+      "category": "Armor",
+      "SpriteID": 108,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 176,
+      "name_en": "Mythril Armor",
+      "category": "Armor",
+      "SpriteID": 103,
+      "Palette": 9,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 177,
+      "name_en": "Plate Mail",
+      "category": "Armor",
+      "SpriteID": 104,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 178,
+      "name_en": "Golden Armor",
+      "category": "Armor",
+      "SpriteID": 104,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 179,
+      "name_en": "Diamond Armor",
+      "category": "Armor",
+      "SpriteID": 105,
+      "Palette": 10,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 180,
+      "name_en": "Platinum Armor",
+      "category": "Armor",
+      "SpriteID": 109,
+      "Palette": 8,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 181,
+      "name_en": "Carabineer Mail",
+      "category": "Armor",
+      "SpriteID": 110,
+      "Palette": 8,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 182,
+      "name_en": "Crystal Mail",
+      "category": "Armor",
+      "SpriteID": 105,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 183,
+      "name_en": "Genji Armor",
+      "category": "Armor",
+      "SpriteID": 111,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 184,
+      "name_en": "Mirror Mail",
+      "category": "Armor",
+      "SpriteID": 112,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 185,
+      "name_en": "Maximillian",
+      "category": "Armor",
+      "SpriteID": 113,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 186,
+      "name_en": "Clothing",
+      "category": "Clothing",
+      "SpriteID": 116,
+      "Palette": 6,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 187,
+      "name_en": "Leather Clothing",
+      "category": "Clothing",
+      "SpriteID": 117,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 188,
+      "name_en": "Leather Plate",
+      "category": "Clothing",
+      "SpriteID": 118,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 189,
+      "name_en": "Ringmail",
+      "category": "Clothing",
+      "SpriteID": 119,
+      "Palette": 6,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 190,
+      "name_en": "Mythril Vest",
+      "category": "Clothing",
+      "SpriteID": 115,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 191,
+      "name_en": "Adamant Vest",
+      "category": "Clothing",
+      "SpriteID": 115,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 192,
+      "name_en": "Wizard Clothing",
+      "category": "Clothing",
+      "SpriteID": 120,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 193,
+      "name_en": "Brigandine",
+      "category": "Clothing",
+      "SpriteID": 121,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 194,
+      "name_en": "Jujitsu Gi",
+      "category": "Clothing",
+      "SpriteID": 122,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 195,
+      "name_en": "Power Garb",
+      "category": "Clothing",
+      "SpriteID": 123,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 196,
+      "name_en": "Gaia Gear",
+      "category": "Clothing",
+      "SpriteID": 124,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 197,
+      "name_en": "Ninja Gear",
+      "category": "Clothing",
+      "SpriteID": 114,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 198,
+      "name_en": "Black Garb",
+      "category": "Clothing",
+      "SpriteID": 114,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 199,
+      "name_en": "Rubber Suit",
+      "category": "Clothing",
+      "SpriteID": 125,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 200,
+      "name_en": "Hempen Robe",
+      "category": "Robe",
+      "SpriteID": 126,
+      "Palette": 6,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 201,
+      "name_en": "Silken Robe",
+      "category": "Robe",
+      "SpriteID": 126,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 202,
+      "name_en": "Wizard's Robe",
+      "category": "Robe",
+      "SpriteID": 127,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 203,
+      "name_en": "Chameleon Robe",
+      "category": "Robe",
+      "SpriteID": 128,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 204,
+      "name_en": "White Robe",
+      "category": "Robe",
+      "SpriteID": 129,
+      "Palette": 12,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 205,
+      "name_en": "Black Robe",
+      "category": "Robe",
+      "SpriteID": 130,
+      "Palette": 12,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 206,
+      "name_en": "Luminous Robe",
+      "category": "Robe",
+      "SpriteID": 131,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 207,
+      "name_en": "Lordly Robe",
+      "category": "Robe",
+      "SpriteID": 127,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 208,
+      "name_en": "Battle Boots",
+      "category": "Shoes",
+      "SpriteID": 132,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 209,
+      "name_en": "Spiked Boots",
+      "category": "Shoes",
+      "SpriteID": 133,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 210,
+      "name_en": "Germinas Boots",
+      "category": "Shoes",
+      "SpriteID": 134,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 211,
+      "name_en": "Rubber Boots",
+      "category": "Shoes",
+      "SpriteID": 135,
+      "Palette": 1,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 212,
+      "name_en": "Winged Boots",
+      "category": "Shoes",
+      "SpriteID": 136,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 213,
+      "name_en": "Hermes Shoes",
+      "category": "Shoes",
+      "SpriteID": 137,
+      "Palette": 5,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 214,
+      "name_en": "Red Shoes",
+      "category": "Shoes",
+      "SpriteID": 138,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 215,
+      "name_en": "Power Gauntlets",
+      "category": "Armguard",
+      "SpriteID": 139,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 216,
+      "name_en": "Genji Gloves",
+      "category": "Armguard",
+      "SpriteID": 140,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 217,
+      "name_en": "Magepower Gloves",
+      "category": "Armguard",
+      "SpriteID": 141,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 218,
+      "name_en": "Bracers",
+      "category": "Armguard",
+      "SpriteID": 142,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 219,
+      "name_en": "Reflect Ring",
+      "category": "Ring",
+      "SpriteID": 143,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 220,
+      "name_en": "Protect Ring",
+      "category": "Ring",
+      "SpriteID": 143,
+      "Palette": 6,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 221,
+      "name_en": "Magick Ring",
+      "category": "Ring",
+      "SpriteID": 144,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 222,
+      "name_en": "Cursed Ring",
+      "category": "Ring",
+      "SpriteID": 144,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 223,
+      "name_en": "Angel Ring",
+      "category": "Ring",
+      "SpriteID": 145,
+      "Palette": 8,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 224,
+      "name_en": "Diamond Bracelet",
+      "category": "Armlet",
+      "SpriteID": 146,
+      "Palette": 4,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 225,
+      "name_en": "Jade Armlet",
+      "category": "Armlet",
+      "SpriteID": 147,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 226,
+      "name_en": "Japa Mala",
+      "category": "Armlet",
+      "SpriteID": 148,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 227,
+      "name_en": "Nu Khai Armband",
+      "category": "Armlet",
+      "SpriteID": 149,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 228,
+      "name_en": "Guardian Bracelet",
+      "category": "Armlet",
+      "SpriteID": 150,
+      "Palette": 6,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 229,
+      "name_en": "Shoulder Cape",
+      "category": "Cloak",
+      "SpriteID": 151,
+      "Palette": 9,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 230,
+      "name_en": "Leather Cloak",
+      "category": "Cloak",
+      "SpriteID": 152,
+      "Palette": 14,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 231,
+      "name_en": "Mage's Cloak",
+      "category": "Cloak",
+      "SpriteID": 153,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 232,
+      "name_en": "Elven Cloak",
+      "category": "Cloak",
+      "SpriteID": 154,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 233,
+      "name_en": "Vampire Cape",
+      "category": "Cloak",
+      "SpriteID": 155,
+      "Palette": 14,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 234,
+      "name_en": "Featherweave Cloak",
+      "category": "Cloak",
+      "SpriteID": 156,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 235,
+      "name_en": "Invisibility Cloak",
+      "category": "Cloak",
+      "SpriteID": 157,
+      "Palette": 14,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 236,
+      "name_en": "Chantage",
+      "category": "Perfume",
+      "SpriteID": 158,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 237,
+      "name_en": "Envoûtement",
+      "category": "Perfume",
+      "SpriteID": 159,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 238,
+      "name_en": "Septième Sens",
+      "category": "Perfume",
+      "SpriteID": 160,
+      "Palette": 2,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 239,
+      "name_en": "Sortilège",
+      "category": "Perfume",
+      "SpriteID": 161,
+      "Palette": 8,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 240,
+      "name_en": "Potion",
+      "category": "Item",
+      "SpriteID": 162,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 241,
+      "name_en": "High Potion",
+      "category": "Item",
+      "SpriteID": 176,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 242,
+      "name_en": "X-Potion",
+      "category": "Item",
+      "SpriteID": 177,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 243,
+      "name_en": "Ether",
+      "category": "Item",
+      "SpriteID": 165,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 244,
+      "name_en": "High Ether",
+      "category": "Item",
+      "SpriteID": 166,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 245,
+      "name_en": "Elixir",
+      "category": "Item",
+      "SpriteID": 167,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 246,
+      "name_en": "Antidote",
+      "category": "Item",
+      "SpriteID": 168,
+      "Palette": 12,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 247,
+      "name_en": "Eye Drops",
+      "category": "Item",
+      "SpriteID": 169,
+      "Palette": 14,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 248,
+      "name_en": "Echo Herbs",
+      "category": "Item",
+      "SpriteID": 170,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 249,
+      "name_en": "Maiden's Kiss",
+      "category": "Item",
+      "SpriteID": 171,
+      "Palette": 9,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 250,
+      "name_en": "Gold Needle",
+      "category": "Item",
+      "SpriteID": 172,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 251,
+      "name_en": "Holy Water",
+      "category": "Item",
+      "SpriteID": 173,
+      "Palette": 9,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 252,
+      "name_en": "Remedy",
+      "category": "Item",
+      "SpriteID": 174,
+      "Palette": 11,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 253,
+      "name_en": "Phoenix Down",
+      "category": "Item",
+      "SpriteID": 175,
+      "Palette": 14,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 254,
+      "name_en": "UNKNOWN",
+      "category": "None",
+      "SpriteID": 0,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 255,
+      "name_en": "UNKNOWN",
+      "category": "None",
+      "SpriteID": 0,
+      "Palette": 0,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 256,
+      "name_en": "Materia Blade+",
+      "category": "Sword",
+      "SpriteID": 21,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 257,
+      "name_en": "Akademy Blade",
+      "category": "Sword",
+      "SpriteID": 12,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 258,
+      "name_en": "Akademy Beret",
+      "category": "Hat",
+      "SpriteID": 95,
+      "Palette": 3,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 259,
+      "name_en": "Akademy Tunic",
+      "category": "Clothing",
+      "SpriteID": 178,
+      "Palette": 13,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    },
+    {
+      "reference_item_id": 260,
+      "name_en": "Ring of Aptitude",
+      "category": "Ring",
+      "SpriteID": 143,
+      "Palette": 12,
+      "runtime_binding": "UNKNOWN",
+      "atlas_rectangle": "UNKNOWN",
+      "shape_sequence": "UNKNOWN"
+    }
+  ]
+}

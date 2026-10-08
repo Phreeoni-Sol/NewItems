@@ -1,0 +1,8 @@
+{
+  "id": "tfj_bow_01",
+  "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Arc du coteau. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Plain asymmetrical bent brown wood bow with a visibly continuous tan cord joining the two tips. Cord stays legible at miniature scale, about 1-2 logical pixels as artistic proposal. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+  "generated_source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-fe1cd83f-b5c1-4c56-b623-104503dc67e4.png",
+  "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "pixel_retouched": false
+}

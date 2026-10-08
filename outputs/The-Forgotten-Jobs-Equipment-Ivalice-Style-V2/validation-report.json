@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "selected": 68,
+  "legendary": 34,
+  "unique": 34,
+  "generated_sources": 77,
+  "corrected_selected": 9,
+  "transparent_selected": 68,
+  "unique_source_hashes": 68,
+  "preview_sizes_checked": [
+    100,
+    48
+  ],
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "visual_review": "ALL_SIX_BOARDS_AND_NINE_CORRECTIONS_INSPECTED",
+  "runtime_ready": false,
+  "combat_art": "NOT_CREATED",
+  "game_tests": "NOT_RUN",
+  "pollinations_requests_in_this_revision": 0
+}

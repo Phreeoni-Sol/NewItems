@@ -1,0 +1,42 @@
+{
+  "id": "tfj_knight_sword_03",
+  "name_fr": "Lame de l'audience",
+  "category": "KnightSword",
+  "rarity": "rare",
+  "model": "black-forest-labs/flux.2-klein-4b",
+  "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+  "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_035_uitx.png",
+  "reference_sha256": "179c64aa5a42e3e6751735948849123a3e8ea84dfe60186d781cdc93ff867ec7",
+  "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_knight_sword_03.png",
+  "expected_cost_pollen": 0.005,
+  "runtime_ready": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "http_status": 200
+    }
+  ],
+  "http_status": 200,
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 1,
+    "total_tokens": 1,
+    "input_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "size": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "alpha_ready": false,
+  "sha256": "f7f26f5af0f6675095cefe5428bdbaa3e3fe84b74f3f9f21186db57a8d244bc1",
+  "prompt": "Image 1 is a native FFT The Ivalice Chronicles Enhanced style reference. Image 2 is ONLY a guide to coherent object structure. Create one new distinct inventory item with this motif: long ceremonial steel sword with burgundy leather grip. Exactly ONE long steel sword joined to one guard and ONE burgundy grip. No crossed swords, no second blade or second handle. Blade upper-left, handle lower-right. Match the native reference in subdued hand-painted textured materials, soft slightly worn edges and restrained highlights. Practical compact delicate proportions, readable at 100 and 48 pixels. One complete isolated object, centered, safe padding. Pure flat white background, no scenery, no floor or cast shadow, no text, no labels, no words, no numbers, no watermark. No glossy product rendering or thick outlines. Do not make a sheet or comparison.",
+  "references": [
+    "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_035_uitx.png",
+    "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_01.png"
+  ],
+  "seconds": 12.0
+}

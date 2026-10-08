@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "item_count": 271,
+  "source_preserved": true,
+  "existing_images_sha256_checked": 271,
+  "baseline_tables_checked": 7,
+  "catalogue_links_checked": true,
+  "all_runtime_ids_null": true,
+  "runtime_tests": "NOT_RUN_NO_IMPLEMENTATION",
+  "semantic_comparison": "STATIC_PROFILE_REVIEW_ONLY_NOT_EXHAUSTIVE_VANILLA_ABILITIES"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "tfj_gun_07",
+  "prompt": "Create a new weapon sprite study, not a polished poster. One single FOUR-POSE PIXEL ART SPRITE SHEET of the same miniature short bronze hand cannon with teal grip and one small bronze gear, matching the first reference. Use the second reference's tiny native FFT weapon sprites as pixel STYLE reference. Four completely separated poses arranged 2 by 2, diagonally aiming left/right then horizontally aiming left/right. Solid opaque pixel clusters only inside weapons. The entire negative space must be alpha=0 TRANSPARENT. ZERO environment, ZERO diffuse lighting, ZERO shadows, ZERO background haze, ZERO glow. Weapons are opaque with sharp black pixel outlines. Sparse shaded pixel clusters, bronze/teal/iron, no fine engraving, no realistic texture. Do not retain the inventory icon's lighting or background; redraw as chunky classic battle weapon sprites. No checkerboard drawn into the image, no text, no characters, no frame borders. This is a concept for authoring, not a validated engine format.",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-2a505733-7db1-4a5c-9c72-6cdca1523011.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "binding": "UNKNOWN",
+  "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+  "review": "Source and miniature previews inspected against the inventory icon: separated views, recognizable family, dominant palette and main signature retained. Fine details simplified. Mirrored profiles are author proposals, not proven native directions. Shield backs are author designs. Hand anchors, indexed palette and timing are not validated."
+}

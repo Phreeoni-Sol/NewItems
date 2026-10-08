@@ -1,0 +1,53 @@
+[
+  {
+    "File": "JobData.xml",
+    "SHA256": "63E49670E9F237824AA0FA0B4C333280BC8CBD041440FCF1638BDB5E35CF7F2B",
+    "Entries": 174,
+    "IdBoundComment": "IMPORTANT 3: Id cannot be more than 175 (hardcoded table size is 176)."
+  },
+  {
+    "File": "AbilityData.xml",
+    "SHA256": "BFFFB22BDEADA5DE93120D78D5F9756AAC010DF8F8558BF3277EDE09431C447C",
+    "Entries": 512,
+    "IdBoundComment": "IMPORTANT 3: Id cannot be more than 511 (hardcoded table size is 512)."
+  },
+  {
+    "File": "JobCommandData.xml",
+    "SHA256": "FE5B5DCA757284159E91802FD6D2D0AFAA6BA3DF48BE50768FEA25E41165DE5B",
+    "Entries": 179,
+    "IdBoundComment": [
+      "IMPORTANT 3: Id must be 0-175 (main table, hardcoded size 176), OR 224-226 (Darkness/Piracy/",
+      "<!-- War of the Lions-exclusive additions (see IMPORTANT 3 above) -->"
+    ]
+  },
+  {
+    "File": "JobNeedLevelData.xml",
+    "SHA256": "6FB48A26D730E7C0B32DE36B77C08EEADEA74019671EB88509C050886A5D94CB",
+    "Entries": 22,
+    "IdBoundComment": "IMPORTANT 3: Id cannot be more than 21 (hardcoded table size is 22)."
+  },
+  {
+    "File": "StatusEffectData.xml",
+    "SHA256": "19C5EACF38E53906E7626E9D9DDD652AE82D7D1A37E0FFDCBC0E7F1624910618",
+    "Entries": 40,
+    "IdBoundComment": "IMPORTANT 3: Id cannot be more than 39 (hardcoded table size is 40)."
+  },
+  {
+    "File": "AbilityTypeData.xml",
+    "SHA256": "161C68C980E61804F0B77D17000499C97CA162CB1066D1536BE070D1872065CB",
+    "Entries": 454,
+    "IdBoundComment": "IMPORTANT 3: Same ids as AbilityData. Id cannot be more than 453 (hardcoded table size is 454)."
+  },
+  {
+    "File": "AbilityActionData.xml",
+    "SHA256": "418BF1B85AB419C127D47148E1E049352B876864128389974ACEB807188CC76F",
+    "Entries": 0,
+    "IdBoundComment": null
+  },
+  {
+    "File": "MapTrapFormationData.xml",
+    "SHA256": "73A6B02A2104D7416BB2D11C06262DEA526BFA43CAEA49B2FCD5422EEE1A34CF",
+    "Entries": 128,
+    "IdBoundComment": "IMPORTANT 3: Id cannot be more than 127 (hardcoded table size is 128)."
+  }
+]

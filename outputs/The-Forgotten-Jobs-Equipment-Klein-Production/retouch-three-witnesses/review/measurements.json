@@ -1,0 +1,251 @@
+[
+  {
+    "id": "tfj_knife_10",
+    "name_fr": "Dernier aveu",
+    "sha256": "1c8cd1dc4c020881eb112c636cc06453b84fad2194442b9598a882c42f74822b",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1390496,
+    "alpha255_pixels": 2519,
+    "alpha1_to239_pixels": 23484,
+    "visible_rgba_colors": 36389,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knife_10-1-preview36.png",
+        "source_bbox": [
+          141,
+          156,
+          496,
+          547
+        ],
+        "source_dimensions": [
+          355,
+          391
+        ],
+        "visible_preview_rgba_colors": 264
+      },
+      {
+        "path": "poses/tfj_knife_10-2-preview36.png",
+        "source_bbox": [
+          143,
+          156,
+          497,
+          547
+        ],
+        "source_dimensions": [
+          354,
+          391
+        ],
+        "visible_preview_rgba_colors": 258
+      },
+      {
+        "path": "poses/tfj_knife_10-3-preview36.png",
+        "source_bbox": [
+          60,
+          223,
+          548,
+          380
+        ],
+        "source_dimensions": [
+          488,
+          157
+        ],
+        "visible_preview_rgba_colors": 173
+      },
+      {
+        "path": "poses/tfj_knife_10-4-preview36.png",
+        "source_bbox": [
+          94,
+          223,
+          569,
+          380
+        ],
+        "source_dimensions": [
+          475,
+          157
+        ],
+        "visible_preview_rgba_colors": 176
+      }
+    ]
+  },
+  {
+    "id": "tfj_staff_08",
+    "name_fr": "Mémoire du premier soin",
+    "sha256": "1ecbb4d6e078a8d59069f14aa2fa34e53ec468909e15deebdf0fc28cce75dab4",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1424405,
+    "alpha255_pixels": 2942,
+    "alpha1_to239_pixels": 24323,
+    "visible_rgba_colors": 43519,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_staff_08-1-preview36.png",
+        "source_bbox": [
+          126,
+          117,
+          471,
+          579
+        ],
+        "source_dimensions": [
+          345,
+          462
+        ],
+        "visible_preview_rgba_colors": 169
+      },
+      {
+        "path": "poses/tfj_staff_08-2-preview36.png",
+        "source_bbox": [
+          176,
+          117,
+          501,
+          589
+        ],
+        "source_dimensions": [
+          325,
+          472
+        ],
+        "visible_preview_rgba_colors": 155
+      },
+      {
+        "path": "poses/tfj_staff_08-3-preview36.png",
+        "source_bbox": [
+          44,
+          262,
+          559,
+          452
+        ],
+        "source_dimensions": [
+          515,
+          190
+        ],
+        "visible_preview_rgba_colors": 121
+      },
+      {
+        "path": "poses/tfj_staff_08-4-preview36.png",
+        "source_bbox": [
+          68,
+          262,
+          579,
+          452
+        ],
+        "source_dimensions": [
+          511,
+          190
+        ],
+        "visible_preview_rgba_colors": 119
+      }
+    ]
+  },
+  {
+    "id": "tfj_shield_16",
+    "name_fr": "Le Refus",
+    "sha256": "4ebbe94371c71600efe52dfbf7266df7fd372dfaef56888afd9495e876746404",
+    "size": [
+      1254,
+      1254
+    ],
+    "split_xy": [
+      627,
+      627
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha0_pixels": 1134910,
+    "alpha255_pixels": 1643,
+    "alpha1_to239_pixels": 26246,
+    "visible_rgba_colors": 67529,
+    "detection_threshold": 16,
+    "original_alpha_preserved": true,
+    "status": "AWAITING_VISUAL_REVIEW",
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_16-1-preview36.png",
+        "source_bbox": [
+          188,
+          105,
+          536,
+          581
+        ],
+        "source_dimensions": [
+          348,
+          476
+        ],
+        "visible_preview_rgba_colors": 401
+      },
+      {
+        "path": "poses/tfj_shield_16-2-preview36.png",
+        "source_bbox": [
+          126,
+          107,
+          465,
+          583
+        ],
+        "source_dimensions": [
+          339,
+          476
+        ],
+        "visible_preview_rgba_colors": 435
+      },
+      {
+        "path": "poses/tfj_shield_16-3-preview36.png",
+        "source_bbox": [
+          207,
+          63,
+          541,
+          519
+        ],
+        "source_dimensions": [
+          334,
+          456
+        ],
+        "visible_preview_rgba_colors": 419
+      },
+      {
+        "path": "poses/tfj_shield_16-4-preview36.png",
+        "source_bbox": [
+          138,
+          60,
+          452,
+          523
+        ],
+        "source_dimensions": [
+          314,
+          463
+        ],
+        "visible_preview_rgba_colors": 402
+      }
+    ]
+  }
+]

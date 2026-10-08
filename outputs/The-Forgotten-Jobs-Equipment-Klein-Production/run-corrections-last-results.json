@@ -1,0 +1,43 @@
+[
+  {
+    "id": "tfj_polearm_01",
+    "name_fr": "Lance du gué",
+    "category": "Polearm",
+    "rarity": "common",
+    "model": "black-forest-labs/flux.2-klein-4b",
+    "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+    "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_polearm_05.png",
+    "reference_sha256": "aff94c7fc6eefa164e2dcd4cd32f4b9e522c75d371ff5c6a2fe3a2ee4329898e",
+    "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections-last\\images\\tfj_polearm_01.png",
+    "expected_cost_pollen": 0.005,
+    "runtime_ready": false,
+    "attempts": [
+      {
+        "attempt": 1,
+        "http_status": 200
+      }
+    ],
+    "http_status": 200,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 1,
+      "total_tokens": 1,
+      "input_tokens_details": {
+        "text_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_ready": false,
+    "sha256": "52e6b568e1d316a343bfa1736724691622f8ac0fa34c3c1d3a7a97d800df93d8",
+    "prompt": "Edit this ONE spear while preserving its complete single-object geometry and painterly inventory rendering. Replace the blue/brown haft with a long plain ash wood shaft. The spearhead is a short simple gray iron pointed tip. Keep exactly one continuous spear with one head and one shaft. Only change its materials and colors; do not add, duplicate, cross or rotate a second spear. One single isolated complete object on flat pure white, no labels or text, no floor shadow. Delicate compact proportions, soft textured worn materials, restrained metallic highlights, readable at small inventory scale.",
+    "references": [
+      "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_polearm_05.png"
+    ],
+    "seconds": 9.02
+  }
+]

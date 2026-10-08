@@ -1,0 +1,6 @@
+PASS exact audited executable hash checked before copying leaf accessors
+PASS copied native command getter matches independent decoder on 5632 command/slot pairs
+PASS native caller reaches custom command through managed router while vanilla routes remain intact
+PASS copied native slot mapper aliases candidate 174 to slot zero; vanilla slot reuse is forbidden
+PASS all copied native command/monster/WotL table bytes preserved
+Native leaf routines executed only in owned fixture memory. No game process, file patch, engine ID or user save modified.

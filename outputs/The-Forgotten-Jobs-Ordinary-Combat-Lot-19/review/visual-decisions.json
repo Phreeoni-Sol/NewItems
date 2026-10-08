@@ -1,0 +1,54 @@
+{
+  "reviewed_ids": [
+    "tfj_knife_01",
+    "tfj_ninja_blade_01",
+    "tfj_sword_03",
+    "tfj_knight_sword_01",
+    "tfj_katana_01",
+    "tfj_axe_01",
+    "tfj_rod_01",
+    "tfj_staff_02",
+    "tfj_flail_01",
+    "tfj_gun_01",
+    "tfj_crossbow_01",
+    "tfj_bow_01",
+    "tfj_instrument_01",
+    "tfj_book_01",
+    "tfj_polearm_01",
+    "tfj_pole_01",
+    "tfj_bag_01",
+    "tfj_cloth_01",
+    "tfj_shield_01"
+  ],
+  "scope": "SOURCE_DESIGN_AND_PRESENTATION_ONLY",
+  "unresolved": {},
+  "corrections": [
+    {
+      "id": "tfj_staff_02",
+      "rejected": "rejected/tfj_staff_02-v1.png",
+      "selected": "corrections/tfj_staff_02-v2.png",
+      "reason": "Restored four visible prongs in each source view."
+    }
+  ],
+  "source_boards": [
+    "source-04-01.jpg",
+    "source-08-02.jpg",
+    "source-19-03.jpg",
+    "source-19-04.jpg",
+    "source-19-05.jpg"
+  ],
+  "miniature_boards": [
+    "miniature-08-01.jpg",
+    "miniature-19-02.jpg",
+    "miniature-19-03.jpg",
+    "miniature-19-04.jpg"
+  ],
+  "preview64_boards": [
+    "preview64-01.jpg",
+    "preview64-02.jpg",
+    "preview64-03.jpg",
+    "preview64-04.jpg"
+  ],
+  "native_ready": false,
+  "pixel_retouched": false
+}

@@ -1,0 +1,5 @@
+PASS Job: one fixture row appended; 174 vanilla rows unchanged; collisions rejected.
+PASS JobCommand: one fixture row appended; 227 vanilla rows unchanged; collisions rejected.
+PASS GeneralJob: one fixture row appended; 21 vanilla rows unchanged; collisions rejected.
+PASS existing-job replacement rejected by preservation check.
+WARNING: codec fixtures validate NXD additions only, not native allocation/menu/save compatibility.

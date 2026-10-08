@@ -1,0 +1,26 @@
+{
+  "status": "PASS_DIAGNOSTICS_ONLY",
+  "runtime_ready": false,
+  "historical_sources": [
+    {
+      "path": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\upstream\\fftpatcher-src\\ShishiSpriteEditor\\DataTypes\\Shape.cs",
+      "sha256": "D7A8767BDE1001ED22BBA1AD77A6EC47C64F887365C02BA4777C41B377BF2C7D"
+    },
+    {
+      "path": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\upstream\\fftpatcher-src\\ShishiSpriteEditor\\DataTypes\\Frame.cs",
+      "sha256": "D9CD22BC0401BBDF958B1F00BD7068F9854BCB1BEA0914B57369DB1EA3D1D6DA"
+    },
+    {
+      "path": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\upstream\\fftpatcher-src\\ShishiSpriteEditor\\DataTypes\\Tile.cs",
+      "sha256": "752AFBAD117F4057A3AF027566D7D786D39EEB30372A08866A7EB6CD3A294E6E"
+    },
+    {
+      "path": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\upstream\\fftpatcher-src\\ShishiSpriteEditor\\DataTypes\\Sequence.cs",
+      "sha256": "19EB6428727A4A170B88C2F69C67AF49EF4C1D27D37ADF76383320DA1B2239D4"
+    }
+  ],
+  "ids_allocated": 0,
+  "spr_matches_previous": true,
+  "game_tests": "NOT_RUN",
+  "review": "BOTH_ATLAS_CROP_BOARDS_VISUALLY_INSPECTED"
+}

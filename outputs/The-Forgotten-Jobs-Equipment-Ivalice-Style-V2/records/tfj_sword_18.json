@@ -1,0 +1,8 @@
+{
+  "id": "tfj_sword_18",
+  "prompt": "Create one NEW original inventory weapon icon for Final Fantasy Tactics The Ivalice Chronicles Enhanced. Use the supplied actual native Icebrand icon strictly as the rendering-style, scale and restrained magical-effect reference; do not copy its sword design. Asset: L'Absent, a unique sword associated with a missing companion and returning hope. Design a narrow, slightly curved leaf-shaped weathered pewter blade, short plain iron crossguard missing one upward quillon, faded moss-green cord grip, small plain slate pommel. One loose faded green remembrance ribbon tied directly below the guard. A pale desaturated green wisp curls only around the blade's lowest third, subtle as the native reference effect. No gold, ivory, jewels, cathedral tracery, full blade aura, oversized guard or glossy 3D render. Make rarity come from this distinctive damaged relic silhouette and quiet ghostly effect. Match native FFT inventory art: small delicate gritty hand-painted fantasy icon, soft broken textured edges, compact silhouette, subdued low-contrast metal shading, restrained minute detail, no crisp thick outlines, no high-detail luxury product art. Object diagonal tip upper left and hilt lower right, occupies about 75 percent of square with generous margin. Exactly one complete sword, no character, text, panel, border or extra object. Genuine transparent background. This is inventory concept art, not a battle sprite.",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "reference": "ei_029_uitx.png",
+  "source": "C:/Users/eSilRoy/.codex/generated_images/01a11269-acf4-72e3-9d21-88011efccada/exec-762cf711-46f6-4a9f-8287-189c12524acd.png",
+  "runtime_ready": false
+}

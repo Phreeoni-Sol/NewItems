@@ -1,0 +1,12 @@
+{
+  "id": "tfj_book_03",
+  "name_fr": "Chronique des ruines",
+  "generator": "OPENAI_BUILT_IN_IMAGEGEN",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-f97322a4-10c9-4348-906e-d5e53cfed15f.png",
+  "prompt": "Generate a NEW transparent four-view combat equipment sprite study FROM SCRATCH. Attached native FFT weapon atlas is a STYLE REFERENCE ONLY. Do not copy its arrangement or any vanilla item. Severe native visual economy: small readable silhouettes, UNIFORM square pixel grid, a FEW large flat opaque muted color clusters, only 2 or 3 hard-edged shades per material. Like a tiny low-resolution tactical RPG battle sprite enlarged by nearest-neighbour, not a detailed inventory illustration. Four isolated views of ONE SAME physical object in 2x2 arrangement, HUGE truly transparent gutters. All equipment visible fully, away from sheet edges. Outside hard-edged silhouettes alpha ZERO. No background, vignette, checkerboard, text, labels, characters, hands, grain, noise or painterly rendering. ABSOLUTELY NO glow, halo, aura, haze, cloud, particles, translucent shadow, lighting spill, gradients or bloom. Omit ALL mist/smoke/magical effects even if mentioned in the object's signature: those are separate effects, not part of this sprite. Keep proportions/materials/design consistent in all four views. Simplify ornament to one readable distinctive feature rather than adding detail. No generic golden filigree. This is an art study, not a native engine atlas or encoded asset.\nEquipment family: Book. Object identity: Closed thick battered ochre parchment codex with charcoal cloth spine, asymmetrical bronze corner plates and a simple dark green leather buckle.\nPalette identity: ochre, charcoal, green.\nFour views of same closed book. Upper-left front cover angled left, upper-right front cover angled right; lower-left plain rear with matching spine left, lower-right plain rear with matching spine right. Same clasp/bookmark belongs to same physical side.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment/references/weapon-palette-03.png",
+  "status": "VISUALLY_REVIEWED_ALTERNATIVE_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "selected_sha256": "db0290df93c7a5986769585b25e0ae2cf8d30a179b7ee3cdb0516e9500f6a8f0",
+  "review": "Ochre codex, dark spine, bronze corner plates and green clasp retained; proposed rear omits front clasp, not a native animation."
+}

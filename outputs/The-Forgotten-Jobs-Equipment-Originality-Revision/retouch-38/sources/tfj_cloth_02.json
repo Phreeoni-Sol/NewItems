@@ -1,0 +1,12 @@
+{
+  "id": "tfj_cloth_02",
+  "name_fr": "Voile du vieux sanctuaire",
+  "generator": "OPENAI_BUILT_IN_IMAGEGEN",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-6fa98bc0-8b8b-4a43-a055-3a51d8d54442.png",
+  "prompt": "Generate a NEW transparent four-view combat equipment sprite study FROM SCRATCH. Attached native FFT weapon atlas is a STYLE REFERENCE ONLY. Do not copy its arrangement or any vanilla item. Severe native visual economy: small readable silhouettes, UNIFORM square pixel grid, a FEW large flat opaque muted color clusters, only 2 or 3 hard-edged shades per material. Like a tiny low-resolution tactical RPG battle sprite enlarged by nearest-neighbour, not a detailed inventory illustration. Four isolated views of ONE SAME physical object in 2x2 arrangement, HUGE truly transparent gutters. All equipment visible fully, away from sheet edges. Outside hard-edged silhouettes alpha ZERO. No background, vignette, checkerboard, text, labels, characters, hands, grain, noise or painterly rendering. ABSOLUTELY NO glow, halo, aura, haze, cloud, particles, translucent shadow, lighting spill, gradients or bloom. Omit ALL mist/smoke/magical effects even if mentioned in the object's signature: those are separate effects, not part of this sprite. Keep proportions/materials/design consistent in all four views. Simplify ornament to one readable distinctive feature rather than adding detail. No generic golden filigree. This is an art study, not a native engine atlas or encoded asset.\nEquipment family: Cloth. Object identity: One coherent folded ochre cloth with an angular blue woven border and an asymmetrical flowing corner, tactile heavy weave. No floating ornaments.\nPalette identity: ochre, dusty blue.\nFour views of ONE connected cloth silhouette. Upper-left flows up-left, upper-right up-right; lower-left flowing left, lower-right right. Preserve physical fabric with a clear continuous border. No detached scraps or smoke.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment/references/weapon-palette-03.png",
+  "status": "VISUALLY_REVIEWED_ALTERNATIVE_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "selected_sha256": "09a95e13ef7ff0622de92ab008992c8cb7ec76ab255568f2f426f4e1dc561fc4",
+  "review": "Connected ochre fabric and blue woven border readable, no particles; cloth motion unknown."
+}

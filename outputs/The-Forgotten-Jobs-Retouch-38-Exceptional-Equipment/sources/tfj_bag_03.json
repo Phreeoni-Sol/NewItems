@@ -1,0 +1,12 @@
+{
+  "id": "tfj_bag_03",
+  "name_fr": "Besace du marché ancien",
+  "generator": "OPENAI_BUILT_IN_IMAGEGEN",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-9c9ecc95-fa87-416a-bb79-f757908df5b7.png",
+  "prompt": "Generate a NEW transparent four-view combat equipment sprite study FROM SCRATCH. Attached native FFT weapon atlas is a STYLE REFERENCE ONLY. Do not copy its arrangement or any vanilla item. Severe native visual economy: small readable silhouettes, UNIFORM square pixel grid, a FEW large flat opaque muted color clusters, only 2 or 3 hard-edged shades per material. Like a tiny low-resolution tactical RPG battle sprite enlarged by nearest-neighbour, not a detailed inventory illustration. Four isolated views of ONE SAME physical object in 2x2 arrangement, HUGE truly transparent gutters. All equipment visible fully, away from sheet edges. Outside hard-edged silhouettes alpha ZERO. No background, vignette, checkerboard, text, labels, characters, hands, grain, noise or painterly rendering. ABSOLUTELY NO glow, halo, aura, haze, cloud, particles, translucent shadow, lighting spill, gradients or bloom. Omit ALL mist/smoke/magical effects even if mentioned in the object's signature: those are separate effects, not part of this sprite. Keep proportions/materials/design consistent in all four views. Simplify ornament to one readable distinctive feature rather than adding detail. No generic golden filigree. This is an art study, not a native engine atlas or encoded asset.\nEquipment family: Bag. Object identity: One squat rich brown leather satchel with a broad dull brass buckle shaped as two clasped hands, a faded orange fabric flap, patched corners and short handle.\nPalette identity: brown leather, orange, brass.\nUpper-left front tilted left, upper-right front tilted right; lower-left rear tilted left, lower-right rear tilted right. Preserve loop/strap and physical flap/patches; no new markings on rear.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment/references/weapon-palette-03.png",
+  "status": "VISUALLY_REVIEWED_ALTERNATIVE_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "selected_sha256": "90f83a03558d886f5e46f59de3a7d167d5219ad011a3fb5ee77f9f84cfd01d47",
+  "review": "Brown satchel, orange flap, clasped-hands buckle and patched corners retained. Orange flap is stronger than faded intent; alternative concept, not locked final palette."
+}

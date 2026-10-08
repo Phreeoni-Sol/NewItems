@@ -1,0 +1,11 @@
+{
+  "id": "tfj_knife_09",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-b79d916d-e3b1-4249-93a2-7d9ce555a963.png",
+  "prompt": "Generate a new transparent four-view PIXEL ART equipment sheet. Native FFT atlas is style reference only. Flat muted opaque color clusters, uniformly sized large square pixels, very low detail. 2x2 four isolated coherent views of the same object with huge alpha-zero empty gutters and clear margins. Entire object fully visible. Equipment interiors solid; outside each hard stepped outline completely empty transparency. Four small tactical battle sprites enlarged with nearest-neighbour appearance, not inventory illustration. No scene, hand, labels, checkerboard, soft shadow, gradients, particles, disconnected marks or lighting halos. Exactly the described physical object only. Authoring study, not encoded native format.\nONE short narrow straight silver dagger with an ordinary pointed blade, square iron guard holding ONE solid square blue-glass insert, navy cloth grip and small iron pommel. Blue insert is a tiny flat mineral colored in two opaque blue shades, entirely inside iron guard. No marks or wisps outside blade, grip and guard. Blade shorter than twice grip length. Top-left points up-left, top-right up-right, bottom-left horizontally left, bottom-right horizontally right. Preserve the same straight blade, square insert and navy grip in every view.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment/references/weapon-palette-03.png",
+  "generator": "OPENAI_BUILT_IN_IMAGEGEN",
+  "status": "VISUALLY_REVIEWED_ALTERNATIVE_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "selected_sha256": "d8cd0dd07e2d3d374e3a9a76310d9a30365bf3477dede864e0cda6f596686d2d",
+  "review": "Corrected v2: solid square blue-glass insert inside iron guard, straight silver blade and navy grip. Disconnected wisps removed. Source and four miniature views inspected; native encoding and hand anchor unknown."
+}

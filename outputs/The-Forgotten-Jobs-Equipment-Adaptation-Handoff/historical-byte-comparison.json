@@ -1,0 +1,34 @@
+[
+  {
+    "resource": "WEP1.SHP",
+    "historical_path": "work\\upstream\\fftpatcher-src\\ShishiSpriteEditor\\Resources\\WEP1.SHP",
+    "native_path": "outputs\\The-Forgotten-Jobs-Native-Weapon-Geometry\\native\\0002.pac_battle_wep1_shp.bin",
+    "bytes": 5218,
+    "sha256": "c26dfd0a91188d3c8431b0b796048635cb8a13e0a49bdb256f7d8140f6e85b03",
+    "identical_bytes": true
+  },
+  {
+    "resource": "WEP2.SHP",
+    "historical_path": "work\\upstream\\fftpatcher-src\\ShishiSpriteEditor\\Resources\\WEP2.SHP",
+    "native_path": "outputs\\The-Forgotten-Jobs-Native-Weapon-Geometry\\native\\0002.pac_battle_wep2_shp.bin",
+    "bytes": 5436,
+    "sha256": "66c941f247fc1d8a188efc3b4af58986d2e5f73be075ec342ba3eb818cf36fb1",
+    "identical_bytes": true
+  },
+  {
+    "resource": "WEP1.SEQ",
+    "historical_path": "work\\upstream\\fftpatcher-src\\ShishiSpriteEditor\\Resources\\WEP1.SEQ",
+    "native_path": "outputs\\The-Forgotten-Jobs-Native-Weapon-Geometry\\native\\0002.pac_battle_wep1_seq.bin",
+    "bytes": 2607,
+    "sha256": "d46a664883387d28d938e2037884dc3d606ebbc16f750492981b603fd21b5e33",
+    "identical_bytes": true
+  },
+  {
+    "resource": "WEP2.SEQ",
+    "historical_path": "work\\upstream\\fftpatcher-src\\ShishiSpriteEditor\\Resources\\WEP2.SEQ",
+    "native_path": "outputs\\The-Forgotten-Jobs-Native-Weapon-Geometry\\native\\0002.pac_battle_wep2_seq.bin",
+    "bytes": 2657,
+    "sha256": "cba2e0c02a71cad2b13d484afc06d6732b003de68b5f51910a647bdca905a3c3",
+    "identical_bytes": true
+  }
+]

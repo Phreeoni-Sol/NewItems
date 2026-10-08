@@ -1,0 +1,5264 @@
+[
+  {
+    "id": "tfj_knife_01",
+    "name": "Dague de levée",
+    "category": "Knife",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_knife_01.png",
+    "inventory_sha256": "dad97a2ca4ee109e1eff00a28a30d26576d5212969f87c3b69451d9c1aa6f716",
+    "design_intent_from_existing_plan": "short plain iron dagger with stitched tan leather grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        80,
+        80,
+        96
+      ],
+      [
+        160,
+        160,
+        160
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Short silver-gray broad dagger, asymmetric curved steel crossguard with small triangular inset, tan wrapped grip, steel pommel."
+  },
+  {
+    "id": "tfj_knife_02",
+    "name": "Pointe des haies",
+    "category": "Knife",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_knife_02.png",
+    "inventory_sha256": "3b3a284207536d7898275270ccea6eb3baa2eab0eda4b8ca2335c448aead461b",
+    "design_intent_from_existing_plan": "leaf shaped bronze blade with green wrapped handle",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        64,
+        48,
+        48
+      ],
+      [
+        128,
+        96,
+        80
+      ],
+      [
+        112,
+        80,
+        64
+      ],
+      [
+        80,
+        64,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_knife_03",
+    "name": "Poignard du guetteur",
+    "category": "Knife",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_knife_03.png",
+    "inventory_sha256": "ca8439a49754a67bee9f6fc2d14b8ad8aefb4af379701059fe1c998a226db297",
+    "design_intent_from_existing_plan": "narrow steel dagger with small hooked crossguard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        144,
+        144,
+        144
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_knife_04",
+    "name": "Croc de saumure",
+    "category": "Knife",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_knife_04.png",
+    "inventory_sha256": "5e285590ab072532900c206e10b80ee11ff3bbff4208f82f51d633fb65c91b33",
+    "design_intent_from_existing_plan": "curved ivory and dark steel sailor dagger",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        240,
+        224,
+        208
+      ],
+      [
+        224,
+        208,
+        192
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        224,
+        224,
+        192
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        240,
+        224,
+        192
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_knife_05",
+    "name": "Miséricorde grise",
+    "category": "Knife",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_knife_05.png",
+    "inventory_sha256": "580006289ae4d821529c26c728d42f0b981dbc3ccd7353efe85ed647dee207ad",
+    "design_intent_from_existing_plan": "long triangular misericorde with pewter pommel",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        192,
+        192,
+        192
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_knife_06",
+    "name": "Épine de verrier",
+    "category": "Knife",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_knife_06.png",
+    "inventory_sha256": "ee53a299f70e6e7cbeae66e3edcaebbf9fd672ed5db2aa55c6cdbc00670939e3",
+    "design_intent_from_existing_plan": "translucent smoky crystal dagger with brass socket",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        32,
+        32,
+        32
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_knife_07",
+    "name": "Lame du receleur",
+    "category": "Knife",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_knife_07.png",
+    "inventory_sha256": "f2bb9ba49c9b582747a7fb4f3db35c487fad384a1fa6f87084b1bdac9ca01409",
+    "design_intent_from_existing_plan": "broad dark iron dagger with red cord and coin pommel",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        48,
+        48,
+        64
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        128,
+        128,
+        128
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_knife_08",
+    "name": "Aiguille de deuil",
+    "category": "Knife",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_knife_08.png",
+    "inventory_sha256": "5b5d9abb7c476ac3c5ff078d385c0bec5059f35efbf4d051f546f24b79baea86",
+    "design_intent_from_existing_plan": "blackened stiletto with silver mourning tassel",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        80,
+        80,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_ninja_blade_01",
+    "name": "Lame de ronce",
+    "category": "NinjaBlade",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_ninja_blade_01.png",
+    "inventory_sha256": "df936ace59dabb0f33973c6508008196ea3e8d42c585b61a202bbf90ebbaa7c6",
+    "design_intent_from_existing_plan": "compact straight black blade with olive cord",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        16,
+        16,
+        32
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        48,
+        48,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Straight narrow charcoal-black blade, plain dark curved crossguard, olive cord-wrapped grip, dark rounded pommel."
+  },
+  {
+    "id": "tfj_ninja_blade_02",
+    "name": "Crochet du roseau",
+    "category": "NinjaBlade",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_ninja_blade_02.png",
+    "inventory_sha256": "d6c6eee3e3d5b6f1a6bd075e61463d7d6246dc40e8e7817cf1b477c22f31eba6",
+    "design_intent_from_existing_plan": "hook tipped curved short sword with bamboo sheath",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        96,
+        96,
+        96
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_ninja_blade_03",
+    "name": "Serre du hibou",
+    "category": "NinjaBlade",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_ninja_blade_03.png",
+    "inventory_sha256": "63fc576e7dede899992731d1fa60986cf28991a2bf23ce176be82c64b697cbc7",
+    "design_intent_from_existing_plan": "crescent steel ninja blade with feather wrapped grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        48,
+        48
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        80,
+        64,
+        64
+      ],
+      [
+        112,
+        112,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_ninja_blade_04",
+    "name": "Ombre de cuivre",
+    "category": "NinjaBlade",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_ninja_blade_04.png",
+    "inventory_sha256": "c918db31491136d9225491b110ef9f85a9ab4ba23eb3173f932f8c2970aff20a",
+    "design_intent_from_existing_plan": "broad copper edged ninja sword with square guard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        128,
+        80,
+        64
+      ],
+      [
+        32,
+        16,
+        16
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        176,
+        128,
+        96
+      ],
+      [
+        160,
+        112,
+        80
+      ],
+      [
+        144,
+        96,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_ninja_blade_05",
+    "name": "Lame des cent pas",
+    "category": "NinjaBlade",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_ninja_blade_05.png",
+    "inventory_sha256": "662bfb1bf05e976634f11bf65651b801ff3c14c8206585e645a6d093c5848793",
+    "design_intent_from_existing_plan": "long charcoal blade with three brass rivets on handle",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        64,
+        64,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_ninja_blade_06",
+    "name": "Murmure violet",
+    "category": "NinjaBlade",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_ninja_blade_06.png",
+    "inventory_sha256": "82a4aa2c7d87719145a2963f4e37d9aaf21ed57c3118e08e0f38676e2b7203de",
+    "design_intent_from_existing_plan": "slender violet tempered blade and braided ivory cord",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        80,
+        112
+      ],
+      [
+        112,
+        96,
+        128
+      ],
+      [
+        192,
+        160,
+        208
+      ],
+      [
+        128,
+        96,
+        144
+      ],
+      [
+        160,
+        128,
+        176
+      ],
+      [
+        112,
+        80,
+        128
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_01",
+    "name": "Épée de conscrit",
+    "category": "Sword",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_01.png",
+    "inventory_sha256": "868b2758ff5b0fa84b0f71301350612dc0dc41387ac689173dbc77afc9434c46",
+    "design_intent_from_existing_plan": "plain straight iron arming sword with leather grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        192,
+        192,
+        192
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        144,
+        144,
+        144
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_02",
+    "name": "Lame de talus",
+    "category": "Sword",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_02.png",
+    "inventory_sha256": "940e5eb61b1f11e8fbf6c128907108780ab433a0f277ea7f70c8bf2ff511fee8",
+    "design_intent_from_existing_plan": "short leaf blade bronze sword with green grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        144,
+        128,
+        112
+      ],
+      [
+        112,
+        112,
+        96
+      ],
+      [
+        128,
+        128,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_03",
+    "name": "Épée des haltes",
+    "category": "Sword",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_03.png",
+    "inventory_sha256": "13940eb7a955efe832edf9c0f1f9c4842b880a891dcc916f56cacfcc9627369a",
+    "design_intent_from_existing_plan": "steel arming sword with rounded brass guard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        128,
+        128,
+        144
+      ],
+      [
+        208,
+        208,
+        208
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Straight long silver arming sword, rounded brass crossguard with tiny rivets, dark brown leather grip, rounded brass pommel."
+  },
+  {
+    "id": "tfj_sword_04",
+    "name": "Lame de l'arpenteur",
+    "category": "Sword",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_04.png",
+    "inventory_sha256": "6df24010f99a74f29ef3e5453c5550f3a77b2f013c994522a4c08e53a0f0c69e",
+    "design_intent_from_existing_plan": "narrow straight sword with measuring notch guard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        16,
+        16,
+        16
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_05",
+    "name": "Épée de châtelain",
+    "category": "Sword",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_05.png",
+    "inventory_sha256": "db21beb0648d81d808774ef28efe524b9c411c72994f34004a3d167cd8ffa961",
+    "design_intent_from_existing_plan": "broad steel blade with modest red heraldic pommel",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        128,
+        128,
+        144
+      ],
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        112,
+        112,
+        128
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        160,
+        160,
+        160
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_06",
+    "name": "Lame du pont",
+    "category": "Sword",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_06.png",
+    "inventory_sha256": "6d845a415e8dc02ee346976651336059644cea3563044926c50120506372022f",
+    "design_intent_from_existing_plan": "wide squared steel blade with bridge arch crossguard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        192,
+        192,
+        192
+      ],
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        160,
+        160,
+        176
+      ],
+      [
+        176,
+        176,
+        192
+      ],
+      [
+        128,
+        128,
+        128
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_07",
+    "name": "Épée de grenat",
+    "category": "Sword",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_07.png",
+    "inventory_sha256": "26b7814c73ad6e0b75b83c1b272d4728af7c125854dff73085ad35d835b9228e",
+    "design_intent_from_existing_plan": "silver sword with small dark garnet at guard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        160,
+        160,
+        176
+      ],
+      [
+        192,
+        192,
+        192
+      ],
+      [
+        144,
+        144,
+        160
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_08",
+    "name": "Lame des cendres",
+    "category": "Sword",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_08.png",
+    "inventory_sha256": "539bab26acadb78a934a51308c17b124facc5f5bd65e29ca14dc79d72cc4077e",
+    "design_intent_from_existing_plan": "soot black sword with copper edge and cloth tassel",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        32,
+        32,
+        48
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        64,
+        64,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_09",
+    "name": "Épée de marée",
+    "category": "Sword",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_09.png",
+    "inventory_sha256": "826ce97e0e2cf4d4806f925f7e15e4b200ae044a552ff4f52ed633834b73e8ce",
+    "design_intent_from_existing_plan": "wave etched blade with sea green shell guard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        128,
+        160,
+        144
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        64,
+        80,
+        80
+      ],
+      [
+        48,
+        48,
+        32
+      ],
+      [
+        112,
+        112,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_10",
+    "name": "Lame du gel tardif",
+    "category": "Sword",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_10.png",
+    "inventory_sha256": "7f2fffff70b427c37b1eebcc29af5a721e69217b5c7c37ee6b7b3343142c502c",
+    "design_intent_from_existing_plan": "frost silver sword with blue leather grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        128,
+        144
+      ],
+      [
+        192,
+        192,
+        192
+      ],
+      [
+        192,
+        208,
+        208
+      ],
+      [
+        176,
+        192,
+        192
+      ],
+      [
+        112,
+        128,
+        128
+      ],
+      [
+        112,
+        112,
+        128
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_11",
+    "name": "Épée de vitrail",
+    "category": "Sword",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_11.png",
+    "inventory_sha256": "800440854297c0dce5cdd548f7627b05a8977dacbabe46da7c51776aa7a0ff14",
+    "design_intent_from_existing_plan": "broad steel sword with three small colored glass inlays",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        96,
+        96,
+        112
+      ],
+      [
+        80,
+        80,
+        96
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        176,
+        176,
+        192
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_12",
+    "name": "Lame du pénitent",
+    "category": "Sword",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_12.png",
+    "inventory_sha256": "12df45b5dece932ac952feff247a9de49087415c7a1d0162a0e0a473ab096554",
+    "design_intent_from_existing_plan": "rust colored blade with simple iron ring pommel",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        80,
+        64
+      ],
+      [
+        96,
+        64,
+        64
+      ],
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        96,
+        80,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_13",
+    "name": "Épée de l'écuyer perdu",
+    "category": "Sword",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_13.png",
+    "inventory_sha256": "22bcda06aeaaca282675aa384e6c854f0cb27bfb51f0a96156bc86ce02cbdfc0",
+    "design_intent_from_existing_plan": "worn silver sword with torn ochre ribbon",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        208,
+        208,
+        208
+      ],
+      [
+        96,
+        96,
+        112
+      ],
+      [
+        192,
+        192,
+        192
+      ],
+      [
+        128,
+        128,
+        128
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_14",
+    "name": "Lame des trois serments",
+    "category": "Sword",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_14.png",
+    "inventory_sha256": "7b539e5068a209d36a002e10b77fa4d6361e46b228af1da3ca4ced086bf82000",
+    "design_intent_from_existing_plan": "three groove silver blade with interlaced bronze guard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        192,
+        192,
+        192
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        112,
+        112,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_15",
+    "name": "Épée du veilleur rouge",
+    "category": "Sword",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_15.png",
+    "inventory_sha256": "442835b0b825b629e429ad89bc0c8220367596875c49d3ffac0d102a8c94239b",
+    "design_intent_from_existing_plan": "dark red tempered sword with lantern shaped pommel",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        48,
+        16,
+        32
+      ],
+      [
+        96,
+        48,
+        48
+      ],
+      [
+        64,
+        32,
+        32
+      ],
+      [
+        48,
+        16,
+        16
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        32,
+        16,
+        16
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_sword_16",
+    "name": "Lame des rois sans nom",
+    "category": "Sword",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_16.png",
+    "inventory_sha256": "b775af73e2df874a84b2c7b5cb64ebfd85ab2c9c4a1866682b8c05d59e5d13d1",
+    "design_intent_from_existing_plan": "old ivory steel sword with erased crest on guard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        240,
+        224,
+        208
+      ],
+      [
+        224,
+        224,
+        208
+      ],
+      [
+        192,
+        192,
+        176
+      ],
+      [
+        192,
+        192,
+        192
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        208,
+        208,
+        192
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_knight_sword_01",
+    "name": "Grande lame du gué",
+    "category": "KnightSword",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_knight_sword_01.png",
+    "inventory_sha256": "b2572613c624f0250db1843a5ac7d43e92496f54f703855204e147ab68243119",
+    "design_intent_from_existing_plan": "heavy broad iron greatsword with wooden grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        144,
+        144,
+        144
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Broad pointed steel greatsword, angular dark steel engraved crossguard, brown wrapped grip, faceted dark pommel."
+  },
+  {
+    "id": "tfj_knight_sword_02",
+    "name": "Épée du connétable",
+    "category": "KnightSword",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_knight_sword_02.png",
+    "inventory_sha256": "18c64f84b4820b14ea0c4d9d1dbfb42f16ae00b402b17fa10e0da4abc2ccb6ec",
+    "design_intent_from_existing_plan": "wide silver blade with brass fortress crossguard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        144,
+        144,
+        160
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        32,
+        16,
+        16
+      ],
+      [
+        160,
+        160,
+        176
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        64,
+        48,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_knight_sword_03",
+    "name": "Lame de l'audience",
+    "category": "KnightSword",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_knight_sword_03.png",
+    "inventory_sha256": "f7f26f5af0f6675095cefe5428bdbaa3e3fe84b74f3f9f21186db57a8d244bc1",
+    "design_intent_from_existing_plan": "long ceremonial steel sword with burgundy leather grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        192,
+        192,
+        192
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_knight_sword_04",
+    "name": "Épée des remparts blancs",
+    "category": "KnightSword",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_knight_sword_04.png",
+    "inventory_sha256": "57cbdb514202d364ce4b7a39da5b0741b97e3a1a2b70a60fb4ef7ab4535a0287",
+    "design_intent_from_existing_plan": "massive pale steel blade with crenellated guard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        208,
+        208,
+        208
+      ],
+      [
+        160,
+        176,
+        176
+      ],
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        144,
+        144,
+        160
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        144,
+        144,
+        144
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_katana_01",
+    "name": "Katana des roseaux",
+    "category": "Katana",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_katana_01.png",
+    "inventory_sha256": "33d10605abffe97998c598d12565bd968cbaff02fa7b06168a308b6a4fe3fa99",
+    "design_intent_from_existing_plan": "plain slender curved steel katana with tan cord",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        176,
+        176,
+        176
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Gently curved silver katana, oval brass guard, dark grip with tan diamond cord wrap, brass end cap. Omit the tiny tassel for combat readability."
+  },
+  {
+    "id": "tfj_katana_02",
+    "name": "Lame de la pluie fine",
+    "category": "Katana",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_katana_02.png",
+    "inventory_sha256": "a3da49b528d73bed626dfaeddf44493b1a65642ca8fe8518534e3e46dabb1f28",
+    "design_intent_from_existing_plan": "pale curved katana with raindrop patterned round guard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        192,
+        208,
+        208
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        160,
+        176,
+        176
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        16,
+        16,
+        16
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_katana_03",
+    "name": "Katana du tertre",
+    "category": "Katana",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_katana_03.png",
+    "inventory_sha256": "d98bd7378a14892e6c176d883ebd69acb51f005a43792d98aa0be529c4ed724d",
+    "design_intent_from_existing_plan": "weathered iron katana with dark olive grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        48,
+        48,
+        32
+      ],
+      [
+        64,
+        64,
+        48
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        112,
+        112,
+        128
+      ],
+      [
+        32,
+        32,
+        16
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_katana_04",
+    "name": "Lame de pétale",
+    "category": "Katana",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_katana_04.png",
+    "inventory_sha256": "1cb548f3eabd087f1b0adbfc048e450e5fc5e8c1f4644a438c9e63df6964bd11",
+    "design_intent_from_existing_plan": "light silver katana with small copper flower guard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        192,
+        192,
+        192
+      ],
+      [
+        160,
+        160,
+        176
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        208,
+        208,
+        208
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        160,
+        160,
+        160
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_katana_05",
+    "name": "Katana des braises",
+    "category": "Katana",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_katana_05.png",
+    "inventory_sha256": "5cd72c00ab4b3547a2ab241f2cbf6ff9c6cff2e4162a30f163d543fdae94204e",
+    "design_intent_from_existing_plan": "black katana with dull vermilion edge and braided handle",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        80,
+        80,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_katana_06",
+    "name": "Lame du courant froid",
+    "category": "Katana",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_katana_06.png",
+    "inventory_sha256": "09dee6336e1f72345b0a06d227a92b76683db3370fec1051bbc8da8ec9bd338c",
+    "design_intent_from_existing_plan": "blue tempered katana with wave shaped tsuba",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        96,
+        128
+      ],
+      [
+        80,
+        112,
+        144
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        48,
+        48,
+        64
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        32,
+        32,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_katana_07",
+    "name": "Katana de l'encens",
+    "category": "Katana",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_katana_07.png",
+    "inventory_sha256": "150da7087807c2314dcb1249145bdb71b11bd674c599131a5e8f54e18a67f59c",
+    "design_intent_from_existing_plan": "smoky violet katana with small brass censer pommel",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        64,
+        96
+      ],
+      [
+        64,
+        48,
+        80
+      ],
+      [
+        128,
+        96,
+        144
+      ],
+      [
+        144,
+        112,
+        160
+      ],
+      [
+        96,
+        80,
+        112
+      ],
+      [
+        32,
+        16,
+        32
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_katana_08",
+    "name": "Lame du héron",
+    "category": "Katana",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_katana_08.png",
+    "inventory_sha256": "2a3c41ce1a6af4ffe9d6bff80ab5613c48d35104fbc695d94633b72d2f2c6e5a",
+    "design_intent_from_existing_plan": "long bright steel katana with ivory bird tsuba",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        112,
+        128,
+        128
+      ],
+      [
+        144,
+        144,
+        160
+      ],
+      [
+        112,
+        112,
+        128
+      ],
+      [
+        128,
+        128,
+        144
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_axe_01",
+    "name": "Hache de levée",
+    "category": "Axe",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_axe_01.png",
+    "inventory_sha256": "fbba1abc1538924dec565cbee766f872340fd019334aa698f5ab70781426c957",
+    "design_intent_from_existing_plan": "small rugged iron battle axe on ash wood haft",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        64,
+        48,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Compact double-headed dark iron battle axe with two different curved cutting edges, plain brown wooden haft."
+  },
+  {
+    "id": "tfj_axe_02",
+    "name": "Francisque du col",
+    "category": "Axe",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_axe_02.png",
+    "inventory_sha256": "e98c1c4ebcc3e748e383988db20a11fec0e5e447cbad2b0445f7cf301b074e08",
+    "design_intent_from_existing_plan": "broad wedge axe with ochre bound handle",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        96,
+        80,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_rod_01",
+    "name": "Baguette d'argile",
+    "category": "Rod",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_rod_01.png",
+    "inventory_sha256": "552f511f668c3f94dece326641378857da5de71d74f5c2310baf674dcb8506ab",
+    "design_intent_from_existing_plan": "short brown wand with simple fired clay tip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        64,
+        48
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        48,
+        32,
+        16
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        112,
+        80,
+        64
+      ],
+      [
+        80,
+        48,
+        32
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Slender dark brown wooden rod, rounded terracotta cap at upper end, terracotta sleeve at lower end, two brown collars."
+  },
+  {
+    "id": "tfj_rod_02",
+    "name": "Baguette du souffleur",
+    "category": "Rod",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_rod_02.png",
+    "inventory_sha256": "b34271645dc9f01b9a8a1498e2fdb99a9d721a71b92e24a0c397725409aaafd1",
+    "design_intent_from_existing_plan": "brass rod with clear glass bead at tip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        112,
+        96,
+        64
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        96,
+        80,
+        48
+      ],
+      [
+        128,
+        112,
+        80
+      ],
+      [
+        96,
+        80,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_rod_03",
+    "name": "Tison d'école",
+    "category": "Rod",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_rod_03.png",
+    "inventory_sha256": "91b70419c3ef6b699e0046ea9af02f66cc4823a0bef25edc9776122e3e1a1a16",
+    "design_intent_from_existing_plan": "copper wand with ember colored oval gem",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        64,
+        48
+      ],
+      [
+        80,
+        48,
+        32
+      ],
+      [
+        96,
+        64,
+        48
+      ],
+      [
+        96,
+        48,
+        32
+      ],
+      [
+        64,
+        32,
+        16
+      ],
+      [
+        128,
+        80,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_rod_04",
+    "name": "Baguette de brume",
+    "category": "Rod",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_rod_04.png",
+    "inventory_sha256": "4e51439c137dbc4aae4f067c786fea3a1fe1effb10749c0c3c7c0d504524438c",
+    "design_intent_from_existing_plan": "pale ash wand with cloudy blue crystal",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        128,
+        160
+      ],
+      [
+        112,
+        144,
+        176
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        144,
+        144,
+        144
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_rod_05",
+    "name": "Verge des mousses",
+    "category": "Rod",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_rod_05.png",
+    "inventory_sha256": "49ad105ba224076845508a5556ff6b58f89b7eff1e4654e92347e5f3b2eca1a3",
+    "design_intent_from_existing_plan": "green wood wand with moss agate tip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        48,
+        48,
+        32
+      ],
+      [
+        80,
+        112,
+        96
+      ],
+      [
+        64,
+        96,
+        80
+      ],
+      [
+        96,
+        128,
+        96
+      ],
+      [
+        80,
+        112,
+        80
+      ],
+      [
+        96,
+        112,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_rod_06",
+    "name": "Baguette du scribe noir",
+    "category": "Rod",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_rod_06.png",
+    "inventory_sha256": "998191944bffba96fbeab072888361ed17582a238bd44bd95dcf610e67bab445",
+    "design_intent_from_existing_plan": "dark lacquer wand with iron nib shaped finial",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        16,
+        16,
+        32
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_staff_01",
+    "name": "Bâton du pèlerin",
+    "category": "Staff",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_staff_01.png",
+    "inventory_sha256": "996de2c3fa6cdd20c3b4aaf507acf9c6ef76a3e1372847895503904891a69759",
+    "design_intent_from_existing_plan": "plain ash wood walking staff with tan cord",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        160,
+        128,
+        112
+      ],
+      [
+        160,
+        144,
+        112
+      ],
+      [
+        112,
+        80,
+        64
+      ],
+      [
+        144,
+        128,
+        96
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_staff_02",
+    "name": "Bâton des sources",
+    "category": "Staff",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_staff_02.png",
+    "inventory_sha256": "af71cd9cfa1a46fd45749bd171377ae843c730c60ccc83f85d793945df766f30",
+    "design_intent_from_existing_plan": "pale wood staff with blue water bead in a fork",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        128,
+        112,
+        96
+      ],
+      [
+        208,
+        192,
+        160
+      ],
+      [
+        208,
+        192,
+        176
+      ],
+      [
+        192,
+        176,
+        160
+      ],
+      [
+        112,
+        96,
+        80
+      ],
+      [
+        192,
+        176,
+        144
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Pale wooden staff whose upper head splits into FOUR long tines, wrapped pale collar below head, blue teardrop gem mounted near LOWER end above small wooden tip. Blue gem is NOT at fork."
+  },
+  {
+    "id": "tfj_staff_03",
+    "name": "Houlette de l'aumônier",
+    "category": "Staff",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_staff_03.png",
+    "inventory_sha256": "204137cef861eeed1124ec165fce2221d349f17a8fe8dace7f06aab7e547224e",
+    "design_intent_from_existing_plan": "curved oak staff with white cloth wrap",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        128,
+        96,
+        80
+      ],
+      [
+        128,
+        112,
+        80
+      ],
+      [
+        144,
+        112,
+        96
+      ],
+      [
+        80,
+        64,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_staff_04",
+    "name": "Bâton de l'herboriste",
+    "category": "Staff",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_staff_04.png",
+    "inventory_sha256": "df7de3500a56a9cfba43ba516eb293717be12160a973bddf97482da9f0eeb46b",
+    "design_intent_from_existing_plan": "gnarled green wood staff with tied herb pouch",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        64,
+        48
+      ],
+      [
+        80,
+        80,
+        64
+      ],
+      [
+        48,
+        48,
+        32
+      ],
+      [
+        32,
+        32,
+        16
+      ],
+      [
+        80,
+        96,
+        64
+      ],
+      [
+        112,
+        128,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_staff_05",
+    "name": "Canne du veilleur",
+    "category": "Staff",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_staff_05.png",
+    "inventory_sha256": "5be5b6acb45acc438ab535ebe8b69158a8bebfa2b6e0af0ac9e9e762d10ec2a2",
+    "design_intent_from_existing_plan": "slender walnut staff with brass lantern finial",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        48,
+        32,
+        16
+      ],
+      [
+        96,
+        64,
+        48
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        80,
+        48,
+        32
+      ],
+      [
+        32,
+        32,
+        16
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_staff_06",
+    "name": "Bâton des derniers rites",
+    "category": "Staff",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_staff_06.png",
+    "inventory_sha256": "b83327a99132f2140a85d8848dd8c173d2077a406ed18ae7ad17670b0f356c46",
+    "design_intent_from_existing_plan": "ivory wood staff with silver bell and black ribbon",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        224,
+        224,
+        192
+      ],
+      [
+        224,
+        208,
+        192
+      ],
+      [
+        176,
+        160,
+        144
+      ],
+      [
+        160,
+        144,
+        128
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        192,
+        176,
+        160
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_flail_01",
+    "name": "Fléau de milice",
+    "category": "Flail",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_flail_01.png",
+    "inventory_sha256": "b65e94ace1489a8dd7c264b3fb05c804daaa4835ccfbfb45331f9bc75b444bab",
+    "design_intent_from_existing_plan": "iron ball flail with short chain and brown handle",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        112,
+        112,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Dark spiked iron ball with crossing metal bands, connected by continuous short steel chain and curved metal link to a brown wooden handle. Entire object physically connected in every view."
+  },
+  {
+    "id": "tfj_flail_02",
+    "name": "Fléau des fournaises",
+    "category": "Flail",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_flail_02.png",
+    "inventory_sha256": "133e35f8cbd2eb61bd2b2cb7decc9d9d4e24548a09a2a04bed3c3d91fcf95b21",
+    "design_intent_from_existing_plan": "copper studded head flail with black chain",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        64,
+        32,
+        32
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_gun_01",
+    "name": "Arquebuse du guet",
+    "category": "Gun",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_gun_01.png",
+    "inventory_sha256": "9406206aaa6351482ec8baf09d5d382e4c2a0bd670250f2540cddb0736727d10",
+    "design_intent_from_existing_plan": "compact antique matchlock with walnut stock and iron barrel",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        80,
+        48,
+        32
+      ],
+      [
+        112,
+        112,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Antique compact firearm, walnut-brown stock, broad dark metal barrel, side lever and trigger loop, steel butt plate."
+  },
+  {
+    "id": "tfj_gun_02",
+    "name": "Mousquet de route",
+    "category": "Gun",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_gun_02.png",
+    "inventory_sha256": "2896c7327098f9ea9da01a883937471527910e465c7e2124a2343f91bf0ef7b3",
+    "design_intent_from_existing_plan": "long thin musket with tan wood stock and leather sling",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        144,
+        112,
+        80
+      ],
+      [
+        96,
+        64,
+        48
+      ],
+      [
+        160,
+        128,
+        96
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        128,
+        96,
+        64
+      ],
+      [
+        64,
+        64,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_gun_03",
+    "name": "Fusil du poudrier",
+    "category": "Gun",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_gun_03.png",
+    "inventory_sha256": "296a62c83c520daf5d33a5333414ce9f749ce4c23593692168155aacde3c1ea7",
+    "design_intent_from_existing_plan": "brass barrel matchlock with red wooden stock",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        32,
+        32
+      ],
+      [
+        112,
+        32,
+        32
+      ],
+      [
+        80,
+        32,
+        32
+      ],
+      [
+        64,
+        16,
+        16
+      ],
+      [
+        64,
+        64,
+        48
+      ],
+      [
+        128,
+        48,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_gun_04",
+    "name": "Carabine de givre",
+    "category": "Gun",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_gun_04.png",
+    "inventory_sha256": "1ca5d542a1d51519602b134ea0c42754036af18a9f891b6eb0dc75c12a5a05f2",
+    "design_intent_from_existing_plan": "pale silver barrel musket with blue cloth on stock",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        112,
+        144,
+        160
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        208,
+        208,
+        208
+      ],
+      [
+        128,
+        128,
+        128
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_gun_05",
+    "name": "Arquebuse d'orage",
+    "category": "Gun",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_gun_05.png",
+    "inventory_sha256": "9643541546228b76b66ec722d00e6f6477c9a1bfc155192b75e0a50e561ae9b1",
+    "design_intent_from_existing_plan": "dark iron musket with brass lightning etched lock",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        64,
+        48,
+        48
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        32,
+        32,
+        32
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_crossbow_01",
+    "name": "Arbalète du péager",
+    "category": "Crossbow",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_crossbow_01.png",
+    "inventory_sha256": "9049090bd912a14b666e91f59f54768a980b5385ebb9cd110d7c71501c915f72",
+    "design_intent_from_existing_plan": "wooden stock crossbow with small steel prod",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        80,
+        64
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        96,
+        64,
+        48
+      ],
+      [
+        48,
+        32,
+        16
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        32,
+        32,
+        32
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Brown wooden stock crossbow, curved dark steel prod, visible continuous tan string connecting both ends, steel track and small trigger loop."
+  },
+  {
+    "id": "tfj_crossbow_02",
+    "name": "Arbalète de marche",
+    "category": "Crossbow",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_crossbow_02.png",
+    "inventory_sha256": "22005ca897c00a30d180c195100fdef22e71410e08dce4eb83726ffed40a3bc4",
+    "design_intent_from_existing_plan": "compact oak crossbow with leather shoulder loop",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        64,
+        48,
+        48
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        112,
+        80,
+        64
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        112,
+        96,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_crossbow_03",
+    "name": "Arbalète du taillis",
+    "category": "Crossbow",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_crossbow_03.png",
+    "inventory_sha256": "517e26fa7105ab8a7a19e2e5b9959c942415622de978e0eb5d1c141b651b4753",
+    "design_intent_from_existing_plan": "green bound crossbow with leaf shaped steel arms",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        48,
+        64,
+        48
+      ],
+      [
+        96,
+        112,
+        80
+      ],
+      [
+        112,
+        128,
+        96
+      ],
+      [
+        80,
+        96,
+        64
+      ],
+      [
+        96,
+        128,
+        96
+      ],
+      [
+        112,
+        144,
+        96
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_crossbow_04",
+    "name": "Arbalète de siège",
+    "category": "Crossbow",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_crossbow_04.png",
+    "inventory_sha256": "c6dce04d11ee1294f343a0604771602f758520ec420ca847a3aaa9be442fcb54",
+    "design_intent_from_existing_plan": "heavy bronze crossbow with simple winding crank",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        64,
+        48,
+        48
+      ],
+      [
+        112,
+        96,
+        80
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        80,
+        64,
+        64
+      ],
+      [
+        96,
+        96,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_bow_01",
+    "name": "Arc du coteau",
+    "category": "Bow",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_bow_01.png",
+    "inventory_sha256": "5869c91f425b113f88cf2d8812d0f5576534c8291f94d5306ff3720806c77cb6",
+    "design_intent_from_existing_plan": "simple bent ash wood bow with tan string",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        64,
+        48,
+        48
+      ],
+      [
+        128,
+        112,
+        80
+      ],
+      [
+        128,
+        96,
+        80
+      ],
+      [
+        96,
+        80,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Plain asymmetrical bent brown wood bow with a visibly continuous tan cord joining the two tips. Cord stays legible at miniature scale, about 1-2 logical pixels as artistic proposal."
+  },
+  {
+    "id": "tfj_bow_02",
+    "name": "Arc de houx",
+    "category": "Bow",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_bow_02.png",
+    "inventory_sha256": "431aea94ab4ac62db83b2e4942d7ec17037701e1f87ecf8cb6bdd8e10308f6f8",
+    "design_intent_from_existing_plan": "short red wood bow with green grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        32,
+        32
+      ],
+      [
+        64,
+        16,
+        16
+      ],
+      [
+        144,
+        64,
+        64
+      ],
+      [
+        160,
+        80,
+        80
+      ],
+      [
+        128,
+        48,
+        48
+      ],
+      [
+        112,
+        48,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_bow_03",
+    "name": "Arc du guetteur",
+    "category": "Bow",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_bow_03.png",
+    "inventory_sha256": "2f0c7f72d8c930507332ec5105295034ff3fe017f6388c6b21f78dda96e7f078",
+    "design_intent_from_existing_plan": "tall oak longbow with iron nock collars",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        128,
+        96,
+        80
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        144,
+        112,
+        96
+      ],
+      [
+        64,
+        48,
+        48
+      ],
+      [
+        112,
+        80,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_bow_04",
+    "name": "Arc des marais",
+    "category": "Bow",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_bow_04.png",
+    "inventory_sha256": "dc7dcb2abcee1494b2332d36a80fd6f3e2293b558f7b60a57623ee3178107540",
+    "design_intent_from_existing_plan": "recurved dark green bow with reed bindings",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        32,
+        48,
+        32
+      ],
+      [
+        48,
+        64,
+        48
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        64,
+        80,
+        64
+      ],
+      [
+        32,
+        48,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_bow_05",
+    "name": "Arc du vent sec",
+    "category": "Bow",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_bow_05.png",
+    "inventory_sha256": "cd1c2fd3e79f1665738ceb90b97518728f6956841afff89a276045f8fd0dfaed",
+    "design_intent_from_existing_plan": "thin pale wood recurved bow with ochre cord",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        224,
+        208,
+        192
+      ],
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        208,
+        192,
+        176
+      ],
+      [
+        112,
+        96,
+        80
+      ],
+      [
+        224,
+        224,
+        192
+      ],
+      [
+        192,
+        176,
+        160
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_bow_06",
+    "name": "Arc de l'écorce rouge",
+    "category": "Bow",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_bow_06.png",
+    "inventory_sha256": "06de76cc7176a11c466db60808780ec93f418478a435487546ec6692e04cae31",
+    "design_intent_from_existing_plan": "broad reddish wood bow with black leather grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        32,
+        32
+      ],
+      [
+        112,
+        48,
+        48
+      ],
+      [
+        96,
+        48,
+        48
+      ],
+      [
+        96,
+        32,
+        32
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        128,
+        64,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_bow_07",
+    "name": "Arc des étoiles basses",
+    "category": "Bow",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_bow_07.png",
+    "inventory_sha256": "feb306358bf5318a8f31f016710bacf0112075a9511762c22e72e5cb37be5288",
+    "design_intent_from_existing_plan": "midnight wood bow with tiny silver inlay stars",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        48,
+        48,
+        64
+      ],
+      [
+        32,
+        32,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_bow_08",
+    "name": "Arc du fauconnier",
+    "category": "Bow",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_bow_08.png",
+    "inventory_sha256": "d956aadaf0983659c26efec2ba5013db04ea9ac11d708e4871f6e0c6349f56fa",
+    "design_intent_from_existing_plan": "pale horn bow with brown feather tied at grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        144,
+        144,
+        128
+      ],
+      [
+        128,
+        128,
+        112
+      ],
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        144,
+        128,
+        112
+      ],
+      [
+        224,
+        224,
+        208
+      ],
+      [
+        80,
+        64,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_instrument_01",
+    "name": "Harpe du carrefour",
+    "category": "Instrument",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_instrument_01.png",
+    "inventory_sha256": "af87f21fb747c20926344ea6ac5fe930bfbe1b8ffa2d26b39dc1583bf14c7eb8",
+    "design_intent_from_existing_plan": "small plain wooden triangular harp with brass pegs",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        128,
+        96,
+        80
+      ],
+      [
+        112,
+        80,
+        64
+      ],
+      [
+        160,
+        128,
+        96
+      ],
+      [
+        176,
+        144,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Small triangular brown wooden harp with brass top pegs and several visibly continuous pale strings joining top crossbar to lower vertex."
+  },
+  {
+    "id": "tfj_book_01",
+    "name": "Registre du voyageur",
+    "category": "Book",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_book_01.png",
+    "inventory_sha256": "4d185c72572bec52a256766317afbe9ab5a8319df2e9dc2755d571f14dd4a39c",
+    "design_intent_from_existing_plan": "closed worn tan leather book with brass clasp",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        160,
+        128,
+        96
+      ],
+      [
+        160,
+        112,
+        80
+      ],
+      [
+        144,
+        112,
+        80
+      ],
+      [
+        176,
+        128,
+        96
+      ],
+      [
+        160,
+        128,
+        80
+      ],
+      [
+        96,
+        64,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Closed worn tan leather book, darker spine and edges, offwhite page block, brass side clasp with round rivet."
+  },
+  {
+    "id": "tfj_book_02",
+    "name": "Bestiaire des haies",
+    "category": "Book",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_book_02.png",
+    "inventory_sha256": "88802f075bdd0b716548498e882f4402bbf67b78f4200166ba54cb72da2b263e",
+    "design_intent_from_existing_plan": "closed green leather book with small claw emblem",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        112,
+        96
+      ],
+      [
+        112,
+        128,
+        96
+      ],
+      [
+        96,
+        128,
+        96
+      ],
+      [
+        80,
+        96,
+        80
+      ],
+      [
+        64,
+        80,
+        64
+      ],
+      [
+        96,
+        112,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_polearm_01",
+    "name": "Lance du gué",
+    "category": "Polearm",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections-last\\images\\tfj_polearm_01.png",
+    "inventory_sha256": "52e6b568e1d316a343bfa1736724691622f8ac0fa34c3c1d3a7a97d800df93d8",
+    "design_intent_from_existing_plan": "long ash spear with short plain steel head",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        192,
+        160,
+        128
+      ],
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        160,
+        128,
+        96
+      ],
+      [
+        208,
+        176,
+        144
+      ],
+      [
+        176,
+        144,
+        112
+      ],
+      [
+        112,
+        112,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Long pale ashwood spear, straight narrow silver leaf-shaped blade and silver socket, small steel butt cap."
+  },
+  {
+    "id": "tfj_polearm_02",
+    "name": "Pique du paysan libre",
+    "category": "Polearm",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_polearm_02.png",
+    "inventory_sha256": "44c3eda4187deeab4ab01dbaa6a43453e340dbcd93f6bf9b4fb90291659e2774",
+    "design_intent_from_existing_plan": "long iron spear with brown wood haft and cloth knot",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        48,
+        32
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        96,
+        64,
+        48
+      ],
+      [
+        48,
+        32,
+        16
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        80,
+        80,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_polearm_03",
+    "name": "Lance du héron gris",
+    "category": "Polearm",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_polearm_03.png",
+    "inventory_sha256": "c95d3048b83fb348d1e46c674db24298285f88b16388e7b4ceecf6fe44fc5cb1",
+    "design_intent_from_existing_plan": "slender silver leaf spear with grey feather pennant",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        160,
+        160,
+        160
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_polearm_04",
+    "name": "Pertuisane de garde",
+    "category": "Polearm",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_polearm_04.png",
+    "inventory_sha256": "b79a45912f90e40f1122194adb105b09271709ae2ad9ef12b6d54c75710bda4b",
+    "design_intent_from_existing_plan": "wide spear with two short side lugs and blue tassel",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        96,
+        128,
+        160
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        64,
+        48,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_polearm_05",
+    "name": "Lance des hautes neiges",
+    "category": "Polearm",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_polearm_05.png",
+    "inventory_sha256": "aff94c7fc6eefa164e2dcd4cd32f4b9e522c75d371ff5c6a2fe3a2ee4329898e",
+    "design_intent_from_existing_plan": "long frost silver lance with dark blue haft",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        96,
+        64,
+        32
+      ],
+      [
+        16,
+        32,
+        48
+      ],
+      [
+        16,
+        16,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_polearm_06",
+    "name": "Lance de la nef",
+    "category": "Polearm",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_polearm_06.png",
+    "inventory_sha256": "cb7031dbe39427f85ca8fcc1bf70a29d1dc2cebf876eca9e0ad8b7236507b3fd",
+    "design_intent_from_existing_plan": "gold and steel spear with arch shaped side hooks",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        48,
+        32
+      ],
+      [
+        64,
+        32,
+        16
+      ],
+      [
+        48,
+        32,
+        16
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        128,
+        112,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_pole_01",
+    "name": "Perche d'orme",
+    "category": "Pole",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_pole_01.png",
+    "inventory_sha256": "f567f7dfc59efde5128217116dcf779702638417ed6c8b91a8899690b4506fd5",
+    "design_intent_from_existing_plan": "plain long elm wood pole with worn grips",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        144,
+        112,
+        96
+      ],
+      [
+        128,
+        96,
+        80
+      ],
+      [
+        64,
+        48,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Long dark brown wooden pole with several silver-gray reinforcing collars, tan wrapped grip toward lower end and rounded wooden tip."
+  },
+  {
+    "id": "tfj_pole_02",
+    "name": "Perche du batelier",
+    "category": "Pole",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_pole_02.png",
+    "inventory_sha256": "744ba4bff5cbfc2187bf5a9f8ea703c57a63e8831040b3e5f3102d6a7a9393ae",
+    "design_intent_from_existing_plan": "dark wooden pole with a small bronze hook",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        64,
+        48,
+        48
+      ],
+      [
+        32,
+        16,
+        16
+      ],
+      [
+        80,
+        64,
+        64
+      ],
+      [
+        96,
+        80,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_pole_03",
+    "name": "Perche du marcheur",
+    "category": "Pole",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_pole_03.png",
+    "inventory_sha256": "a9dd3cc2c4d7121edf0f9cdb554d0c9992ae0f124dbee97aefc863f1ac805fea",
+    "design_intent_from_existing_plan": "ash pole with leather grip and iron ends",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        96,
+        64,
+        48
+      ],
+      [
+        112,
+        80,
+        64
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        48,
+        32,
+        16
+      ],
+      [
+        80,
+        48,
+        32
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_pole_04",
+    "name": "Hampe du géomètre",
+    "category": "Pole",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_pole_04.png",
+    "inventory_sha256": "1d61345e72be738c2d3a1a0c8f50bea5168b067d1a4d760ecd2c721622df081b",
+    "design_intent_from_existing_plan": "straight walnut pole with brass measurement rings",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        112,
+        80,
+        64
+      ],
+      [
+        48,
+        32,
+        16
+      ],
+      [
+        96,
+        64,
+        48
+      ],
+      [
+        80,
+        48,
+        32
+      ],
+      [
+        80,
+        64,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_pole_05",
+    "name": "Perche du torrent",
+    "category": "Pole",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_pole_05.png",
+    "inventory_sha256": "5321e071ae3c7ea8fad0d71811a889713d16aa20c6c9118ec65ec0a94543ef7a",
+    "design_intent_from_existing_plan": "blue lacquered pole with silver fish engraved ends",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        32,
+        48,
+        96
+      ],
+      [
+        32,
+        48,
+        80
+      ],
+      [
+        16,
+        32,
+        48
+      ],
+      [
+        48,
+        64,
+        112
+      ],
+      [
+        16,
+        32,
+        64
+      ],
+      [
+        32,
+        64,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_pole_06",
+    "name": "Perche des racines",
+    "category": "Pole",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_pole_06.png",
+    "inventory_sha256": "fa623bf6d43339fabd97e3c2dcac183a1f62aa5172ee5daa44421745d661c0d7",
+    "design_intent_from_existing_plan": "gnarled brown pole with green stone caps",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        64,
+        48,
+        48
+      ],
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        48,
+        48,
+        32
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_bag_01",
+    "name": "Sac de colporteur",
+    "category": "Bag",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_bag_01.png",
+    "inventory_sha256": "af6ff63aea6c9a8cc2aad643d5b8f2ca17511c4ec46b5ec61958ab32c136d16a",
+    "design_intent_from_existing_plan": "small tan satchel with brass buckle",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        176,
+        144,
+        112
+      ],
+      [
+        176,
+        160,
+        128
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        128,
+        96,
+        80
+      ],
+      [
+        160,
+        144,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Compact tan satchel, rounded flap outlined dark brown, central brass buckle, short side strap loop."
+  },
+  {
+    "id": "tfj_bag_02",
+    "name": "Bourse des contrebandiers",
+    "category": "Bag",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_bag_02.png",
+    "inventory_sha256": "b17cd24b7d40204d0d9925ec65f8fdfa928195e4dfaf5cd861b944e3f016900f",
+    "design_intent_from_existing_plan": "dark red bag with stitched black hidden flap",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        48,
+        48
+      ],
+      [
+        80,
+        32,
+        32
+      ],
+      [
+        32,
+        16,
+        16
+      ],
+      [
+        48,
+        16,
+        16
+      ],
+      [
+        64,
+        32,
+        32
+      ],
+      [
+        16,
+        16,
+        16
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_cloth_01",
+    "name": "Étoffe du col",
+    "category": "Cloth",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_cloth_01.png",
+    "inventory_sha256": "f2408bacfedb2c807085ad9833da09643b26379cb6b630b0e4ad18d99fd7ba03",
+    "design_intent_from_existing_plan": "folded ochre fighting cloth with red stitched border",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        192,
+        144,
+        80
+      ],
+      [
+        176,
+        128,
+        80
+      ],
+      [
+        160,
+        112,
+        80
+      ],
+      [
+        192,
+        144,
+        96
+      ],
+      [
+        144,
+        96,
+        64
+      ],
+      [
+        112,
+        80,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Ocher folded fighting cloth, red stitched border, one end rolled into a short cylinder. Keep cloth ocher, stitching red."
+  },
+  {
+    "id": "tfj_shield_01",
+    "name": "Rondache de levée",
+    "category": "Shield",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_01.png",
+    "inventory_sha256": "904bd45e4816f2cf3070739c902cc7d6677b6b764ca130d63b3be0643568ad05",
+    "design_intent_from_existing_plan": "round plain wooden buckler with iron boss",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        112,
+        96
+      ],
+      [
+        112,
+        96,
+        96
+      ],
+      [
+        96,
+        96,
+        80
+      ],
+      [
+        96,
+        80,
+        80
+      ],
+      [
+        128,
+        112,
+        96
+      ],
+      [
+        112,
+        96,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Round wooden buckler with gray iron rim, vertical gray-brown planks, single diagonal wooden brace and angular iron boss with domed center. Back view may show a simple leather grip as explicit art proposal."
+  },
+  {
+    "id": "tfj_shield_02",
+    "name": "Écu du charretier",
+    "category": "Shield",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_02.png",
+    "inventory_sha256": "ec2294e0869558030b83913ac1c939b6b1cdc764d3edc71508867a61d4050017",
+    "design_intent_from_existing_plan": "small square wood shield with leather rim",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        96,
+        80,
+        80
+      ],
+      [
+        144,
+        128,
+        112
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        80,
+        64,
+        64
+      ],
+      [
+        160,
+        144,
+        128
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_03",
+    "name": "Bouclier du gué",
+    "category": "Shield",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_03.png",
+    "inventory_sha256": "5a392946be459f3528282a309750c9f21ff94950119cd7f3afdacd6713163b66",
+    "design_intent_from_existing_plan": "round bronze shield with blue simple stripe",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        48,
+        48
+      ],
+      [
+        48,
+        32,
+        32
+      ],
+      [
+        80,
+        64,
+        64
+      ],
+      [
+        112,
+        96,
+        80
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        64,
+        96,
+        128
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_04",
+    "name": "Écu des collines",
+    "category": "Shield",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_04.png",
+    "inventory_sha256": "5e64bad31c79935f0549c328769ecd8471df855b1fa2ce4b7768be93a6ade46b",
+    "design_intent_from_existing_plan": "steel kite shield with faded green crest",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        144,
+        144,
+        144
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_05",
+    "name": "Rondache du péager",
+    "category": "Shield",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_shield_05.png",
+    "inventory_sha256": "b6111cb991f02805d70a33dc8915f43153a114fe0b8ef9c30c8a0ea3323ebedf",
+    "design_intent_from_existing_plan": "small brass shield with three iron rivets",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        112,
+        96,
+        80
+      ],
+      [
+        64,
+        64,
+        48
+      ],
+      [
+        80,
+        80,
+        64
+      ],
+      [
+        128,
+        112,
+        96
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_06",
+    "name": "Bouclier de route",
+    "category": "Shield",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_06.png",
+    "inventory_sha256": "a19bf21efebf0085132f48c93d3ff6ec7b87a23b7b29dbe0efa53ed44484f07b",
+    "design_intent_from_existing_plan": "wide iron shield with brown leather center",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        48,
+        32
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        64,
+        32,
+        32
+      ],
+      [
+        64,
+        64,
+        80
+      ],
+      [
+        128,
+        80,
+        64
+      ],
+      [
+        112,
+        80,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_07",
+    "name": "Écu du pont vieux",
+    "category": "Shield",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_07.png",
+    "inventory_sha256": "81ba878c6b4a3ad758e9cd130e09c3be3bea81b9c931fc99eafd0c17aae00326",
+    "design_intent_from_existing_plan": "steel tower shield with engraved bridge arch",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        128,
+        128,
+        128
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_08",
+    "name": "Bouclier des braises",
+    "category": "Shield",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_08.png",
+    "inventory_sha256": "5fa3802ae5eacc490131b5f9fae146d69293b3b93865454f2df63cf2a4d4e8c3",
+    "design_intent_from_existing_plan": "black shield with copper flame border",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        80,
+        48,
+        32
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        112,
+        64,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_09",
+    "name": "Écu du ressac",
+    "category": "Shield",
+    "rarity": "uncommon",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_09.png",
+    "inventory_sha256": "87ff6f0ff6578f08505e4b91de245b4f59e0db806b96a13629b80b4f2ac63eeb",
+    "design_intent_from_existing_plan": "silver teardrop shield with turquoise wave enamel",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        96,
+        96,
+        112
+      ],
+      [
+        96,
+        112,
+        112
+      ],
+      [
+        80,
+        96,
+        96
+      ],
+      [
+        160,
+        176,
+        176
+      ],
+      [
+        80,
+        80,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_10",
+    "name": "Bouclier de la gelée",
+    "category": "Shield",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_10.png",
+    "inventory_sha256": "19d27098ab81eac2cf605aa7d75b55c830eae452fb175279be7cc4b0d00cbc5d",
+    "design_intent_from_existing_plan": "pale steel shield with blue crystal boss",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        176,
+        176,
+        176
+      ],
+      [
+        192,
+        192,
+        192
+      ],
+      [
+        112,
+        112,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_11",
+    "name": "Écu de l'atelier",
+    "category": "Shield",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_11.png",
+    "inventory_sha256": "9c347324979e1104a0c0c8195b66d15f93edef65bd9b0be46a80b1a88b32fa9b",
+    "design_intent_from_existing_plan": "heavy iron shield with brass gear shaped boss",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        64,
+        64,
+        80
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        80,
+        80,
+        96
+      ],
+      [
+        96,
+        80,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_12",
+    "name": "Bouclier du chœur",
+    "category": "Shield",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_12.png",
+    "inventory_sha256": "f561547bfa9f10ab712ccbcd120b407755919961b99eb0e2c20b6211c2a22fc8",
+    "design_intent_from_existing_plan": "ivory painted kite shield with bronze bell emblem",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        224,
+        224,
+        208
+      ],
+      [
+        208,
+        208,
+        192
+      ],
+      [
+        208,
+        192,
+        176
+      ],
+      [
+        224,
+        208,
+        192
+      ],
+      [
+        208,
+        208,
+        176
+      ],
+      [
+        176,
+        160,
+        144
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_13",
+    "name": "Écu des trois murailles",
+    "category": "Shield",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_13.png",
+    "inventory_sha256": "62d0f3c3036ed997c8b7651e546fbe58f0e11dbef21d8d319deaec0c4f7517d7",
+    "design_intent_from_existing_plan": "dark steel tower shield with three silver bands",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        48,
+        48,
+        64
+      ],
+      [
+        32,
+        32,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  },
+  {
+    "id": "tfj_shield_14",
+    "name": "Bouclier du roi oublié",
+    "category": "Shield",
+    "rarity": "rare",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_14.png",
+    "inventory_sha256": "43b374af68158b6f3320d3daec93a4fcc83a158a9fcdc3ec9bae7b84eba921a7",
+    "design_intent_from_existing_plan": "aged golden shield with deliberately scraped heraldry",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        96,
+        80,
+        48
+      ],
+      [
+        112,
+        96,
+        64
+      ],
+      [
+        128,
+        112,
+        80
+      ],
+      [
+        144,
+        112,
+        80
+      ],
+      [
+        176,
+        160,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "TO_VERIFY_ON_SELECTED_ICON",
+    "combat_art_status": "NOT_CREATED",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN"
+  }
+]

@@ -1,0 +1,13 @@
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\nxd\Job.nxd
+PASS semantic round-trip: Job, 174 rows
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\nxd\Ability.nxd
+PASS semantic round-trip: Ability, 512 rows
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\nxd\JobCommand.nxd
+PASS semantic round-trip: JobCommand, 227 rows
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\nxd\GeneralJob.nxd
+PASS semantic round-trip: GeneralJob, 21 rows
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\nxd\OverrideAbilityActionData.nxd
+PASS semantic round-trip: OverrideAbilityActionData, 368 rows
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\nxd\job-edited.nxd
+PASS localized text changes survive serialization; all other cells are preserved.
+PASS invalid IDs and columns are rejected.

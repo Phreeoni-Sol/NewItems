@@ -1,0 +1,18 @@
+{
+  "AGENTS.md": "126596afd37672b0daf8c2ac6c73b4aafc41eceb39a14c633ee27f94367ab420",
+  "CLAUDE_NATIVE_WEAPON_HANDOFF.md": "15b4ee656e6f4fbcd6a6a71ea906faffceffed70036e0a2c8d57a7b9e0720a96",
+  "native/0002.pac_battle_wep1_seq.bin": "d46a664883387d28d938e2037884dc3d606ebbc16f750492981b603fd21b5e33",
+  "native/0002.pac_battle_wep1_shp.bin": "c26dfd0a91188d3c8431b0b796048635cb8a13e0a49bdb256f7d8140f6e85b03",
+  "native/0002.pac_battle_wep2_seq.bin": "cba2e0c02a71cad2b13d484afc06d6732b003de68b5f51910a647bdca905a3c3",
+  "native/0002.pac_battle_wep2_shp.bin": "66c941f247fc1d8a188efc3b4af58986d2e5f73be075ec342ba3eb818cf36fb1",
+  "native/0002.pac_battle_wep_spr.bin": "7a4c733e1654f9f1ff41e1281fd26fce894bd608bc1c95e1e4713aecdc0eff0a",
+  "reports/geometry.json": "d93525164d9deba6f2add72df62b888f92dea2cbdbcfe06d5299a9a757b171b4",
+  "reports/nxd-row-keys.csv": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "reports/sample-summary.json": "77b14837d101f5e48b07ca58138c6a08ed858bde45177bf0144c05007eb27a00",
+  "reports/validation.json": "46ae1bd7e498e1fd6e8c1c48c18019d50c98000d95b46a84a48927e9daff3c3c",
+  "review/wep1-atlas-crops.png": "bebce97ef733f3b58c2fb59363f4bfc00fc715078da4bfa5d6f19a6ade1350a7",
+  "review/wep2-atlas-crops.png": "2281632f27ec061aef0aee562d6318db899f7117a86c4806ea1023cf23e0f65c",
+  "tools/extract-weapons.ps1": "27e957491a4191d21212feef184390e6d9bfbf6bd7e1190f0eba836a4c8af0ce",
+  "tools/inspect_geometry.py": "71511f6a532381d6123e8e8077d79dae0ebefb9d5bb146cdc3c2810080e44c7f",
+  "tools/package.py": "486216a7eac3e4570c872391a7795794e15e790e2dbf6ae3513ba4a7d8838522"
+}

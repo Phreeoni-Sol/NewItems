@@ -1,0 +1,12 @@
+{
+  "id": "tfj_instrument_02",
+  "name_fr": "Cantique des pierres",
+  "generator": "OPENAI_BUILT_IN_IMAGEGEN",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-9f1bd473-f614-44af-8e31-05036fe83c63.png",
+  "prompt": "Generate a NEW transparent four-view combat equipment sprite study FROM SCRATCH. Attached native FFT weapon atlas is a STYLE REFERENCE ONLY. Do not copy its arrangement or any vanilla item. Severe native visual economy: small readable silhouettes, UNIFORM square pixel grid, a FEW large flat opaque muted color clusters, only 2 or 3 hard-edged shades per material. Like a tiny low-resolution tactical RPG battle sprite enlarged by nearest-neighbour, not a detailed inventory illustration. Four isolated views of ONE SAME physical object in 2x2 arrangement, HUGE truly transparent gutters. All equipment visible fully, away from sheet edges. Outside hard-edged silhouettes alpha ZERO. No background, vignette, checkerboard, text, labels, characters, hands, grain, noise or painterly rendering. ABSOLUTELY NO glow, halo, aura, haze, cloud, particles, translucent shadow, lighting spill, gradients or bloom. Omit ALL mist/smoke/magical effects even if mentioned in the object's signature: those are separate effects, not part of this sprite. Keep proportions/materials/design consistent in all four views. Simplify ornament to one readable distinctive feature rather than adding detail. No generic golden filigree. This is an art study, not a native engine atlas or encoded asset.\nEquipment family: Instrument. Object identity: Compact ancient lyre built of dull gray stone-like wood, wide round base, squat curved arms, five bronze strings and a small ochre inset disk.\nPalette identity: gray, ochre, bronze.\nFour coherent profiles of same lyre/harp: upper-left angled left, upper-right angled right, lower-left left profile, lower-right right profile. Visible few continuous strings connect frame to body, no disconnected ornaments.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment/references/weapon-palette-03.png",
+  "status": "VISUALLY_REVIEWED_ALTERNATIVE_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "selected_sha256": "857bb12ed5c3f2051166b82a44d124a1c858d155b138cacff696ed3338cec697",
+  "review": "Stone-gray lyre, five bronze strings and ochre disk retained; side views intentionally simplify strings, actual play poses unknown."
+}

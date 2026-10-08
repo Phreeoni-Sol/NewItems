@@ -1,0 +1,2441 @@
+[
+  {
+    "id": "tfj_knife_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/images/tfj_knife_01.png",
+    "source_sha256": "dad97a2ca4ee109e1eff00a28a30d26576d5212969f87c3b69451d9c1aa6f716",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/previews100/tfj_knife_01.png",
+    "preview_sha256": "26f0a0748bf10d9a8b0d4b4fcdfea753f277b5e269e21fdc70426c107cd1e116",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_knife_02.png",
+    "source_sha256": "3b3a284207536d7898275270ccea6eb3baa2eab0eda4b8ca2335c448aead461b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_knife_02.png",
+    "preview_sha256": "70e08e96b58470e43809fc3054a8db1e4aaa854ad09dd603a98b09d864d4336e",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_knife_03.png",
+    "source_sha256": "ca8439a49754a67bee9f6fc2d14b8ad8aefb4af379701059fe1c998a226db297",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_knife_03.png",
+    "preview_sha256": "3ea9e631080d5ce4e631e7821ccdef1a2209060b56f4e18e1e9bc730727b2d03",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_knife_04.png",
+    "source_sha256": "5e285590ab072532900c206e10b80ee11ff3bbff4208f82f51d633fb65c91b33",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_knife_04.png",
+    "preview_sha256": "1c0f5cf7612f523eb5856e33118a495e0811caef8195bde9890e3a5e74c33d76",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_knife_05.png",
+    "source_sha256": "580006289ae4d821529c26c728d42f0b981dbc3ccd7353efe85ed647dee207ad",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_knife_05.png",
+    "preview_sha256": "e70807c15c30f3b5970df522ed33547c0941f886520d3659950efce159e58659",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_knife_06.png",
+    "source_sha256": "ee53a299f70e6e7cbeae66e3edcaebbf9fd672ed5db2aa55c6cdbc00670939e3",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_knife_06.png",
+    "preview_sha256": "994c2e1008dfb13d8ac5bb62ccda14707e0f1ab882f9371c73c75c2f48932d68",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_knife_07.png",
+    "source_sha256": "f2bb9ba49c9b582747a7fb4f3db35c487fad384a1fa6f87084b1bdac9ca01409",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_knife_07.png",
+    "preview_sha256": "80b0132dfadbd85f0821b8640ecb396c0aa9b05217e3a2b79ec5afa8b30e4dc2",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_knife_08.png",
+    "source_sha256": "5b5d9abb7c476ac3c5ff078d385c0bec5059f35efbf4d051f546f24b79baea86",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_knife_08.png",
+    "preview_sha256": "28b372834fac01a6a4aafed922fd4cc3abc7a4d2f6c8e70f0638f07020af13e1",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/images/tfj_ninja_blade_01.png",
+    "source_sha256": "df936ace59dabb0f33973c6508008196ea3e8d42c585b61a202bbf90ebbaa7c6",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/previews100/tfj_ninja_blade_01.png",
+    "preview_sha256": "1ac4c66bed43e1103afd95d4e710c25caf9127abe31f5298ff4675b6935bb00c",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_ninja_blade_02.png",
+    "source_sha256": "d6c6eee3e3d5b6f1a6bd075e61463d7d6246dc40e8e7817cf1b477c22f31eba6",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_ninja_blade_02.png",
+    "preview_sha256": "1b2caa1ac95bea14091e3b3fc876385573ff02204e315456c04c8cd6921e44be",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_ninja_blade_03.png",
+    "source_sha256": "63fc576e7dede899992731d1fa60986cf28991a2bf23ce176be82c64b697cbc7",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_ninja_blade_03.png",
+    "preview_sha256": "3858091e3ea2709bb5d3ece8c7ef3b8e0e8267aac2b756386d44acef90d91219",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_ninja_blade_04.png",
+    "source_sha256": "c918db31491136d9225491b110ef9f85a9ab4ba23eb3173f932f8c2970aff20a",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_ninja_blade_04.png",
+    "preview_sha256": "ced631b0f16d21bb163c16246eb485d1f93915c638caaf0dcf79e15d81695dba",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_ninja_blade_05.png",
+    "source_sha256": "662bfb1bf05e976634f11bf65651b801ff3c14c8206585e645a6d093c5848793",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_ninja_blade_05.png",
+    "preview_sha256": "bf6873174a87865e6ea2914de6cea7fde6c817ddc2113a9e8aa29d1222e83301",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_ninja_blade_06.png",
+    "source_sha256": "82a4aa2c7d87719145a2963f4e37d9aaf21ed57c3118e08e0f38676e2b7203de",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_ninja_blade_06.png",
+    "preview_sha256": "56aa2d1bf4212664e5ef81e70bd7632757707f6500a2ed4228c36bc10d17fa74",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_01.png",
+    "source_sha256": "868b2758ff5b0fa84b0f71301350612dc0dc41387ac689173dbc77afc9434c46",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_01.png",
+    "preview_sha256": "d3d1e8cab686e873040ab853ed61c7d81021fea056ce1b49092f4efff6fd994a",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_02.png",
+    "source_sha256": "940e5eb61b1f11e8fbf6c128907108780ab433a0f277ea7f70c8bf2ff511fee8",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_02.png",
+    "preview_sha256": "5f1c2b57cdd053b59306ac8814dc21d6b84da658522a2c3d714147f7ab843077",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_03.png",
+    "source_sha256": "13940eb7a955efe832edf9c0f1f9c4842b880a891dcc916f56cacfcc9627369a",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_03.png",
+    "preview_sha256": "ab1c5d5234447b4aaf9df0d63c18256e717ad96fe7706865732a9135b99cc384",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_04.png",
+    "source_sha256": "6df24010f99a74f29ef3e5453c5550f3a77b2f013c994522a4c08e53a0f0c69e",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_04.png",
+    "preview_sha256": "724282574952ed0cf96db1f72c7019b99e4fe8c2b018d9d4f4c69de81d349f99",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_05.png",
+    "source_sha256": "db21beb0648d81d808774ef28efe524b9c411c72994f34004a3d167cd8ffa961",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_05.png",
+    "preview_sha256": "e037bd6757f1e2efc4a2b3063beb30765008e5c49457232886c16a66c888469e",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_06.png",
+    "source_sha256": "6d845a415e8dc02ee346976651336059644cea3563044926c50120506372022f",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_06.png",
+    "preview_sha256": "94bfdf30a602306ab16171bbda65059825845a01817999594e780a25623c409d",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_07.png",
+    "source_sha256": "26b7814c73ad6e0b75b83c1b272d4728af7c125854dff73085ad35d835b9228e",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_07.png",
+    "preview_sha256": "f0bda8abb2d45ac7f387e7903b5a3fd561cb718792cebabee456664857a21cc5",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_08.png",
+    "source_sha256": "539bab26acadb78a934a51308c17b124facc5f5bd65e29ca14dc79d72cc4077e",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_08.png",
+    "preview_sha256": "6c042d6044f5243408ddb820fa64c6d32abdea30bb7b6fb896d872836165989b",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_09",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_09.png",
+    "source_sha256": "826ce97e0e2cf4d4806f925f7e15e4b200ae044a552ff4f52ed633834b73e8ce",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_09.png",
+    "preview_sha256": "fcd179c12be2ba49367e2633dae5348973740b0417d05e61ce762613e9915960",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_10",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_10.png",
+    "source_sha256": "7f2fffff70b427c37b1eebcc29af5a721e69217b5c7c37ee6b7b3343142c502c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_10.png",
+    "preview_sha256": "8e6dd2ac2e68e8f522585f90ba28396680dcaed83f4dce6db750f01ba6d337b3",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_11",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_11.png",
+    "source_sha256": "800440854297c0dce5cdd548f7627b05a8977dacbabe46da7c51776aa7a0ff14",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_11.png",
+    "preview_sha256": "3f0b95c6168bbc5a354778e9c200fafc632f6add75959502b347829e56d2d2b8",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_12",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_12.png",
+    "source_sha256": "12df45b5dece932ac952feff247a9de49087415c7a1d0162a0e0a473ab096554",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_12.png",
+    "preview_sha256": "31d3bc1c6517656aa01d0d8f5e8f18612cf757fe782c9937674f85ad0b1139c3",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_13",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_13.png",
+    "source_sha256": "22bcda06aeaaca282675aa384e6c854f0cb27bfb51f0a96156bc86ce02cbdfc0",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_13.png",
+    "preview_sha256": "2d51a5b4f5a066b93deab5c46db440a32cdfbbeb6e8a0765b5fc6ed192b2064b",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_14",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_14.png",
+    "source_sha256": "7b539e5068a209d36a002e10b77fa4d6361e46b228af1da3ca4ced086bf82000",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_14.png",
+    "preview_sha256": "3f9d66fcfa1dc017099c21bb253fa0262402a067769a3c76aee32d5f5ba2219d",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_15",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_15.png",
+    "source_sha256": "442835b0b825b629e429ad89bc0c8220367596875c49d3ffac0d102a8c94239b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_15.png",
+    "preview_sha256": "1108b43854575001b3979d0a1699bea36686a4b244c5dabd76344b5fa5a7d938",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_16",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_sword_16.png",
+    "source_sha256": "b775af73e2df874a84b2c7b5cb64ebfd85ab2c9c4a1866682b8c05d59e5d13d1",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_sword_16.png",
+    "preview_sha256": "36c420dd7b4de844f66e2d85e96775d8ca5b22bc4937c011977151e9a2d19a6a",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_knight_sword_01.png",
+    "source_sha256": "b2572613c624f0250db1843a5ac7d43e92496f54f703855204e147ab68243119",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_knight_sword_01.png",
+    "preview_sha256": "41cb86429e87b64cd18914524b6a01a68308a269c6a8b1412e28a58128cafceb",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_knight_sword_02.png",
+    "source_sha256": "18c64f84b4820b14ea0c4d9d1dbfb42f16ae00b402b17fa10e0da4abc2ccb6ec",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_knight_sword_02.png",
+    "preview_sha256": "a503fe9972e33f1e30376dbfd16e5cddb860994868e4d9048843ccf4b5f3b97b",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/images/tfj_knight_sword_03.png",
+    "source_sha256": "f7f26f5af0f6675095cefe5428bdbaa3e3fe84b74f3f9f21186db57a8d244bc1",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/previews100/tfj_knight_sword_03.png",
+    "preview_sha256": "46a3d8cece86772f98aafac2bc02460f48b48e60e8609c5c6f0767e0abbf66c1",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_knight_sword_04.png",
+    "source_sha256": "57cbdb514202d364ce4b7a39da5b0741b97e3a1a2b70a60fb4ef7ab4535a0287",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_knight_sword_04.png",
+    "preview_sha256": "58a29d24157d52b29f4d7b650cb393083d8b715e4a40a6a9a40c4613e30e2daa",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_katana_01.png",
+    "source_sha256": "33d10605abffe97998c598d12565bd968cbaff02fa7b06168a308b6a4fe3fa99",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_katana_01.png",
+    "preview_sha256": "5129bdcfdcfa5df0d5690f2b1e202b1826e59c9bb2c7864e4051f13c2d474e0b",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_katana_02.png",
+    "source_sha256": "a3da49b528d73bed626dfaeddf44493b1a65642ca8fe8518534e3e46dabb1f28",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_katana_02.png",
+    "preview_sha256": "7a9e54c6728af531743727bff596db485824a5b7afa165056113e97288560fbe",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_katana_03.png",
+    "source_sha256": "d98bd7378a14892e6c176d883ebd69acb51f005a43792d98aa0be529c4ed724d",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_katana_03.png",
+    "preview_sha256": "3ba5775a8034a5560226578beb9e7174e303f1e1a8d01f1ac2159d7a2ae5ba8b",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_katana_04.png",
+    "source_sha256": "1cb548f3eabd087f1b0adbfc048e450e5fc5e8c1f4644a438c9e63df6964bd11",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_katana_04.png",
+    "preview_sha256": "4766af3a1ec0ad14de4b6bc56af55859878f362e50d05e2201c94f3cb39a8bd3",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_katana_05.png",
+    "source_sha256": "5cd72c00ab4b3547a2ab241f2cbf6ff9c6cff2e4162a30f163d543fdae94204e",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_katana_05.png",
+    "preview_sha256": "933d16db6186075d3208e92be4ea20d72c4040f88ca6d7cb6dc40b033831d56f",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_katana_06.png",
+    "source_sha256": "09dee6336e1f72345b0a06d227a92b76683db3370fec1051bbc8da8ec9bd338c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_katana_06.png",
+    "preview_sha256": "d6d71073f38709437184d61df32cfa89db00be23b9e4b1dd43f715e7ab93fa47",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_katana_07.png",
+    "source_sha256": "150da7087807c2314dcb1249145bdb71b11bd674c599131a5e8f54e18a67f59c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_katana_07.png",
+    "preview_sha256": "2915adc382e9d63115f7a7e9fca7826419730f0fcab713791d89d0783c611a26",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_katana_08.png",
+    "source_sha256": "2a3c41ce1a6af4ffe9d6bff80ab5613c48d35104fbc695d94633b72d2f2c6e5a",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_katana_08.png",
+    "preview_sha256": "9d7e191a89f8f738dcf09211c439b63f8a877bbfe92f47764675b827e68174e4",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_axe_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_axe_01.png",
+    "source_sha256": "fbba1abc1538924dec565cbee766f872340fd019334aa698f5ab70781426c957",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_axe_01.png",
+    "preview_sha256": "09a244477b13aee07bfffd8ad6cc132e0b6230b182006100c4b2270e56fd94da",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_axe_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_axe_02.png",
+    "source_sha256": "e98c1c4ebcc3e748e383988db20a11fec0e5e447cbad2b0445f7cf301b074e08",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_axe_02.png",
+    "preview_sha256": "05268cde6da31f5a575ec273aa5148ecfb0129e1ed7bd5bc867239f50722507b",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_rod_01.png",
+    "source_sha256": "552f511f668c3f94dece326641378857da5de71d74f5c2310baf674dcb8506ab",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_rod_01.png",
+    "preview_sha256": "cdaf775339e439cb5dbe8022e563dcdff561abed1c94292d3954910ca0c14ff7",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_rod_02.png",
+    "source_sha256": "b34271645dc9f01b9a8a1498e2fdb99a9d721a71b92e24a0c397725409aaafd1",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_rod_02.png",
+    "preview_sha256": "539333d17223cd8b0cbbf7e8a1dfeaeec9aa00326b3a8369db2edeffed5297da",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_rod_03.png",
+    "source_sha256": "91b70419c3ef6b699e0046ea9af02f66cc4823a0bef25edc9776122e3e1a1a16",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_rod_03.png",
+    "preview_sha256": "82cfaf26fa991e8db2a0afaf22e5540e0d5a91868ddfdb351cdaf8068e2f9cc2",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_rod_04.png",
+    "source_sha256": "4e51439c137dbc4aae4f067c786fea3a1fe1effb10749c0c3c7c0d504524438c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_rod_04.png",
+    "preview_sha256": "b1f48382324d7658ae445319ef57040b1d52154181bea18e05bcc18a2a44e284",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_rod_05.png",
+    "source_sha256": "49ad105ba224076845508a5556ff6b58f89b7eff1e4654e92347e5f3b2eca1a3",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_rod_05.png",
+    "preview_sha256": "0acab863fd7841bb4c4346ac3f2a66f3c5897476bd4b996aae647fe31238109a",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_rod_06.png",
+    "source_sha256": "998191944bffba96fbeab072888361ed17582a238bd44bd95dcf610e67bab445",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_rod_06.png",
+    "preview_sha256": "c5b6a15f4d2282d3e2ae6393a50de83c92598e93d13bf8a96c36b3e0b6571c0c",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_staff_01.png",
+    "source_sha256": "996de2c3fa6cdd20c3b4aaf507acf9c6ef76a3e1372847895503904891a69759",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_staff_01.png",
+    "preview_sha256": "28f8cc5ace3e2c491d47d2b28b9373ad19b87606ba78b6f23fdfbbb10b70b816",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_staff_02.png",
+    "source_sha256": "af71cd9cfa1a46fd45749bd171377ae843c730c60ccc83f85d793945df766f30",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_staff_02.png",
+    "preview_sha256": "c1039ac022119fb6f84153b4325210437fb7a0c39e86e93426018132e7a35a51",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_staff_03.png",
+    "source_sha256": "204137cef861eeed1124ec165fce2221d349f17a8fe8dace7f06aab7e547224e",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_staff_03.png",
+    "preview_sha256": "3fb279c521581935a94929f5a53b5c81074a4bf45bce2ac75c2e4807bdbc92d9",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_staff_04.png",
+    "source_sha256": "df7de3500a56a9cfba43ba516eb293717be12160a973bddf97482da9f0eeb46b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_staff_04.png",
+    "preview_sha256": "ecfc76a3de09166908a18e1e979f463d4e4444591191898368c996c769e20174",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_staff_05.png",
+    "source_sha256": "5be5b6acb45acc438ab535ebe8b69158a8bebfa2b6e0af0ac9e9e762d10ec2a2",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_staff_05.png",
+    "preview_sha256": "e8616e06297d42c47f60accc0789754c44d26857ea66215b8dfa32090f75f39d",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_staff_06.png",
+    "source_sha256": "b83327a99132f2140a85d8848dd8c173d2077a406ed18ae7ad17670b0f356c46",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_staff_06.png",
+    "preview_sha256": "302191fc30d5bf9675513bc4f130cb009c2734a786a7b27e6d2b072782740613",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_flail_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_flail_01.png",
+    "source_sha256": "b65e94ace1489a8dd7c264b3fb05c804daaa4835ccfbfb45331f9bc75b444bab",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_flail_01.png",
+    "preview_sha256": "4892f0d5d4a29d19eae2fd1446836d489b5b240da83bb282d87f9909d993aa50",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_flail_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_flail_02.png",
+    "source_sha256": "133e35f8cbd2eb61bd2b2cb7decc9d9d4e24548a09a2a04bed3c3d91fcf95b21",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_flail_02.png",
+    "preview_sha256": "30cf7e2eedf986f2a06e80a4fcadfb790c67761f5c242958eebbdbfc96be1578",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_gun_01.png",
+    "source_sha256": "9406206aaa6351482ec8baf09d5d382e4c2a0bd670250f2540cddb0736727d10",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_gun_01.png",
+    "preview_sha256": "c29a1a8e65d5f1261c7ccdbe51d78855aba84a10eb9bccbc7e696224fed46630",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_gun_02.png",
+    "source_sha256": "2896c7327098f9ea9da01a883937471527910e465c7e2124a2343f91bf0ef7b3",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_gun_02.png",
+    "preview_sha256": "3771e419c79f2c3de04bf40f8e1da23f460bdd11fed61a4423b1fb27c776d1d5",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/images/tfj_gun_03.png",
+    "source_sha256": "296a62c83c520daf5d33a5333414ce9f749ce4c23593692168155aacde3c1ea7",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/previews100/tfj_gun_03.png",
+    "preview_sha256": "d6601e8e05cba212594e5476be8034714abe217be14bdebcf4c6020aa5aa4e92",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_gun_04.png",
+    "source_sha256": "1ca5d542a1d51519602b134ea0c42754036af18a9f891b6eb0dc75c12a5a05f2",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_gun_04.png",
+    "preview_sha256": "18fe5c0e6b23bf26616e3d40f5366e74825e12d2111aa78442751e71b91c854a",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_gun_05.png",
+    "source_sha256": "9643541546228b76b66ec722d00e6f6477c9a1bfc155192b75e0a50e561ae9b1",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_gun_05.png",
+    "preview_sha256": "1b41e8232adfd998e787ff876808cae6d8cb4ad381fe8e9c50513e8091017f3d",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_crossbow_01.png",
+    "source_sha256": "9049090bd912a14b666e91f59f54768a980b5385ebb9cd110d7c71501c915f72",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_crossbow_01.png",
+    "preview_sha256": "226c8790dab56605082a60245a8f677bcc1392c1f69686c21cfdf1d712701ec3",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_crossbow_02.png",
+    "source_sha256": "22005ca897c00a30d180c195100fdef22e71410e08dce4eb83726ffed40a3bc4",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_crossbow_02.png",
+    "preview_sha256": "4928b874210bb739882c652b9a1bc0dce5528e3f50cab2172dc6b1a715d18d8c",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_crossbow_03.png",
+    "source_sha256": "517e26fa7105ab8a7a19e2e5b9959c942415622de978e0eb5d1c141b651b4753",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_crossbow_03.png",
+    "preview_sha256": "89f2b56d6981317464c98d7d4309e595e1f26945dc1c8bd379081c4ceded4989",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_crossbow_04.png",
+    "source_sha256": "c6dce04d11ee1294f343a0604771602f758520ec420ca847a3aaa9be442fcb54",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_crossbow_04.png",
+    "preview_sha256": "f10c40e34e2f03491fb401804fc3e2697c7a7c688def25e08fad1416f00b167f",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_bow_01.png",
+    "source_sha256": "5869c91f425b113f88cf2d8812d0f5576534c8291f94d5306ff3720806c77cb6",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_bow_01.png",
+    "preview_sha256": "9e6318c3858746f2d40ff666d91e1f86d4192e42f06dd702c5803758687db878",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/images/tfj_bow_02.png",
+    "source_sha256": "431aea94ab4ac62db83b2e4942d7ec17037701e1f87ecf8cb6bdd8e10308f6f8",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/previews100/tfj_bow_02.png",
+    "preview_sha256": "3e90625373cea76126d78c2e6058816c57797dd0af2e076466794d76ad8c08f7",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/images/tfj_bow_03.png",
+    "source_sha256": "2f0c7f72d8c930507332ec5105295034ff3fe017f6388c6b21f78dda96e7f078",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/previews100/tfj_bow_03.png",
+    "preview_sha256": "347fdeac5f2d31de759fe1e591f1cdfaffcd5c81461a14619e23d48c92945712",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_bow_04.png",
+    "source_sha256": "dc7dcb2abcee1494b2332d36a80fd6f3e2293b558f7b60a57623ee3178107540",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_bow_04.png",
+    "preview_sha256": "e82b3b62c10e9885d6d6c69f8be44ab8ff97eb06ce144e6c680b1a95a3ae2a15",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/images/tfj_bow_05.png",
+    "source_sha256": "cd1c2fd3e79f1665738ceb90b97518728f6956841afff89a276045f8fd0dfaed",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/previews100/tfj_bow_05.png",
+    "preview_sha256": "d26a8497c3ee60dbd9ace30b45efb5f579ac74040f753f0eeffea66687e9f4fd",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_bow_06.png",
+    "source_sha256": "06de76cc7176a11c466db60808780ec93f418478a435487546ec6692e04cae31",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_bow_06.png",
+    "preview_sha256": "1abd7a016635ae78d588b508b056252f0374149f998947c68d2335dd1a46b5cf",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_bow_07.png",
+    "source_sha256": "feb306358bf5318a8f31f016710bacf0112075a9511762c22e72e5cb37be5288",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_bow_07.png",
+    "preview_sha256": "edc12ac11cc8122c252c6ae23094a5844d1588339615d602fbb7223857fe8a17",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_bow_08.png",
+    "source_sha256": "d956aadaf0983659c26efec2ba5013db04ea9ac11d708e4871f6e0c6349f56fa",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_bow_08.png",
+    "preview_sha256": "1b28b5538669681ad03767553432328be689a3821e0318ab621e56cfe5e90918",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_instrument_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_instrument_01.png",
+    "source_sha256": "af87f21fb747c20926344ea6ac5fe930bfbe1b8ffa2d26b39dc1583bf14c7eb8",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_instrument_01.png",
+    "preview_sha256": "b518c5e0f91e427da63d49c7bcc48e24d7a34cc718afb487f8bc93173d91e331",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_book_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_book_01.png",
+    "source_sha256": "4d185c72572bec52a256766317afbe9ab5a8319df2e9dc2755d571f14dd4a39c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_book_01.png",
+    "preview_sha256": "d7de77f40bb9489510888c02c31736aa1eb01eca5b6056bd854c2af41dfefd90",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_book_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_book_02.png",
+    "source_sha256": "88802f075bdd0b716548498e882f4402bbf67b78f4200166ba54cb72da2b263e",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_book_02.png",
+    "preview_sha256": "fd6aace6ba7def3a4a8889e86c744c49126e72fda369567f4b37a8db93bc0041",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections-last/images/tfj_polearm_01.png",
+    "source_sha256": "52e6b568e1d316a343bfa1736724691622f8ac0fa34c3c1d3a7a97d800df93d8",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections-last/previews100/tfj_polearm_01.png",
+    "preview_sha256": "23f96317026e615cc1028004cf97fa79b8b3f008857f77a859e3b1448d892f30",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_polearm_02.png",
+    "source_sha256": "44c3eda4187deeab4ab01dbaa6a43453e340dbcd93f6bf9b4fb90291659e2774",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_polearm_02.png",
+    "preview_sha256": "a1d672b72fcde93118988b4a9d94e638fc87c7db1ca26188c07ba14e7317a34a",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_polearm_03.png",
+    "source_sha256": "c95d3048b83fb348d1e46c674db24298285f88b16388e7b4ceecf6fe44fc5cb1",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_polearm_03.png",
+    "preview_sha256": "a06fb11cb368be38fde10c8524dc3c481e6a6c1ba975714e27fe58b0aa437d58",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_polearm_04.png",
+    "source_sha256": "b79a45912f90e40f1122194adb105b09271709ae2ad9ef12b6d54c75710bda4b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_polearm_04.png",
+    "preview_sha256": "d94a0cc8d08612bc9538cdf0743d2ec06acccea6b66862810fab05fe366b0671",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/images/tfj_polearm_05.png",
+    "source_sha256": "aff94c7fc6eefa164e2dcd4cd32f4b9e522c75d371ff5c6a2fe3a2ee4329898e",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/previews100/tfj_polearm_05.png",
+    "preview_sha256": "f3c9806e26b1745819158b19df48e4fe1cdc6d54ee19703802a2c00e1eb2218a",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/images/tfj_polearm_06.png",
+    "source_sha256": "cb7031dbe39427f85ca8fcc1bf70a29d1dc2cebf876eca9e0ad8b7236507b3fd",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/previews100/tfj_polearm_06.png",
+    "preview_sha256": "ab7c2168e1822a8dce20ad8d0eab36fc1ae663870d48e80bfc6789057e109c8e",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_pole_01.png",
+    "source_sha256": "f567f7dfc59efde5128217116dcf779702638417ed6c8b91a8899690b4506fd5",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_pole_01.png",
+    "preview_sha256": "4870628a3c76efe252fdc026fec45ee6343855e003193c35430132ebc5ee3316",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_pole_02.png",
+    "source_sha256": "744ba4bff5cbfc2187bf5a9f8ea703c57a63e8831040b3e5f3102d6a7a9393ae",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_pole_02.png",
+    "preview_sha256": "73028138ec2485448bf7133d47297b6050509ea72a557c39556b89df5957b0e2",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_pole_03.png",
+    "source_sha256": "a9dd3cc2c4d7121edf0f9cdb554d0c9992ae0f124dbee97aefc863f1ac805fea",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_pole_03.png",
+    "preview_sha256": "8bc5379a78d5284a5ab4e4f7ea3bba992718ccf3883efef65de5331be485ac90",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_pole_04.png",
+    "source_sha256": "1d61345e72be738c2d3a1a0c8f50bea5168b067d1a4d760ecd2c721622df081b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_pole_04.png",
+    "preview_sha256": "0154418ed671becaa6b7a3c3fe58ce301350bcdc44c67b5d96a2cefeb65cd848",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_pole_05.png",
+    "source_sha256": "5321e071ae3c7ea8fad0d71811a889713d16aa20c6c9118ec65ec0a94543ef7a",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_pole_05.png",
+    "preview_sha256": "8be31252fc880b0bd31aa4e624161b577383a3359c1de44294de7424855d1d97",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_pole_06.png",
+    "source_sha256": "fa623bf6d43339fabd97e3c2dcac183a1f62aa5172ee5daa44421745d661c0d7",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_pole_06.png",
+    "preview_sha256": "c2b0e8e9e578a0526368fbe5f4ea111ee145231cdaae8c067208103a4c6497ec",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bag_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_bag_01.png",
+    "source_sha256": "af6ff63aea6c9a8cc2aad643d5b8f2ca17511c4ec46b5ec61958ab32c136d16a",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_bag_01.png",
+    "preview_sha256": "891a85428f058ebebb69c1bb02eeeda0840ec8fc826d77ecdbdf1af48b19dac6",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bag_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_bag_02.png",
+    "source_sha256": "b17cd24b7d40204d0d9925ec65f8fdfa928195e4dfaf5cd861b944e3f016900f",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_bag_02.png",
+    "preview_sha256": "ec24f029b10a60063acd4c7c7b4a8108a6f532ff4dac1a7d043f0cc777d5a734",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloth_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_cloth_01.png",
+    "source_sha256": "f2408bacfedb2c807085ad9833da09643b26379cb6b630b0e4ad18d99fd7ba03",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_cloth_01.png",
+    "preview_sha256": "9f0a4ad40e87e888c6da36a949571a95762213da936544d8ff701bd314995c9f",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_01.png",
+    "source_sha256": "904bd45e4816f2cf3070739c902cc7d6677b6b764ca130d63b3be0643568ad05",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_01.png",
+    "preview_sha256": "0d459144148e54b58f220f2e01ebc5720bd6db2568a3273d0dac747404cf06cd",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_02.png",
+    "source_sha256": "ec2294e0869558030b83913ac1c939b6b1cdc764d3edc71508867a61d4050017",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_02.png",
+    "preview_sha256": "1f2b2730866fcf7c51c5751b470427c065523832117d69d0d42418928b2222dc",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_03.png",
+    "source_sha256": "5a392946be459f3528282a309750c9f21ff94950119cd7f3afdacd6713163b66",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_03.png",
+    "preview_sha256": "f04ac0e466fcb492da65170efe6f4a573164ebe65521d51dd04adc19fd50fea5",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_04.png",
+    "source_sha256": "5e64bad31c79935f0549c328769ecd8471df855b1fa2ce4b7768be93a6ade46b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_04.png",
+    "preview_sha256": "60a6483a7ada2d7e91cb63f4cadb3141f8519929d30cfecddd3062277ecf5c0a",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/images/tfj_shield_05.png",
+    "source_sha256": "b6111cb991f02805d70a33dc8915f43153a114fe0b8ef9c30c8a0ea3323ebedf",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/previews100/tfj_shield_05.png",
+    "preview_sha256": "47f49255fa88ac051e1d016ce3a53fcd0a7d68fd5f81839dc740c1f92cde3ad4",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_06.png",
+    "source_sha256": "a19bf21efebf0085132f48c93d3ff6ec7b87a23b7b29dbe0efa53ed44484f07b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_06.png",
+    "preview_sha256": "995e9041ebbaee5fe8f487fcd40c2d469bdbdcc1677ac02edba0d9a189dcf96e",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_07.png",
+    "source_sha256": "81ba878c6b4a3ad758e9cd130e09c3be3bea81b9c931fc99eafd0c17aae00326",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_07.png",
+    "preview_sha256": "a14abce8550181f975ba3adc7cb62797382c4ee5759dd5be511ffbf965b60473",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_08.png",
+    "source_sha256": "5fa3802ae5eacc490131b5f9fae146d69293b3b93865454f2df63cf2a4d4e8c3",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_08.png",
+    "preview_sha256": "92c8e6d1cb6761341d2b8ee2e8e4b36f30db566a7316096e6284d50596db3a4c",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_09",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_09.png",
+    "source_sha256": "87ff6f0ff6578f08505e4b91de245b4f59e0db806b96a13629b80b4f2ac63eeb",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_09.png",
+    "preview_sha256": "6867f303e85e48e4f7880d5b395c73a8792a6ae99fcf17baefcb6d708526b977",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_10",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_10.png",
+    "source_sha256": "19d27098ab81eac2cf605aa7d75b55c830eae452fb175279be7cc4b0d00cbc5d",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_10.png",
+    "preview_sha256": "19c41325cb93403f5957154fba66a0c5e3820c019bf518b3e2183b75d28f7d32",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_11",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_11.png",
+    "source_sha256": "9c347324979e1104a0c0c8195b66d15f93edef65bd9b0be46a80b1a88b32fa9b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_11.png",
+    "preview_sha256": "015d15e7fd084b26ed8d4fa2a8134da45cdf62920ecfe20eb7e9a3654bee7dea",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_12",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_12.png",
+    "source_sha256": "f561547bfa9f10ab712ccbcd120b407755919961b99eb0e2c20b6211c2a22fc8",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_12.png",
+    "preview_sha256": "c5aa1ca169db5bdb2837c6ad71fb16d51a921baaefe53e6f0c76f91238893549",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_13",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_13.png",
+    "source_sha256": "62d0f3c3036ed997c8b7651e546fbe58f0e11dbef21d8d319deaec0c4f7517d7",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_13.png",
+    "preview_sha256": "7787badb06631abee984c334dc88cd74a2a9cac442ea98014f3a282327b54e3c",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_14",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shield_14.png",
+    "source_sha256": "43b374af68158b6f3320d3daec93a4fcc83a158a9fcdc3ec9bae7b84eba921a7",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shield_14.png",
+    "preview_sha256": "b11796c79fbc49dfcd110df116f9c27c7b2a28c25fc5d58260ace56e9e57d27b",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_helmet_01.png",
+    "source_sha256": "6e2899e308945c706eb3dec68bd8d2602077e170a89c346c3b2ba771cc1aef46",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_helmet_01.png",
+    "preview_sha256": "b572adc9f015aa31902c5d1ee45ace34a5862d9cd2e0d2509e66df5609926b1e",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_helmet_02.png",
+    "source_sha256": "129055441bc967be34a01781ca6e3c67006ffb79cb68ea94a59d3dfad53346b8",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_helmet_02.png",
+    "preview_sha256": "fb6229c88fe6714f3f1a45aa26a3ba5faaaec791ec781fdce756e5a47809153e",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_helmet_03.png",
+    "source_sha256": "58f628cfa87aa8668aa5f9b9e7613bf5b5926873b43a02bb0cb9e377daaa2b44",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_helmet_03.png",
+    "preview_sha256": "d843422ce7f1467a1a6490fc2348ca1ed80646b11387d76a2bf24c7de97e744a",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_helmet_04.png",
+    "source_sha256": "f7298e391aced8544dae95ca4e2b87232ab7ee526734f2850b8eb6a82effa20d",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_helmet_04.png",
+    "preview_sha256": "95a9fc67109d0f770fee381269999d80c7f05433d126f6848ceea5f75dc6a42c",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_helmet_05.png",
+    "source_sha256": "9e085745dae49ec5390c080d9f3ef8e8019a9212d9f77948a1ef0c13fa4de216",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_helmet_05.png",
+    "preview_sha256": "836c631f038ed62e9793077f4b05bec4269d73f58ecb2e925b881fd75a185b5d",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_helmet_06.png",
+    "source_sha256": "1f658f990a11f76553632f556de1ac89865ea573ec54680845fa72dff56485d6",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_helmet_06.png",
+    "preview_sha256": "419bd9ead420ce24a006e0b5ad20da68aa69c0665a87a51a682a7e1ba92d0905",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_helmet_07.png",
+    "source_sha256": "583d1c04ec0b610014149c83ba5e257695e01d7ff2a41155ddd5c80d73206df7",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_helmet_07.png",
+    "preview_sha256": "b1973ce8ed472f5703e05200cf06be6a15d53315bc388f813fe5b16dbe6f0591",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_helmet_08.png",
+    "source_sha256": "dfa856b2d61242f345e5853e325ec1baf5120d4fb6abb815d768e18a6f62c1f8",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_helmet_08.png",
+    "preview_sha256": "754bb70bec4935e16981971e542978113fcf464ea555a5ccbf16802ff856a0a2",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_09",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_helmet_09.png",
+    "source_sha256": "90a36cca4c2fc2410f3d07094c0ee97370c93093a7fd6f1f8b2ef09e090ae0ac",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_helmet_09.png",
+    "preview_sha256": "f70cb53f008ed53b6941150e85d7ec5ca2d1f189b45f9a5e57f11c784c6ac8ee",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_10",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_helmet_10.png",
+    "source_sha256": "257bddb0ee9c8bf68e3d7e9a8db53e6612da166cba7046dd41757ee14e057423",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_helmet_10.png",
+    "preview_sha256": "95ac2a91bc4c1a4cc50b44711d4b4b65493bf9443fd00a7d832bac1b311375fa",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_11",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_helmet_11.png",
+    "source_sha256": "6f62ec00e973ece91ce368029115bf81b6ed68b846e53a39ab7981ccebd2f2c6",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_helmet_11.png",
+    "preview_sha256": "b53f6963bb069707d2433a2ffb940f6d3acd7d6fa3e57f8f3ecc8617767d389a",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_hat_01.png",
+    "source_sha256": "06dfa850b73cfb1eed56a390b5ba813ed75ad707010259e70d7084fb98f8876a",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_hat_01.png",
+    "preview_sha256": "2e12bc6844430090ce4db928506b1d07f53cecb10ca7c46bdd9d6d975a76cddc",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_hat_02.png",
+    "source_sha256": "e2a3d487973c2423855974d1da0c270d1d250b82bdfb14f7dab68a4595a87a2c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_hat_02.png",
+    "preview_sha256": "60bc55519dc4e41ccf7c72bd4686d536de6db1e25071dd1c17db6eabbe5e2f78",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_hat_03.png",
+    "source_sha256": "8e3bdf77c80faff41ced96aa76c4cbc8405dd8298dce78e5d95dc3a0ffb39194",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_hat_03.png",
+    "preview_sha256": "86e1fb6e0eeb35f2eaa38a550a4bead1ebe70a841e2dde0f7a92ca89978e140b",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_hat_04.png",
+    "source_sha256": "807ab77533b2b4f56391363e1962a1313fd2715066405e141437d0442ca68d56",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_hat_04.png",
+    "preview_sha256": "b5cb5974825fab9a1ba533a58fa01580885124be9528047f36b697eb1f62345a",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_hat_05.png",
+    "source_sha256": "bfde904016846aab7f760f003bd36942cb76d775e71d5c804de4729e90f3a02b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_hat_05.png",
+    "preview_sha256": "4a714c5b50f956d29478d7fd3b367dfa72744750563ed374caa0f9e3589cbbcc",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_hat_06.png",
+    "source_sha256": "24528968244afd5457a7d475b4c6d5e4a463b71181005b72727248106d494404",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_hat_06.png",
+    "preview_sha256": "5685ab70e39ed4c9602cb6509aecf95ddce7c86ac110824e8c10a2d923c43e2d",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/images/tfj_hat_07.png",
+    "source_sha256": "0dc630cf084ee54f05168a0b393c453e1837ee9924cbbbf92be3009f94c0da67",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/corrections/previews100/tfj_hat_07.png",
+    "preview_sha256": "a89292732d5a157826a3fc324ed11244ddd2333fbb4e92290f71cbd85875c1ae",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_hat_08.png",
+    "source_sha256": "14fe84526940701b9592e160a80a0c0d56551d44410362026cd82fea6e0b22ba",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_hat_08.png",
+    "preview_sha256": "f65098b47c388c85e6e06d3b18c1e974b36c5e6dbfa70afb0dacea27b3151869",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_09",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_hat_09.png",
+    "source_sha256": "745c3cd19277576e8b017f494afa943edb8db522074d72f2bf551c00cf349a26",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_hat_09.png",
+    "preview_sha256": "e4aeeaa4a68d460ad3dfdd42fc3ffb0c815590d53b31271b8ad75d697f12e386",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_10",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_hat_10.png",
+    "source_sha256": "df7df3b3dfcd70276926d5102b94b81207ef61bcf7311e47d91249ceb43b1b96",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_hat_10.png",
+    "preview_sha256": "331a9e3037f783906053acd9a2224b6e6cd47ad252329d54069709aed5e68262",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_11",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_hat_11.png",
+    "source_sha256": "b396715f4cf1cbc7e1f1d6763ff8fc89a15d97214d6bd6049fb6b7474fe94a58",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_hat_11.png",
+    "preview_sha256": "32ef5fddf112e5363271ffc2efc6116a160e83905e0b922793c9e3a5bfbe9aca",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_12",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_hat_12.png",
+    "source_sha256": "dea93e1b6e73fd6741b2d96c05ec3972c2e4e798fbec06c6eea2fbe0346bd6b8",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_hat_12.png",
+    "preview_sha256": "2e2f57e96b5c2b66be21445eaf348595fc5f84a567e4771c08f2a9d7c43ed73d",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hair_adornment_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_hair_adornment_01.png",
+    "source_sha256": "51a899be9dd46682c4eb127084c4bb9231d32cd74e926b5766441212b1a4f91c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_hair_adornment_01.png",
+    "preview_sha256": "bd3fd213933aaf7822bbbcf11a911c0603bb973e3ed4a5e8ec34e970ec77109d",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armor_01.png",
+    "source_sha256": "4b12cc1bf811c7d4dce693d620840c36e3b706915dfeab8bfe462368f453b8f2",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armor_01.png",
+    "preview_sha256": "9a7f0db86239509ede0e7e62f6a6b234cdba9462c54d4a1b2cb303f3fec1d5df",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armor_02.png",
+    "source_sha256": "354f83c2fef54c0b73f6f30f6b226648f8f51e6db0ef603b28cc96bcc4d66cbe",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armor_02.png",
+    "preview_sha256": "2148682e4443d9e2aafdcfc5b202847af70ae11edae74a2401710c78a85aedde",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armor_03.png",
+    "source_sha256": "cbbb8e5c1a22451bcd2be97badcc0e9507f77e914779ac810f58847a7485c53b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armor_03.png",
+    "preview_sha256": "c94e6e608c61b71b3841af9859d4aa2bdfc20f2310f6d62c57ed45de3ac4bd84",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armor_04.png",
+    "source_sha256": "c57b297dcd6a50bb61a6e255c582d6a705becc72afe4ed858aae51dced143785",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armor_04.png",
+    "preview_sha256": "1d421e3955ff707b31a9d47c2ec75e90258e077beec5e95f8c5f2f976408c730",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armor_05.png",
+    "source_sha256": "00759c2931eb9e6286ad1647d02f33d15613ccd331f70d5f5a1a7ca26f93cfb0",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armor_05.png",
+    "preview_sha256": "1a6625ae839e9dc5a82450bca8215b8ef4dad95a126ba7af03b8bc86b44b7fb5",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armor_06.png",
+    "source_sha256": "0c99ba2fbd33de1d9e6e8a3700eb4b3ea5d11f3f4b6d600c8fee0352c597c114",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armor_06.png",
+    "preview_sha256": "7a0d9b03482144c40f661d70b6cda499bb3c1cd8a933672cde8f668e692f5ca6",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armor_07.png",
+    "source_sha256": "e1bd511ce8c372aec1ce7618e1167b2b7292140f9608bf4f8b27b560453f6907",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armor_07.png",
+    "preview_sha256": "644bddc34911dd68b6958748ba5f2135dca72e7ceb776375d4a3d9c0cf979b08",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armor_08.png",
+    "source_sha256": "467a5c16e02fb2cf19eb8c1c359afddba9341bcaba1e8edc073bd3cc9fe9a616",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armor_08.png",
+    "preview_sha256": "00377d1a305661554f13863f5f63d3c306e1e7a897e3ebd3523a6884e3e2a797",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_09",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armor_09.png",
+    "source_sha256": "919ee1f0877c54d148eeab1b9491d57bcdfe82123bf1b1d873a6aa363a04bd56",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armor_09.png",
+    "preview_sha256": "4b3bcb3597fd2fe666ea9bec2596523b8c74990b7e313d1fd02eae65ef04234f",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_10",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armor_10.png",
+    "source_sha256": "0e06e59ed9714804541d53c865214c962e8eec8e598347e4192a0544938da170",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armor_10.png",
+    "preview_sha256": "a3f2fb1cc052cbbdef2e93b65dc2818cfa3b2ce40e7a7b3445572e98d662f58d",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_11",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armor_11.png",
+    "source_sha256": "e7c44b024b886e0030438a055b96c7a8812a5002f88b7f8fd9eb0e19b027309f",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armor_11.png",
+    "preview_sha256": "9fbda209aa8607277fe2bc38a9a1f6238c9dead1320bf3704dbc1388c8999119",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_12",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armor_12.png",
+    "source_sha256": "39edf3b5f57f2c1d24f9d62b72aca8cd1b3042e02344481b3da4f952def4b70f",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armor_12.png",
+    "preview_sha256": "32afcba64cf4d113dac22c7bc172aee8664e9e0628ff9d82723f5f1fd26dec26",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_01.png",
+    "source_sha256": "c3bfa6c4b1aa317102a7fbbe80c403fbf6921a995b27610001b5e33c1dca08fb",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_01.png",
+    "preview_sha256": "90013c445866c4ab03b2e8d8db802765f9f4de17d6e7bbd62f671f92a65c4aa9",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_02.png",
+    "source_sha256": "afc0eff4fa15324190f6ecdeb2d9256ba5116ef61f427abbc46b7550d7eb16dd",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_02.png",
+    "preview_sha256": "4de7ed1ce3c4028bf667a464417fbcee7678badba082aac1c15ae2a42a697e6d",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_03.png",
+    "source_sha256": "fe28ec96e681fbcbf0e82220046e36f0da0a61f605fc59f589d0cd9da889ad63",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_03.png",
+    "preview_sha256": "2605d7faa1a0aac76dc5ad16b94d0cd67575ac0f8258f58eee5188b4a3b1ac87",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_04.png",
+    "source_sha256": "9beb57a21fa7282fdeec5992c316372e2b68fef0f9f46f4b47f90f81cb0037f4",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_04.png",
+    "preview_sha256": "1832de233e8d4c9a8cf5b652421ca53b9e12374be52325c7da322bb67d1083c4",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_05.png",
+    "source_sha256": "89ffd14e27d27df9247bd4092a58e34562df1303b4ba05c574709a0e14e6d1d5",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_05.png",
+    "preview_sha256": "de42d12fd360b604c1f381aad6cdcddc894dcae1bb94312f2ca072faf6574e61",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_06.png",
+    "source_sha256": "a5fa4594801a94e630c02e614147b30b516bd9729da24e20548b76a19ce759e3",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_06.png",
+    "preview_sha256": "45f32b04ebbdbea38e0749975ab7e30c1a1bcbe0d368f541070d8bdeffd97e52",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_07.png",
+    "source_sha256": "a3e4d93239922e8bcad3c40578f04451e4a9f82bf23d8049909d50ebb4fa4700",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_07.png",
+    "preview_sha256": "07d4dc454b837c0e484ba4cd19addf4ff84279d2a036fd1026ae9f53f0e29997",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_08.png",
+    "source_sha256": "11006d3cb67f80b5d04b2796cd8e95b4c09246bdf8de29923327b4ae3c382f8a",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_08.png",
+    "preview_sha256": "946260032888b7ff0c50a31157a47ca3175fad0dbe39f032cb2faa71e05c854b",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_09",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_09.png",
+    "source_sha256": "a6c1198685e5f34134ddadc79f87665c458debaaf2318e23b7c0e4ef17548a0f",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_09.png",
+    "preview_sha256": "eea858a0563fc7eb8ed50f44978cd06c253a2e62f22971d1ee2a6ca2a8d5b438",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_10",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_10.png",
+    "source_sha256": "c5cbebbd7c2d39db265528090b2fcab81d78982b2933236022a56e0ca9cf456e",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_10.png",
+    "preview_sha256": "e98f67809fdf25b62e3d909ebe536a3612574c042aebbc2c11117826e2841d97",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_11",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_11.png",
+    "source_sha256": "897ef0d3ef4f008daed8c4eebf9909e160f74ce2ed54ae3083a79d0c23abf2f9",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_11.png",
+    "preview_sha256": "3b42048c2d054dfdca2461be6a952467c2904f0410f4820a214bf57e0daa38cd",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_12",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_12.png",
+    "source_sha256": "1321ebdf228287a7b5962a2fde0cf5bf3e07c596bbafc3ada26cad53c1de1492",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_12.png",
+    "preview_sha256": "4ad542052b1b7936a61c4c1895ad2722fe9701ca82a089bb07135841f7391d4e",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_13",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_13.png",
+    "source_sha256": "3ced6e094a282412c6098b57c738f0166022f4e60b6bf6bf6e5da45c4a5f3285",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_13.png",
+    "preview_sha256": "cf948f9c0120864de6737ec36c39a1fe299f090d02b3a17db962d4217afca909",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_14",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_clothing_14.png",
+    "source_sha256": "1b31c9bc5bc1084fee75717aab438671f11a6117ed5dae6e7b0ce15a77077481",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_clothing_14.png",
+    "preview_sha256": "bfe29e76653b4178bc8fb914c1d7180f630a637d609cb05fee0245f90a57d156",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_robe_01.png",
+    "source_sha256": "8477c0336eea8d0b6510ff9754c4d359c9c0b3f7d1a6ab75f3a4e1150acffa07",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_robe_01.png",
+    "preview_sha256": "c4c04c0c68a39568382e8730b69eb931fe84fd3e4da598cc91c91e69c71876db",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_robe_02.png",
+    "source_sha256": "807a3b12fff2ddc1d334f62587d26e7fc3c2152d009f6bcc1998045c026319a4",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_robe_02.png",
+    "preview_sha256": "3ec3eb79d52046c1804cb29050142e1b38abeb2f9befd8af1d19ae40d15df910",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_robe_03.png",
+    "source_sha256": "6c8b5a84b23009f518be5ab7e57789c804f8074fc89e73e57d98a81115e5c801",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_robe_03.png",
+    "preview_sha256": "5520c9986344f54f862770c5d4fe251ded794586dbcbb44f6cf8b549f63abcc6",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_robe_04.png",
+    "source_sha256": "1a10fa5cf8fa67390bbf454e992a1c2652097fd5a98e17fed5fee4ae39b015b4",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_robe_04.png",
+    "preview_sha256": "607557bd35ea245e51b6074347f7360b5db43d90385733ad176a07b91e614586",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_robe_05.png",
+    "source_sha256": "1c7b228c11efc3112da94d12db5bd9b79757bc8a81b035ce14cd6487c4e4d076",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_robe_05.png",
+    "preview_sha256": "3127886c1ecf16e42711657503f66aebc73ead4ccae5b5d8fb3751da9abf2d93",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_robe_06.png",
+    "source_sha256": "6842b878b09426baca35e4892ef0ea93173a648c7511911f14fe08b777403975",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_robe_06.png",
+    "preview_sha256": "9747cc00ed44b83a704a125d61f24be8b6e845f12b98550153503428bfa39f19",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shoes_01.png",
+    "source_sha256": "558ecf69a0bd584fd8b78553b20808abb65b960de88d01061d014871ba367578",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shoes_01.png",
+    "preview_sha256": "ab02c787fd2c26f9ff49c317959906fcc4df59951106aeb02832c776a9538862",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shoes_02.png",
+    "source_sha256": "ec89256bf7b22a2cf7d769144cea649877b3e6a91449d73056a61ddd94a7de97",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shoes_02.png",
+    "preview_sha256": "3358675f5a47994918f91212c28034f26db8a65df1d4ee6ac7af06a71a801aa4",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shoes_03.png",
+    "source_sha256": "7ccd46a5b10e5be74e0f69adb71e87056d304fbde3e382fa39bef1aad48e2a9c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shoes_03.png",
+    "preview_sha256": "ef8124e6948e7328d4a377177f540ce82838af8bd435bd944941c6c1492f71de",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shoes_04.png",
+    "source_sha256": "8645bbc7b0100c8fec046fa44ad513d105cd9c4bf3eb1e237e85fcd9712f9c9d",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shoes_04.png",
+    "preview_sha256": "5c89dc25e3bc9a975607bce6e1e18d6ce1ed022d17eb93cdec3d3953118583f8",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shoes_05.png",
+    "source_sha256": "6d7c621d3344c8876fb45db4865d9cb1c2597d62db91f3eefafe22d91e77abfc",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shoes_05.png",
+    "preview_sha256": "0b81d8e2c6217f7cc7188d678b3883695f3edd7310ec35e578a25ac2ff25a749",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_shoes_06.png",
+    "source_sha256": "90b6ce04de1cdda4e163134a2dbdf9ee0f2c8e8905ef1886a1dd141665ab391e",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_shoes_06.png",
+    "preview_sha256": "120e94454dfb3de3694131763a2cb96124b75745cd894305da4067c66fe08aac",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armguard_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armguard_01.png",
+    "source_sha256": "96abebb099337bc158bf47fe17f33ad73e166ff170176d9c631603264d8a21bb",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armguard_01.png",
+    "preview_sha256": "f1ac55c7d61fb8932262f16326fdf931567f9cc4c44ab20c36bc1367b272ae92",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armguard_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armguard_02.png",
+    "source_sha256": "ac33dd0d795096bd7ca800d628770f48e133336a0f7d3bdc6bf019f3ac5eb682",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armguard_02.png",
+    "preview_sha256": "42d41114344d5e26ddd9df4d6ae2d4c83ff0c72733ef5738e30a57b18f552729",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armguard_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armguard_03.png",
+    "source_sha256": "646a2d8ee861a3dc8d745efb7ef1781f5d20c04afdda381acace12bd4f0e689b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armguard_03.png",
+    "preview_sha256": "21a7e2e7e15e5b2dbf6eb4e7421cad2428ea56afd3d6d1362b1ac32fae42628c",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_ring_01.png",
+    "source_sha256": "a643f39c3457541279adda071886c13479970ca506aa8c6a69928f568ab84cc1",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_ring_01.png",
+    "preview_sha256": "db632593602a70b92c0f9cf1ae958aa99212db0eafbee91cc09bb5d6901eeefc",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_ring_02.png",
+    "source_sha256": "5e9454b84c4d333dabc3e917a0239a7bdee9ab3f351f525d5c55f85e7620b191",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_ring_02.png",
+    "preview_sha256": "ec8dd80b9d25f6b97cb442b1f1dc457d33bf0cde22d8020eccce4f2d4ac0c5ee",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_ring_03.png",
+    "source_sha256": "bc267863ce78f46c2b294c039b9b8d4b7bb28c39e9e0a469b7386f029da19618",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_ring_03.png",
+    "preview_sha256": "5d17cd0903e52c289c3ba75273a80ea3980f45f8ceed77d466856185ad2c81bb",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_ring_04.png",
+    "source_sha256": "b45ccfa8a2817415d695bf389a0f84d6706dd40ef2dc0c6cd900633e02ff7c54",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_ring_04.png",
+    "preview_sha256": "9c18fdd4af927ec1a220e90cceab579ed5678c4193c34d2c8b84de9df4725dc8",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_ring_05.png",
+    "source_sha256": "49eebc34009c754f341075b5d2835c402be48100f8fbf5ec3c8ac19a9f023328",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_ring_05.png",
+    "preview_sha256": "e0c8c88dbe90de7bae3166c5529eaca92f00fea9a12ecf3ed6e5e5d3f915a0f8",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armlet_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armlet_01.png",
+    "source_sha256": "dffd0f72cfe8d5b8f6802fa84d198c6e6cb0d2c83786d672a5f9d54b9a8885ee",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armlet_01.png",
+    "preview_sha256": "22de58716cf826dc05839c4ab25b0ba034a6bf2332c1fc76d61762f099dd3adc",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armlet_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armlet_02.png",
+    "source_sha256": "6a11ab32b75b2d0ae6bfe61c05e34f5511a383eed25c7e2965cd82bf4a112858",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armlet_02.png",
+    "preview_sha256": "d911336c10d56667f3cfb85762b7d8e5c420a881de8dd633f65f3691bd796920",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armlet_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_armlet_03.png",
+    "source_sha256": "6533399998bb6a70e3c5b14fbc2cb1666b4029c603f5603c62a5ac30418cd1f4",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_armlet_03.png",
+    "preview_sha256": "902fd1947bcdc72c3432f69eeecea8a188b64a6bc497262830a6e4163be6b911",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_cloak_01.png",
+    "source_sha256": "0bd31819a93c27535eb541016a939d43385028ced7de9216eae513d7d8a9c57f",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_cloak_01.png",
+    "preview_sha256": "e2816180901eeaab4d8a69d784157addb0279016cd3d8cf7746670ae38c3b389",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_cloak_02.png",
+    "source_sha256": "1bc9a875f44eefcfef9a5342202df2cb2a39be255af05d9716aa3892b0f5365b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_cloak_02.png",
+    "preview_sha256": "8c456f7c9e9889657394d4b40ce46e430241a5ab020a41b82b4acafa18f0f910",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_cloak_03.png",
+    "source_sha256": "ff6be482d01dd41ee056d84272300d13a20e939d2fa9fd90049a96cf62b2f936",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_cloak_03.png",
+    "preview_sha256": "0800b1874732bd9ee71e4d36552be2621f62bf750e60a1b1dacb5fcd71262eba",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_cloak_04.png",
+    "source_sha256": "fd45db342ede8d6a3da40d55fbe7b13200b18001f652ecfd1a62f8b022fc7154",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_cloak_04.png",
+    "preview_sha256": "0f1ec531c0e2a0e9b944362e21bf8babcf75ddeb45943a1171af32f751648c4a",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_cloak_05.png",
+    "source_sha256": "7f2eb6c97be1237019857af57280980c35901d1586c388f5d5c39b1d8bad424d",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_cloak_05.png",
+    "preview_sha256": "e3c06f700b3745b12ebb0fcdaf88eb717d19f1df3595962ae71cddac140c69a1",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_perfume_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_perfume_01.png",
+    "source_sha256": "d5c9bf08f54339f5549ff81643d32a92a17bd6e21b88237d5e28a6c394485e4d",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_perfume_01.png",
+    "preview_sha256": "b796a86ca4068fafea89612b533ac243ef2bbad6c9eec1d994c156608684b795",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_perfume_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_perfume_02.png",
+    "source_sha256": "32f2d2f880a30547d4d16ae4a02f76fd118d47e6b0fe60abc3f09e471406f971",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_perfume_02.png",
+    "preview_sha256": "558f995b83c58330341c249eb9808568c9a5ac116f883e2feedd08d3c5ea783a",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_throwing_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_throwing_01.png",
+    "source_sha256": "a21abadee28e25be408632d051ab8381bd4b580bce9be0af5966545c206ad8dd",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_throwing_01.png",
+    "preview_sha256": "3fc4db7cc88e4cd1692362730647826f42e0a528b3140fe5ee4fcb7253b4a374",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bomb_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_bomb_01.png",
+    "source_sha256": "67a3167e360b361ee8f5756ad06e27e00f2be1883242026c16198d92de33f4da",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_bomb_01.png",
+    "preview_sha256": "341b8cc4419729d4a70d71349f60cea01fd68bf6a3620f33668450a2eb874e6c",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_01",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_01.png",
+    "source_sha256": "cac12c970cb0a4f5ef81a78fb66cf26b3eaa12ee2ba55c8d8fd99916190d87ac",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_01.png",
+    "preview_sha256": "e58a798e0357b51e81ba5fdfec313640e54a4e1903c25480dfc63d28a4999057",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_02.png",
+    "source_sha256": "00fd5fb8af6041e71727735a3709f0c81c37f0c2f5878eb7d20ccd4cb27d0bd6",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_02.png",
+    "preview_sha256": "74327b5159aeabc1aa25b5f6b0a3ebeba554b4239eb8a070055e38d745025054",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_03.png",
+    "source_sha256": "f8b2d79db9cde4302fb3777ff22dcf97fac1eb76e5f86dc9c1f4c1382ca77d84",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_03.png",
+    "preview_sha256": "518f176c7d21ae2140870270bc8d184c57b738775bc38a60f51c862ac4fdc89f",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_04.png",
+    "source_sha256": "aca1b67815fcf66c8a7dc30c42653c73be392f0ad44d6d7c7907b0fe54c198d5",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_04.png",
+    "preview_sha256": "ed7f886b3b33d47b20d06896a59cbdb687e29810e5dda965f0c00b0fa0b8b94f",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_05.png",
+    "source_sha256": "b8fdd43bfae0ba988baf7e152ce2d092150a4faa40a48ebe85a6575c5b1cb669",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_05.png",
+    "preview_sha256": "3181c5e6facf90c675138346805cf80542af50b9e99536130d1f3e35df6fe2a5",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_06.png",
+    "source_sha256": "8425ec310d9f14fbb9dcbceb70d9e6d831dbdc4f3936df033ff6faadf62091ed",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_06.png",
+    "preview_sha256": "e5964e96eca2c5407ba889e3b675513e4305b75eab0deb2c08de105f38faecf1",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_07.png",
+    "source_sha256": "c91c76f243165f48a8a0c393be38ce4aac8743a056cf744e8e0e6415c92c581f",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_07.png",
+    "preview_sha256": "ab04dad16fc76ae80c1102bd061d655294bae498d4ea2bcdf5f3281dc1ae2b28",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_08.png",
+    "source_sha256": "68b52d261e002f75e4d2a9fbf5b580d2a454fbbb6c5e43a6bf888c2ab22f9ef7",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_08.png",
+    "preview_sha256": "5243459c96b8ee018a834ed44c0316f43640fc42692827d533abab5b5f2aeab4",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_09",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_09.png",
+    "source_sha256": "84bacea205bb07cf8ec4c200b84e28bd9f1580a0c085a629531d3772db505135",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_09.png",
+    "preview_sha256": "5db3195e6c5edc3f43e86a7e1c3988662fb8879acfa42bafccf435720e5c513d",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_10",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_10.png",
+    "source_sha256": "4102714d6dce7b4515091dd17f6b10fce958e8c2bb3ea7af585bf28375a87514",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_10.png",
+    "preview_sha256": "56d0d539752c136a8f92b7fc04334149daa7c087a5e51ba624e44e21a663fc42",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_11",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_11.png",
+    "source_sha256": "25b15cf2dc795486ec7e4b3c2cc114c8c34377169b8bdbd31709b05d68d44cf9",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_11.png",
+    "preview_sha256": "ea65e9fe36451d44da19797fa74dd2e8b41120a28ef8e1e2d1b27b17a06b06d1",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_12",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_12.png",
+    "source_sha256": "d0d318903c859cd3af2bfca857a4fc8f50123abbdb4221f8a19cfb26719dabce",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_12.png",
+    "preview_sha256": "42646ad20e96e5a462157ca23be4efd519dc2246297368e1890b3dde0fbe31cb",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_13",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_13.png",
+    "source_sha256": "0b859728dbf7b206a2c6bd5be64119ca164da38d8971a4e947e4b523754be2a1",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_13.png",
+    "preview_sha256": "e47b559f824a4dd178b9203999239500e1c282359d487297d6e8d8a87e19e592",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_14",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Klein-Production/images/tfj_item_14.png",
+    "source_sha256": "83201dc2376adec1ee19888f916fdda7fffbb23f42e1964d6734a5eecb44fbcd",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Klein-Production/previews100/tfj_item_14.png",
+    "preview_sha256": "f670070540764b3ede3ba6ea683e00a1e545b8b4ef372875b82cf91cee6258e4",
+    "alpha_ready": false,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_09",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_knife_09.png",
+    "source_sha256": "db51ceb387b438cfa9726c6968939a671728c9e170306709db40d0c880be832c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_knife_09.png",
+    "preview_sha256": "339d60c570e57d91a82718f758e011e4549fa599a39519c6ed3047f033e05249",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knife_10",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_knife_10.png",
+    "source_sha256": "1144dd58b9efadb018312951e221f9efdebb3daa6db21710c1a685f016870a56",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_knife_10.png",
+    "preview_sha256": "290a94271d5a04ac79e86af8dd22d8d7e03596399943fcac5645a4277d4c12d1",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_ninja_blade_07.png",
+    "source_sha256": "f02b3f1baf284bad34d5e83311e370a70510b30ffa28dab03e8f78dba6aa57fb",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_ninja_blade_07.png",
+    "preview_sha256": "1181ccd98d6f045641ad9dabcc2a8b67508b6266eb52daaa7b73dd87c7cf40df",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ninja_blade_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_ninja_blade_08.png",
+    "source_sha256": "8883cd1f1e76d729a2f15263705b1b773311a5d14f5f7e6dde6e0871e3991029",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_ninja_blade_08.png",
+    "preview_sha256": "90dd735764e05d64b3469171306eb3885ed87e85eb1479e498e5538d967a4d1e",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_17",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_sword_17.png",
+    "source_sha256": "d7a2c65e606b1210351f478623cbf54e4a6345695c74da57e8c073da2064f619",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_sword_17.png",
+    "preview_sha256": "44ef2c6a150f9a3011bb1f039ef3b16c950269dc90b26e44e482e9358c36f2c2",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_sword_18",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_sword_18.png",
+    "source_sha256": "661a3e2d773ec603c12d56ddfe4d90d6f3584ed7e6185a2eea1a3a17447ef91a",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_sword_18.png",
+    "preview_sha256": "896f44ffc4f48f5e9588e48841688d66fcb0b0056238985e9474d076b3836729",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_knight_sword_05.png",
+    "source_sha256": "b51907cdb29df7259c55ae7043b483f28025f7a2b5e2cff20f27811ddf57225d",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_knight_sword_05.png",
+    "preview_sha256": "a60694e68f3691a38d98ead1add40b691ea544f1eaf6cbcefd7d02100ab2fe1e",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_knight_sword_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_knight_sword_06.png",
+    "source_sha256": "89c85743fae06ad0b41a4fe632c8324640ca54deafeccdf31afea432b4b598ab",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_knight_sword_06.png",
+    "preview_sha256": "38f98cc046f1261ec035b241908724064b4b62556b47ad978507065ed3c2e7b7",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_09",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_katana_09.png",
+    "source_sha256": "8d282de1bfc2aefdf06b81e2500353226db2c8966b6bed107050d0ed356aeb46",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_katana_09.png",
+    "preview_sha256": "f1f2d38adb2fdd379799d1464b39eaf5121972e3bc5e6e96998118a8f9fc3b3f",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_katana_10",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_katana_10.png",
+    "source_sha256": "fecf3250f559843740348f2c4b1bc62f63e0e58eb2ebf85aa6a42e7200127c22",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_katana_10.png",
+    "preview_sha256": "229d28a32e1a4513a9cf54eba7ed4c6e89ad055c56f422844dda556a74d35d23",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_axe_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_axe_03.png",
+    "source_sha256": "73206d84cbedb84a5ad7d98e90b9158e3502e3af4dd98809f789c33e140e990f",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_axe_03.png",
+    "preview_sha256": "023fea0982f329557a0036ed9cc32c2f3fd7d6d881833b731205d8ff60a4a75b",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_axe_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_axe_04.png",
+    "source_sha256": "e746a365a46a1b59c5bac8ef4ed67fb38b01c43e998e4214bfa0cefe4fa1826f",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_axe_04.png",
+    "preview_sha256": "cdcb989fb467a7ea379215c908d5e2c2f2aa9bbe8a58c47d2afd556c99305e6a",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/corrections/tfj_rod_07.png",
+    "source_sha256": "f1538e44502bed94ff415491ef0d015ca3915c2ca95eee0393e3e980203b2248",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_rod_07.png",
+    "preview_sha256": "89bdf75ec0aa69972291b5cee151fdd359714714dcb4ca1f569cb62d80381f46",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_rod_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/corrections/tfj_rod_08.png",
+    "source_sha256": "ba27c1d287d9e49fd67d1f0864d39ce46bccbd8851a91f7580de4b578f38c20c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_rod_08.png",
+    "preview_sha256": "5c6ee066b4cdb64b608a54c83e3c22cbe3b2db3462e4350b7fca0cf2df72d734",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_staff_07.png",
+    "source_sha256": "956e9dbe77ab2917b81602c6fa291b87dfe41c3855716bee8d2b8049d155a8da",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_staff_07.png",
+    "preview_sha256": "78e7b6f3f0134de85399dfbfad8f991ac78c02316160702c707792a977f5fb4e",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_staff_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_staff_08.png",
+    "source_sha256": "0b78ff913ba7d0230f78456c795703c471b64b4512f4ec8c9640921b66d2260a",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_staff_08.png",
+    "preview_sha256": "b001ae6c156c6e21d80bad9084bc2cd96fbfb85e089172c56fc25d355fc80049",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_flail_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_flail_03.png",
+    "source_sha256": "35495903e03e6e1a40100c9b1028b01396b3883302faea88f59cde9559ff89b5",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_flail_03.png",
+    "preview_sha256": "2f84615a26272b7569274e09b10c0b79f86cde7450357b47de52ff68c8683586",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_flail_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_flail_04.png",
+    "source_sha256": "8b93c4f5bc46c444f8fe2ce81e2d236d548d0ef096066d0154d91b3b893c3c2c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_flail_04.png",
+    "preview_sha256": "268ab1921bb6bf5342d1e23726209b5733de931a5f374e90fd65b4128c437d02",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_gun_06.png",
+    "source_sha256": "12a4ff3317bd5c1baea940358a37dce4069b3935e789e753e88dd081992b3aa0",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_gun_06.png",
+    "preview_sha256": "0ecf305be437366773710a9f39c7498829085e138a46a135988b2be6f02dd578",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_gun_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_gun_07.png",
+    "source_sha256": "739ae03d34636795bd64e503c5e6075324e75b66b296953d9026907812d49321",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_gun_07.png",
+    "preview_sha256": "155892235cae30c871861c838aa5c46975d948859208d2bd3ebd76ee403cc7a2",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_crossbow_05.png",
+    "source_sha256": "e286f070596f6538c0a60f6109e2cb53e4320cec87caec48bfe70310c9cfd1cd",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_crossbow_05.png",
+    "preview_sha256": "52b3f58af0b7a0081dec1f334607f0e08b6fa04671bd88817a6ba26c3b6c54b2",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_crossbow_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_crossbow_06.png",
+    "source_sha256": "7a1da261ce279cd5be9b4c35ba81bb30365265ac38b3ae7f3dd47c868a874048",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_crossbow_06.png",
+    "preview_sha256": "284edb6e5ee881132c2f4506e799803e333e3fa02341bbd4a063362b178bddcd",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_09",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_bow_09.png",
+    "source_sha256": "60ca4c7932fb98800e52da083f781f877aca11de92f8846f8b45bd7035d6f9d3",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_bow_09.png",
+    "preview_sha256": "ec9ea8a307161e8f0a766930af45ee7d1833113fb59ceca2d76723e2f59fb0a2",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bow_10",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_bow_10.png",
+    "source_sha256": "d315b228e9c612a9c229a57c0b52a44fe349d4c4d22d95fc348fc0b898dbc3be",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_bow_10.png",
+    "preview_sha256": "c37ee2e5a6eb2301a4fbf9a7a1d56f9e1b3bfb249bbc6256981b1c4cdbe86225",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_instrument_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_instrument_02.png",
+    "source_sha256": "0dadb557ab6dbbaa9cca8f137f5723b6eeafbe40572767735fc7672f40cbf1a5",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_instrument_02.png",
+    "preview_sha256": "ced943bc6b3befa3ea4af97a429f9bb8faaa22479896150aef5e5da90a69919b",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_instrument_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_instrument_03.png",
+    "source_sha256": "fe92cb2987952a9da60625a28e8c406c1efc951128f1d990a78dd80e153796b8",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_instrument_03.png",
+    "preview_sha256": "c01e0057a4d5eeaea3de2a1d99c1f0af81721be2913486ac264bc39d9a082c4d",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_book_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_book_03.png",
+    "source_sha256": "b3353497c43af1089c91177247b79a0c0b19d9316942976fd00f5eb8128a72ea",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_book_03.png",
+    "preview_sha256": "55a4c3d2447aafb4583f5e0ef960ca73658ea647c8847800370a0f33473db7d1",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_book_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_book_04.png",
+    "source_sha256": "6ce71c8282bbb04c477cd90960f48cd1ca6efc10da6805711ee7ccef96889a47",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_book_04.png",
+    "preview_sha256": "0ccd734b13bd3f00fa4d76510f104ca1dc037ab716a07f11002edbc9a1ec9961",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_polearm_07.png",
+    "source_sha256": "97f242a438fb78ccc4bb73ccb75a041c443efd954c81ea95b54d14a0c4c68c04",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_polearm_07.png",
+    "preview_sha256": "448e4ea4a03bf7bb232cd9402584b31e269f41d016c06cdc53d69b65e554c98d",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_polearm_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_polearm_08.png",
+    "source_sha256": "42bf9b7cad2b431da82a3e353fe369eebcd18dff7de2506ffb06aff7d458928f",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_polearm_08.png",
+    "preview_sha256": "53ef72b77aaa79b1e969792ee28077181a0d1adcad03f0f2e01f98f2af44ec2b",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_pole_07.png",
+    "source_sha256": "de05c61394320c496d3dc0972b32e892332ee626f44773f7266f1a6807f84abe",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_pole_07.png",
+    "preview_sha256": "dbfaaaa4dbfb71c664d6936cf0f82ee2a749142a81b227a049653665d3efd75f",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_pole_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_pole_08.png",
+    "source_sha256": "303b92bbf51ea9b5f0bf3b91dc72266b981c9f91f4694ec7e1d88009d0c2e88b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_pole_08.png",
+    "preview_sha256": "c45b7ce623919bf70235cc9c14de2051b5f752798b763f209807d540764d11d0",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bag_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_bag_03.png",
+    "source_sha256": "74905dae30df43b5ac0b7cdaaa4d41b8efbd4dff0cd52401326357d9defca859",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_bag_03.png",
+    "preview_sha256": "90da5bd4bdca55c153e297fc63d761d16eeaa308904e37986640d5cd484ceff3",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bag_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_bag_04.png",
+    "source_sha256": "3f433ba6b4b1e5f0b4204f94ea087992eb2e839795d53de2805b8f690410a8d5",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_bag_04.png",
+    "preview_sha256": "156c0ca666f62d91e5d3bf076fe86169630ee8327d0000c8faa9e248b7e232a0",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloth_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_cloth_02.png",
+    "source_sha256": "64a3a4a7bc904519f1df9c757ba35f22b5dfb8af44999cac065032043aa3bcd1",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_cloth_02.png",
+    "preview_sha256": "5e33630f4abc3089e49237d34780d696b91b90c37161754f7356e30994bbd8f4",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloth_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_cloth_03.png",
+    "source_sha256": "bad22a7ab7e2a208d77dfcf0a4774d70217669c864df25dadeec8cab17fe2f4c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_cloth_03.png",
+    "preview_sha256": "d129dccdb7f4098584a35e6068db26217f256737df16bd82e608b101d614ae21",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_15",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_shield_15.png",
+    "source_sha256": "1d5acb86882197b6030aaba6e69c14b97c79a25592d1d2ab65dbfb226be0c168",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_shield_15.png",
+    "preview_sha256": "7cdaa698e111d731b343c67939b1775348d909e05ae40dc35b743e391a336d92",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shield_16",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/corrections/tfj_shield_16.png",
+    "source_sha256": "4f7f006f542273b8abc7b73f10897e595f43f33a88efc4799379625d5fc4828c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_shield_16.png",
+    "preview_sha256": "8efb607e7b48c3aebdb2308453e1516210ffd99e01c627d426fcd41dc84c4ad9",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_12",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_helmet_12.png",
+    "source_sha256": "9700e9d47d10c9bcd4a1e58cc3458f15fdcd445d93e21890601cc602862d4150",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_helmet_12.png",
+    "preview_sha256": "13989f526a8850d4fc437ddc14ffe9116ce6bbe8507c056182c41bf82988783e",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_helmet_13",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/corrections/tfj_helmet_13.png",
+    "source_sha256": "40ae9fe35e276aaa3fd5b661969535b906c088e54b571932b59be71552ccbf30",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_helmet_13.png",
+    "preview_sha256": "80099f44a49977f8ed6fc2833ea002243e67a954a37ce253c96c6937c0fba507",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_13",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/corrections/tfj_hat_13.png",
+    "source_sha256": "4aecae88bf62b4fab03ce2e048d94bfe460c94d4898a2d86c44dfc3a39d4431b",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_hat_13.png",
+    "preview_sha256": "3adeab563aa99df165f6b03fa5ec755fddfafc5abd48e157b8977797b94ea926",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hat_14",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_hat_14.png",
+    "source_sha256": "90a9921da3c1eabe1eec98a6ba25b710dcd50114063bf50521f9236c30503dee",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_hat_14.png",
+    "preview_sha256": "ca7d247c86e343bd4c68b265e0797790a66f77c82abc85f044903ab38416a5f8",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hair_adornment_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_hair_adornment_02.png",
+    "source_sha256": "0e5888874e8c736440d1ca1b3f0383078475fdd596838a9f8f64203652ea66cb",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_hair_adornment_02.png",
+    "preview_sha256": "48b8618808c278c7cc2b318b04fae731bfcfd649c4dd82c972938950c3b0ff5a",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_hair_adornment_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_hair_adornment_03.png",
+    "source_sha256": "c1988ba2dcb098345d72ded88a62393b8d23ca0d95761e7d2ad0520639194dea",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_hair_adornment_03.png",
+    "preview_sha256": "81bacadcc716a07e5bb8113973c365d7b5fa79a92147a78809c7ab5fd180faa0",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_13",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_armor_13.png",
+    "source_sha256": "1130ff2a96dd6adfbe8dd2ec7a709db0098393aac7dd0936fd6f48d2706007b3",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_armor_13.png",
+    "preview_sha256": "61c1fe3b94e0840bdad570201be99d03efb54bec2ccfa9ae2fad31d5943d9b47",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armor_14",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_armor_14.png",
+    "source_sha256": "91a1d5bb1203807b8bc250b92ba3bd70cf1f8c5fbf2265af858395219db8e063",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_armor_14.png",
+    "preview_sha256": "9017656ae17ebf4a79335ac013ccbe26949e8b826d518648e0283dda1e382daa",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_15",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_clothing_15.png",
+    "source_sha256": "6fb7a6f58dd410f596726b18c3abfaf47f7e4b973911e7327f6585f4bc5d3044",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_clothing_15.png",
+    "preview_sha256": "14fee9c345d0b6467f8d65a801eb8ef53896cdccb97f72944cb1259a847d4078",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_clothing_16",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_clothing_16.png",
+    "source_sha256": "a9d6539f927542a5b17e6d3b52148371a5e35f6b955f5a54ffbd5e3569e54a04",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_clothing_16.png",
+    "preview_sha256": "8eacd5fee340e57e394a09e9f5c1697fa76f21b8d970e9e9b390f55c68e19505",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/corrections/tfj_robe_07.png",
+    "source_sha256": "289ea41a06fbe8995d74b1f1bd9994605cc3a1dfd097c93af60d8857ff0c94f0",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_robe_07.png",
+    "preview_sha256": "b2d156e1e282e3d9510c300b737602574239343f3db49ca275eab099b11ed20b",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_robe_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_robe_08.png",
+    "source_sha256": "3ed1e406e1bb338605c17cff2f0d4d18238cda423d8d38285c124813ee166653",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_robe_08.png",
+    "preview_sha256": "99ce4baed91416aff30e6e10de13b202c1b06d4fad2989c4a37da1c80bffce11",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_shoes_07.png",
+    "source_sha256": "4d09e21b18d56ab2d1c9a3e4ab1d4cc0819b5bb5b094c367e6f77a26f68fb57c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_shoes_07.png",
+    "preview_sha256": "3d47758e804464616e23edb8505a55f12e8289b14a68d6596bd49879f756bcce",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_shoes_08",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_shoes_08.png",
+    "source_sha256": "9957fba7de7dd6d055901e3bac353be5dd6a742f2977d7e7a2cf59afeb01ce3a",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_shoes_08.png",
+    "preview_sha256": "6402831e8390a3deefd44963e4c4e9d167fa9df7d27d8f57e3b81f03b57831b5",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armguard_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_armguard_04.png",
+    "source_sha256": "4786ea5bc7bc8bdaa02d28e24d65f8e2799786130d612cca7dffb462c519c3f0",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_armguard_04.png",
+    "preview_sha256": "4e6e422291568b0e35d7d527bb1cfd3a502aaa6e7bb4977f3a40302e112f651d",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armguard_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_armguard_05.png",
+    "source_sha256": "4237801e86968b190ad6dcc9788ebbe449dc63f197e27ed44982f29b6c139fc5",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_armguard_05.png",
+    "preview_sha256": "4039e901032b9c3d59fabf22a1c30484620ee36138a071c9cb11e68a2c4993ad",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_ring_06.png",
+    "source_sha256": "a8f59a0a46d270a20faa3ef821e3ed3e58731bb9ba4e3b53f9d2cca76199d24a",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_ring_06.png",
+    "preview_sha256": "761155afb4a4f56044def75bfa587e4ff81641ddd61366a9b32ea3923f990977",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_ring_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_ring_07.png",
+    "source_sha256": "35b31a8c43d38ac9c6e9d75fdf5b687d4491a209762911db4c74521a916264ed",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_ring_07.png",
+    "preview_sha256": "fe99e4bd0c168a213209d044c5cd96f33afdfe7a932d63690b7270e38409abbe",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armlet_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_armlet_04.png",
+    "source_sha256": "f998580338fa95ac6154bd73afa82109499403a2d26ab869fed1898d1eb931f1",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_armlet_04.png",
+    "preview_sha256": "38b507f76724bd4eecb42441fda6e3cd360a20c812aae95549c662302fbaa4c3",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_armlet_05",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_armlet_05.png",
+    "source_sha256": "0f32c444cfca71909c0f89a245ab53bc30b8c17a740d855f022ceee65eca3b21",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_armlet_05.png",
+    "preview_sha256": "11e8f050671a0ab5cbdbc555a86d910557da25c1a19f3539466677f87bedb9f7",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_06",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_cloak_06.png",
+    "source_sha256": "943e4e0029e10f1021e96c8a1f2fbd7711a1a1fb375cd079ce01ad903a661e45",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_cloak_06.png",
+    "preview_sha256": "1e23b08f0203b99403d64092ce70390f727f896f34cbb8c8c865426cd3e72e91",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_cloak_07",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_cloak_07.png",
+    "source_sha256": "7ceb7f0138f244be465c97708b6f7820f53ea5ad95085c9f066732e12c97d164",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_cloak_07.png",
+    "preview_sha256": "f35ee88711f61fefb984e6d0c59b68d43785ea89467b3ca78bf95514a791c0c5",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_perfume_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_perfume_03.png",
+    "source_sha256": "172510ff302de2548fa46aab74fa6eea5220a189e9b0a4f8e810097f7b4f5eda",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_perfume_03.png",
+    "preview_sha256": "da676dd0c550cf6daeba5b531c4619a50fbe7d148552d474bf7d8809c0c78ed7",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_perfume_04",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_perfume_04.png",
+    "source_sha256": "790dc77ffde4549b5a523152ce8fd2090b648b50d0e907a682cf75e7e9faadeb",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_perfume_04.png",
+    "preview_sha256": "ace10fb8106676c46672802fcc84907db2d257be85a65fe137caebbf2af01c96",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_throwing_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_throwing_02.png",
+    "source_sha256": "17995e37f4647e8c50436a89ff40e55d497d731094c12a1368e63361ca3cf9fe",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_throwing_02.png",
+    "preview_sha256": "a1f255f7e051e9e1c82c0811ddd9c47e4b59ebd5fe5f43d9d906dea7873eb55c",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_throwing_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/corrections/tfj_throwing_03.png",
+    "source_sha256": "45758ed31e7b89214426a3171f0a17ce5d4b631ffca884cb5d879c8e755e3278",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_throwing_03.png",
+    "preview_sha256": "1e9417c36624f31fb6814714801d340cb9314df6aed41d5b43472b48dc3c0d8c",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bomb_02",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/corrections/tfj_bomb_02.png",
+    "source_sha256": "7fe3236cdf74581c5cb27d5d7dae50dffccaf28364f35feb11795dcb67a4900c",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_bomb_02.png",
+    "preview_sha256": "28c6c3b5abb06408d740596aa35b353ed856c064cd072c759cd168c0c610ba01",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_bomb_03",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_bomb_03.png",
+    "source_sha256": "62ada67d4a339258586a33659255cacf7a3f3ab87cd102069a61332686bbd98e",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_bomb_03.png",
+    "preview_sha256": "1db8f34c9ee782fd7e60c81ed561166275753181a4f4bfb59e43a09ed0c34e0b",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_15",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/corrections/tfj_item_15.png",
+    "source_sha256": "1e3a29482bc0ab86b4f47d7a62f9ebc38e13afdb316f4980fd45117832839667",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_item_15.png",
+    "preview_sha256": "d9411665d2b2d442c7fdad9a3648cefb40751e8b8180836a10d9525b1aae1b51",
+    "alpha_ready": true,
+    "runtime_ready": false
+  },
+  {
+    "id": "tfj_item_16",
+    "source_image": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_item_16.png",
+    "source_sha256": "445db1f2daa1074bbca8ea5e1bfafa5bf36a4d1ba7a636f135219b73966e34b6",
+    "preview_source": "../The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/previews100/tfj_item_16.png",
+    "preview_sha256": "c231cf88c94f19d45c19b27072943e79e207af691eeb5f735166e41847542438",
+    "alpha_ready": true,
+    "runtime_ready": false
+  }
+]

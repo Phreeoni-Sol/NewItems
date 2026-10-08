@@ -1,0 +1,12 @@
+{
+  "id": "tfj_rod_07",
+  "prompt": "Redesign this rod inventory icon as Clef des quatre vents, a legendary WIND KEY rod. Preserve its native FFT gritty hand-painted small-icon rendering, diagonal compact silhouette and genuine transparent background. Completely replace the lantern head: a broad open cruciform ring of patinated copper with EXACTLY four short wind-vane prongs pointing out from it, key-like shaft with one small rectangular tooth just below head, dark indigo linen grip and plain gray iron butt. A very pale sage breeze passes only through the open cruciform head. Copper, indigo, sage and gray palette. No flame, glass lantern, gold filigree, blue jewel, huge aura, person, text, frame or separate objects. Exactly one complete short rod. Distinctive key silhouette, not a sword or staff with a lantern.",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-3e82b62f-5493-4146-8777-28e80219109f.png",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Equipment-Ivalice-Style-V2/images/tfj_rod_07.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "status": "CORRECTION_REQUIRES_REVIEW",
+  "signature_design_en": "Patinated copper cruciform wind-key head with four vanes, key tooth, indigo wrapped short shaft.",
+  "palette": "copper, indigo, pale sage",
+  "visual_effect": "pale sage breeze at head"
+}

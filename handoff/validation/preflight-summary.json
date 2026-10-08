@@ -1,0 +1,58 @@
+{
+  "Mode": "Full",
+  "CompletedUtc": "2026-10-06T20:01:15.6902075Z",
+  "Passed": true,
+  "Checks": 10,
+  "Results": [
+    {
+      "Name": "extension-core",
+      "ExitCode": 0,
+      "Log": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\claude-handoff-checks\\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\\extension-core.log"
+    },
+    {
+      "Name": "build-core",
+      "ExitCode": 0,
+      "Log": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\claude-handoff-checks\\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\\build-core.log"
+    },
+    {
+      "Name": "extract-samples",
+      "ExitCode": 0,
+      "Log": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\claude-handoff-checks\\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\\extract-samples.log"
+    },
+    {
+      "Name": "nxd",
+      "ExitCode": 0,
+      "Log": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\claude-handoff-checks\\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\\nxd.log"
+    },
+    {
+      "Name": "additive-nxd",
+      "ExitCode": 0,
+      "Log": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\claude-handoff-checks\\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\\additive-nxd.log"
+    },
+    {
+      "Name": "native-audit",
+      "ExitCode": 0,
+      "Log": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\claude-handoff-checks\\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\\native-audit.log"
+    },
+    {
+      "Name": "consumer-map",
+      "ExitCode": 0,
+      "Log": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\claude-handoff-checks\\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\\consumer-map.log"
+    },
+    {
+      "Name": "native-accessors",
+      "ExitCode": 0,
+      "Log": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\claude-handoff-checks\\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\\native-accessors.log"
+    },
+    {
+      "Name": "probe",
+      "ExitCode": 0,
+      "Log": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\claude-handoff-checks\\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\\probe.log"
+    },
+    {
+      "Name": "recon-guards",
+      "ExitCode": 0,
+      "Log": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\claude-handoff-checks\\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\\recon-guards.log"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "GameIntegrated": false,
+  "Sources": [
+    {
+      "SHA256": "E7CEA389EE20115D3670EA20173777E12846985E4241F7F0F39EBBDCC0929762",
+      "File": "runtime/ExtensionCore/CommandRouter.cs"
+    },
+    {
+      "SHA256": "0539AC661626ACDFC366AED18770C6BC17DFC36727BCA9137EF5759D6CDE07AB",
+      "File": "runtime/ExtensionCore/MenuPages.cs"
+    },
+    {
+      "SHA256": "3FBDCE30BCB7EFC8AB44E3070FE6C3C18EF62E73A3B72F6A5229CFD3626A10DC",
+      "File": "runtime/ExtensionCore/Progression.cs"
+    },
+    {
+      "SHA256": "87ED7A6CB658FF3B8FC26E7173DBB549CF31777AC31D4B4575E5214EC05B48CD",
+      "File": "runtime/ExtensionCore/Relocation.cs"
+    },
+    {
+      "SHA256": "D595BEF6AE2F6587A85868229AFDD6195406DDF4B8936098ADDC9BE4666A047E",
+      "File": "runtime/ExtensionCore/WindowsMemory.cs"
+    }
+  ],
+  "Mode": "Development library, no Reloaded entrypoint",
+  "SHA256": "36154D8EE1EB1807ABCA65B88B7653FBD9A6E5FE366380C98D85C03BC1155E4A",
+  "Library": "ForgottenJobs.ExtensionCore",
+  "IDAllocated": false
+}

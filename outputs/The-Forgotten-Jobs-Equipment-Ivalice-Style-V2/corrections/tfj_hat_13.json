@@ -1,0 +1,13 @@
+{
+  "id": "tfj_hat_13",
+  "ref": "ei_167_uitx.png",
+  "signature_design_en": "Low asymmetric sage-green folded silk coif, twin overlapping soft peaked folds, rust ribbon and a tiny dark blue stitched star-shaped patch.",
+  "palette": "sage silk, rust ribbon, dark blue",
+  "visual_effect": "none",
+  "prompt": "Create a NEW ORIGINAL legendary hat inventory icon called Mitraille de soie. One low asymmetric silk coif, a folded sage-green silk cap whose twin overlapping soft peaks tilt in opposite directions, rust-orange braided ribbon binds a wide rolled lower edge, one small dark blue star-shaped stitched patch. Fine subdued silk sheen and visibly soft layered cloth, not rusted metal, not a tall witch hat or felt wizard cone, no jeweled crown, feather, face or floating aura. Make the exceptional cut recognizable from a simple silhouette, like an intricate old Ivalice headcloth. Match the supplied actual native FFT The Ivalice Chronicles Enhanced inventory icon as a style and scale reference only, never clone its object. Subtle gritty hand-painted small equipment icon, softly broken delicate contour, muted colors and restrained material shading, no crisp bold outlines, glossy 3D jewelry product, gold cathedral filigree, modern sci-fi parts, labels, text, frame, person or mannequin. Genuine transparent background. Exactly one complete unworn object, centered with safe margins and readable at 100 pixels.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Equipment-Enhanced-Revision/references/native-png/ei_167_uitx.png",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-05b927b8-8d0d-4ea2-8835-4da07e644529.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "status": "CORRECTION_REQUIRES_REVIEW"
+}

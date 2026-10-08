@@ -1,0 +1,8 @@
+{
+  "id": "tfj_crossbow_01",
+  "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Arbalète du péager. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Brown wooden stock crossbow, curved dark steel prod, visible continuous tan string connecting both ends, steel track and small trigger loop. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+  "generated_source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-dd63ad12-e4b6-4c46-b72c-310947aa0487.png",
+  "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "pixel_retouched": false
+}

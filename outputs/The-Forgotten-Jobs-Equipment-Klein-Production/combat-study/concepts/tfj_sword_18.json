@@ -1,0 +1,10 @@
+{
+  "id": "tfj_sword_18",
+  "prompt": "Use-case: game-asset. Produce a TRANSPARENT authoring concept sheet for ONE new FFT weapon, 2 by 2 grid, four separated poses of exactly the SAME design, large empty gutters, no text, no labels, no frames, no characters or hands. First reference = preserve this specific weapon's silhouette and palette; second reference = authentic native FFT weapon pixel bank, copy its restrained chunky pixel grammar and small readable clusters, not the whole atlas. L'Absent: leaf-shaped narrow curved pewter blade, small asymmetrical iron guard, moss green cord handle and one short moss remembrance ribbon. No magic cloud in this weapon layer. Top left profile pointing up-left, top right opposing profile up-right, bottom left side profile horizontal toward left, bottom right side profile horizontal toward right. Bow instead remains vertical in top profiles and diagonally leaning in bottom poses, recognizable bow string and same asymmetry. Each pose should look like a small classic FFT battle weapon sprite enlarged by nearest neighbour, roughly 32-48 pixel high logical artwork, clearly stepped pixel edges and very sparse muted palette. This is a concept authoring sheet, NOT a proven native atlas. Avoid painterly illustration, ornamental detail, photoreal texture, smooth outline, halo, backdrop, other weapon types. Keep design invariant across all four poses; no copy of vanilla weapon.",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-18a7488f-70fb-43e2-8eee-11f6c9925f1f.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "binding": "UNKNOWN",
+  "status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+  "review": "Source and miniature previews inspected against the inventory icon: separated views, recognizable family, dominant palette and main signature retained. Fine details simplified. Mirrored profiles are author proposals, not proven native directions. Shield backs are author designs. Hand anchors, indexed palette and timing are not validated."
+}

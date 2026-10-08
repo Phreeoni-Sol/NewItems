@@ -1,0 +1,2168 @@
+[
+  {
+    "id": "tfj_knife_01",
+    "name": "Dague de levée",
+    "category": "Knife",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_knife_01.png",
+    "inventory_sha256": "dad97a2ca4ee109e1eff00a28a30d26576d5212969f87c3b69451d9c1aa6f716",
+    "design_intent_from_existing_plan": "short plain iron dagger with stitched tan leather grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        80,
+        80,
+        96
+      ],
+      [
+        160,
+        160,
+        160
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Short silver-gray broad dagger, asymmetric curved steel crossguard with small triangular inset, tan wrapped grip, steel pommel.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Dague de levée. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Short silver-gray broad dagger, asymmetric curved steel crossguard with small triangular inset, tan wrapped grip, steel pommel. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "d5a1cef0d4f76848863cce5933ac297480778dada6138259719900dd64512db2",
+    "poses": [
+      {
+        "path": "poses/tfj_knife_01-1-preview36.png",
+        "source_bbox": [
+          99,
+          84,
+          538,
+          574
+        ],
+        "source_dimensions": [
+          439,
+          490
+        ],
+        "visible_preview_rgba_colors": 243,
+        "preview64_path": "poses/tfj_knife_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_knife_01-2-preview36.png",
+        "source_bbox": [
+          106,
+          84,
+          528,
+          574
+        ],
+        "source_dimensions": [
+          422,
+          490
+        ],
+        "visible_preview_rgba_colors": 240,
+        "preview64_path": "poses/tfj_knife_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_knife_01-3-preview36.png",
+        "source_bbox": [
+          201,
+          43,
+          432,
+          554
+        ],
+        "source_dimensions": [
+          231,
+          511
+        ],
+        "visible_preview_rgba_colors": 165,
+        "preview64_path": "poses/tfj_knife_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_knife_01-4-preview36.png",
+        "source_bbox": [
+          195,
+          43,
+          425,
+          554
+        ],
+        "source_dimensions": [
+          230,
+          511
+        ],
+        "visible_preview_rgba_colors": 170,
+        "preview64_path": "poses/tfj_knife_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_ninja_blade_01",
+    "name": "Lame de ronce",
+    "category": "NinjaBlade",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections\\images\\tfj_ninja_blade_01.png",
+    "inventory_sha256": "df936ace59dabb0f33973c6508008196ea3e8d42c585b61a202bbf90ebbaa7c6",
+    "design_intent_from_existing_plan": "compact straight black blade with olive cord",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        16,
+        16,
+        16
+      ],
+      [
+        16,
+        16,
+        32
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        48,
+        48,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Straight narrow charcoal-black blade, plain dark curved crossguard, olive cord-wrapped grip, dark rounded pommel.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Lame de ronce. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Straight narrow charcoal-black blade, plain dark curved crossguard, olive cord-wrapped grip, dark rounded pommel. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "fe933574f56999efd7813c1965b8cb82bf672d66711c380085be76135e54b96e",
+    "poses": [
+      {
+        "path": "poses/tfj_ninja_blade_01-1-preview36.png",
+        "source_bbox": [
+          135,
+          79,
+          568,
+          559
+        ],
+        "source_dimensions": [
+          433,
+          480
+        ],
+        "visible_preview_rgba_colors": 202,
+        "preview64_path": "poses/tfj_ninja_blade_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_ninja_blade_01-2-preview36.png",
+        "source_bbox": [
+          108,
+          108,
+          503,
+          559
+        ],
+        "source_dimensions": [
+          395,
+          451
+        ],
+        "visible_preview_rgba_colors": 219,
+        "preview64_path": "poses/tfj_ninja_blade_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_ninja_blade_01-3-preview36.png",
+        "source_bbox": [
+          226,
+          30,
+          432,
+          567
+        ],
+        "source_dimensions": [
+          206,
+          537
+        ],
+        "visible_preview_rgba_colors": 163,
+        "preview64_path": "poses/tfj_ninja_blade_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_ninja_blade_01-4-preview36.png",
+        "source_bbox": [
+          205,
+          41,
+          402,
+          567
+        ],
+        "source_dimensions": [
+          197,
+          526
+        ],
+        "visible_preview_rgba_colors": 132,
+        "preview64_path": "poses/tfj_ninja_blade_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_sword_03",
+    "name": "Épée des haltes",
+    "category": "Sword",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_03.png",
+    "inventory_sha256": "13940eb7a955efe832edf9c0f1f9c4842b880a891dcc916f56cacfcc9627369a",
+    "design_intent_from_existing_plan": "steel arming sword with rounded brass guard",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        128,
+        128,
+        144
+      ],
+      [
+        208,
+        208,
+        208
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Straight long silver arming sword, rounded brass crossguard with tiny rivets, dark brown leather grip, rounded brass pommel.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Épée des haltes. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Straight long silver arming sword, rounded brass crossguard with tiny rivets, dark brown leather grip, rounded brass pommel. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "969bbbf3120e396d15bcc85d7be181bbb4026dbf3d1903f99dd3ca4d7b5bd93a",
+    "poses": [
+      {
+        "path": "poses/tfj_sword_03-1-preview36.png",
+        "source_bbox": [
+          49,
+          97,
+          569,
+          647
+        ],
+        "source_dimensions": [
+          520,
+          550
+        ],
+        "visible_preview_rgba_colors": 190,
+        "preview64_path": "poses/tfj_sword_03-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_sword_03-2-preview36.png",
+        "source_bbox": [
+          59,
+          97,
+          578,
+          647
+        ],
+        "source_dimensions": [
+          519,
+          550
+        ],
+        "visible_preview_rgba_colors": 189,
+        "preview64_path": "poses/tfj_sword_03-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_sword_03-3-preview36.png",
+        "source_bbox": [
+          29,
+          236,
+          606,
+          441
+        ],
+        "source_dimensions": [
+          577,
+          205
+        ],
+        "visible_preview_rgba_colors": 116,
+        "preview64_path": "poses/tfj_sword_03-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_sword_03-4-preview36.png",
+        "source_bbox": [
+          21,
+          236,
+          598,
+          441
+        ],
+        "source_dimensions": [
+          577,
+          205
+        ],
+        "visible_preview_rgba_colors": 116,
+        "preview64_path": "poses/tfj_sword_03-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_knight_sword_01",
+    "name": "Grande lame du gué",
+    "category": "KnightSword",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_knight_sword_01.png",
+    "inventory_sha256": "b2572613c624f0250db1843a5ac7d43e92496f54f703855204e147ab68243119",
+    "design_intent_from_existing_plan": "heavy broad iron greatsword with wooden grip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        144,
+        144,
+        144
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Broad pointed steel greatsword, angular dark steel engraved crossguard, brown wrapped grip, faceted dark pommel.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Grande lame du gué. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Broad pointed steel greatsword, angular dark steel engraved crossguard, brown wrapped grip, faceted dark pommel. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "b5c12e6738684ba7ac415dec85307117522b438cba55a2e9fce9ebd23d9ce489",
+    "poses": [
+      {
+        "path": "poses/tfj_knight_sword_01-1-preview36.png",
+        "source_bbox": [
+          78,
+          80,
+          557,
+          570
+        ],
+        "source_dimensions": [
+          479,
+          490
+        ],
+        "visible_preview_rgba_colors": 239,
+        "preview64_path": "poses/tfj_knight_sword_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_knight_sword_01-2-preview36.png",
+        "source_bbox": [
+          128,
+          80,
+          607,
+          570
+        ],
+        "source_dimensions": [
+          479,
+          490
+        ],
+        "visible_preview_rgba_colors": 242,
+        "preview64_path": "poses/tfj_knight_sword_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_knight_sword_01-3-preview36.png",
+        "source_bbox": [
+          196,
+          1,
+          419,
+          599
+        ],
+        "source_dimensions": [
+          223,
+          598
+        ],
+        "visible_preview_rgba_colors": 172,
+        "preview64_path": "poses/tfj_knight_sword_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_knight_sword_01-4-preview36.png",
+        "source_bbox": [
+          1,
+          219,
+          635,
+          416
+        ],
+        "source_dimensions": [
+          634,
+          197
+        ],
+        "visible_preview_rgba_colors": 140,
+        "preview64_path": "poses/tfj_knight_sword_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_katana_01",
+    "name": "Katana des roseaux",
+    "category": "Katana",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_katana_01.png",
+    "inventory_sha256": "33d10605abffe97998c598d12565bd968cbaff02fa7b06168a308b6a4fe3fa99",
+    "design_intent_from_existing_plan": "plain slender curved steel katana with tan cord",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        112,
+        112
+      ],
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        128,
+        128,
+        128
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        160,
+        160,
+        160
+      ],
+      [
+        176,
+        176,
+        176
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Gently curved silver katana, oval brass guard, dark grip with tan diamond cord wrap, brass end cap. Omit the tiny tassel for combat readability.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Katana des roseaux. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Gently curved silver katana, oval brass guard, dark grip with tan diamond cord wrap, brass end cap. Omit the tiny tassel for combat readability. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "7c1c58105e6d2c9195185c915ba7365417cd684a0a2baca60f33fdb982fd0e71",
+    "poses": [
+      {
+        "path": "poses/tfj_katana_01-1-preview36.png",
+        "source_bbox": [
+          69,
+          99,
+          569,
+          696
+        ],
+        "source_dimensions": [
+          500,
+          597
+        ],
+        "visible_preview_rgba_colors": 126,
+        "preview64_path": "poses/tfj_katana_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_katana_01-2-preview36.png",
+        "source_bbox": [
+          96,
+          99,
+          570,
+          694
+        ],
+        "source_dimensions": [
+          474,
+          595
+        ],
+        "visible_preview_rgba_colors": 118,
+        "preview64_path": "poses/tfj_katana_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_katana_01-3-preview36.png",
+        "source_bbox": [
+          39,
+          254,
+          589,
+          382
+        ],
+        "source_dimensions": [
+          550,
+          128
+        ],
+        "visible_preview_rgba_colors": 98,
+        "preview64_path": "poses/tfj_katana_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_katana_01-4-preview36.png",
+        "source_bbox": [
+          38,
+          254,
+          590,
+          381
+        ],
+        "source_dimensions": [
+          552,
+          127
+        ],
+        "visible_preview_rgba_colors": 95,
+        "preview64_path": "poses/tfj_katana_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_axe_01",
+    "name": "Hache de levée",
+    "category": "Axe",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_axe_01.png",
+    "inventory_sha256": "fbba1abc1538924dec565cbee766f872340fd019334aa698f5ab70781426c957",
+    "design_intent_from_existing_plan": "small rugged iron battle axe on ash wood haft",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        64,
+        48,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Compact double-headed dark iron battle axe with two different curved cutting edges, plain brown wooden haft.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Hache de levée. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Compact double-headed dark iron battle axe with two different curved cutting edges, plain brown wooden haft. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "1b640ed860abcf424a048ba8d787d28476681a3f5b545887e19c3eadd0b2e304",
+    "poses": [
+      {
+        "path": "poses/tfj_axe_01-1-preview36.png",
+        "source_bbox": [
+          127,
+          117,
+          521,
+          559
+        ],
+        "source_dimensions": [
+          394,
+          442
+        ],
+        "visible_preview_rgba_colors": 304,
+        "preview64_path": "poses/tfj_axe_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_axe_01-2-preview36.png",
+        "source_bbox": [
+          107,
+          117,
+          500,
+          559
+        ],
+        "source_dimensions": [
+          393,
+          442
+        ],
+        "visible_preview_rgba_colors": 298,
+        "preview64_path": "poses/tfj_axe_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_axe_01-3-preview36.png",
+        "source_bbox": [
+          284,
+          58,
+          383,
+          520
+        ],
+        "source_dimensions": [
+          99,
+          462
+        ],
+        "visible_preview_rgba_colors": 134,
+        "preview64_path": "poses/tfj_axe_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_axe_01-4-preview36.png",
+        "source_bbox": [
+          136,
+          78,
+          451,
+          520
+        ],
+        "source_dimensions": [
+          315,
+          442
+        ],
+        "visible_preview_rgba_colors": 280,
+        "preview64_path": "poses/tfj_axe_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_rod_01",
+    "name": "Baguette d'argile",
+    "category": "Rod",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_rod_01.png",
+    "inventory_sha256": "552f511f668c3f94dece326641378857da5de71d74f5c2310baf674dcb8506ab",
+    "design_intent_from_existing_plan": "short brown wand with simple fired clay tip",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        64,
+        48
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        48,
+        32,
+        16
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        112,
+        80,
+        64
+      ],
+      [
+        80,
+        48,
+        32
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Slender dark brown wooden rod, rounded terracotta cap at upper end, terracotta sleeve at lower end, two brown collars.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Baguette d'argile. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Slender dark brown wooden rod, rounded terracotta cap at upper end, terracotta sleeve at lower end, two brown collars. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "f40aff2656115c454f0ac9c6a0808141b61f75f0f4e9d25fe9325de8ab112fc6",
+    "poses": [
+      {
+        "path": "poses/tfj_rod_01-1-preview36.png",
+        "source_bbox": [
+          125,
+          62,
+          524,
+          507
+        ],
+        "source_dimensions": [
+          399,
+          445
+        ],
+        "visible_preview_rgba_colors": 163,
+        "preview64_path": "poses/tfj_rod_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_rod_01-2-preview36.png",
+        "source_bbox": [
+          146,
+          62,
+          530,
+          507
+        ],
+        "source_dimensions": [
+          384,
+          445
+        ],
+        "visible_preview_rgba_colors": 155,
+        "preview64_path": "poses/tfj_rod_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_rod_01-3-preview36.png",
+        "source_bbox": [
+          276,
+          13,
+          369,
+          508
+        ],
+        "source_dimensions": [
+          93,
+          495
+        ],
+        "visible_preview_rgba_colors": 130,
+        "preview64_path": "poses/tfj_rod_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_rod_01-4-preview36.png",
+        "source_bbox": [
+          150,
+          40,
+          530,
+          497
+        ],
+        "source_dimensions": [
+          380,
+          457
+        ],
+        "visible_preview_rgba_colors": 154,
+        "preview64_path": "poses/tfj_rod_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_staff_02",
+    "name": "Bâton des sources",
+    "category": "Staff",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_staff_02.png",
+    "inventory_sha256": "af71cd9cfa1a46fd45749bd171377ae843c730c60ccc83f85d793945df766f30",
+    "design_intent_from_existing_plan": "pale wood staff with blue water bead in a fork",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        128,
+        112,
+        96
+      ],
+      [
+        208,
+        192,
+        160
+      ],
+      [
+        208,
+        192,
+        176
+      ],
+      [
+        192,
+        176,
+        160
+      ],
+      [
+        112,
+        96,
+        80
+      ],
+      [
+        192,
+        176,
+        144
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Pale wooden staff whose upper head splits into FOUR long tines, wrapped pale collar below head, blue teardrop gem mounted near LOWER end above small wooden tip. Blue gem is NOT at fork.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Bâton des sources. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Pale wooden staff whose upper head splits into FOUR long tines, wrapped pale collar below head, blue teardrop gem mounted near LOWER end above small wooden tip. Blue gem is NOT at fork. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "5a03c7e50986a891479cbbef945ea614db8f38a36cd7cffdd2f6b3cf9d90b19c",
+    "poses": [
+      {
+        "path": "poses/tfj_staff_02-1-preview36.png",
+        "source_bbox": [
+          245,
+          49,
+          406,
+          566
+        ],
+        "source_dimensions": [
+          161,
+          517
+        ],
+        "visible_preview_rgba_colors": 158,
+        "preview64_path": "poses/tfj_staff_02-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_staff_02-2-preview36.png",
+        "source_bbox": [
+          240,
+          57,
+          550,
+          557
+        ],
+        "source_dimensions": [
+          310,
+          500
+        ],
+        "visible_preview_rgba_colors": 177,
+        "preview64_path": "poses/tfj_staff_02-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_staff_02-3-preview36.png",
+        "source_bbox": [
+          123,
+          67,
+          479,
+          536
+        ],
+        "source_dimensions": [
+          356,
+          469
+        ],
+        "visible_preview_rgba_colors": 189,
+        "preview64_path": "poses/tfj_staff_02-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_staff_02-4-preview36.png",
+        "source_bbox": [
+          237,
+          64,
+          482,
+          565
+        ],
+        "source_dimensions": [
+          245,
+          501
+        ],
+        "visible_preview_rgba_colors": 176,
+        "preview64_path": "poses/tfj_staff_02-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_flail_01",
+    "name": "Fléau de milice",
+    "category": "Flail",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_flail_01.png",
+    "inventory_sha256": "b65e94ace1489a8dd7c264b3fb05c804daaa4835ccfbfb45331f9bc75b444bab",
+    "design_intent_from_existing_plan": "iron ball flail with short chain and brown handle",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        112,
+        112,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Dark spiked iron ball with crossing metal bands, connected by continuous short steel chain and curved metal link to a brown wooden handle. Entire object physically connected in every view.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Fléau de milice. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Dark spiked iron ball with crossing metal bands, connected by continuous short steel chain and curved metal link to a brown wooden handle. Entire object physically connected in every view. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "5e98cbbe781282755b89794e998ed0c09a37d3ef329bb07f3cbce5d857712e28",
+    "poses": [
+      {
+        "path": "poses/tfj_flail_01-1-preview36.png",
+        "source_bbox": [
+          95,
+          91,
+          575,
+          584
+        ],
+        "source_dimensions": [
+          480,
+          493
+        ],
+        "visible_preview_rgba_colors": 297,
+        "preview64_path": "poses/tfj_flail_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_flail_01-2-preview36.png",
+        "source_bbox": [
+          76,
+          91,
+          548,
+          584
+        ],
+        "source_dimensions": [
+          472,
+          493
+        ],
+        "visible_preview_rgba_colors": 304,
+        "preview64_path": "poses/tfj_flail_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_flail_01-3-preview36.png",
+        "source_bbox": [
+          131,
+          69,
+          436,
+          561
+        ],
+        "source_dimensions": [
+          305,
+          492
+        ],
+        "visible_preview_rgba_colors": 275,
+        "preview64_path": "poses/tfj_flail_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_flail_01-4-preview36.png",
+        "source_bbox": [
+          59,
+          75,
+          570,
+          542
+        ],
+        "source_dimensions": [
+          511,
+          467
+        ],
+        "visible_preview_rgba_colors": 262,
+        "preview64_path": "poses/tfj_flail_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_gun_01",
+    "name": "Arquebuse du guet",
+    "category": "Gun",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_gun_01.png",
+    "inventory_sha256": "9406206aaa6351482ec8baf09d5d382e4c2a0bd670250f2540cddb0736727d10",
+    "design_intent_from_existing_plan": "compact antique matchlock with walnut stock and iron barrel",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        96,
+        96
+      ],
+      [
+        80,
+        80,
+        80
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        80,
+        48,
+        32
+      ],
+      [
+        112,
+        112,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Antique compact firearm, walnut-brown stock, broad dark metal barrel, side lever and trigger loop, steel butt plate.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Arquebuse du guet. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Antique compact firearm, walnut-brown stock, broad dark metal barrel, side lever and trigger loop, steel butt plate. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "b3776749c2e3473a0cb5cb55bac24440c517e12dc889b3143f6ef0d1960124d9",
+    "poses": [
+      {
+        "path": "poses/tfj_gun_01-1-preview36.png",
+        "source_bbox": [
+          56,
+          100,
+          572,
+          582
+        ],
+        "source_dimensions": [
+          516,
+          482
+        ],
+        "visible_preview_rgba_colors": 256,
+        "preview64_path": "poses/tfj_gun_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_gun_01-2-preview36.png",
+        "source_bbox": [
+          62,
+          100,
+          579,
+          591
+        ],
+        "source_dimensions": [
+          517,
+          491
+        ],
+        "visible_preview_rgba_colors": 273,
+        "preview64_path": "poses/tfj_gun_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_gun_01-3-preview36.png",
+        "source_bbox": [
+          55,
+          174,
+          607,
+          458
+        ],
+        "source_dimensions": [
+          552,
+          284
+        ],
+        "visible_preview_rgba_colors": 207,
+        "preview64_path": "poses/tfj_gun_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_gun_01-4-preview36.png",
+        "source_bbox": [
+          57,
+          167,
+          579,
+          512
+        ],
+        "source_dimensions": [
+          522,
+          345
+        ],
+        "visible_preview_rgba_colors": 236,
+        "preview64_path": "poses/tfj_gun_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_crossbow_01",
+    "name": "Arbalète du péager",
+    "category": "Crossbow",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_crossbow_01.png",
+    "inventory_sha256": "9049090bd912a14b666e91f59f54768a980b5385ebb9cd110d7c71501c915f72",
+    "design_intent_from_existing_plan": "wooden stock crossbow with small steel prod",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        80,
+        64
+      ],
+      [
+        64,
+        64,
+        64
+      ],
+      [
+        96,
+        64,
+        48
+      ],
+      [
+        48,
+        32,
+        16
+      ],
+      [
+        48,
+        48,
+        48
+      ],
+      [
+        32,
+        32,
+        32
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Brown wooden stock crossbow, curved dark steel prod, visible continuous tan string connecting both ends, steel track and small trigger loop.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Arbalète du péager. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Brown wooden stock crossbow, curved dark steel prod, visible continuous tan string connecting both ends, steel track and small trigger loop. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "cf419211e4a3803baf2074658449ca2841ea5b4e0f3602313a788c079e9fe28f",
+    "poses": [
+      {
+        "path": "poses/tfj_crossbow_01-1-preview36.png",
+        "source_bbox": [
+          44,
+          156,
+          553,
+          592
+        ],
+        "source_dimensions": [
+          509,
+          436
+        ],
+        "visible_preview_rgba_colors": 343,
+        "preview64_path": "poses/tfj_crossbow_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_crossbow_01-2-preview36.png",
+        "source_bbox": [
+          81,
+          165,
+          586,
+          599
+        ],
+        "source_dimensions": [
+          505,
+          434
+        ],
+        "visible_preview_rgba_colors": 349,
+        "preview64_path": "poses/tfj_crossbow_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_crossbow_01-3-preview36.png",
+        "source_bbox": [
+          44,
+          123,
+          563,
+          497
+        ],
+        "source_dimensions": [
+          519,
+          374
+        ],
+        "visible_preview_rgba_colors": 233,
+        "preview64_path": "poses/tfj_crossbow_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_crossbow_01-4-preview36.png",
+        "source_bbox": [
+          67,
+          136,
+          589,
+          513
+        ],
+        "source_dimensions": [
+          522,
+          377
+        ],
+        "visible_preview_rgba_colors": 241,
+        "preview64_path": "poses/tfj_crossbow_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_bow_01",
+    "name": "Arc du coteau",
+    "category": "Bow",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_bow_01.png",
+    "inventory_sha256": "5869c91f425b113f88cf2d8812d0f5576534c8291f94d5306ff3720806c77cb6",
+    "design_intent_from_existing_plan": "simple bent ash wood bow with tan string",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        64,
+        48,
+        48
+      ],
+      [
+        128,
+        112,
+        80
+      ],
+      [
+        128,
+        96,
+        80
+      ],
+      [
+        96,
+        80,
+        64
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Plain asymmetrical bent brown wood bow with a visibly continuous tan cord joining the two tips. Cord stays legible at miniature scale, about 1-2 logical pixels as artistic proposal.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Arc du coteau. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Plain asymmetrical bent brown wood bow with a visibly continuous tan cord joining the two tips. Cord stays legible at miniature scale, about 1-2 logical pixels as artistic proposal. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "6d70cf5b6c9e1c3ad76dd3e403247fc49c1f91147b0c02471a5b7ce554b8ddee",
+    "poses": [
+      {
+        "path": "poses/tfj_bow_01-1-preview36.png",
+        "source_bbox": [
+          126,
+          104,
+          557,
+          551
+        ],
+        "source_dimensions": [
+          431,
+          447
+        ],
+        "visible_preview_rgba_colors": 250,
+        "preview64_path": "poses/tfj_bow_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_bow_01-2-preview36.png",
+        "source_bbox": [
+          71,
+          102,
+          503,
+          563
+        ],
+        "source_dimensions": [
+          432,
+          461
+        ],
+        "visible_preview_rgba_colors": 232,
+        "preview64_path": "poses/tfj_bow_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_bow_01-3-preview36.png",
+        "source_bbox": [
+          246,
+          57,
+          372,
+          538
+        ],
+        "source_dimensions": [
+          126,
+          481
+        ],
+        "visible_preview_rgba_colors": 167,
+        "preview64_path": "poses/tfj_bow_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_bow_01-4-preview36.png",
+        "source_bbox": [
+          258,
+          57,
+          394,
+          544
+        ],
+        "source_dimensions": [
+          136,
+          487
+        ],
+        "visible_preview_rgba_colors": 139,
+        "preview64_path": "poses/tfj_bow_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_instrument_01",
+    "name": "Harpe du carrefour",
+    "category": "Instrument",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_instrument_01.png",
+    "inventory_sha256": "af87f21fb747c20926344ea6ac5fe930bfbe1b8ffa2d26b39dc1583bf14c7eb8",
+    "design_intent_from_existing_plan": "small plain wooden triangular harp with brass pegs",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        128,
+        96,
+        80
+      ],
+      [
+        112,
+        80,
+        64
+      ],
+      [
+        160,
+        128,
+        96
+      ],
+      [
+        176,
+        144,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Small triangular brown wooden harp with brass top pegs and several visibly continuous pale strings joining top crossbar to lower vertex.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Harpe du carrefour. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Small triangular brown wooden harp with brass top pegs and several visibly continuous pale strings joining top crossbar to lower vertex. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "990285832b7752220d6f8d769e46d15d4bc43b7643ddaaf5aa8fc5456dbb15d2",
+    "poses": [
+      {
+        "path": "poses/tfj_instrument_01-1-preview36.png",
+        "source_bbox": [
+          190,
+          96,
+          555,
+          582
+        ],
+        "source_dimensions": [
+          365,
+          486
+        ],
+        "visible_preview_rgba_colors": 367,
+        "preview64_path": "poses/tfj_instrument_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_instrument_01-2-preview36.png",
+        "source_bbox": [
+          144,
+          97,
+          496,
+          577
+        ],
+        "source_dimensions": [
+          352,
+          480
+        ],
+        "visible_preview_rgba_colors": 375,
+        "preview64_path": "poses/tfj_instrument_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_instrument_01-3-preview36.png",
+        "source_bbox": [
+          305,
+          25,
+          450,
+          495
+        ],
+        "source_dimensions": [
+          145,
+          470
+        ],
+        "visible_preview_rgba_colors": 179,
+        "preview64_path": "poses/tfj_instrument_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_instrument_01-4-preview36.png",
+        "source_bbox": [
+          151,
+          25,
+          519,
+          502
+        ],
+        "source_dimensions": [
+          368,
+          477
+        ],
+        "visible_preview_rgba_colors": 382,
+        "preview64_path": "poses/tfj_instrument_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_book_01",
+    "name": "Registre du voyageur",
+    "category": "Book",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_book_01.png",
+    "inventory_sha256": "4d185c72572bec52a256766317afbe9ab5a8319df2e9dc2755d571f14dd4a39c",
+    "design_intent_from_existing_plan": "closed worn tan leather book with brass clasp",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        160,
+        128,
+        96
+      ],
+      [
+        160,
+        112,
+        80
+      ],
+      [
+        144,
+        112,
+        80
+      ],
+      [
+        176,
+        128,
+        96
+      ],
+      [
+        160,
+        128,
+        80
+      ],
+      [
+        96,
+        64,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Closed worn tan leather book, darker spine and edges, offwhite page block, brass side clasp with round rivet.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Registre du voyageur. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Closed worn tan leather book, darker spine and edges, offwhite page block, brass side clasp with round rivet. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "f62f65d76d00301873254f351b3a04f3ccaf938dec474f10a4eaf205d1ae409d",
+    "poses": [
+      {
+        "path": "poses/tfj_book_01-1-preview36.png",
+        "source_bbox": [
+          97,
+          148,
+          546,
+          608
+        ],
+        "source_dimensions": [
+          449,
+          460
+        ],
+        "visible_preview_rgba_colors": 573,
+        "preview64_path": "poses/tfj_book_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_book_01-2-preview36.png",
+        "source_bbox": [
+          79,
+          159,
+          530,
+          618
+        ],
+        "source_dimensions": [
+          451,
+          459
+        ],
+        "visible_preview_rgba_colors": 571,
+        "preview64_path": "poses/tfj_book_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_book_01-3-preview36.png",
+        "source_bbox": [
+          226,
+          110,
+          403,
+          519
+        ],
+        "source_dimensions": [
+          177,
+          409
+        ],
+        "visible_preview_rgba_colors": 309,
+        "preview64_path": "poses/tfj_book_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_book_01-4-preview36.png",
+        "source_bbox": [
+          79,
+          110,
+          519,
+          550
+        ],
+        "source_dimensions": [
+          440,
+          440
+        ],
+        "visible_preview_rgba_colors": 605,
+        "preview64_path": "poses/tfj_book_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_polearm_01",
+    "name": "Lance du gué",
+    "category": "Polearm",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\corrections-last\\images\\tfj_polearm_01.png",
+    "inventory_sha256": "52e6b568e1d316a343bfa1736724691622f8ac0fa34c3c1d3a7a97d800df93d8",
+    "design_intent_from_existing_plan": "long ash spear with short plain steel head",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        192,
+        160,
+        128
+      ],
+      [
+        144,
+        144,
+        144
+      ],
+      [
+        160,
+        128,
+        96
+      ],
+      [
+        208,
+        176,
+        144
+      ],
+      [
+        176,
+        144,
+        112
+      ],
+      [
+        112,
+        112,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Long pale ashwood spear, straight narrow silver leaf-shaped blade and silver socket, small steel butt cap.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Lance du gué. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Long pale ashwood spear, straight narrow silver leaf-shaped blade and silver socket, small steel butt cap. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "721ee54914783b9dccc00b5e6e592445e604a0ca1286660516a2719537d542d6",
+    "poses": [
+      {
+        "path": "poses/tfj_polearm_01-1-preview36.png",
+        "source_bbox": [
+          49,
+          59,
+          525,
+          620
+        ],
+        "source_dimensions": [
+          476,
+          561
+        ],
+        "visible_preview_rgba_colors": 103,
+        "preview64_path": "poses/tfj_polearm_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_polearm_01-2-preview36.png",
+        "source_bbox": [
+          103,
+          59,
+          578,
+          620
+        ],
+        "source_dimensions": [
+          475,
+          561
+        ],
+        "visible_preview_rgba_colors": 106,
+        "preview64_path": "poses/tfj_polearm_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_polearm_01-3-preview36.png",
+        "source_bbox": [
+          36,
+          306,
+          580,
+          388
+        ],
+        "source_dimensions": [
+          544,
+          82
+        ],
+        "visible_preview_rgba_colors": 99,
+        "preview64_path": "poses/tfj_polearm_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_polearm_01-4-preview36.png",
+        "source_bbox": [
+          47,
+          306,
+          591,
+          388
+        ],
+        "source_dimensions": [
+          544,
+          82
+        ],
+        "visible_preview_rgba_colors": 95,
+        "preview64_path": "poses/tfj_polearm_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_pole_01",
+    "name": "Perche d'orme",
+    "category": "Pole",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_pole_01.png",
+    "inventory_sha256": "f567f7dfc59efde5128217116dcf779702638417ed6c8b91a8899690b4506fd5",
+    "design_intent_from_existing_plan": "plain long elm wood pole with worn grips",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        96,
+        80,
+        64
+      ],
+      [
+        144,
+        112,
+        96
+      ],
+      [
+        128,
+        96,
+        80
+      ],
+      [
+        64,
+        48,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Long dark brown wooden pole with several silver-gray reinforcing collars, tan wrapped grip toward lower end and rounded wooden tip.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Perche d'orme. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Long dark brown wooden pole with several silver-gray reinforcing collars, tan wrapped grip toward lower end and rounded wooden tip. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "d6a89ba81fbd4132fe29e30cba651872a1a50532304d98c4eb76b1505deac9f8",
+    "poses": [
+      {
+        "path": "poses/tfj_pole_01-1-preview36.png",
+        "source_bbox": [
+          90,
+          38,
+          576,
+          548
+        ],
+        "source_dimensions": [
+          486,
+          510
+        ],
+        "visible_preview_rgba_colors": 150,
+        "preview64_path": "poses/tfj_pole_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_pole_01-2-preview36.png",
+        "source_bbox": [
+          36,
+          38,
+          521,
+          548
+        ],
+        "source_dimensions": [
+          485,
+          510
+        ],
+        "visible_preview_rgba_colors": 150,
+        "preview64_path": "poses/tfj_pole_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_pole_01-3-preview36.png",
+        "source_bbox": [
+          30,
+          289,
+          672,
+          357
+        ],
+        "source_dimensions": [
+          642,
+          68
+        ],
+        "visible_preview_rgba_colors": 82,
+        "preview64_path": "poses/tfj_pole_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_pole_01-4-preview36.png",
+        "source_bbox": [
+          290,
+          11,
+          354,
+          588
+        ],
+        "source_dimensions": [
+          64,
+          577
+        ],
+        "visible_preview_rgba_colors": 105,
+        "preview64_path": "poses/tfj_pole_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_bag_01",
+    "name": "Sac de colporteur",
+    "category": "Bag",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_bag_01.png",
+    "inventory_sha256": "af6ff63aea6c9a8cc2aad643d5b8f2ca17511c4ec46b5ec61958ab32c136d16a",
+    "design_intent_from_existing_plan": "small tan satchel with brass buckle",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        176,
+        144,
+        112
+      ],
+      [
+        176,
+        160,
+        128
+      ],
+      [
+        80,
+        64,
+        48
+      ],
+      [
+        64,
+        48,
+        32
+      ],
+      [
+        128,
+        96,
+        80
+      ],
+      [
+        160,
+        144,
+        112
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Compact tan satchel, rounded flap outlined dark brown, central brass buckle, short side strap loop.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Sac de colporteur. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Compact tan satchel, rounded flap outlined dark brown, central brass buckle, short side strap loop. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "2c85dc515b468d2b4594395fd0449ba39379bb13221be55efe745a44fc629ecc",
+    "poses": [
+      {
+        "path": "poses/tfj_bag_01-1-preview36.png",
+        "source_bbox": [
+          146,
+          219,
+          569,
+          560
+        ],
+        "source_dimensions": [
+          423,
+          341
+        ],
+        "visible_preview_rgba_colors": 548,
+        "preview64_path": "poses/tfj_bag_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_bag_01-2-preview36.png",
+        "source_bbox": [
+          78,
+          234,
+          481,
+          578
+        ],
+        "source_dimensions": [
+          403,
+          344
+        ],
+        "visible_preview_rgba_colors": 513,
+        "preview64_path": "poses/tfj_bag_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_bag_01-3-preview36.png",
+        "source_bbox": [
+          236,
+          108,
+          491,
+          451
+        ],
+        "source_dimensions": [
+          255,
+          343
+        ],
+        "visible_preview_rgba_colors": 491,
+        "preview64_path": "poses/tfj_bag_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_bag_01-4-preview36.png",
+        "source_bbox": [
+          68,
+          126,
+          491,
+          481
+        ],
+        "source_dimensions": [
+          423,
+          355
+        ],
+        "visible_preview_rgba_colors": 509,
+        "preview64_path": "poses/tfj_bag_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_cloth_01",
+    "name": "Étoffe du col",
+    "category": "Cloth",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_cloth_01.png",
+    "inventory_sha256": "f2408bacfedb2c807085ad9833da09643b26379cb6b630b0e4ad18d99fd7ba03",
+    "design_intent_from_existing_plan": "folded ochre fighting cloth with red stitched border",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        192,
+        144,
+        80
+      ],
+      [
+        176,
+        128,
+        80
+      ],
+      [
+        160,
+        112,
+        80
+      ],
+      [
+        192,
+        144,
+        96
+      ],
+      [
+        144,
+        96,
+        64
+      ],
+      [
+        112,
+        80,
+        48
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Ocher folded fighting cloth, red stitched border, one end rolled into a short cylinder. Keep cloth ocher, stitching red.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Étoffe du col. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Ocher folded fighting cloth, red stitched border, one end rolled into a short cylinder. Keep cloth ocher, stitching red. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "911f68690687e90f90b7eb8664befd87a7e11ec56490b2b4bfe3efb215e8ce56",
+    "poses": [
+      {
+        "path": "poses/tfj_cloth_01-1-preview36.png",
+        "source_bbox": [
+          86,
+          211,
+          572,
+          584
+        ],
+        "source_dimensions": [
+          486,
+          373
+        ],
+        "visible_preview_rgba_colors": 436,
+        "preview64_path": "poses/tfj_cloth_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_cloth_01-2-preview36.png",
+        "source_bbox": [
+          119,
+          223,
+          576,
+          569
+        ],
+        "source_dimensions": [
+          457,
+          346
+        ],
+        "visible_preview_rgba_colors": 472,
+        "preview64_path": "poses/tfj_cloth_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_cloth_01-3-preview36.png",
+        "source_bbox": [
+          73,
+          269,
+          549,
+          431
+        ],
+        "source_dimensions": [
+          476,
+          162
+        ],
+        "visible_preview_rgba_colors": 228,
+        "preview64_path": "poses/tfj_cloth_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_cloth_01-4-preview36.png",
+        "source_bbox": [
+          96,
+          143,
+          578,
+          522
+        ],
+        "source_dimensions": [
+          482,
+          379
+        ],
+        "visible_preview_rgba_colors": 397,
+        "preview64_path": "poses/tfj_cloth_01-4-preview64.png"
+      }
+    ]
+  },
+  {
+    "id": "tfj_shield_01",
+    "name": "Rondache de levée",
+    "category": "Shield",
+    "rarity": "common",
+    "inventory_source": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_01.png",
+    "inventory_sha256": "904bd45e4816f2cf3070739c902cc7d6677b6b764ca130d63b3be0643568ad05",
+    "design_intent_from_existing_plan": "round plain wooden buckler with iron boss",
+    "diagnostic_dominant_rgb_bins": [
+      [
+        112,
+        112,
+        96
+      ],
+      [
+        112,
+        96,
+        96
+      ],
+      [
+        96,
+        96,
+        80
+      ],
+      [
+        96,
+        80,
+        80
+      ],
+      [
+        128,
+        112,
+        96
+      ],
+      [
+        112,
+        96,
+        80
+      ]
+    ],
+    "rgb_bins_are_native_palette": false,
+    "signature_status": "VERIFIED_VISUALLY_ON_SELECTED_INVENTORY",
+    "combat_art_status": "VISUALLY_REVIEWED_CONCEPT_ONLY",
+    "runtime_ready": false,
+    "native_item_id": null,
+    "native_sprite_id": null,
+    "native_palette_id": null,
+    "hand_anchor": "UNKNOWN",
+    "signature": "Round wooden buckler with gray iron rim, vertical gray-brown planks, single diagonal wooden brace and angular iron boss with domed center. Back view may show a simple leather grip as explicit art proposal.",
+    "prompt": "Use case: stylized-concept. Create a new combat equipment pixel-art study for Final Fantasy Tactics, Rondache de levée. Image 1 is ONLY pixel style/scale reference, a historical native weapon atlas. Image 2 is ONLY identity reference, the selected inventory illustration. Redraw its physical design as tiny classic FFT combat sprites: Round wooden buckler with gray iron rim, vertical gray-brown planks, single diagonal wooden brace and angular iron boss with domed center. Back view may show a simple leather grip as explicit art proposal. Four consistent views of the SAME physical object in a 2 by 2 grid: front diagonal, reverse diagonal, side, back/alternate orientation. Uniform large square pixels, readable silhouette, flat muted colors, two or three shades per material, small cluster shading. Opaque solid material interiors, fully transparent alpha-zero exterior. Wide empty transparent central gutters, generous padding, nothing crossing cells. No text, labels, characters, hands, halos, magic, sparks, mist, checkerboard, shadows, glossy rendering or illustration grain. Preserve proportions and palette across all four views. These are art proposals, not engine animation frames.",
+    "source_sha256": "eaee1dbcdd60e2b2f18d57408a21410df58eb218c1a5cf379ce6dea93600ebf1",
+    "poses": [
+      {
+        "path": "poses/tfj_shield_01-1-preview36.png",
+        "source_bbox": [
+          146,
+          100,
+          530,
+          578
+        ],
+        "source_dimensions": [
+          384,
+          478
+        ],
+        "visible_preview_rgba_colors": 559,
+        "preview64_path": "poses/tfj_shield_01-1-preview64.png"
+      },
+      {
+        "path": "poses/tfj_shield_01-2-preview36.png",
+        "source_bbox": [
+          156,
+          114,
+          521,
+          589
+        ],
+        "source_dimensions": [
+          365,
+          475
+        ],
+        "visible_preview_rgba_colors": 550,
+        "preview64_path": "poses/tfj_shield_01-2-preview64.png"
+      },
+      {
+        "path": "poses/tfj_shield_01-3-preview36.png",
+        "source_bbox": [
+          245,
+          83,
+          393,
+          505
+        ],
+        "source_dimensions": [
+          148,
+          422
+        ],
+        "visible_preview_rgba_colors": 217,
+        "preview64_path": "poses/tfj_shield_01-3-preview64.png"
+      },
+      {
+        "path": "poses/tfj_shield_01-4-preview36.png",
+        "source_bbox": [
+          107,
+          95,
+          521,
+          508
+        ],
+        "source_dimensions": [
+          414,
+          413
+        ],
+        "visible_preview_rgba_colors": 664,
+        "preview64_path": "poses/tfj_shield_01-4-preview64.png"
+      }
+    ]
+  }
+]

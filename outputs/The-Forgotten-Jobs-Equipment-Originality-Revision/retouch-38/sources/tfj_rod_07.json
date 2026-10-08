@@ -1,0 +1,12 @@
+{
+  "id": "tfj_rod_07",
+  "name_fr": "Clef des quatre vents",
+  "generator": "OPENAI_BUILT_IN_IMAGEGEN",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-b0eb9615-3a35-4879-86a8-e93452a063d4.png",
+  "prompt": "Generate a NEW transparent four-view combat equipment sprite study FROM SCRATCH. Attached native FFT weapon atlas is a STYLE REFERENCE ONLY. Do not copy its arrangement or any vanilla item. Severe native visual economy: small readable silhouettes, UNIFORM square pixel grid, a FEW large flat opaque muted color clusters, only 2 or 3 hard-edged shades per material. Like a tiny low-resolution tactical RPG battle sprite enlarged by nearest-neighbour, not a detailed inventory illustration. Four isolated views of ONE SAME physical object in 2x2 arrangement, HUGE truly transparent gutters. All equipment visible fully, away from sheet edges. Outside hard-edged silhouettes alpha ZERO. No background, vignette, checkerboard, text, labels, characters, hands, grain, noise or painterly rendering. ABSOLUTELY NO glow, halo, aura, haze, cloud, particles, translucent shadow, lighting spill, gradients or bloom. Omit ALL mist/smoke/magical effects even if mentioned in the object's signature: those are separate effects, not part of this sprite. Keep proportions/materials/design consistent in all four views. Simplify ornament to one readable distinctive feature rather than adding detail. No generic golden filigree. This is an art study, not a native engine atlas or encoded asset.\nEquipment family: Rod. Object identity: Patinated copper cruciform wind-key head with four vanes, key tooth, indigo wrapped short shaft.\nPalette identity: copper, indigo, pale sage.\nUpper-left profile points up-left, upper-right profile points up-right; lower-left horizontal left, lower-right horizontal right. Same shape, tip/head, grip and proportions in all views. Continuous shaft/blade. No sheath or extra weapon.",
+  "reference": "C:/Users/eSilRoy/Documents/Codex/2026-10-06/codex-start-here-md-et-suivre/outputs/The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment/references/weapon-palette-03.png",
+  "status": "VISUALLY_REVIEWED_ALTERNATIVE_CONCEPT_ONLY",
+  "runtime_ready": false,
+  "selected_sha256": "1e0857f0a56f55930e0e614d40e836c455e9a5e1f1c24fb8c6fa6739bcddea6c",
+  "review": "Cruciform copper wind-key head, patinated vanes and indigo shaft remain recognizable; no diffuse halo visible."
+}

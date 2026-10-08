@@ -1,0 +1,30 @@
+[
+  {
+    "file": "tfj_knife_10-v2.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_pixels": 1327204,
+    "opaque_pixels": 0,
+    "partial_alpha_pixels": 245660,
+    "distinct_rgba_colors": 76792,
+    "status": "REJECTED_FOR_CLEAN_ALPHA_PRODUCTION"
+  },
+  {
+    "file": "tfj_knife_10-v3.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_pixels": 1306602,
+    "opaque_pixels": 0,
+    "partial_alpha_pixels": 266262,
+    "distinct_rgba_colors": 77635,
+    "status": "REJECTED_FOR_CLEAN_ALPHA_PRODUCTION"
+  }
+]

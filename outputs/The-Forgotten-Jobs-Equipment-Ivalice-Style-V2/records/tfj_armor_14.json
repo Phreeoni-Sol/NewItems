@@ -1,0 +1,17 @@
+{
+  "id": "tfj_armor_14",
+  "name_fr": "Le Corps du serment",
+  "category": "Armor",
+  "rarity": "unique",
+  "signature_design_en": "One smooth pale blue steel cuirass with a prominent dark indigo diagonal repaired crack, small rounded unadorned pauldrons, navy padded waist and one silver chain directly across chest.",
+  "palette": "pale blue, indigo, silver",
+  "visual_effect": "restrained white mist at repair",
+  "prompt": "Create a NEW ORIGINAL unique Armor inventory icon for FFT The Ivalice Chronicles: Le Corps du serment. Individual design: One smooth pale blue steel cuirass with a prominent dark indigo diagonal repaired crack, small rounded unadorned pauldrons, navy padded waist and one silver chain directly across chest. Specific palette: pale blue, indigo, silver. Localized visual effect: restrained white mist at repair. Make the exceptional identity apparent from silhouette and this material/visual signature, not more random jewelry. Match the supplied actual FFT The Ivalice Chronicles Enhanced native inventory icon strictly as a rendering-style and scale reference, do not copy its design. Small delicate hand-painted fantasy equipment icon, softly broken textured edges, subdued mineral colors, restrained low-contrast shading, clear compact masses with a few tiny worn details. No glossy luxury product render, thick cartoon outline, overdecorated gold cathedral filigree, tiny inscriptions, scene, text, frames, pedestals, mannequin or person. Not uniformly rusted: show the materials appropriate to this specific item. Exactly one complete isolated object, or one coherent wearable pair only when explicitly specified. Genuine transparent background with safe margins. Legible at 100x100; do not claim game-ready dimensions or battle sprite readiness. Long weapons shown diagonally upper left tip to lower right grip. Unworn garments have empty neck and arm openings; no head, hands or legs. Visual effects are restrained close to the object, never a full screen aura. Avoid repeating shapes from other categories.",
+  "reference": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\outputs\\The-Forgotten-Jobs-Equipment-Enhanced-Revision\\references\\native-png\\ei_185_uitx.png",
+  "model": "OPENAI_BUILT_IN_IMAGEGEN",
+  "runtime_ready": false,
+  "runtime_item_id": null,
+  "combat_representation_status": "NOT_CREATED_BINDING_UNKNOWN",
+  "source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-ebb32d71-1ba2-43c0-84d0-da9385187c4b.png",
+  "status": "GENERATED_AUTHORING_REQUIRES_VISUAL_REVIEW"
+}

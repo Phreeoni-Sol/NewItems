@@ -1,0 +1,8 @@
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\additive\Job-expanded.nxd
+PASS Job: one fixture row appended; 174 vanilla rows unchanged; collisions rejected.
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\additive\JobCommand-expanded.nxd
+PASS JobCommand: one fixture row appended; 227 vanilla rows unchanged; collisions rejected.
+GENERATED C:\Users\eSilRoy\Documents\Codex\2026-10-06\codex-start-here-md-et-suivre\work\claude-handoff-checks\20261006-200053-a8b70680d1f84d9092f95b2122d4fe4c\additive\GeneralJob-expanded.nxd
+PASS GeneralJob: one fixture row appended; 21 vanilla rows unchanged; collisions rejected.
+PASS existing-job replacement rejected by preservation check.
+WARNING: codec fixtures validate NXD additions only, not native allocation/menu/save compatibility.

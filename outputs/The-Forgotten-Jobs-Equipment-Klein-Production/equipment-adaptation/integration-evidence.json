@@ -1,0 +1,21 @@
+{
+  "new_ids_allocated": 0,
+  "engine_item_limit": "UNKNOWN",
+  "renderer_consumer": "UNKNOWN",
+  "sources": [
+    {
+      "path": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\upstream\\modloader-src\\fftivc.utility.modloader\\Tables\\FFTOItemDataManager.cs",
+      "sha256": "e650e371d0ecb5c6e25551e86faf61308f28bbdd6c814a1d43fffb828c8b779c"
+    },
+    {
+      "path": "C:\\Users\\eSilRoy\\Documents\\Codex\\2026-10-06\\codex-start-here-md-et-suivre\\work\\upstream\\modloader-src\\fftivc.utility.modloader\\Tables\\FFTOTableManagerBase.cs",
+      "sha256": "7210b3cd585a329e04ee52c19fd3225acf8521a76d82fd9a19c5f982fc8f480c"
+    },
+    {
+      "path": "D:\\FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles\\CoopMod\\tools\\Reloaded-II\\Mods\\fftivc.utility.modloader\\Nex\\Layouts\\ffto\\Item.layout",
+      "sha256": "d5297ef993be960d7279fb994582137f42d38845cfc69273cfa9979a5138ed34"
+    }
+  ],
+  "loader_observation": "Local FFTOItemDataManager has two fixed pointers (256 and 5 entries), NumEntries=261; base ApplyPendingFileChanges skips indices beyond original entries. This XML patch path does not append entries. This is not proof of an engine limit.",
+  "nex_layout_observation": "Installed localized Item.layout declares names/descriptions/UI fields; no declared Palette or SpriteID column. Unknown columns remain unknown; no renderer priority inferred."
+}

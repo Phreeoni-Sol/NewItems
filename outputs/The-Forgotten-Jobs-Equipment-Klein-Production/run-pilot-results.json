@@ -1,0 +1,298 @@
+[
+  {
+    "id": "tfj_knife_01",
+    "name_fr": "Dague de levée",
+    "category": "Knife",
+    "rarity": "common",
+    "model": "black-forest-labs/flux.2-klein-4b",
+    "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+    "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_002_uitx.png",
+    "reference_sha256": "8db7726baa89aaeaf959b9e6b442461c07c484697e0c5111c9648e2a652dce56",
+    "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_knife_01.png",
+    "expected_cost_pollen": 0.005,
+    "runtime_ready": false,
+    "attempts": [
+      {
+        "attempt": 1,
+        "http_status": 200
+      }
+    ],
+    "http_status": 200,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 1,
+      "total_tokens": 1,
+      "input_tokens_details": {
+        "text_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_ready": false,
+    "sha256": "ddba2b9260c7cf287bedc31c5d8f6e323cd3a326c9bae5fcb705fafaf3c94704",
+    "seconds": 7.17
+  },
+  {
+    "id": "tfj_sword_01",
+    "name_fr": "Épée de conscrit",
+    "category": "Sword",
+    "rarity": "common",
+    "model": "black-forest-labs/flux.2-klein-4b",
+    "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+    "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_019_uitx.png",
+    "reference_sha256": "1ff35cdab435b732c5f31775a43b972fb8fb751834ad7b5dccc6ad68e10ae318",
+    "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_sword_01.png",
+    "expected_cost_pollen": 0.005,
+    "runtime_ready": false,
+    "attempts": [
+      {
+        "attempt": 1,
+        "http_status": 200
+      }
+    ],
+    "http_status": 200,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 1,
+      "total_tokens": 1,
+      "input_tokens_details": {
+        "text_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_ready": false,
+    "sha256": "868b2758ff5b0fa84b0f71301350612dc0dc41387ac689173dbc77afc9434c46",
+    "seconds": 10.34
+  },
+  {
+    "id": "tfj_staff_01",
+    "name_fr": "Bâton du pèlerin",
+    "category": "Staff",
+    "rarity": "common",
+    "model": "black-forest-labs/flux.2-klein-4b",
+    "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+    "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_060_uitx.png",
+    "reference_sha256": "be1449867f94e81e3c0b08ec52c7ced0e5a0976bb69a77eb270e97674506947c",
+    "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_staff_01.png",
+    "expected_cost_pollen": 0.005,
+    "runtime_ready": false,
+    "attempts": [
+      {
+        "attempt": 1,
+        "http_status": 200
+      }
+    ],
+    "http_status": 200,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 1,
+      "total_tokens": 1,
+      "input_tokens_details": {
+        "text_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_ready": false,
+    "sha256": "996de2c3fa6cdd20c3b4aaf507acf9c6ef76a3e1372847895503904891a69759",
+    "seconds": 6.33
+  },
+  {
+    "id": "tfj_bow_01",
+    "name_fr": "Arc du coteau",
+    "category": "Bow",
+    "rarity": "common",
+    "model": "black-forest-labs/flux.2-klein-4b",
+    "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+    "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_084_uitx.png",
+    "reference_sha256": "cd4fdf5163f5b45ee69200e5a84b79c4154cdb769f66685e5505447c3fbb027e",
+    "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_bow_01.png",
+    "expected_cost_pollen": 0.005,
+    "runtime_ready": false,
+    "attempts": [
+      {
+        "attempt": 1,
+        "http_status": 200
+      }
+    ],
+    "http_status": 200,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 1,
+      "total_tokens": 1,
+      "input_tokens_details": {
+        "text_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_ready": false,
+    "sha256": "5869c91f425b113f88cf2d8812d0f5576534c8291f94d5306ff3720806c77cb6",
+    "seconds": 6.31
+  },
+  {
+    "id": "tfj_shield_01",
+    "name_fr": "Rondache de levée",
+    "category": "Shield",
+    "rarity": "common",
+    "model": "black-forest-labs/flux.2-klein-4b",
+    "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+    "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_136_uitx.png",
+    "reference_sha256": "a66a27d01af80dfb46ab6c7c361dae5ce7fd4e016b5e6add02601e9f4431857a",
+    "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_shield_01.png",
+    "expected_cost_pollen": 0.005,
+    "runtime_ready": false,
+    "attempts": [
+      {
+        "attempt": 1,
+        "http_status": 200
+      }
+    ],
+    "http_status": 200,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 1,
+      "total_tokens": 1,
+      "input_tokens_details": {
+        "text_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_ready": false,
+    "sha256": "904bd45e4816f2cf3070739c902cc7d6677b6b764ca130d63b3be0643568ad05",
+    "seconds": 6.92
+  },
+  {
+    "id": "tfj_helmet_01",
+    "name_fr": "Casque de recrue",
+    "category": "Helmet",
+    "rarity": "common",
+    "model": "black-forest-labs/flux.2-klein-4b",
+    "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+    "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_145_uitx.png",
+    "reference_sha256": "aa1f992753be2ca11348cdfeecd487eb445caa99ab91b2a8e788c5e3a914743f",
+    "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_helmet_01.png",
+    "expected_cost_pollen": 0.005,
+    "runtime_ready": false,
+    "attempts": [
+      {
+        "attempt": 1,
+        "http_status": 200
+      }
+    ],
+    "http_status": 200,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 1,
+      "total_tokens": 1,
+      "input_tokens_details": {
+        "text_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_ready": false,
+    "sha256": "6e2899e308945c706eb3dec68bd8d2602077e170a89c346c3b2ba771cc1aef46",
+    "seconds": 8.38
+  },
+  {
+    "id": "tfj_armor_01",
+    "name_fr": "Cuirasse de levée",
+    "category": "Armor",
+    "rarity": "common",
+    "model": "black-forest-labs/flux.2-klein-4b",
+    "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+    "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_173_uitx.png",
+    "reference_sha256": "f1fa9d930e124db5d6c693e4cba1fe8ce2b0d50892552c6c40a54103bcd2515c",
+    "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_armor_01.png",
+    "expected_cost_pollen": 0.005,
+    "runtime_ready": false,
+    "attempts": [
+      {
+        "attempt": 1,
+        "http_status": 200
+      }
+    ],
+    "http_status": 200,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 1,
+      "total_tokens": 1,
+      "input_tokens_details": {
+        "text_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_ready": false,
+    "sha256": "4b12cc1bf811c7d4dce693d620840c36e3b706915dfeab8bfe462368f453b8f2",
+    "seconds": 6.72
+  },
+  {
+    "id": "tfj_ring_01",
+    "name_fr": "Anneau du relais",
+    "category": "Ring",
+    "rarity": "common",
+    "model": "black-forest-labs/flux.2-klein-4b",
+    "status": "GENERATED_REQUIRES_VISUAL_AND_ALPHA_REVIEW",
+    "reference": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\references\\ei_219_uitx.png",
+    "reference_sha256": "df6d308cf8f9d588877d46ba0c4c0c92135887e9d1b3f4c2538d7ea795d6abfd",
+    "output": "outputs\\The-Forgotten-Jobs-Equipment-Klein-Production\\images\\tfj_ring_01.png",
+    "expected_cost_pollen": 0.005,
+    "runtime_ready": false,
+    "attempts": [
+      {
+        "attempt": 1,
+        "http_status": 200
+      }
+    ],
+    "http_status": 200,
+    "usage": {
+      "input_tokens": 0,
+      "output_tokens": 1,
+      "total_tokens": 1,
+      "input_tokens_details": {
+        "text_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_ready": false,
+    "sha256": "a643f39c3457541279adda071886c13479970ca506aa8c6a69928f568ab84cc1",
+    "seconds": 7.02
+  }
+]
