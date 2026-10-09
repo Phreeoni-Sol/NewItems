@@ -2,7 +2,7 @@
 
 Commencer par [CLAUDE_IMPLEMENTATION_JEU.md](CLAUDE_IMPLEMENTATION_JEU.md).
 
-271 nouveaux objets conçus ; 77 équipements avec des propositions de combat, soit 308 vues. Encodage expérimental vérifié ; 68 planches ordinaires restent à produire, avec des retouches et la validation en jeu encore nécessaires. Ce dépôt prépare une extension additive : aucun mod jouable validé et aucun remplacement vanilla.
+271 nouveaux objets conçus ; 145 équipements avec 580 vues de combat préparées et converties. Les 88 planches complémentaires sont terminées et la revue graphique est consignée. Le raccordement runtime, les SHP/SEQ, les ancres et les essais en jeu restent à réaliser par Claude. Extension additive ; aucun remplacement vanilla et aucun mod jouable déclaré.
 
 Les assets, mécaniques et recherches actuels se trouvent dans outputs/. Les documents historiques ci-dessous décrivent le cœur runtime. Les binaires du jeu, builds et clés API sont exclus. Pour contrôler cette livraison Git : python handoff/verify_git_delivery.py.
 

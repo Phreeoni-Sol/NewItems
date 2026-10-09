@@ -1,0 +1,302 @@
+{
+  "scope": "Specific authoring silhouette signatures, not in-game validation; enclosure test uses 4-neighbor transparent connectivity",
+  "checks": [
+    {
+      "id": "tfj_staff_02",
+      "view": 1,
+      "signature": "FOUR_SEPARATE_PRONGS_IN_FRONT_AND_REAR",
+      "status": "PASS_AUTHORING_SIGNATURE",
+      "rows": [
+        {
+          "y": 1,
+          "opaque_runs": 4
+        },
+        {
+          "y": 2,
+          "opaque_runs": 4
+        },
+        {
+          "y": 3,
+          "opaque_runs": 4
+        },
+        {
+          "y": 4,
+          "opaque_runs": 4
+        },
+        {
+          "y": 5,
+          "opaque_runs": 1
+        },
+        {
+          "y": 6,
+          "opaque_runs": 1
+        },
+        {
+          "y": 7,
+          "opaque_runs": 1
+        }
+      ]
+    },
+    {
+      "id": "tfj_staff_02",
+      "view": 4,
+      "signature": "FOUR_SEPARATE_PRONGS_IN_FRONT_AND_REAR",
+      "status": "PASS_AUTHORING_SIGNATURE",
+      "rows": [
+        {
+          "y": 1,
+          "opaque_runs": 4
+        },
+        {
+          "y": 2,
+          "opaque_runs": 4
+        },
+        {
+          "y": 3,
+          "opaque_runs": 4
+        },
+        {
+          "y": 4,
+          "opaque_runs": 4
+        },
+        {
+          "y": 5,
+          "opaque_runs": 1
+        },
+        {
+          "y": 6,
+          "opaque_runs": 1
+        },
+        {
+          "y": 7,
+          "opaque_runs": 1
+        }
+      ]
+    },
+    {
+      "id": "tfj_staff_02",
+      "view": 1,
+      "signature": "BLUE_GEM_ACCENT_SURVIVES_PALETTE_REDUCTION",
+      "blue_pixels": 6,
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_staff_02",
+      "view": 2,
+      "signature": "BLUE_GEM_ACCENT_SURVIVES_PALETTE_REDUCTION",
+      "blue_pixels": 4,
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_staff_02",
+      "view": 3,
+      "signature": "BLUE_GEM_ACCENT_SURVIVES_PALETTE_REDUCTION",
+      "blue_pixels": 5,
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_staff_02",
+      "view": 4,
+      "signature": "BLUE_GEM_ACCENT_SURVIVES_PALETTE_REDUCTION",
+      "blue_pixels": 5,
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_09",
+      "view": 1,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        46
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_09",
+      "view": 2,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        45
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_10",
+      "view": 1,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        27,
+        1
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_10",
+      "view": 2,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        27,
+        1
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_01",
+      "view": 1,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        31
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_01",
+      "view": 2,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        43
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_02",
+      "view": 1,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        34
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_02",
+      "view": 2,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        31,
+        1
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_03",
+      "view": 1,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        30
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_03",
+      "view": 2,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        30
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_04",
+      "view": 1,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        37
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_04",
+      "view": 2,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        47
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_05",
+      "view": 1,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        17
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_05",
+      "view": 2,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        17
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_06",
+      "view": 1,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        8,
+        1,
+        1
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_06",
+      "view": 2,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        6,
+        1,
+        1
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_07",
+      "view": 1,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        29,
+        2,
+        1,
+        1,
+        1
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_07",
+      "view": 2,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        28,
+        4,
+        2,
+        1,
+        1
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_08",
+      "view": 1,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        3,
+        1
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    },
+    {
+      "id": "tfj_bow_08",
+      "view": 2,
+      "signature": "BOW_LIMB_AND_CORD_ENCLOSE_VISIBLE_SPACE_IN_DIAGONAL_AUTHORING_VIEW",
+      "enclosed_areas": [
+        5
+      ],
+      "status": "PASS_AUTHORING_SIGNATURE"
+    }
+  ],
+  "runtime_ready": false
+}

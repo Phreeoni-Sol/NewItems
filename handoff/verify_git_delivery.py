@@ -18,9 +18,9 @@ for prefix,count in [('The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment',38),
     for item in selected:
         assert hashlib.sha256((root/folder/'sources'/f"{item['id']}.png").read_bytes()).hexdigest()==item.get('source_sha256',item.get('sha256'))
         assert all((root/folder/p['path']).is_file() for p in item['poses'])
-print(json.dumps({'integrity_files':len(manifest),'equipment_designs':271,'combat_designs':77,'proposed_views':308,'runtime_ready':False,'game_tests':'NOT_RUN'}))
+print(json.dumps({'integrity_files':len(manifest),'equipment_designs':271,'combat_designs':145,'proposed_views':580,'runtime_ready':False,'game_tests':'NOT_RUN'}))
 
 completion=read('outputs/The-Forgotten-Jobs-Combat-Completion-88/review/measurements.json')
-assert len(completion)==20 and all(len(x['poses'])==4 for x in completion)
+assert len(completion)==88 and all(len(x['poses'])==4 for x in completion)
 converted=read('outputs/The-Forgotten-Jobs-Equipment-Native-Quality-V2/conversion-manifest.json')
-assert len(converted)==77 and all(x['runtime_ready'] is False for x in converted)
+assert len(converted)==145 and all(x['runtime_ready'] is False for x in converted)

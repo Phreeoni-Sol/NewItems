@@ -62,7 +62,8 @@
           577
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_knife_03",
@@ -127,7 +128,8 @@
           591
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_knife_04",
@@ -192,7 +194,8 @@
           583
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_knife_05",
@@ -257,7 +260,8 @@
           498
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_knife_06",
@@ -322,7 +326,8 @@
           623
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_knife_07",
@@ -387,7 +392,8 @@
           599
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_knife_08",
@@ -452,7 +458,8 @@
           578
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_ninja_blade_02",
@@ -517,7 +524,8 @@
           601
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_ninja_blade_03",
@@ -582,7 +590,8 @@
           541
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_ninja_blade_04",
@@ -647,7 +656,8 @@
           600
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_ninja_blade_05",
@@ -712,7 +722,8 @@
           609
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_ninja_blade_06",
@@ -777,7 +788,8 @@
           579
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_sword_01",
@@ -842,7 +854,8 @@
           646
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_sword_02",
@@ -907,7 +920,8 @@
           613
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_sword_04",
@@ -972,7 +986,8 @@
           633
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_sword_05",
@@ -1037,7 +1052,8 @@
           609
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_sword_06",
@@ -1102,7 +1118,8 @@
           558
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_sword_07",
@@ -1167,7 +1184,8 @@
           590
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_sword_08",
@@ -1232,7 +1250,8 @@
           496
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   },
   {
     "id": "tfj_sword_09",
@@ -1297,6 +1316,4527 @@
           636
         ]
       }
-    ]
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_sword_10",
+    "name": "Lame du gel tardif",
+    "category": "Sword",
+    "sha256": "177f044190482dc91cd9e104d2f021a6d13dbafaaf00a052dab57c024ef180da",
+    "split_xy": [
+      627,
+      603
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_10-1-source.png",
+        "source_bbox": [
+          79,
+          60,
+          564,
+          573
+        ],
+        "source_dimensions": [
+          485,
+          513
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_10-2-source.png",
+        "source_bbox": [
+          71,
+          60,
+          548,
+          573
+        ],
+        "source_dimensions": [
+          477,
+          513
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_10-3-source.png",
+        "source_bbox": [
+          220,
+          1,
+          423,
+          613
+        ],
+        "source_dimensions": [
+          203,
+          612
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_10-4-source.png",
+        "source_bbox": [
+          206,
+          1,
+          408,
+          612
+        ],
+        "source_dimensions": [
+          202,
+          611
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_sword_11",
+    "name": "\u00c9p\u00e9e de vitrail",
+    "category": "Sword",
+    "sha256": "49ce7915b61b99d24994120d0133d60d38e7e6d94767cb9c676652d032caef17",
+    "split_xy": [
+      768,
+      506
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_11-1-source.png",
+        "source_bbox": [
+          190,
+          26,
+          638,
+          477
+        ],
+        "source_dimensions": [
+          448,
+          451
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_11-2-source.png",
+        "source_bbox": [
+          130,
+          26,
+          578,
+          477
+        ],
+        "source_dimensions": [
+          448,
+          451
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_11-3-source.png",
+        "source_bbox": [
+          329,
+          1,
+          534,
+          498
+        ],
+        "source_dimensions": [
+          205,
+          497
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_11-4-source.png",
+        "source_bbox": [
+          235,
+          1,
+          440,
+          498
+        ],
+        "source_dimensions": [
+          205,
+          497
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_sword_12",
+    "name": "Lame du p\u00e9nitent",
+    "category": "Sword",
+    "sha256": "c2f6fe3e0fbd15f90adf0b4da59852622edd7d292e4e0d14af491814c0e3fce2",
+    "split_xy": [
+      768,
+      null
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_12-1-source.png",
+        "source_sheet_bbox": [
+          121,
+          18,
+          623,
+          475
+        ],
+        "source_dimensions": [
+          502,
+          457
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 40977
+      },
+      {
+        "path": "poses/tfj_sword_12-2-source.png",
+        "source_sheet_bbox": [
+          913,
+          18,
+          1415,
+          475
+        ],
+        "source_dimensions": [
+          502,
+          457
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 40959
+      },
+      {
+        "path": "poses/tfj_sword_12-3-source.png",
+        "source_sheet_bbox": [
+          297,
+          456,
+          476,
+          1003
+        ],
+        "source_dimensions": [
+          179,
+          547
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 35104
+      },
+      {
+        "path": "poses/tfj_sword_12-4-source.png",
+        "source_sheet_bbox": [
+          1061,
+          456,
+          1240,
+          1003
+        ],
+        "source_dimensions": [
+          179,
+          547
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 34941
+      }
+    ],
+    "segmentation": "FOUR_CONNECTED_OPAQUE_SILHOUETTES_ALPHA_GE_128"
+  },
+  {
+    "id": "tfj_sword_13",
+    "name": "\u00c9p\u00e9e de l'\u00e9cuyer perdu",
+    "category": "Sword",
+    "sha256": "fa8f193d82f975cc33076ba2faa9146e8547a57fcb8aec52bdf0dfa6a27c6d52",
+    "split_xy": [
+      642,
+      584
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_13-1-source.png",
+        "source_bbox": [
+          82,
+          34,
+          591,
+          547
+        ],
+        "source_dimensions": [
+          509,
+          513
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_13-2-source.png",
+        "source_bbox": [
+          70,
+          50,
+          554,
+          547
+        ],
+        "source_dimensions": [
+          484,
+          497
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_13-3-source.png",
+        "source_bbox": [
+          238,
+          1,
+          495,
+          613
+        ],
+        "source_dimensions": [
+          257,
+          612
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_13-4-source.png",
+        "source_bbox": [
+          148,
+          1,
+          407,
+          613
+        ],
+        "source_dimensions": [
+          259,
+          612
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_sword_14",
+    "name": "Lame des trois serments",
+    "category": "Sword",
+    "sha256": "047e032286e26c82e72be4889fb9706ebbe6b333f21fb111af7946ee7971c55d",
+    "split_xy": [
+      627,
+      592
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_14-1-source.png",
+        "source_bbox": [
+          43,
+          45,
+          561,
+          564
+        ],
+        "source_dimensions": [
+          518,
+          519
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_14-2-source.png",
+        "source_bbox": [
+          68,
+          45,
+          585,
+          564
+        ],
+        "source_dimensions": [
+          517,
+          519
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_14-3-source.png",
+        "source_bbox": [
+          219,
+          1,
+          402,
+          623
+        ],
+        "source_dimensions": [
+          183,
+          622
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_14-4-source.png",
+        "source_bbox": [
+          272,
+          1,
+          358,
+          623
+        ],
+        "source_dimensions": [
+          86,
+          622
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_sword_15",
+    "name": "\u00c9p\u00e9e du veilleur rouge",
+    "category": "Sword",
+    "sha256": "cebfc19adfe8ccdbe2bd80b74e250583653b2901baebcd110cf5f46becc27f76",
+    "split_xy": [
+      627,
+      599
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_15-1-source.png",
+        "source_bbox": [
+          63,
+          45,
+          561,
+          556
+        ],
+        "source_dimensions": [
+          498,
+          511
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_15-2-source.png",
+        "source_bbox": [
+          66,
+          45,
+          564,
+          556
+        ],
+        "source_dimensions": [
+          498,
+          511
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_15-3-source.png",
+        "source_bbox": [
+          216,
+          1,
+          426,
+          626
+        ],
+        "source_dimensions": [
+          210,
+          625
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_15-4-source.png",
+        "source_bbox": [
+          207,
+          1,
+          407,
+          625
+        ],
+        "source_dimensions": [
+          200,
+          624
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_sword_16",
+    "name": "Lame des rois sans nom",
+    "category": "Sword",
+    "sha256": "ecfbe929fad820a9f14b9d4d4a945812c7ef14442c8582b54a50ceea4afa2471",
+    "split_xy": [
+      656,
+      571
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_16-1-source.png",
+        "source_bbox": [
+          49,
+          60,
+          578,
+          560
+        ],
+        "source_dimensions": [
+          529,
+          500
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_16-2-source.png",
+        "source_bbox": [
+          78,
+          60,
+          607,
+          560
+        ],
+        "source_dimensions": [
+          529,
+          500
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_16-3-source.png",
+        "source_bbox": [
+          226,
+          8,
+          459,
+          589
+        ],
+        "source_dimensions": [
+          233,
+          581
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_16-4-source.png",
+        "source_bbox": [
+          199,
+          1,
+          430,
+          589
+        ],
+        "source_dimensions": [
+          231,
+          588
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_knight_sword_02",
+    "name": "\u00c9p\u00e9e du conn\u00e9table",
+    "category": "KnightSword",
+    "sha256": "75ea5cbc890df7a4771fd1ea089dc69c901826d396b2c51a5238420756a020aa",
+    "split_xy": [
+      661,
+      573
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knight_sword_02-1-source.png",
+        "source_bbox": [
+          117,
+          36,
+          609,
+          536
+        ],
+        "source_dimensions": [
+          492,
+          500
+        ]
+      },
+      {
+        "path": "poses/tfj_knight_sword_02-2-source.png",
+        "source_bbox": [
+          72,
+          36,
+          546,
+          539
+        ],
+        "source_dimensions": [
+          474,
+          503
+        ]
+      },
+      {
+        "path": "poses/tfj_knight_sword_02-3-source.png",
+        "source_bbox": [
+          285,
+          1,
+          500,
+          598
+        ],
+        "source_dimensions": [
+          215,
+          597
+        ]
+      },
+      {
+        "path": "poses/tfj_knight_sword_02-4-source.png",
+        "source_bbox": [
+          237,
+          8,
+          397,
+          597
+        ],
+        "source_dimensions": [
+          160,
+          589
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_knight_sword_03",
+    "name": "Lame de l'audience",
+    "category": "KnightSword",
+    "sha256": "b9f283be782415a692d8a60882f60716fd8cf9acc992009f263db693dd43b4a6",
+    "split_xy": [
+      656,
+      599
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knight_sword_03-1-source.png",
+        "source_bbox": [
+          93,
+          57,
+          551,
+          568
+        ],
+        "source_dimensions": [
+          458,
+          511
+        ]
+      },
+      {
+        "path": "poses/tfj_knight_sword_03-2-source.png",
+        "source_bbox": [
+          105,
+          57,
+          563,
+          568
+        ],
+        "source_dimensions": [
+          458,
+          511
+        ]
+      },
+      {
+        "path": "poses/tfj_knight_sword_03-3-source.png",
+        "source_bbox": [
+          242,
+          8,
+          415,
+          559
+        ],
+        "source_dimensions": [
+          173,
+          551
+        ]
+      },
+      {
+        "path": "poses/tfj_knight_sword_03-4-source.png",
+        "source_bbox": [
+          241,
+          8,
+          414,
+          559
+        ],
+        "source_dimensions": [
+          173,
+          551
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_knight_sword_04",
+    "name": "\u00c9p\u00e9e des remparts blancs",
+    "category": "KnightSword",
+    "sha256": "b09e76d046228dc3d4f897d7f02c4d6631649b7530cab5fc0f59508c4034318d",
+    "split_xy": [
+      656,
+      566
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knight_sword_04-1-source.png",
+        "source_bbox": [
+          96,
+          29,
+          596,
+          545
+        ],
+        "source_dimensions": [
+          500,
+          516
+        ]
+      },
+      {
+        "path": "poses/tfj_knight_sword_04-2-source.png",
+        "source_bbox": [
+          59,
+          28,
+          560,
+          545
+        ],
+        "source_dimensions": [
+          501,
+          517
+        ]
+      },
+      {
+        "path": "poses/tfj_knight_sword_04-3-source.png",
+        "source_bbox": [
+          225,
+          1,
+          472,
+          613
+        ],
+        "source_dimensions": [
+          247,
+          612
+        ]
+      },
+      {
+        "path": "poses/tfj_knight_sword_04-4-source.png",
+        "source_bbox": [
+          184,
+          1,
+          430,
+          613
+        ],
+        "source_dimensions": [
+          246,
+          612
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_katana_02",
+    "name": "Lame de la pluie fine",
+    "category": "Katana",
+    "sha256": "62a7072380c42aa70ee152efdd8b3aaa66504c8e6ffff0acb8f182c2e64c3b28",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_katana_02-1-source.png",
+        "source_bbox": [
+          66,
+          42,
+          576,
+          581
+        ],
+        "source_dimensions": [
+          510,
+          539
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_02-2-source.png",
+        "source_bbox": [
+          50,
+          42,
+          561,
+          581
+        ],
+        "source_dimensions": [
+          511,
+          539
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_02-3-source.png",
+        "source_bbox": [
+          244,
+          1,
+          384,
+          580
+        ],
+        "source_dimensions": [
+          140,
+          579
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_02-4-source.png",
+        "source_bbox": [
+          251,
+          1,
+          378,
+          580
+        ],
+        "source_dimensions": [
+          127,
+          579
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_katana_03",
+    "name": "Katana du tertre",
+    "category": "Katana",
+    "sha256": "902bf5f5866076894fc511e72b436a8243215f2578bda973a51229ec46e69144",
+    "split_xy": [
+      627,
+      620
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_katana_03-1-source.png",
+        "source_bbox": [
+          53,
+          46,
+          580,
+          594
+        ],
+        "source_dimensions": [
+          527,
+          548
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_03-2-source.png",
+        "source_bbox": [
+          45,
+          46,
+          573,
+          594
+        ],
+        "source_dimensions": [
+          528,
+          548
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_03-3-source.png",
+        "source_bbox": [
+          244,
+          1,
+          373,
+          596
+        ],
+        "source_dimensions": [
+          129,
+          595
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_03-4-source.png",
+        "source_bbox": [
+          261,
+          1,
+          390,
+          596
+        ],
+        "source_dimensions": [
+          129,
+          595
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_katana_04",
+    "name": "Lame de p\u00e9tale",
+    "category": "Katana",
+    "sha256": "7e06da28a18ace42a0f6d2d1e202f8ae9c2f74a665f9b6a921c2fb3fa7d4ab81",
+    "split_xy": [
+      627,
+      611
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_katana_04-1-source.png",
+        "source_bbox": [
+          64,
+          39,
+          566,
+          591
+        ],
+        "source_dimensions": [
+          502,
+          552
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_04-2-source.png",
+        "source_bbox": [
+          92,
+          34,
+          556,
+          595
+        ],
+        "source_dimensions": [
+          464,
+          561
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_04-3-source.png",
+        "source_bbox": [
+          257,
+          2,
+          423,
+          593
+        ],
+        "source_dimensions": [
+          166,
+          591
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_04-4-source.png",
+        "source_bbox": [
+          226,
+          1,
+          389,
+          593
+        ],
+        "source_dimensions": [
+          163,
+          592
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_katana_05",
+    "name": "Katana des braises",
+    "category": "Katana",
+    "sha256": "2a545ee8da53fc90a2b45a203d78d90ca9da208b000151c67985ac70e68fec13",
+    "split_xy": [
+      627,
+      null
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_katana_05-1-source.png",
+        "source_sheet_bbox": [
+          63,
+          35,
+          594,
+          591
+        ],
+        "source_dimensions": [
+          531,
+          556
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 55075
+      },
+      {
+        "path": "poses/tfj_katana_05-2-source.png",
+        "source_sheet_bbox": [
+          713,
+          37,
+          1195,
+          585
+        ],
+        "source_dimensions": [
+          482,
+          548
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 53822
+      },
+      {
+        "path": "poses/tfj_katana_05-3-source.png",
+        "source_sheet_bbox": [
+          250,
+          589,
+          371,
+          1221
+        ],
+        "source_dimensions": [
+          121,
+          632
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 43558
+      },
+      {
+        "path": "poses/tfj_katana_05-4-source.png",
+        "source_sheet_bbox": [
+          914,
+          595,
+          1030,
+          1221
+        ],
+        "source_dimensions": [
+          116,
+          626
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 38860
+      }
+    ],
+    "segmentation": "FOUR_CONNECTED_OPAQUE_SILHOUETTES_ALPHA_GE_128"
+  },
+  {
+    "id": "tfj_katana_06",
+    "name": "Lame du courant froid",
+    "category": "Katana",
+    "sha256": "72c87385d6752cf6ac5a6dfd88a8d029863b31269f84e4d18fe3390621fd2103",
+    "split_xy": [
+      768,
+      485
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_katana_06-1-source.png",
+        "source_bbox": [
+          163,
+          19,
+          640,
+          473
+        ],
+        "source_dimensions": [
+          477,
+          454
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_06-2-source.png",
+        "source_bbox": [
+          125,
+          19,
+          605,
+          473
+        ],
+        "source_dimensions": [
+          480,
+          454
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_06-3-source.png",
+        "source_bbox": [
+          334,
+          1,
+          462,
+          515
+        ],
+        "source_dimensions": [
+          128,
+          514
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_06-4-source.png",
+        "source_bbox": [
+          308,
+          1,
+          428,
+          515
+        ],
+        "source_dimensions": [
+          120,
+          514
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_katana_07",
+    "name": "Katana de l'encens",
+    "category": "Katana",
+    "sha256": "9ba389c4d205c190cecbecacea0c90b85b9db64e71d96733f7213ef32bd75885",
+    "split_xy": [
+      627,
+      619
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_katana_07-1-source.png",
+        "source_bbox": [
+          74,
+          91,
+          571,
+          594
+        ],
+        "source_dimensions": [
+          497,
+          503
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_07-2-source.png",
+        "source_bbox": [
+          80,
+          103,
+          576,
+          595
+        ],
+        "source_dimensions": [
+          496,
+          492
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_07-3-source.png",
+        "source_bbox": [
+          256,
+          1,
+          395,
+          581
+        ],
+        "source_dimensions": [
+          139,
+          580
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_07-4-source.png",
+        "source_bbox": [
+          261,
+          2,
+          366,
+          580
+        ],
+        "source_dimensions": [
+          105,
+          578
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_katana_08",
+    "name": "Lame du h\u00e9ron",
+    "category": "Katana",
+    "sha256": "a94380f81afb1d55ed2e00200bf5d47a81007226a9c9bbf9f91cc0552bce9dcd",
+    "split_xy": [
+      627,
+      601
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_katana_08-1-source.png",
+        "source_bbox": [
+          58,
+          35,
+          579,
+          575
+        ],
+        "source_dimensions": [
+          521,
+          540
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_08-2-source.png",
+        "source_bbox": [
+          94,
+          40,
+          576,
+          575
+        ],
+        "source_dimensions": [
+          482,
+          535
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_08-3-source.png",
+        "source_bbox": [
+          276,
+          1,
+          413,
+          606
+        ],
+        "source_dimensions": [
+          137,
+          605
+        ]
+      },
+      {
+        "path": "poses/tfj_katana_08-4-source.png",
+        "source_bbox": [
+          270,
+          6,
+          376,
+          612
+        ],
+        "source_dimensions": [
+          106,
+          606
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_axe_02",
+    "name": "Francisque du col",
+    "category": "Axe",
+    "sha256": "51c03aa1238984104280f13494ed27c0441aa0ee8d5215fc8166050944a5c7aa",
+    "split_xy": [
+      665,
+      591
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_axe_02-1-source.png",
+        "source_bbox": [
+          64,
+          26,
+          618,
+          541
+        ],
+        "source_dimensions": [
+          554,
+          515
+        ]
+      },
+      {
+        "path": "poses/tfj_axe_02-2-source.png",
+        "source_bbox": [
+          54,
+          26,
+          601,
+          541
+        ],
+        "source_dimensions": [
+          547,
+          515
+        ]
+      },
+      {
+        "path": "poses/tfj_axe_02-3-source.png",
+        "source_bbox": [
+          254,
+          21,
+          520,
+          564
+        ],
+        "source_dimensions": [
+          266,
+          543
+        ]
+      },
+      {
+        "path": "poses/tfj_axe_02-4-source.png",
+        "source_bbox": [
+          145,
+          21,
+          411,
+          564
+        ],
+        "source_dimensions": [
+          266,
+          543
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_rod_02",
+    "name": "Baguette du souffleur",
+    "category": "Rod",
+    "sha256": "154fb70e5d61f0d37cd78ac3776969d672c3f476c1b98c425e89156a8cb4b281",
+    "split_xy": [
+      627,
+      577
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_rod_02-1-source.png",
+        "source_bbox": [
+          89,
+          18,
+          537,
+          540
+        ],
+        "source_dimensions": [
+          448,
+          522
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_02-2-source.png",
+        "source_bbox": [
+          94,
+          18,
+          539,
+          540
+        ],
+        "source_dimensions": [
+          445,
+          522
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_02-3-source.png",
+        "source_bbox": [
+          243,
+          2,
+          399,
+          619
+        ],
+        "source_dimensions": [
+          156,
+          617
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_02-4-source.png",
+        "source_bbox": [
+          225,
+          1,
+          381,
+          626
+        ],
+        "source_dimensions": [
+          156,
+          625
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_rod_03",
+    "name": "Tison d'\u00e9cole",
+    "category": "Rod",
+    "sha256": "2dfbaddf1be452fe55efed78c8a044e53a4090b550504a79576e152d9ffe1aaa",
+    "split_xy": [
+      667,
+      588
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_rod_03-1-source.png",
+        "source_bbox": [
+          212,
+          27,
+          551,
+          530
+        ],
+        "source_dimensions": [
+          339,
+          503
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_03-2-source.png",
+        "source_bbox": [
+          117,
+          27,
+          456,
+          530
+        ],
+        "source_dimensions": [
+          339,
+          503
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_03-3-source.png",
+        "source_bbox": [
+          282,
+          1,
+          476,
+          558
+        ],
+        "source_dimensions": [
+          194,
+          557
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_03-4-source.png",
+        "source_bbox": [
+          192,
+          1,
+          386,
+          558
+        ],
+        "source_dimensions": [
+          194,
+          557
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_rod_04",
+    "name": "Baguette de brume",
+    "category": "Rod",
+    "sha256": "519be427c5a1f48418aa4ce94f71d1e3ba252fb0e2cc459426d2927fce02805e",
+    "split_xy": [
+      627,
+      586
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_rod_04-1-source.png",
+        "source_bbox": [
+          96,
+          40,
+          533,
+          570
+        ],
+        "source_dimensions": [
+          437,
+          530
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_04-2-source.png",
+        "source_bbox": [
+          101,
+          46,
+          532,
+          570
+        ],
+        "source_dimensions": [
+          431,
+          524
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_04-3-source.png",
+        "source_bbox": [
+          227,
+          1,
+          410,
+          625
+        ],
+        "source_dimensions": [
+          183,
+          624
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_04-4-source.png",
+        "source_bbox": [
+          229,
+          1,
+          389,
+          625
+        ],
+        "source_dimensions": [
+          160,
+          624
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_rod_05",
+    "name": "Verge des mousses",
+    "category": "Rod",
+    "sha256": "d81e5ab48b62140faf5df3e6e4e7ec360e8d14c87f1421e3dda7b13e6387a191",
+    "split_xy": [
+      639,
+      602
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_rod_05-1-source.png",
+        "source_bbox": [
+          127,
+          41,
+          541,
+          572
+        ],
+        "source_dimensions": [
+          414,
+          531
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_05-2-source.png",
+        "source_bbox": [
+          103,
+          41,
+          511,
+          575
+        ],
+        "source_dimensions": [
+          408,
+          534
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_05-3-source.png",
+        "source_bbox": [
+          294,
+          1,
+          410,
+          595
+        ],
+        "source_dimensions": [
+          116,
+          594
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_05-4-source.png",
+        "source_bbox": [
+          233,
+          2,
+          345,
+          595
+        ],
+        "source_dimensions": [
+          112,
+          593
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_rod_06",
+    "name": "Baguette du scribe noir",
+    "category": "Rod",
+    "sha256": "e8f457209eecf57470e3c8280165e8bade56372acf316dbb4d0b49659e872b5b",
+    "split_xy": [
+      627,
+      611
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_rod_06-1-source.png",
+        "source_bbox": [
+          84,
+          59,
+          554,
+          551
+        ],
+        "source_dimensions": [
+          470,
+          492
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_06-2-source.png",
+        "source_bbox": [
+          71,
+          59,
+          544,
+          551
+        ],
+        "source_dimensions": [
+          473,
+          492
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_06-3-source.png",
+        "source_bbox": [
+          298,
+          1,
+          386,
+          575
+        ],
+        "source_dimensions": [
+          88,
+          574
+        ]
+      },
+      {
+        "path": "poses/tfj_rod_06-4-source.png",
+        "source_bbox": [
+          241,
+          1,
+          331,
+          575
+        ],
+        "source_dimensions": [
+          90,
+          574
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_staff_01",
+    "name": "B\u00e2ton du p\u00e8lerin",
+    "category": "Staff",
+    "sha256": "890f3aa4c4defbfabacc8fb78b87de7d739d24df2ab5d0373114c5a036ee0149",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_staff_01-1-source.png",
+        "source_bbox": [
+          155,
+          39,
+          522,
+          581
+        ],
+        "source_dimensions": [
+          367,
+          542
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_01-2-source.png",
+        "source_bbox": [
+          106,
+          35,
+          473,
+          589
+        ],
+        "source_dimensions": [
+          367,
+          554
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_01-3-source.png",
+        "source_bbox": [
+          265,
+          17,
+          396,
+          595
+        ],
+        "source_dimensions": [
+          131,
+          578
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_01-4-source.png",
+        "source_bbox": [
+          258,
+          17,
+          346,
+          595
+        ],
+        "source_dimensions": [
+          88,
+          578
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_staff_03",
+    "name": "Houlette de l'aum\u00f4nier",
+    "category": "Staff",
+    "sha256": "eae8ba36a6ee0c160419a17b433942b2aa9a72f902c8fa5ea247c99b2043fed1",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_staff_03-1-source.png",
+        "source_bbox": [
+          163,
+          49,
+          519,
+          591
+        ],
+        "source_dimensions": [
+          356,
+          542
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_03-2-source.png",
+        "source_bbox": [
+          129,
+          49,
+          451,
+          584
+        ],
+        "source_dimensions": [
+          322,
+          535
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_03-3-source.png",
+        "source_bbox": [
+          235,
+          20,
+          400,
+          580
+        ],
+        "source_dimensions": [
+          165,
+          560
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_03-4-source.png",
+        "source_bbox": [
+          236,
+          20,
+          392,
+          580
+        ],
+        "source_dimensions": [
+          156,
+          560
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_staff_04",
+    "name": "B\u00e2ton de l'herboriste",
+    "category": "Staff",
+    "sha256": "652ab9d0c86e48217405a786f960f0ea593ba0a2c56d711dd03e8a52fe8c3c54",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_staff_04-1-source.png",
+        "source_bbox": [
+          191,
+          34,
+          473,
+          573
+        ],
+        "source_dimensions": [
+          282,
+          539
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_04-2-source.png",
+        "source_bbox": [
+          181,
+          48,
+          462,
+          573
+        ],
+        "source_dimensions": [
+          281,
+          525
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_04-3-source.png",
+        "source_bbox": [
+          274,
+          10,
+          479,
+          592
+        ],
+        "source_dimensions": [
+          205,
+          582
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_04-4-source.png",
+        "source_bbox": [
+          156,
+          10,
+          370,
+          593
+        ],
+        "source_dimensions": [
+          214,
+          583
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_staff_05",
+    "name": "Canne du veilleur",
+    "category": "Staff",
+    "sha256": "cf9e485a2b1c35e87b4085038bb047d97d6f524d34dca127fcebabdcb770d632",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_staff_05-1-source.png",
+        "source_bbox": [
+          255,
+          23,
+          508,
+          613
+        ],
+        "source_dimensions": [
+          253,
+          590
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_05-2-source.png",
+        "source_bbox": [
+          120,
+          23,
+          372,
+          613
+        ],
+        "source_dimensions": [
+          252,
+          590
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_05-3-source.png",
+        "source_bbox": [
+          262,
+          4,
+          393,
+          604
+        ],
+        "source_dimensions": [
+          131,
+          600
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_05-4-source.png",
+        "source_bbox": [
+          235,
+          4,
+          356,
+          604
+        ],
+        "source_dimensions": [
+          121,
+          600
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_staff_06",
+    "name": "B\u00e2ton des derniers rites",
+    "category": "Staff",
+    "sha256": "19ba09bb588df7eb54ad922efa8e98ff8840daea50de62224ed4dc548cde7de3",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_staff_06-1-source.png",
+        "source_bbox": [
+          97,
+          60,
+          444,
+          556
+        ],
+        "source_dimensions": [
+          347,
+          496
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_06-2-source.png",
+        "source_bbox": [
+          185,
+          60,
+          527,
+          563
+        ],
+        "source_dimensions": [
+          342,
+          503
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_06-3-source.png",
+        "source_bbox": [
+          221,
+          15,
+          406,
+          571
+        ],
+        "source_dimensions": [
+          185,
+          556
+        ]
+      },
+      {
+        "path": "poses/tfj_staff_06-4-source.png",
+        "source_bbox": [
+          225,
+          15,
+          385,
+          574
+        ],
+        "source_dimensions": [
+          160,
+          559
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_flail_02",
+    "name": "Fl\u00e9au des fournaises",
+    "category": "Flail",
+    "sha256": "524186eb56371d8f2b4fe1e687a09bda4b4b434ee61349cf76c0dce0ae445c98",
+    "split_xy": [
+      713,
+      551
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_flail_02-1-source.png",
+        "source_bbox": [
+          141,
+          47,
+          660,
+          505
+        ],
+        "source_dimensions": [
+          519,
+          458
+        ]
+      },
+      {
+        "path": "poses/tfj_flail_02-2-source.png",
+        "source_bbox": [
+          73,
+          58,
+          586,
+          509
+        ],
+        "source_dimensions": [
+          513,
+          451
+        ]
+      },
+      {
+        "path": "poses/tfj_flail_02-3-source.png",
+        "source_bbox": [
+          149,
+          12,
+          633,
+          505
+        ],
+        "source_dimensions": [
+          484,
+          493
+        ]
+      },
+      {
+        "path": "poses/tfj_flail_02-4-source.png",
+        "source_bbox": [
+          95,
+          22,
+          591,
+          498
+        ],
+        "source_dimensions": [
+          496,
+          476
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_gun_02",
+    "name": "Mousquet de route",
+    "category": "Gun",
+    "sha256": "528e6fd770bdaab66ad02db6b27777adec0b3b2f5014edebfb13450dd16f2d4b",
+    "split_xy": [
+      768,
+      568
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_gun_02-1-source.png",
+        "source_bbox": [
+          80,
+          80,
+          677,
+          568
+        ],
+        "source_dimensions": [
+          597,
+          488
+        ]
+      },
+      {
+        "path": "poses/tfj_gun_02-2-source.png",
+        "source_bbox": [
+          113,
+          80,
+          672,
+          559
+        ],
+        "source_dimensions": [
+          559,
+          479
+        ]
+      },
+      {
+        "path": "poses/tfj_gun_02-3-source.png",
+        "source_bbox": [
+          31,
+          142,
+          725,
+          383
+        ],
+        "source_dimensions": [
+          694,
+          241
+        ]
+      },
+      {
+        "path": "poses/tfj_gun_02-4-source.png",
+        "source_bbox": [
+          43,
+          142,
+          737,
+          383
+        ],
+        "source_dimensions": [
+          694,
+          241
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_gun_03",
+    "name": "Fusil du poudrier",
+    "category": "Gun",
+    "sha256": "ac10a39eda2c29249addc1310c5f5646883d21bb8efc1f964a32cc3e57d1aff4",
+    "split_xy": [
+      768,
+      581
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_gun_03-1-source.png",
+        "source_bbox": [
+          31,
+          48,
+          702,
+          581
+        ],
+        "source_dimensions": [
+          671,
+          533
+        ]
+      },
+      {
+        "path": "poses/tfj_gun_03-2-source.png",
+        "source_bbox": [
+          53,
+          48,
+          726,
+          581
+        ],
+        "source_dimensions": [
+          673,
+          533
+        ]
+      },
+      {
+        "path": "poses/tfj_gun_03-3-source.png",
+        "source_bbox": [
+          31,
+          136,
+          730,
+          374
+        ],
+        "source_dimensions": [
+          699,
+          238
+        ]
+      },
+      {
+        "path": "poses/tfj_gun_03-4-source.png",
+        "source_bbox": [
+          39,
+          135,
+          739,
+          380
+        ],
+        "source_dimensions": [
+          700,
+          245
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_gun_04",
+    "name": "Carabine de givre",
+    "category": "Gun",
+    "sha256": "250285e6379a9ab18f7ad342ef29628b63e2b42db736c5f9220613c99ecc375f",
+    "split_xy": [
+      768,
+      551
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_gun_04-1-source.png",
+        "source_bbox": [
+          49,
+          79,
+          731,
+          551
+        ],
+        "source_dimensions": [
+          682,
+          472
+        ]
+      },
+      {
+        "path": "poses/tfj_gun_04-2-source.png",
+        "source_bbox": [
+          79,
+          79,
+          726,
+          551
+        ],
+        "source_dimensions": [
+          647,
+          472
+        ]
+      },
+      {
+        "path": "poses/tfj_gun_04-3-source.png",
+        "source_bbox": [
+          32,
+          150,
+          759,
+          381
+        ],
+        "source_dimensions": [
+          727,
+          231
+        ]
+      },
+      {
+        "path": "poses/tfj_gun_04-4-source.png",
+        "source_bbox": [
+          63,
+          150,
+          736,
+          371
+        ],
+        "source_dimensions": [
+          673,
+          221
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_gun_05",
+    "name": "Arquebuse d'orage",
+    "category": "Gun",
+    "sha256": "72a3893df21a595ec0fcffc70784364808c07548a1c7829092bd4916d0848fa6",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_gun_05-1-source.png",
+        "source_bbox": [
+          25,
+          67,
+          612,
+          568
+        ],
+        "source_dimensions": [
+          587,
+          501
+        ]
+      },
+      {
+        "path": "poses/tfj_gun_05-2-source.png",
+        "source_bbox": [
+          40,
+          68,
+          602,
+          562
+        ],
+        "source_dimensions": [
+          562,
+          494
+        ]
+      },
+      {
+        "path": "poses/tfj_gun_05-3-source.png",
+        "source_bbox": [
+          275,
+          12,
+          418,
+          548
+        ],
+        "source_dimensions": [
+          143,
+          536
+        ]
+      },
+      {
+        "path": "poses/tfj_gun_05-4-source.png",
+        "source_bbox": [
+          247,
+          8,
+          373,
+          548
+        ],
+        "source_dimensions": [
+          126,
+          540
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_crossbow_02",
+    "name": "Arbal\u00e8te de marche",
+    "category": "Crossbow",
+    "sha256": "0081c0cca5e489d4a447bd7bf64558d1ec446500da0b38d40a8f1e795c134631",
+    "split_xy": [
+      768,
+      498
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_crossbow_02-1-source.png",
+        "source_bbox": [
+          122,
+          25,
+          642,
+          487
+        ],
+        "source_dimensions": [
+          520,
+          462
+        ]
+      },
+      {
+        "path": "poses/tfj_crossbow_02-2-source.png",
+        "source_bbox": [
+          132,
+          18,
+          673,
+          487
+        ],
+        "source_dimensions": [
+          541,
+          469
+        ]
+      },
+      {
+        "path": "poses/tfj_crossbow_02-3-source.png",
+        "source_bbox": [
+          85,
+          1,
+          686,
+          501
+        ],
+        "source_dimensions": [
+          601,
+          500
+        ]
+      },
+      {
+        "path": "poses/tfj_crossbow_02-4-source.png",
+        "source_bbox": [
+          82,
+          1,
+          688,
+          501
+        ],
+        "source_dimensions": [
+          606,
+          500
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_crossbow_03",
+    "name": "Arbal\u00e8te du taillis",
+    "category": "Crossbow",
+    "sha256": "57a924089afc2e8e9781caf86ebd28321712290fb43b8a6232d96965831c2c23",
+    "split_xy": [
+      768,
+      489
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_crossbow_03-1-source.png",
+        "source_bbox": [
+          95,
+          54,
+          719,
+          470
+        ],
+        "source_dimensions": [
+          624,
+          416
+        ]
+      },
+      {
+        "path": "poses/tfj_crossbow_03-2-source.png",
+        "source_bbox": [
+          81,
+          58,
+          710,
+          470
+        ],
+        "source_dimensions": [
+          629,
+          412
+        ]
+      },
+      {
+        "path": "poses/tfj_crossbow_03-3-source.png",
+        "source_bbox": [
+          125,
+          1,
+          645,
+          489
+        ],
+        "source_dimensions": [
+          520,
+          488
+        ]
+      },
+      {
+        "path": "poses/tfj_crossbow_03-4-source.png",
+        "source_bbox": [
+          124,
+          5,
+          641,
+          492
+        ],
+        "source_dimensions": [
+          517,
+          487
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_crossbow_04",
+    "name": "Arbal\u00e8te de si\u00e8ge",
+    "category": "Crossbow",
+    "sha256": "9948be011df751d650a5ee5ca74baabbf998a47c6fe65c422cfc81119737a72d",
+    "split_xy": [
+      768,
+      512
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_crossbow_04-1-source.png",
+        "source_bbox": [
+          136,
+          72,
+          712,
+          512
+        ],
+        "source_dimensions": [
+          576,
+          440
+        ]
+      },
+      {
+        "path": "poses/tfj_crossbow_04-2-source.png",
+        "source_bbox": [
+          142,
+          66,
+          676,
+          503
+        ],
+        "source_dimensions": [
+          534,
+          437
+        ]
+      },
+      {
+        "path": "poses/tfj_crossbow_04-3-source.png",
+        "source_bbox": [
+          60,
+          33,
+          694,
+          455
+        ],
+        "source_dimensions": [
+          634,
+          422
+        ]
+      },
+      {
+        "path": "poses/tfj_crossbow_04-4-source.png",
+        "source_bbox": [
+          101,
+          30,
+          695,
+          434
+        ],
+        "source_dimensions": [
+          594,
+          404
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_bow_02",
+    "name": "Arc de houx",
+    "category": "Bow",
+    "sha256": "fd9270d996dd0a03c099ea9e4663971a3c8c552732cf6c1837cf4609c72043f0",
+    "split_xy": [
+      768,
+      506
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_bow_02-1-source.png",
+        "source_bbox": [
+          198,
+          41,
+          670,
+          469
+        ],
+        "source_dimensions": [
+          472,
+          428
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_02-2-source.png",
+        "source_bbox": [
+          98,
+          41,
+          570,
+          468
+        ],
+        "source_dimensions": [
+          472,
+          427
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_02-3-source.png",
+        "source_bbox": [
+          342,
+          1,
+          511,
+          487
+        ],
+        "source_dimensions": [
+          169,
+          486
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_02-4-source.png",
+        "source_bbox": [
+          251,
+          7,
+          425,
+          480
+        ],
+        "source_dimensions": [
+          174,
+          473
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_bow_03",
+    "name": "Arc du guetteur",
+    "category": "Bow",
+    "sha256": "e8c11b3aa2372b65b7afc04493c45a9230567e346c901bcf21c0594173fca015",
+    "split_xy": [
+      627,
+      612
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_bow_03-1-source.png",
+        "source_bbox": [
+          84,
+          35,
+          549,
+          564
+        ],
+        "source_dimensions": [
+          465,
+          529
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_03-2-source.png",
+        "source_bbox": [
+          78,
+          35,
+          543,
+          564
+        ],
+        "source_dimensions": [
+          465,
+          529
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_03-3-source.png",
+        "source_bbox": [
+          238,
+          1,
+          354,
+          596
+        ],
+        "source_dimensions": [
+          116,
+          595
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_03-4-source.png",
+        "source_bbox": [
+          274,
+          1,
+          392,
+          596
+        ],
+        "source_dimensions": [
+          118,
+          595
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_bow_04",
+    "name": "Arc des marais",
+    "category": "Bow",
+    "sha256": "4d09938bafbcf30601970ef41145d88fcfd0dc1f1013106fa67d39dd18bdc02c",
+    "split_xy": [
+      768,
+      505
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_bow_04-1-source.png",
+        "source_bbox": [
+          178,
+          8,
+          677,
+          494
+        ],
+        "source_dimensions": [
+          499,
+          486
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_04-2-source.png",
+        "source_bbox": [
+          201,
+          17,
+          670,
+          499
+        ],
+        "source_dimensions": [
+          469,
+          482
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_04-3-source.png",
+        "source_bbox": [
+          358,
+          1,
+          475,
+          503
+        ],
+        "source_dimensions": [
+          117,
+          502
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_04-4-source.png",
+        "source_bbox": [
+          335,
+          1,
+          478,
+          497
+        ],
+        "source_dimensions": [
+          143,
+          496
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_bow_05",
+    "name": "Arc du vent sec",
+    "category": "Bow",
+    "sha256": "9467676ea16b8e8a41d5a2bc7d30204c25c5d5f57b8d9ede886a7d87c8e26e0f",
+    "split_xy": [
+      627,
+      587
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_bow_05-1-source.png",
+        "source_bbox": [
+          98,
+          62,
+          565,
+          548
+        ],
+        "source_dimensions": [
+          467,
+          486
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_05-2-source.png",
+        "source_bbox": [
+          63,
+          62,
+          529,
+          548
+        ],
+        "source_dimensions": [
+          466,
+          486
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_05-3-source.png",
+        "source_bbox": [
+          247,
+          2,
+          421,
+          606
+        ],
+        "source_dimensions": [
+          174,
+          604
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_05-4-source.png",
+        "source_bbox": [
+          203,
+          1,
+          387,
+          606
+        ],
+        "source_dimensions": [
+          184,
+          605
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_bow_06",
+    "name": "Arc de l'\u00e9corce rouge",
+    "category": "Bow",
+    "sha256": "ff9d228809d3feeb462afa244fe6a987a890815bf25b3df9aba8ec8217017d48",
+    "split_xy": [
+      651,
+      604
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_bow_06-1-source.png",
+        "source_bbox": [
+          99,
+          37,
+          557,
+          543
+        ],
+        "source_dimensions": [
+          458,
+          506
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_06-2-source.png",
+        "source_bbox": [
+          93,
+          48,
+          567,
+          533
+        ],
+        "source_dimensions": [
+          474,
+          485
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_06-3-source.png",
+        "source_bbox": [
+          312,
+          2,
+          418,
+          551
+        ],
+        "source_dimensions": [
+          106,
+          549
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_06-4-source.png",
+        "source_bbox": [
+          263,
+          3,
+          401,
+          548
+        ],
+        "source_dimensions": [
+          138,
+          545
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_bow_07",
+    "name": "Arc des \u00e9toiles basses",
+    "category": "Bow",
+    "sha256": "d48b729751dea4eac4c3a0213630078716da867c1c62c93042f2fc7f27d2c82a",
+    "split_xy": [
+      768,
+      656
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_bow_07-1-source.png",
+        "source_bbox": [
+          97,
+          67,
+          700,
+          656
+        ],
+        "source_dimensions": [
+          603,
+          589
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_07-2-source.png",
+        "source_bbox": [
+          68,
+          67,
+          671,
+          656
+        ],
+        "source_dimensions": [
+          603,
+          589
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_07-3-source.png",
+        "source_bbox": [
+          39,
+          94,
+          742,
+          282
+        ],
+        "source_dimensions": [
+          703,
+          188
+        ]
+      },
+      {
+        "path": "poses/tfj_bow_07-4-source.png",
+        "source_bbox": [
+          26,
+          94,
+          730,
+          281
+        ],
+        "source_dimensions": [
+          704,
+          187
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_bow_08",
+    "name": "Arc du fauconnier",
+    "category": "Bow",
+    "sha256": "409da007f056e37fe3606af248e9afd187d699dceefd1d425f716ff65ba61f92",
+    "split_xy": [
+      768,
+      null
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_bow_08-1-source.png",
+        "source_sheet_bbox": [
+          78,
+          13,
+          685,
+          490
+        ],
+        "source_dimensions": [
+          607,
+          477
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 54725
+      },
+      {
+        "path": "poses/tfj_bow_08-2-source.png",
+        "source_sheet_bbox": [
+          851,
+          13,
+          1460,
+          490
+        ],
+        "source_dimensions": [
+          609,
+          477
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 53981
+      },
+      {
+        "path": "poses/tfj_bow_08-3-source.png",
+        "source_sheet_bbox": [
+          308,
+          483,
+          526,
+          1006
+        ],
+        "source_dimensions": [
+          218,
+          523
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 40380
+      },
+      {
+        "path": "poses/tfj_bow_08-4-source.png",
+        "source_sheet_bbox": [
+          995,
+          479,
+          1215,
+          1006
+        ],
+        "source_dimensions": [
+          220,
+          527
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 41348
+      }
+    ],
+    "segmentation": "FOUR_CONNECTED_OPAQUE_SILHOUETTES_ALPHA_GE_128"
+  },
+  {
+    "id": "tfj_book_02",
+    "name": "Bestiaire des haies",
+    "category": "Book",
+    "sha256": "bd1a9aea7f8649a9abdaf4509af3ea9cd96e0559f49dcd2f307cb985284ffdc6",
+    "split_xy": [
+      768,
+      513
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_book_02-1-source.png",
+        "source_bbox": [
+          219,
+          54,
+          628,
+          513
+        ],
+        "source_dimensions": [
+          409,
+          459
+        ]
+      },
+      {
+        "path": "poses/tfj_book_02-2-source.png",
+        "source_bbox": [
+          140,
+          71,
+          628,
+          511
+        ],
+        "source_dimensions": [
+          488,
+          440
+        ]
+      },
+      {
+        "path": "poses/tfj_book_02-3-source.png",
+        "source_bbox": [
+          242,
+          38,
+          632,
+          459
+        ],
+        "source_dimensions": [
+          390,
+          421
+        ]
+      },
+      {
+        "path": "poses/tfj_book_02-4-source.png",
+        "source_bbox": [
+          182,
+          24,
+          517,
+          466
+        ],
+        "source_dimensions": [
+          335,
+          442
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_polearm_02",
+    "name": "Pique du paysan libre",
+    "category": "Polearm",
+    "sha256": "6498bfbf41622fa50b88d91fcafb7e6012def34cc0b425d9731626518d0b4baa",
+    "split_xy": [
+      656,
+      585
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_polearm_02-1-source.png",
+        "source_bbox": [
+          80,
+          34,
+          593,
+          583
+        ],
+        "source_dimensions": [
+          513,
+          549
+        ]
+      },
+      {
+        "path": "poses/tfj_polearm_02-2-source.png",
+        "source_bbox": [
+          72,
+          42,
+          577,
+          580
+        ],
+        "source_dimensions": [
+          505,
+          538
+        ]
+      },
+      {
+        "path": "poses/tfj_polearm_02-3-source.png",
+        "source_bbox": [
+          277,
+          1,
+          381,
+          585
+        ],
+        "source_dimensions": [
+          104,
+          584
+        ]
+      },
+      {
+        "path": "poses/tfj_polearm_02-4-source.png",
+        "source_bbox": [
+          276,
+          1,
+          381,
+          585
+        ],
+        "source_dimensions": [
+          105,
+          584
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_polearm_03",
+    "name": "Lance du h\u00e9ron gris",
+    "category": "Polearm",
+    "sha256": "46d83f7d248ba0a02a6f2760bd4ed96015ed5ced40cf439313b31e1dc68a15c4",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_polearm_03-1-source.png",
+        "source_bbox": [
+          93,
+          41,
+          567,
+          587
+        ],
+        "source_dimensions": [
+          474,
+          546
+        ]
+      },
+      {
+        "path": "poses/tfj_polearm_03-2-source.png",
+        "source_bbox": [
+          66,
+          41,
+          525,
+          587
+        ],
+        "source_dimensions": [
+          459,
+          546
+        ]
+      },
+      {
+        "path": "poses/tfj_polearm_03-3-source.png",
+        "source_bbox": [
+          278,
+          1,
+          447,
+          598
+        ],
+        "source_dimensions": [
+          169,
+          597
+        ]
+      },
+      {
+        "path": "poses/tfj_polearm_03-4-source.png",
+        "source_bbox": [
+          177,
+          2,
+          341,
+          598
+        ],
+        "source_dimensions": [
+          164,
+          596
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_polearm_04",
+    "name": "Pertuisane de garde",
+    "category": "Polearm",
+    "sha256": "5ffb8ebc5c134861de6a823cf5cad7bf320a5b8521ada43c3441d822bd5faee5",
+    "split_xy": [
+      627,
+      null
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_polearm_04-1-source.png",
+        "source_sheet_bbox": [
+          29,
+          13,
+          609,
+          609
+        ],
+        "source_dimensions": [
+          580,
+          596
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 40306
+      },
+      {
+        "path": "poses/tfj_polearm_04-2-source.png",
+        "source_sheet_bbox": [
+          685,
+          30,
+          1224,
+          595
+        ],
+        "source_dimensions": [
+          539,
+          565
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 38131
+      },
+      {
+        "path": "poses/tfj_polearm_04-3-source.png",
+        "source_sheet_bbox": [
+          296,
+          607,
+          449,
+          1237
+        ],
+        "source_dimensions": [
+          153,
+          630
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 35117
+      },
+      {
+        "path": "poses/tfj_polearm_04-4-source.png",
+        "source_sheet_bbox": [
+          831,
+          608,
+          1033,
+          1237
+        ],
+        "source_dimensions": [
+          202,
+          629
+        ],
+        "extraction": "ONLY_SELECTED_CONNECTED_COMPONENT_ORIGINAL_COLORS_AND_ALPHA_GE_128",
+        "opaque_source_pixels": 35605
+      }
+    ],
+    "segmentation": "FOUR_CONNECTED_OPAQUE_SILHOUETTES_ALPHA_GE_128"
+  },
+  {
+    "id": "tfj_polearm_05",
+    "name": "Lance des hautes neiges",
+    "category": "Polearm",
+    "sha256": "744f576f0f47e77d9b638c901018c34d952f76309101b740f15c8af9381aa89d",
+    "split_xy": [
+      627,
+      606
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_polearm_05-1-source.png",
+        "source_bbox": [
+          75,
+          34,
+          576,
+          580
+        ],
+        "source_dimensions": [
+          501,
+          546
+        ]
+      },
+      {
+        "path": "poses/tfj_polearm_05-2-source.png",
+        "source_bbox": [
+          51,
+          34,
+          552,
+          580
+        ],
+        "source_dimensions": [
+          501,
+          546
+        ]
+      },
+      {
+        "path": "poses/tfj_polearm_05-3-source.png",
+        "source_bbox": [
+          279,
+          1,
+          358,
+          601
+        ],
+        "source_dimensions": [
+          79,
+          600
+        ]
+      },
+      {
+        "path": "poses/tfj_polearm_05-4-source.png",
+        "source_bbox": [
+          66,
+          34,
+          583,
+          583
+        ],
+        "source_dimensions": [
+          517,
+          549
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_polearm_06",
+    "name": "Lance de la nef",
+    "category": "Polearm",
+    "sha256": "99ab8fd470c34efcbe64549dd93c88df9dea43f9849d571e1d2ed33db5f31f9e",
+    "split_xy": [
+      627,
+      595
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_polearm_06-1-source.png",
+        "source_bbox": [
+          75,
+          14,
+          562,
+          565
+        ],
+        "source_dimensions": [
+          487,
+          551
+        ]
+      },
+      {
+        "path": "poses/tfj_polearm_06-2-source.png",
+        "source_bbox": [
+          66,
+          13,
+          552,
+          565
+        ],
+        "source_dimensions": [
+          486,
+          552
+        ]
+      },
+      {
+        "path": "poses/tfj_polearm_06-3-source.png",
+        "source_bbox": [
+          253,
+          1,
+          385,
+          629
+        ],
+        "source_dimensions": [
+          132,
+          628
+        ]
+      },
+      {
+        "path": "poses/tfj_polearm_06-4-source.png",
+        "source_bbox": [
+          252,
+          1,
+          385,
+          629
+        ],
+        "source_dimensions": [
+          133,
+          628
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_pole_02",
+    "name": "Perche du batelier",
+    "category": "Pole",
+    "sha256": "6e3b2618c731290680fe3c71d8f331d93bf643766837147163722cbb29be69b1",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_pole_02-1-source.png",
+        "source_bbox": [
+          75,
+          32,
+          548,
+          564
+        ],
+        "source_dimensions": [
+          473,
+          532
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_02-2-source.png",
+        "source_bbox": [
+          93,
+          37,
+          558,
+          564
+        ],
+        "source_dimensions": [
+          465,
+          527
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_02-3-source.png",
+        "source_bbox": [
+          278,
+          7,
+          370,
+          601
+        ],
+        "source_dimensions": [
+          92,
+          594
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_02-4-source.png",
+        "source_bbox": [
+          267,
+          11,
+          352,
+          597
+        ],
+        "source_dimensions": [
+          85,
+          586
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_pole_03",
+    "name": "Perche du marcheur",
+    "category": "Pole",
+    "sha256": "3a0549c4d8d960b75d8d2dc741f2c19365af7832f95b269cc8f4e249e0dd7101",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_pole_03-1-source.png",
+        "source_bbox": [
+          158,
+          9,
+          450,
+          593
+        ],
+        "source_dimensions": [
+          292,
+          584
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_03-2-source.png",
+        "source_bbox": [
+          177,
+          9,
+          469,
+          593
+        ],
+        "source_dimensions": [
+          292,
+          584
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_03-3-source.png",
+        "source_bbox": [
+          294,
+          3,
+          402,
+          613
+        ],
+        "source_dimensions": [
+          108,
+          610
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_03-4-source.png",
+        "source_bbox": [
+          225,
+          3,
+          334,
+          613
+        ],
+        "source_dimensions": [
+          109,
+          610
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_pole_04",
+    "name": "Hampe du g\u00e9om\u00e8tre",
+    "category": "Pole",
+    "sha256": "38788c11e66e2a3cfddf4351b01728a406fc3c55c021398a8aafb6cc1c54998d",
+    "split_xy": [
+      634,
+      620
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_pole_04-1-source.png",
+        "source_bbox": [
+          143,
+          28,
+          565,
+          590
+        ],
+        "source_dimensions": [
+          422,
+          562
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_04-2-source.png",
+        "source_bbox": [
+          157,
+          58,
+          561,
+          590
+        ],
+        "source_dimensions": [
+          404,
+          532
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_04-3-source.png",
+        "source_bbox": [
+          311,
+          19,
+          373,
+          581
+        ],
+        "source_dimensions": [
+          62,
+          562
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_04-4-source.png",
+        "source_bbox": [
+          283,
+          19,
+          345,
+          581
+        ],
+        "source_dimensions": [
+          62,
+          562
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_pole_05",
+    "name": "Perche du torrent",
+    "category": "Pole",
+    "sha256": "e0b4eb85f39b713411c80a1dc966ba3afb0c7675cbe36b78a0f19f111dba4dcd",
+    "split_xy": [
+      627,
+      625
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_pole_05-1-source.png",
+        "source_bbox": [
+          49,
+          50,
+          550,
+          582
+        ],
+        "source_dimensions": [
+          501,
+          532
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_05-2-source.png",
+        "source_bbox": [
+          80,
+          50,
+          572,
+          582
+        ],
+        "source_dimensions": [
+          492,
+          532
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_05-3-source.png",
+        "source_bbox": [
+          268,
+          2,
+          355,
+          593
+        ],
+        "source_dimensions": [
+          87,
+          591
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_05-4-source.png",
+        "source_bbox": [
+          278,
+          1,
+          356,
+          589
+        ],
+        "source_dimensions": [
+          78,
+          588
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_pole_06",
+    "name": "Perche des racines",
+    "category": "Pole",
+    "sha256": "874c7426fa3a16ebaafb87e74728e4d0cbd98f1fe1ecf5cb7b3dc776e3a48308",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_pole_06-1-source.png",
+        "source_bbox": [
+          255,
+          23,
+          445,
+          588
+        ],
+        "source_dimensions": [
+          190,
+          565
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_06-2-source.png",
+        "source_bbox": [
+          182,
+          23,
+          372,
+          588
+        ],
+        "source_dimensions": [
+          190,
+          565
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_06-3-source.png",
+        "source_bbox": [
+          285,
+          22,
+          382,
+          584
+        ],
+        "source_dimensions": [
+          97,
+          562
+        ]
+      },
+      {
+        "path": "poses/tfj_pole_06-4-source.png",
+        "source_bbox": [
+          246,
+          23,
+          343,
+          584
+        ],
+        "source_dimensions": [
+          97,
+          561
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_bag_02",
+    "name": "Bourse des contrebandiers",
+    "category": "Bag",
+    "sha256": "6d03db860502486ebc1a152efcd1faa176b4a4215081f2568de85058b77a1533",
+    "split_xy": [
+      656,
+      599
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_bag_02-1-source.png",
+        "source_bbox": [
+          48,
+          56,
+          559,
+          564
+        ],
+        "source_dimensions": [
+          511,
+          508
+        ]
+      },
+      {
+        "path": "poses/tfj_bag_02-2-source.png",
+        "source_bbox": [
+          97,
+          56,
+          611,
+          566
+        ],
+        "source_dimensions": [
+          514,
+          510
+        ]
+      },
+      {
+        "path": "poses/tfj_bag_02-3-source.png",
+        "source_bbox": [
+          61,
+          82,
+          557,
+          525
+        ],
+        "source_dimensions": [
+          496,
+          443
+        ]
+      },
+      {
+        "path": "poses/tfj_bag_02-4-source.png",
+        "source_bbox": [
+          95,
+          81,
+          615,
+          526
+        ],
+        "source_dimensions": [
+          520,
+          445
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_02",
+    "name": "\u00c9cu du charretier",
+    "category": "Shield",
+    "sha256": "616496cc2458ace97781e0d246f7263571d10dcd52adf6e5775c676de897357c",
+    "split_xy": [
+      768,
+      512
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_02-1-source.png",
+        "source_bbox": [
+          255,
+          19,
+          577,
+          500
+        ],
+        "source_dimensions": [
+          322,
+          481
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_02-2-source.png",
+        "source_bbox": [
+          200,
+          19,
+          512,
+          500
+        ],
+        "source_dimensions": [
+          312,
+          481
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_02-3-source.png",
+        "source_bbox": [
+          239,
+          6,
+          632,
+          497
+        ],
+        "source_dimensions": [
+          393,
+          491
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_02-4-source.png",
+        "source_bbox": [
+          139,
+          5,
+          533,
+          497
+        ],
+        "source_dimensions": [
+          394,
+          492
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_03",
+    "name": "Bouclier du gu\u00e9",
+    "category": "Shield",
+    "sha256": "a8caff0cf637ffdd68fd31fe29177a798697dc6f486dda84262a9c4672d958eb",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_03-1-source.png",
+        "source_bbox": [
+          110,
+          48,
+          527,
+          605
+        ],
+        "source_dimensions": [
+          417,
+          557
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_03-2-source.png",
+        "source_bbox": [
+          102,
+          48,
+          519,
+          605
+        ],
+        "source_dimensions": [
+          417,
+          557
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_03-3-source.png",
+        "source_bbox": [
+          79,
+          21,
+          551,
+          575
+        ],
+        "source_dimensions": [
+          472,
+          554
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_03-4-source.png",
+        "source_bbox": [
+          76,
+          20,
+          548,
+          575
+        ],
+        "source_dimensions": [
+          472,
+          555
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_04",
+    "name": "\u00c9cu des collines",
+    "category": "Shield",
+    "sha256": "8c97fa4891c1198e0edfebefd6fd6dc8418cfc163685a46e3b379dd2fb4f039b",
+    "split_xy": [
+      768,
+      512
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_04-1-source.png",
+        "source_bbox": [
+          339,
+          47,
+          661,
+          500
+        ],
+        "source_dimensions": [
+          322,
+          453
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_04-2-source.png",
+        "source_bbox": [
+          105,
+          44,
+          430,
+          501
+        ],
+        "source_dimensions": [
+          325,
+          457
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_04-3-source.png",
+        "source_bbox": [
+          332,
+          6,
+          697,
+          468
+        ],
+        "source_dimensions": [
+          365,
+          462
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_04-4-source.png",
+        "source_bbox": [
+          121,
+          19,
+          441,
+          458
+        ],
+        "source_dimensions": [
+          320,
+          439
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_05",
+    "name": "Rondache du p\u00e9ager",
+    "category": "Shield",
+    "sha256": "664ffb3498e4b5ea56dfeb0cfbee4db80a1fd4f5d0c4cd522afda0e9e279bbcb",
+    "split_xy": [
+      768,
+      512
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_05-1-source.png",
+        "source_bbox": [
+          281,
+          41,
+          577,
+          479
+        ],
+        "source_dimensions": [
+          296,
+          438
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_05-2-source.png",
+        "source_bbox": [
+          135,
+          41,
+          561,
+          478
+        ],
+        "source_dimensions": [
+          426,
+          437
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_05-3-source.png",
+        "source_bbox": [
+          275,
+          33,
+          587,
+          475
+        ],
+        "source_dimensions": [
+          312,
+          442
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_05-4-source.png",
+        "source_bbox": [
+          135,
+          31,
+          567,
+          467
+        ],
+        "source_dimensions": [
+          432,
+          436
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_06",
+    "name": "Bouclier de route",
+    "category": "Shield",
+    "sha256": "d1a9374275513c98d83f5601f3ff85fb7dc208f396dab28620a9d84c20e358cf",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_06-1-source.png",
+        "source_bbox": [
+          138,
+          39,
+          489,
+          564
+        ],
+        "source_dimensions": [
+          351,
+          525
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_06-2-source.png",
+        "source_bbox": [
+          146,
+          40,
+          486,
+          571
+        ],
+        "source_dimensions": [
+          340,
+          531
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_06-3-source.png",
+        "source_bbox": [
+          116,
+          29,
+          504,
+          572
+        ],
+        "source_dimensions": [
+          388,
+          543
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_06-4-source.png",
+        "source_bbox": [
+          119,
+          25,
+          510,
+          567
+        ],
+        "source_dimensions": [
+          391,
+          542
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_07",
+    "name": "\u00c9cu du pont vieux",
+    "category": "Shield",
+    "sha256": "d54cc4fbabcf11d3fa7145d3eb9eeb73f2745c8076e8d495c3cc62074971139d",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_07-1-source.png",
+        "source_bbox": [
+          165,
+          54,
+          493,
+          593
+        ],
+        "source_dimensions": [
+          328,
+          539
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_07-2-source.png",
+        "source_bbox": [
+          118,
+          58,
+          444,
+          593
+        ],
+        "source_dimensions": [
+          326,
+          535
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_07-3-source.png",
+        "source_bbox": [
+          98,
+          27,
+          529,
+          574
+        ],
+        "source_dimensions": [
+          431,
+          547
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_07-4-source.png",
+        "source_bbox": [
+          93,
+          30,
+          517,
+          577
+        ],
+        "source_dimensions": [
+          424,
+          547
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_08",
+    "name": "Bouclier des braises",
+    "category": "Shield",
+    "sha256": "7209dd789e3363d6a3e4b35e6f2e9c83cbddd327dfb0f444b5c59629fe7698c6",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_08-1-source.png",
+        "source_bbox": [
+          176,
+          37,
+          521,
+          595
+        ],
+        "source_dimensions": [
+          345,
+          558
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_08-2-source.png",
+        "source_bbox": [
+          112,
+          37,
+          466,
+          595
+        ],
+        "source_dimensions": [
+          354,
+          558
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_08-3-source.png",
+        "source_bbox": [
+          135,
+          16,
+          556,
+          579
+        ],
+        "source_dimensions": [
+          421,
+          563
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_08-4-source.png",
+        "source_bbox": [
+          78,
+          19,
+          501,
+          579
+        ],
+        "source_dimensions": [
+          423,
+          560
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_09",
+    "name": "\u00c9cu du ressac",
+    "category": "Shield",
+    "sha256": "974ee8a7796c9ea518145a324680d5f64539318a23a059c658c7c1d2f38d5add",
+    "split_xy": [
+      768,
+      512
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_09-1-source.png",
+        "source_bbox": [
+          324,
+          13,
+          601,
+          482
+        ],
+        "source_dimensions": [
+          277,
+          469
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_09-2-source.png",
+        "source_bbox": [
+          160,
+          13,
+          441,
+          482
+        ],
+        "source_dimensions": [
+          281,
+          469
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_09-3-source.png",
+        "source_bbox": [
+          322,
+          15,
+          639,
+          475
+        ],
+        "source_dimensions": [
+          317,
+          460
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_09-4-source.png",
+        "source_bbox": [
+          134,
+          16,
+          463,
+          472
+        ],
+        "source_dimensions": [
+          329,
+          456
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_10",
+    "name": "Bouclier de la gel\u00e9e",
+    "category": "Shield",
+    "sha256": "94404f140e3ab91eb6584789af4dff334e53318c368b7a0078f2849d7d67e304",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_10-1-source.png",
+        "source_bbox": [
+          138,
+          41,
+          491,
+          604
+        ],
+        "source_dimensions": [
+          353,
+          563
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_10-2-source.png",
+        "source_bbox": [
+          145,
+          41,
+          490,
+          604
+        ],
+        "source_dimensions": [
+          345,
+          563
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_10-3-source.png",
+        "source_bbox": [
+          107,
+          16,
+          547,
+          598
+        ],
+        "source_dimensions": [
+          440,
+          582
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_10-4-source.png",
+        "source_bbox": [
+          95,
+          16,
+          520,
+          598
+        ],
+        "source_dimensions": [
+          425,
+          582
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_11",
+    "name": "\u00c9cu de l'atelier",
+    "category": "Shield",
+    "sha256": "12137602abd02ae287541fc404c2d31a2bda5f22ff0fb39cc6567163c50056c2",
+    "split_xy": [
+      639,
+      615
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_11-1-source.png",
+        "source_bbox": [
+          187,
+          65,
+          501,
+          588
+        ],
+        "source_dimensions": [
+          314,
+          523
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_11-2-source.png",
+        "source_bbox": [
+          134,
+          65,
+          447,
+          593
+        ],
+        "source_dimensions": [
+          313,
+          528
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_11-3-source.png",
+        "source_bbox": [
+          144,
+          30,
+          533,
+          557
+        ],
+        "source_dimensions": [
+          389,
+          527
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_11-4-source.png",
+        "source_bbox": [
+          105,
+          23,
+          496,
+          553
+        ],
+        "source_dimensions": [
+          391,
+          530
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_12",
+    "name": "Bouclier du ch\u0153ur",
+    "category": "Shield",
+    "sha256": "ecd2a0dca2342f478cdbea7cd7fbfe70d7ef037e87048703673c3e7e21791d7d",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_12-1-source.png",
+        "source_bbox": [
+          152,
+          41,
+          502,
+          607
+        ],
+        "source_dimensions": [
+          350,
+          566
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_12-2-source.png",
+        "source_bbox": [
+          134,
+          35,
+          487,
+          609
+        ],
+        "source_dimensions": [
+          353,
+          574
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_12-3-source.png",
+        "source_bbox": [
+          130,
+          18,
+          523,
+          582
+        ],
+        "source_dimensions": [
+          393,
+          564
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_12-4-source.png",
+        "source_bbox": [
+          104,
+          18,
+          500,
+          582
+        ],
+        "source_dimensions": [
+          396,
+          564
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_13",
+    "name": "\u00c9cu des trois murailles",
+    "category": "Shield",
+    "sha256": "04414d8a9674ae68bc8011af2c28bd9fc141f5130e03c5973878db1f753bbfa6",
+    "split_xy": [
+      656,
+      599
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_13-1-source.png",
+        "source_bbox": [
+          221,
+          50,
+          555,
+          581
+        ],
+        "source_dimensions": [
+          334,
+          531
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_13-2-source.png",
+        "source_bbox": [
+          102,
+          50,
+          437,
+          581
+        ],
+        "source_dimensions": [
+          335,
+          531
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_13-3-source.png",
+        "source_bbox": [
+          177,
+          34,
+          552,
+          551
+        ],
+        "source_dimensions": [
+          375,
+          517
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_13-4-source.png",
+        "source_bbox": [
+          161,
+          34,
+          478,
+          551
+        ],
+        "source_dimensions": [
+          317,
+          517
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
+  },
+  {
+    "id": "tfj_shield_14",
+    "name": "Bouclier du roi oubli\u00e9",
+    "category": "Shield",
+    "sha256": "7e79e1c89e6aa4295f17cd65f730f14968059074cacc030867f19c4aebb15b0d",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_shield_14-1-source.png",
+        "source_bbox": [
+          127,
+          23,
+          503,
+          584
+        ],
+        "source_dimensions": [
+          376,
+          561
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_14-2-source.png",
+        "source_bbox": [
+          125,
+          23,
+          502,
+          584
+        ],
+        "source_dimensions": [
+          377,
+          561
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_14-3-source.png",
+        "source_bbox": [
+          93,
+          9,
+          536,
+          577
+        ],
+        "source_dimensions": [
+          443,
+          568
+        ]
+      },
+      {
+        "path": "poses/tfj_shield_14-4-source.png",
+        "source_bbox": [
+          90,
+          10,
+          539,
+          571
+        ],
+        "source_dimensions": [
+          449,
+          561
+        ]
+      }
+    ],
+    "segmentation": "EMPTY_GUTTERS_ALPHA_GT_16"
   }
 ]

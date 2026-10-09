@@ -1,0 +1,180 @@
+{
+  "id": "tfj_pole_03",
+  "name": "Perche du marcheur",
+  "category": "Pole",
+  "source": "outputs\\The-Forgotten-Jobs-Combat-Completion-88\\sources\\tfj_pole_03.png",
+  "source_sha256": "3a0549c4d8d960b75d8d2dc741f2c19365af7832f95b269cc8f4e249e0dd7101",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "INSPECTED_CURRENT_NATIVE_AUTHORING_CONTACT_SHEET",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    1,
+    28639,
+    7574,
+    9448,
+    15034,
+    16912,
+    2151,
+    5424,
+    25402,
+    13708,
+    6309,
+    10773,
+    6483,
+    1059,
+    4300
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 7.119,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        292,
+        584
+      ],
+      "resampled_size": [
+        11,
+        21
+      ],
+      "sampling_scale": 0.036065573770491806,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_pole_03/view-1-indexed.png",
+      "readback_png": "items/tfj_pole_03/view-1-readback.png",
+      "connected_component_sizes": [
+        51
+      ],
+      "visible_pixels": 51,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        292,
+        584
+      ],
+      "resampled_size": [
+        11,
+        21
+      ],
+      "sampling_scale": 0.036065573770491806,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_pole_03/view-2-indexed.png",
+      "readback_png": "items/tfj_pole_03/view-2-readback.png",
+      "connected_component_sizes": [
+        52
+      ],
+      "visible_pixels": 52,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        108,
+        610
+      ],
+      "resampled_size": [
+        4,
+        22
+      ],
+      "sampling_scale": 0.036065573770491806,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_pole_03/view-3-indexed.png",
+      "readback_png": "items/tfj_pole_03/view-3-readback.png",
+      "connected_component_sizes": [
+        47
+      ],
+      "visible_pixels": 47,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        109,
+        610
+      ],
+      "resampled_size": [
+        4,
+        22
+      ],
+      "sampling_scale": 0.036065573770491806,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_pole_03/view-4-indexed.png",
+      "readback_png": "items/tfj_pole_03/view-4-readback.png",
+      "connected_component_sizes": [
+        47
+      ],
+      "visible_pixels": 47,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "41a66f3a6ec15eada7245a762d6801ef4c0c216dc5ee9db35ef7b2f0100fe73e",
+  "creative_source_retouch": false,
+  "pixel_retouched_note": "No hand-painted pixel claims; selected generative source revisions and deterministic native conversion are recorded separately.",
+  "palette_quantization": "RGB555_FARTHEST_COLOR_SEEDS_WEIGHTED_LLOYD_8_ITERATIONS_MAX_15_OPAQUE_COLORS",
+  "review_limits": "Authoring previews inspected; actual actor placement, animation, scene contrast, UI binding and game behavior are not tested."
+}

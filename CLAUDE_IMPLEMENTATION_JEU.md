@@ -14,7 +14,7 @@ Les documents et prompts sont des références de travail ; ils ne donnent pas d
 | --- | --- | --- |
 | Objets | 271 fiches de design, effets, compromis, prix et acquisition proposés | Contrats exécutables, ajout runtime, équilibrage en jeu |
 | Inventaire | 203 sources Klein ordinaires, 68 sources V2 légendaires/uniques | Découpe, alpha propre pour les RGB blancs, encodage et liaison natifs |
-| Équipement visible | 38 exceptionnels + 39 ordinaires, 308 vues ; encodage expérimental V2 vérifié | 68 autres planches ordinaires ; retouches, SHP/SEQ, raccordement et validation en jeu |
+| Équipement visible | 38 exceptionnels + 107 ordinaires, 580 vues ; encodage V2 et revue graphique vérifiés | SHP/SEQ, ancres, allocation additive, raccordement et validation en jeu |
 | Cœur runtime | Sources C#, routeur et progression séparée, tests hors processus jeu | Entrée Reloaded, raccordement natif, couverture consommateurs, sauvegarde réelle |
 | Jeu | Aucun nouveau job ou objet déclaré jouable | Tranche complète, tests de bataille, save/load et désinstallation |
 
@@ -24,7 +24,7 @@ Les rapports historiques donnent 54 contrôles du cœur et 5 632 couples command
 
 ## Mise à jour combat et conversion du 9 octobre 2026
 
-Lire **outputs/The-Forgotten-Jobs-Equipment-Native-Quality-V2/CLAUDE_NATIVE_CONVERSION.md** avant toute intégration. Les 20 nouvelles planches sont dans **outputs/The-Forgotten-Jobs-Combat-Completion-88**. Les rapports séparent encodage vérifié, retouches ouvertes et validation en jeu absente. Ne jamais copier les conteneurs expérimentaux par-dessus le WEP vanilla.
+Lire **outputs/The-Forgotten-Jobs-Equipment-Native-Quality-V2/CLAUDE_NATIVE_CONVERSION.md** avant toute intégration. Les 88 nouvelles planches sont dans **outputs/The-Forgotten-Jobs-Combat-Completion-88**. Les rapports séparent encodage et revue graphique vérifiés, validation en jeu absente. Ne jamais copier les conteneurs expérimentaux par-dessus le WEP vanilla.
 
 ## Autorités et ordre de priorité
 

@@ -1,0 +1,7 @@
+{
+  "rare_blue_accent": "PASS",
+  "determinism": "PASS",
+  "opaque_black_preserved_as_nontransparent_word": "PASS",
+  "fifteen_opaque_colors_maximum": "PASS",
+  "rgb555_and_zero_reservation": "PASS"
+}

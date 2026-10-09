@@ -1,0 +1,180 @@
+{
+  "id": "tfj_gun_05",
+  "name": "Arquebuse d'orage",
+  "category": "Gun",
+  "source": "outputs\\The-Forgotten-Jobs-Combat-Completion-88\\sources\\tfj_gun_05.png",
+  "source_sha256": "72a3893df21a595ec0fcffc70784364808c07548a1c7829092bd4916d0848fa6",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "INSPECTED_CURRENT_NATIVE_AUTHORING_CONTACT_SHEET",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    1,
+    30621,
+    8791,
+    8424,
+    22164,
+    15197,
+    4265,
+    15790,
+    3173,
+    12027,
+    26392,
+    5422,
+    22463,
+    6611,
+    12722
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 9.537,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        587,
+        501
+      ],
+      "resampled_size": [
+        24,
+        20
+      ],
+      "sampling_scale": 0.040740740740740744,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_gun_05/view-1-indexed.png",
+      "readback_png": "items/tfj_gun_05/view-1-readback.png",
+      "connected_component_sizes": [
+        110
+      ],
+      "visible_pixels": 110,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        562,
+        494
+      ],
+      "resampled_size": [
+        23,
+        20
+      ],
+      "sampling_scale": 0.040740740740740744,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_gun_05/view-2-indexed.png",
+      "readback_png": "items/tfj_gun_05/view-2-readback.png",
+      "connected_component_sizes": [
+        105
+      ],
+      "visible_pixels": 105,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        143,
+        536
+      ],
+      "resampled_size": [
+        6,
+        22
+      ],
+      "sampling_scale": 0.040740740740740744,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_gun_05/view-3-indexed.png",
+      "readback_png": "items/tfj_gun_05/view-3-readback.png",
+      "connected_component_sizes": [
+        74
+      ],
+      "visible_pixels": 74,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        126,
+        540
+      ],
+      "resampled_size": [
+        5,
+        22
+      ],
+      "sampling_scale": 0.040740740740740744,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_gun_05/view-4-indexed.png",
+      "readback_png": "items/tfj_gun_05/view-4-readback.png",
+      "connected_component_sizes": [
+        78
+      ],
+      "visible_pixels": 78,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "423922c89a5e78beef26b648e6b9d64f6b5bd957ac0d62bcdee6d9c10aa9d143",
+  "creative_source_retouch": false,
+  "pixel_retouched_note": "No hand-painted pixel claims; selected generative source revisions and deterministic native conversion are recorded separately.",
+  "palette_quantization": "RGB555_FARTHEST_COLOR_SEEDS_WEIGHTED_LLOYD_8_ITERATIONS_MAX_15_OPAQUE_COLORS",
+  "review_limits": "Authoring previews inspected; actual actor placement, animation, scene contrast, UI binding and game behavior are not tested."
+}

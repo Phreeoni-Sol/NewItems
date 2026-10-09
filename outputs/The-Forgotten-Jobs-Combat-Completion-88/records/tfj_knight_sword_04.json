@@ -1,0 +1,9 @@
+{
+  "id": "tfj_knight_sword_04",
+  "prompt": "Create a new original combat equipment pixel-art sheet for The Forgotten Jobs / Final Fantasy Tactics: Épée des remparts blancs (KnightSword). Image 1 is the selected inventory design: faithfully preserve its physical silhouette, materials, color accents, ornament placement and distinguishing features. Image 2 is a native historical FFT weapon atlas, for style only, not a source of replacement objects.\nMake FOUR consistent views of this SAME object in a clean 2x2 grid with generous EMPTY transparent center gutters and margins: diagonal left, diagonal right, near-front, near-back or side. Back-facing structure can be a conservative design proposal. Design each sprite for legibility around 56 logical pixels in height or width, with chunky square pixel clusters and hard opaque interiors. These are authoring sizes, not assertions about engine limits. Small muted palette, two or three shades per material, strong continuous silhouette. Keep slender shafts and handles robust; bow strings and crossbow strings must be solid continuous lines; flail chains must connect handle to weight. Keep all parts physically attached. Preserve exactly the inventory identity, do not copy the white background or painterly texture. No labels, frames, text, hands, characters, particles, glowing haze, detached sparks, shadows, gradients, checkerboard, antialiased illustration or glossy 3D. Real transparent exterior. Four artistic views, not a claimed native animation.",
+  "generated_source": "C:\\Users\\eSilRoy\\.codex\\generated_images\\01a11269-acf4-72e3-9d21-88011efccada\\exec-1b373db7-6c48-4101-83c7-a1316d7e54cb.png",
+  "status": "SOURCE_CONTACT_SHEET_AND_NATIVE_AUTHORING_PREVIEW_INSPECTED",
+  "runtime_ready": false,
+  "source_sha256": "b09e76d046228dc3d4f897d7f02c4d6631649b7530cab5fc0f59508c4034318d",
+  "native_conversion_ref": "../The-Forgotten-Jobs-Equipment-Native-Quality-V2/items/tfj_knight_sword_04/layout.json"
+}

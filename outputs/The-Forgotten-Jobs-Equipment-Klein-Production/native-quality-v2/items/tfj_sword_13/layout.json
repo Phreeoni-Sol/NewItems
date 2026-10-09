@@ -1,0 +1,180 @@
+{
+  "id": "tfj_sword_13",
+  "name": "Épée de l'écuyer perdu",
+  "category": "Sword",
+  "source": "outputs\\The-Forgotten-Jobs-Combat-Completion-88\\sources\\tfj_sword_13.png",
+  "source_sha256": "fa8f193d82f975cc33076ba2faa9146e8547a57fcb8aec52bdf0dfa6a27c6d52",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "INSPECTED_CURRENT_NATIVE_AUTHORING_CONTACT_SHEET",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    1058,
+    27516,
+    7736,
+    9513,
+    22198,
+    2185,
+    12651,
+    9883,
+    4434,
+    5285,
+    25402,
+    2285,
+    1126,
+    4565,
+    16912
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 7.881,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        509,
+        513
+      ],
+      "resampled_size": [
+        18,
+        18
+      ],
+      "sampling_scale": 0.03594771241830065,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_13/view-1-indexed.png",
+      "readback_png": "items/tfj_sword_13/view-1-readback.png",
+      "connected_component_sizes": [
+        65
+      ],
+      "visible_pixels": 65,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        484,
+        497
+      ],
+      "resampled_size": [
+        17,
+        18
+      ],
+      "sampling_scale": 0.03594771241830065,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_13/view-2-indexed.png",
+      "readback_png": "items/tfj_sword_13/view-2-readback.png",
+      "connected_component_sizes": [
+        62
+      ],
+      "visible_pixels": 62,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        257,
+        612
+      ],
+      "resampled_size": [
+        9,
+        22
+      ],
+      "sampling_scale": 0.03594771241830065,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_13/view-3-indexed.png",
+      "readback_png": "items/tfj_sword_13/view-3-readback.png",
+      "connected_component_sizes": [
+        63
+      ],
+      "visible_pixels": 63,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        259,
+        612
+      ],
+      "resampled_size": [
+        9,
+        22
+      ],
+      "sampling_scale": 0.03594771241830065,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_13/view-4-indexed.png",
+      "readback_png": "items/tfj_sword_13/view-4-readback.png",
+      "connected_component_sizes": [
+        63
+      ],
+      "visible_pixels": 63,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "288fae5713294fa7594f6e878948a6071427e8cd1ef9b0713039d271a26e1995",
+  "creative_source_retouch": false,
+  "pixel_retouched_note": "No hand-painted pixel claims; selected generative source revisions and deterministic native conversion are recorded separately.",
+  "palette_quantization": "RGB555_FARTHEST_COLOR_SEEDS_WEIGHTED_LLOYD_8_ITERATIONS_MAX_15_OPAQUE_COLORS",
+  "review_limits": "Authoring previews inspected; actual actor placement, animation, scene contrast, UI binding and game behavior are not tested."
+}

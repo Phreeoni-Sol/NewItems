@@ -1,0 +1,180 @@
+{
+  "id": "tfj_shield_08",
+  "name": "Bouclier des braises",
+  "category": "Shield",
+  "source": "outputs\\The-Forgotten-Jobs-Combat-Completion-88\\sources\\tfj_shield_08.png",
+  "source_sha256": "7209dd789e3363d6a3e4b35e6f2e9c83cbddd327dfb0f444b5c59629fe7698c6",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "INSPECTED_CURRENT_NATIVE_AUTHORING_CONTACT_SHEET",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    4195,
+    24511,
+    7543,
+    12684,
+    4301,
+    15039,
+    7400,
+    1096,
+    1026,
+    9690,
+    5394,
+    20351,
+    11837,
+    6309,
+    15003
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 8.205,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        345,
+        558
+      ],
+      "resampled_size": [
+        13,
+        22
+      ],
+      "sampling_scale": 0.03907637655417407,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_shield_08/view-1-indexed.png",
+      "readback_png": "items/tfj_shield_08/view-1-readback.png",
+      "connected_component_sizes": [
+        185
+      ],
+      "visible_pixels": 185,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        354,
+        558
+      ],
+      "resampled_size": [
+        14,
+        22
+      ],
+      "sampling_scale": 0.03907637655417407,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_shield_08/view-2-indexed.png",
+      "readback_png": "items/tfj_shield_08/view-2-readback.png",
+      "connected_component_sizes": [
+        198
+      ],
+      "visible_pixels": 198,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        421,
+        563
+      ],
+      "resampled_size": [
+        16,
+        22
+      ],
+      "sampling_scale": 0.03907637655417407,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_shield_08/view-3-indexed.png",
+      "readback_png": "items/tfj_shield_08/view-3-readback.png",
+      "connected_component_sizes": [
+        222
+      ],
+      "visible_pixels": 222,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        423,
+        560
+      ],
+      "resampled_size": [
+        17,
+        22
+      ],
+      "sampling_scale": 0.03907637655417407,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_shield_08/view-4-indexed.png",
+      "readback_png": "items/tfj_shield_08/view-4-readback.png",
+      "connected_component_sizes": [
+        238
+      ],
+      "visible_pixels": 238,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "53d64a9a22a8ae09e05297c25e0285bf7fedb19a69e3c4085f75d64a4805feea",
+  "creative_source_retouch": false,
+  "pixel_retouched_note": "No hand-painted pixel claims; selected generative source revisions and deterministic native conversion are recorded separately.",
+  "palette_quantization": "RGB555_FARTHEST_COLOR_SEEDS_WEIGHTED_LLOYD_8_ITERATIONS_MAX_15_OPAQUE_COLORS",
+  "review_limits": "Authoring previews inspected; actual actor placement, animation, scene contrast, UI binding and game behavior are not tested."
+}

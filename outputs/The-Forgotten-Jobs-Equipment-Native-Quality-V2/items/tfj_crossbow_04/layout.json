@@ -1,0 +1,180 @@
+{
+  "id": "tfj_crossbow_04",
+  "name": "Arbalète de siège",
+  "category": "Crossbow",
+  "source": "outputs\\The-Forgotten-Jobs-Combat-Completion-88\\sources\\tfj_crossbow_04.png",
+  "source_sha256": "9948be011df751d650a5ee5ca74baabbf998a47c6fe65c422cfc81119737a72d",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "INSPECTED_CURRENT_NATIVE_AUTHORING_CONTACT_SHEET",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    1057,
+    25502,
+    11731,
+    20150,
+    5286,
+    6414,
+    13810,
+    3172,
+    13880,
+    9615,
+    22332,
+    18105,
+    5289,
+    15957,
+    7467
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 7.278,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        576,
+        440
+      ],
+      "resampled_size": [
+        27,
+        21
+      ],
+      "sampling_scale": 0.0473186119873817,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_crossbow_04/view-1-indexed.png",
+      "readback_png": "items/tfj_crossbow_04/view-1-readback.png",
+      "connected_component_sizes": [
+        207
+      ],
+      "visible_pixels": 207,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        534,
+        437
+      ],
+      "resampled_size": [
+        25,
+        21
+      ],
+      "sampling_scale": 0.0473186119873817,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_crossbow_04/view-2-indexed.png",
+      "readback_png": "items/tfj_crossbow_04/view-2-readback.png",
+      "connected_component_sizes": [
+        188
+      ],
+      "visible_pixels": 188,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        634,
+        422
+      ],
+      "resampled_size": [
+        30,
+        20
+      ],
+      "sampling_scale": 0.0473186119873817,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_crossbow_04/view-3-indexed.png",
+      "readback_png": "items/tfj_crossbow_04/view-3-readback.png",
+      "connected_component_sizes": [
+        184
+      ],
+      "visible_pixels": 184,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        594,
+        404
+      ],
+      "resampled_size": [
+        28,
+        19
+      ],
+      "sampling_scale": 0.0473186119873817,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "sampling_phase": [
+        0,
+        0
+      ],
+      "sampling_policy": "NEAREST_SOURCE_SAMPLES_PHASE_SEARCH_MAX_0.4_DESTINATION_PIXEL_NO_DRAWN_REPAIRS; STAFF_02_FRONT_REAR_FOUR_PRONG_SIGNATURE_PRIORITY",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_crossbow_04/view-4-indexed.png",
+      "readback_png": "items/tfj_crossbow_04/view-4-readback.png",
+      "connected_component_sizes": [
+        200
+      ],
+      "visible_pixels": 200,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "aadd1cc32fffb326958194c2d86fc68752e442446b87dfebb483490dce805d0e",
+  "creative_source_retouch": false,
+  "pixel_retouched_note": "No hand-painted pixel claims; selected generative source revisions and deterministic native conversion are recorded separately.",
+  "palette_quantization": "RGB555_FARTHEST_COLOR_SEEDS_WEIGHTED_LLOYD_8_ITERATIONS_MAX_15_OPAQUE_COLORS",
+  "review_limits": "Authoring previews inspected; actual actor placement, animation, scene contrast, UI binding and game behavior are not tested."
+}
