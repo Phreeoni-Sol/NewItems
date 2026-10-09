@@ -1,0 +1,156 @@
+{
+  "id": "tfj_knight_sword_06",
+  "name": "Le Trône vacant",
+  "category": "KnightSword",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_knight_sword_06.png",
+  "source_sha256": "813665b103af83db3aa0fa7bab258bf691c33bdb97d32fd9331d5072719eb743",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    15956,
+    12785,
+    9581,
+    11627,
+    8457,
+    7399,
+    6342,
+    5318,
+    5285,
+    4262,
+    3171,
+    1,
+    1,
+    1,
+    1
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 8.993,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        471,
+        545
+      ],
+      "resampled_size": [
+        19,
+        22
+      ],
+      "sampling_scale": 0.04036697247706422,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knight_sword_06/view-1-indexed.png",
+      "readback_png": "items/tfj_knight_sword_06/view-1-readback.png",
+      "connected_component_sizes": [
+        106
+      ],
+      "visible_pixels": 106,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        471,
+        545
+      ],
+      "resampled_size": [
+        19,
+        22
+      ],
+      "sampling_scale": 0.04036697247706422,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knight_sword_06/view-2-indexed.png",
+      "readback_png": "items/tfj_knight_sword_06/view-2-readback.png",
+      "connected_component_sizes": [
+        106
+      ],
+      "visible_pixels": 106,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        584,
+        179
+      ],
+      "resampled_size": [
+        24,
+        7
+      ],
+      "sampling_scale": 0.04036697247706422,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knight_sword_06/view-3-indexed.png",
+      "readback_png": "items/tfj_knight_sword_06/view-3-readback.png",
+      "connected_component_sizes": [
+        100
+      ],
+      "visible_pixels": 100,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        584,
+        180
+      ],
+      "resampled_size": [
+        24,
+        7
+      ],
+      "sampling_scale": 0.04036697247706422,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knight_sword_06/view-4-indexed.png",
+      "readback_png": "items/tfj_knight_sword_06/view-4-readback.png",
+      "connected_component_sizes": [
+        100
+      ],
+      "visible_pixels": 100,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "4bf906ab2f36ad20e7a593861f07a5626f1e4c4a3a46f0b4f9bf3ec276892930"
+}

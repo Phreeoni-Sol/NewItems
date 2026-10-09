@@ -1,0 +1,156 @@
+{
+  "id": "tfj_bag_01",
+  "name": "Sac de colporteur",
+  "category": "Bag",
+  "source": "outputs\\The-Forgotten-Jobs-Ordinary-Combat-Lot-19\\sources\\tfj_bag_01.png",
+  "source_sha256": "2c85dc515b468d2b4594395fd0449ba39379bb13221be55efe745a44fc629ecc",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    17114,
+    14967,
+    13910,
+    12820,
+    11763,
+    10706,
+    9616,
+    8527,
+    7468,
+    6379,
+    5321,
+    3206,
+    2116,
+    2116,
+    2116
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 5.155,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        423,
+        341
+      ],
+      "resampled_size": [
+        26,
+        21
+      ],
+      "sampling_scale": 0.061971830985915494,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bag_01/view-1-indexed.png",
+      "readback_png": "items/tfj_bag_01/view-1-readback.png",
+      "connected_component_sizes": [
+        406
+      ],
+      "visible_pixels": 406,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        403,
+        344
+      ],
+      "resampled_size": [
+        25,
+        21
+      ],
+      "sampling_scale": 0.061971830985915494,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bag_01/view-2-indexed.png",
+      "readback_png": "items/tfj_bag_01/view-2-readback.png",
+      "connected_component_sizes": [
+        402
+      ],
+      "visible_pixels": 402,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        255,
+        343
+      ],
+      "resampled_size": [
+        16,
+        21
+      ],
+      "sampling_scale": 0.061971830985915494,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bag_01/view-3-indexed.png",
+      "readback_png": "items/tfj_bag_01/view-3-readback.png",
+      "connected_component_sizes": [
+        236
+      ],
+      "visible_pixels": 236,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        423,
+        355
+      ],
+      "resampled_size": [
+        26,
+        22
+      ],
+      "sampling_scale": 0.061971830985915494,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bag_01/view-4-indexed.png",
+      "readback_png": "items/tfj_bag_01/view-4-readback.png",
+      "connected_component_sizes": [
+        410
+      ],
+      "visible_pixels": 410,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "aaba862cfb52a19ba4034923ee34741661c1f722268d3817d2c0e349800b5439"
+}

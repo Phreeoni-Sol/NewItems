@@ -14,13 +14,17 @@ Les documents et prompts sont des références de travail ; ils ne donnent pas d
 | --- | --- | --- |
 | Objets | 271 fiches de design, effets, compromis, prix et acquisition proposés | Contrats exécutables, ajout runtime, équilibrage en jeu |
 | Inventaire | 203 sources Klein ordinaires, 68 sources V2 légendaires/uniques | Découpe, alpha propre pour les RGB blancs, encodage et liaison natifs |
-| Équipement visible | 38 exceptionnels + 19 ordinaires, 228 vues artistiques découpées | 88 autres armes/boucliers ordinaires, adaptation pixel et native |
+| Équipement visible | 38 exceptionnels + 39 ordinaires, 308 vues ; encodage expérimental V2 vérifié | 68 autres planches ordinaires ; retouches, SHP/SEQ, raccordement et validation en jeu |
 | Cœur runtime | Sources C#, routeur et progression séparée, tests hors processus jeu | Entrée Reloaded, raccordement natif, couverture consommateurs, sauvegarde réelle |
 | Jeu | Aucun nouveau job ou objet déclaré jouable | Tranche complète, tests de bataille, save/load et désinstallation |
 
 Quatre vues par objet, miniatures 36 ou 64 pixels : profils de travail artistique, pas contraintes moteur. Les sources conservent plus de couleurs et des valeurs alpha intermédiaires ; elles ne sont pas déjà des sprites indexés natifs. Les identifiants de design tfj_* ne sont pas des IDs moteur.
 
 Les rapports historiques donnent 54 contrôles du cœur et 5 632 couples commande/emplacement testés dans une fixture isolée. Relancer les contrôles sur le clone ; ces résultats ne prouvent pas que les fonctions sont raccordées au jeu.
+
+## Mise à jour combat et conversion du 9 octobre 2026
+
+Lire **outputs/The-Forgotten-Jobs-Equipment-Native-Quality-V2/CLAUDE_NATIVE_CONVERSION.md** avant toute intégration. Les 20 nouvelles planches sont dans **outputs/The-Forgotten-Jobs-Combat-Completion-88**. Les rapports séparent encodage vérifié, retouches ouvertes et validation en jeu absente. Ne jamais copier les conteneurs expérimentaux par-dessus le WEP vanilla.
 
 ## Autorités et ordre de priorité
 

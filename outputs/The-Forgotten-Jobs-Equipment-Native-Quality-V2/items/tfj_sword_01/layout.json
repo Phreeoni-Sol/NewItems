@@ -1,0 +1,156 @@
+{
+  "id": "tfj_sword_01",
+  "name": "Épée de conscrit",
+  "category": "Sword",
+  "source": "outputs\\The-Forgotten-Jobs-Combat-Completion-88\\sources\\tfj_sword_01.png",
+  "source_sha256": "a0a9cc7e8359684a1e4858d08b389f5bd3c4731ffee0f4f7a7cca5c38d7539aa",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    27483,
+    23254,
+    22197,
+    20050,
+    15822,
+    12685,
+    12651,
+    11594,
+    7435,
+    5287,
+    3205,
+    1,
+    1,
+    1,
+    1
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 8.477,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        432,
+        537
+      ],
+      "resampled_size": [
+        15,
+        18
+      ],
+      "sampling_scale": 0.033846153846153845,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_01/view-1-indexed.png",
+      "readback_png": "items/tfj_sword_01/view-1-readback.png",
+      "connected_component_sizes": [
+        59
+      ],
+      "visible_pixels": 59,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        405,
+        547
+      ],
+      "resampled_size": [
+        14,
+        19
+      ],
+      "sampling_scale": 0.033846153846153845,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_01/view-2-indexed.png",
+      "readback_png": "items/tfj_sword_01/view-2-readback.png",
+      "connected_component_sizes": [
+        62
+      ],
+      "visible_pixels": 62,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        195,
+        650
+      ],
+      "resampled_size": [
+        7,
+        22
+      ],
+      "sampling_scale": 0.033846153846153845,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_01/view-3-indexed.png",
+      "readback_png": "items/tfj_sword_01/view-3-readback.png",
+      "connected_component_sizes": [
+        65
+      ],
+      "visible_pixels": 65,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        191,
+        646
+      ],
+      "resampled_size": [
+        6,
+        22
+      ],
+      "sampling_scale": 0.033846153846153845,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_01/view-4-indexed.png",
+      "readback_png": "items/tfj_sword_01/view-4-readback.png",
+      "connected_component_sizes": [
+        46
+      ],
+      "visible_pixels": 46,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "438fdf1c73ca7f9f1b3f947e2f10f56c8de6b0cc440a7fe33d069ddfb017d53c"
+}

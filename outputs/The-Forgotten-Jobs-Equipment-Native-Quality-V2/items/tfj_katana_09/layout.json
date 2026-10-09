@@ -1,0 +1,156 @@
+{
+  "id": "tfj_katana_09",
+  "name": "Dernière lune",
+  "category": "Katana",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_katana_09.png",
+  "source_sha256": "b4ddd09415fe76520058ad2a68799fccc41d9860e59c36f0edef81d2d3ff6e0e",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    26459,
+    25402,
+    25401,
+    23287,
+    20116,
+    16946,
+    15821,
+    10536,
+    8423,
+    6309,
+    5252,
+    4228,
+    4195,
+    3138,
+    3138
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 7.754,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        442,
+        422
+      ],
+      "resampled_size": [
+        23,
+        22
+      ],
+      "sampling_scale": 0.052132701421800945,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_katana_09/view-1-indexed.png",
+      "readback_png": "items/tfj_katana_09/view-1-readback.png",
+      "connected_component_sizes": [
+        69
+      ],
+      "visible_pixels": 69,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        441,
+        422
+      ],
+      "resampled_size": [
+        23,
+        22
+      ],
+      "sampling_scale": 0.052132701421800945,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_katana_09/view-2-indexed.png",
+      "readback_png": "items/tfj_katana_09/view-2-readback.png",
+      "connected_component_sizes": [
+        68
+      ],
+      "visible_pixels": 68,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        552,
+        100
+      ],
+      "resampled_size": [
+        29,
+        5
+      ],
+      "sampling_scale": 0.052132701421800945,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_katana_09/view-3-indexed.png",
+      "readback_png": "items/tfj_katana_09/view-3-readback.png",
+      "connected_component_sizes": [
+        70
+      ],
+      "visible_pixels": 70,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        552,
+        100
+      ],
+      "resampled_size": [
+        29,
+        5
+      ],
+      "sampling_scale": 0.052132701421800945,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_katana_09/view-4-indexed.png",
+      "readback_png": "items/tfj_katana_09/view-4-readback.png",
+      "connected_component_sizes": [
+        70
+      ],
+      "visible_pixels": 70,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "eead2152a4c2a810e671f2003983e644b8e6047c1fd88f85eb2fb8d9d68726ea"
+}

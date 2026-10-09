@@ -1,0 +1,157 @@
+{
+  "id": "tfj_crossbow_06",
+  "name": "La Sans-Appel",
+  "category": "Crossbow",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_crossbow_06.png",
+  "source_sha256": "e1c96d8384b475080336f0630a89f5c8ed9ecfa8afeb98daaf0a152b2e9902ee",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    23322,
+    21208,
+    14832,
+    13741,
+    8433,
+    8427,
+    8423,
+    5286,
+    5255,
+    5253,
+    4197,
+    2115,
+    2083,
+    1058,
+    1058
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 8.185,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        460,
+        381
+      ],
+      "resampled_size": [
+        25,
+        21
+      ],
+      "sampling_scale": 0.0544464609800363,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_crossbow_06/view-1-indexed.png",
+      "readback_png": "items/tfj_crossbow_06/view-1-readback.png",
+      "connected_component_sizes": [
+        185
+      ],
+      "visible_pixels": 185,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        445,
+        381
+      ],
+      "resampled_size": [
+        24,
+        21
+      ],
+      "sampling_scale": 0.0544464609800363,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_crossbow_06/view-2-indexed.png",
+      "readback_png": "items/tfj_crossbow_06/view-2-readback.png",
+      "connected_component_sizes": [
+        179,
+        1
+      ],
+      "visible_pixels": 180,
+      "has_multiple_components": true
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        543,
+        334
+      ],
+      "resampled_size": [
+        30,
+        18
+      ],
+      "sampling_scale": 0.0544464609800363,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_crossbow_06/view-3-indexed.png",
+      "readback_png": "items/tfj_crossbow_06/view-3-readback.png",
+      "connected_component_sizes": [
+        176
+      ],
+      "visible_pixels": 176,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        551,
+        334
+      ],
+      "resampled_size": [
+        30,
+        18
+      ],
+      "sampling_scale": 0.0544464609800363,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_crossbow_06/view-4-indexed.png",
+      "readback_png": "items/tfj_crossbow_06/view-4-readback.png",
+      "connected_component_sizes": [
+        173
+      ],
+      "visible_pixels": 173,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "1e9804097966ac9015f3fb03a18b901e9a91ac4e1d57719648160dadef4c5b49"
+}

@@ -1,0 +1,156 @@
+{
+  "id": "tfj_rod_08",
+  "name": "Lanterne d'Ajoran",
+  "category": "Rod",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_rod_08.png",
+  "source_sha256": "dc0c27ee0f807bd28e71a13e7f54c296bae2050bf010c8e6df59f97bbac810b4",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    28606,
+    24412,
+    22331,
+    22230,
+    16913,
+    19948,
+    14732,
+    14664,
+    12551,
+    9383,
+    8356,
+    6275,
+    5219,
+    4193,
+    3105
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 10.725,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        421,
+        501
+      ],
+      "resampled_size": [
+        18,
+        22
+      ],
+      "sampling_scale": 0.043912175648702596,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_rod_08/view-1-indexed.png",
+      "readback_png": "items/tfj_rod_08/view-1-readback.png",
+      "connected_component_sizes": [
+        122
+      ],
+      "visible_pixels": 122,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        421,
+        501
+      ],
+      "resampled_size": [
+        18,
+        22
+      ],
+      "sampling_scale": 0.043912175648702596,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_rod_08/view-2-indexed.png",
+      "readback_png": "items/tfj_rod_08/view-2-readback.png",
+      "connected_component_sizes": [
+        120
+      ],
+      "visible_pixels": 120,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        590,
+        273
+      ],
+      "resampled_size": [
+        26,
+        12
+      ],
+      "sampling_scale": 0.043912175648702596,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_rod_08/view-3-indexed.png",
+      "readback_png": "items/tfj_rod_08/view-3-readback.png",
+      "connected_component_sizes": [
+        114
+      ],
+      "visible_pixels": 114,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        590,
+        272
+      ],
+      "resampled_size": [
+        26,
+        12
+      ],
+      "sampling_scale": 0.043912175648702596,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_rod_08/view-4-indexed.png",
+      "readback_png": "items/tfj_rod_08/view-4-readback.png",
+      "connected_component_sizes": [
+        112
+      ],
+      "visible_pixels": 112,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "8d2462c5370ac110cdef4ee94fc4f0f1eb062ef69520c16330c8784db76a4b58"
+}

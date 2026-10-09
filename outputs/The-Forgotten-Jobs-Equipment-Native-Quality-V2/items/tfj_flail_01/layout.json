@@ -1,0 +1,156 @@
+{
+  "id": "tfj_flail_01",
+  "name": "Fléau de milice",
+  "category": "Flail",
+  "source": "outputs\\The-Forgotten-Jobs-Ordinary-Combat-Lot-19\\sources\\tfj_flail_01.png",
+  "source_sha256": "5e98cbbe781282755b89794e998ed0c09a37d3ef329bb07f3cbce5d857712e28",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    19127,
+    14865,
+    10639,
+    11628,
+    9515,
+    6378,
+    8423,
+    7366,
+    4230,
+    4228,
+    4195,
+    3139,
+    3138,
+    3138,
+    3138
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 8.399,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        480,
+        493
+      ],
+      "resampled_size": [
+        21,
+        22
+      ],
+      "sampling_scale": 0.04462474645030426,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_flail_01/view-1-indexed.png",
+      "readback_png": "items/tfj_flail_01/view-1-readback.png",
+      "connected_component_sizes": [
+        140
+      ],
+      "visible_pixels": 140,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        472,
+        493
+      ],
+      "resampled_size": [
+        21,
+        22
+      ],
+      "sampling_scale": 0.04462474645030426,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_flail_01/view-2-indexed.png",
+      "readback_png": "items/tfj_flail_01/view-2-readback.png",
+      "connected_component_sizes": [
+        137
+      ],
+      "visible_pixels": 137,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        305,
+        492
+      ],
+      "resampled_size": [
+        14,
+        22
+      ],
+      "sampling_scale": 0.04462474645030426,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_flail_01/view-3-indexed.png",
+      "readback_png": "items/tfj_flail_01/view-3-readback.png",
+      "connected_component_sizes": [
+        137
+      ],
+      "visible_pixels": 137,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        511,
+        467
+      ],
+      "resampled_size": [
+        23,
+        21
+      ],
+      "sampling_scale": 0.04462474645030426,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_flail_01/view-4-indexed.png",
+      "readback_png": "items/tfj_flail_01/view-4-readback.png",
+      "connected_component_sizes": [
+        133
+      ],
+      "visible_pixels": 133,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "1b65ba6a1ea67c87a2239ba25f467482aec08cc0a8d3a25c964b046ab6296287"
+}

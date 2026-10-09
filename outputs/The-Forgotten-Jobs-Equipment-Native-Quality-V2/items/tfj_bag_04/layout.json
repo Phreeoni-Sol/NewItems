@@ -1,0 +1,156 @@
+{
+  "id": "tfj_bag_04",
+  "name": "Le Dernier denier",
+  "category": "Bag",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_bag_04.png",
+  "source_sha256": "e7c7c0322de9a04a0d0f6aae5df6294e1d028d6ee42b467e71d22259226528b3",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    22130,
+    21005,
+    20973,
+    19948,
+    16778,
+    15721,
+    12526,
+    12551,
+    7332,
+    6276,
+    6245,
+    6275,
+    5218,
+    5218,
+    5218
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 9.993,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        434,
+        467
+      ],
+      "resampled_size": [
+        20,
+        22
+      ],
+      "sampling_scale": 0.04612159329140461,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bag_04/view-1-indexed.png",
+      "readback_png": "items/tfj_bag_04/view-1-readback.png",
+      "connected_component_sizes": [
+        260
+      ],
+      "visible_pixels": 260,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        430,
+        477
+      ],
+      "resampled_size": [
+        20,
+        22
+      ],
+      "sampling_scale": 0.04612159329140461,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bag_04/view-2-indexed.png",
+      "readback_png": "items/tfj_bag_04/view-2-readback.png",
+      "connected_component_sizes": [
+        266
+      ],
+      "visible_pixels": 266,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        424,
+        392
+      ],
+      "resampled_size": [
+        20,
+        18
+      ],
+      "sampling_scale": 0.04612159329140461,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bag_04/view-3-indexed.png",
+      "readback_png": "items/tfj_bag_04/view-3-readback.png",
+      "connected_component_sizes": [
+        252
+      ],
+      "visible_pixels": 252,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        420,
+        394
+      ],
+      "resampled_size": [
+        19,
+        18
+      ],
+      "sampling_scale": 0.04612159329140461,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bag_04/view-4-indexed.png",
+      "readback_png": "items/tfj_bag_04/view-4-readback.png",
+      "connected_component_sizes": [
+        245
+      ],
+      "visible_pixels": 245,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "2eff6079e89191f9d8a1bbdc596893f4fa09cd19ec4f03f72e49e9db33930410"
+}

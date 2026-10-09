@@ -1,0 +1,156 @@
+{
+  "id": "tfj_ninja_blade_06",
+  "name": "Murmure violet",
+  "category": "NinjaBlade",
+  "source": "outputs\\The-Forgotten-Jobs-Combat-Completion-88\\sources\\tfj_ninja_blade_06.png",
+  "source_sha256": "13c6e434c41c79b02b06b1283470cafd613d2aa3420244e00c998453a8626b57",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    27550,
+    25371,
+    25240,
+    20053,
+    20979,
+    13776,
+    17808,
+    10572,
+    14604,
+    7401,
+    10441,
+    6310,
+    6245,
+    3106,
+    2049
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 13.276,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        499,
+        535
+      ],
+      "resampled_size": [
+        19,
+        20
+      ],
+      "sampling_scale": 0.03793103448275862,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_ninja_blade_06/view-1-indexed.png",
+      "readback_png": "items/tfj_ninja_blade_06/view-1-readback.png",
+      "connected_component_sizes": [
+        75
+      ],
+      "visible_pixels": 75,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        491,
+        535
+      ],
+      "resampled_size": [
+        19,
+        20
+      ],
+      "sampling_scale": 0.03793103448275862,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_ninja_blade_06/view-2-indexed.png",
+      "readback_png": "items/tfj_ninja_blade_06/view-2-readback.png",
+      "connected_component_sizes": [
+        75
+      ],
+      "visible_pixels": 75,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        158,
+        580
+      ],
+      "resampled_size": [
+        6,
+        22
+      ],
+      "sampling_scale": 0.03793103448275862,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_ninja_blade_06/view-3-indexed.png",
+      "readback_png": "items/tfj_ninja_blade_06/view-3-readback.png",
+      "connected_component_sizes": [
+        63
+      ],
+      "visible_pixels": 63,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        156,
+        579
+      ],
+      "resampled_size": [
+        6,
+        22
+      ],
+      "sampling_scale": 0.03793103448275862,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_ninja_blade_06/view-4-indexed.png",
+      "readback_png": "items/tfj_ninja_blade_06/view-4-readback.png",
+      "connected_component_sizes": [
+        61
+      ],
+      "visible_pixels": 61,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "bc1c804c127a183e7249009a279dea0e262f08450b6e002be4eacce50cbb5d62"
+}

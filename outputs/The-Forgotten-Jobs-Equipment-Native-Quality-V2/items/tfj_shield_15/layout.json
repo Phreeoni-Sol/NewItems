@@ -1,0 +1,156 @@
+{
+  "id": "tfj_shield_15",
+  "name": "Porte de Bervénia",
+  "category": "Shield",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_shield_15.png",
+  "source_sha256": "26a6d20366a84d6d0e4fe12f1f7549a02ef27d75148169189595cb2ddf5ec0c3",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    18037,
+    12753,
+    12718,
+    14730,
+    13674,
+    6444,
+    10503,
+    8390,
+    8389,
+    6276,
+    5251,
+    3138,
+    3137,
+    2049,
+    2048
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 11.249,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        285,
+        529
+      ],
+      "resampled_size": [
+        12,
+        22
+      ],
+      "sampling_scale": 0.04158790170132325,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_shield_15/view-1-indexed.png",
+      "readback_png": "items/tfj_shield_15/view-1-readback.png",
+      "connected_component_sizes": [
+        186
+      ],
+      "visible_pixels": 186,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        258,
+        529
+      ],
+      "resampled_size": [
+        11,
+        22
+      ],
+      "sampling_scale": 0.04158790170132325,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_shield_15/view-2-indexed.png",
+      "readback_png": "items/tfj_shield_15/view-2-readback.png",
+      "connected_component_sizes": [
+        174
+      ],
+      "visible_pixels": 174,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        305,
+        510
+      ],
+      "resampled_size": [
+        13,
+        21
+      ],
+      "sampling_scale": 0.04158790170132325,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_shield_15/view-3-indexed.png",
+      "readback_png": "items/tfj_shield_15/view-3-readback.png",
+      "connected_component_sizes": [
+        183
+      ],
+      "visible_pixels": 183,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        265,
+        520
+      ],
+      "resampled_size": [
+        11,
+        22
+      ],
+      "sampling_scale": 0.04158790170132325,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_shield_15/view-4-indexed.png",
+      "readback_png": "items/tfj_shield_15/view-4-readback.png",
+      "connected_component_sizes": [
+        159
+      ],
+      "visible_pixels": 159,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "8c90a34d4b30ee11cee03bdab580a1b31c8712e0f3d00ffa56c390d4fcb6ebdf"
+}

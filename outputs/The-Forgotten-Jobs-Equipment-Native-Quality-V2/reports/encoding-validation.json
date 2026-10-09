@@ -1,0 +1,399 @@
+{
+  "status": "PASS_ENCODING_ONLY",
+  "equipment": 77,
+  "views": 308,
+  "independent_pixel_readback": "PASS",
+  "nibble_order_fixture": "PASS",
+  "invalid_length_rejection": "PASS",
+  "native_reference": "PASS_BYTE_IDENTICAL_ROUNDTRIP_READ_ONLY",
+  "game_test": "NOT_RUN",
+  "runtime_ready": false,
+  "new_runtime_ids": 0,
+  "checks": [
+    {
+      "id": "tfj_sword_18",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_staff_08",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_shield_16",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knife_09",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knife_10",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_ninja_blade_07",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_ninja_blade_08",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_sword_17",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knight_sword_05",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knight_sword_06",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_katana_09",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_katana_10",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_axe_03",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_axe_04",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_staff_07",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_flail_03",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_flail_04",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_gun_06",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_gun_07",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_crossbow_05",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_rod_07",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_rod_08",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_crossbow_06",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_bow_09",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_bow_10",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_instrument_02",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_instrument_03",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_book_03",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_book_04",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_polearm_07",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_polearm_08",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_pole_07",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_pole_08",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_bag_03",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_bag_04",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_cloth_02",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_cloth_03",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_shield_15",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knife_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_ninja_blade_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_sword_03",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knight_sword_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_katana_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_axe_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_rod_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_staff_02",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_flail_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_gun_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_crossbow_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_bow_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_instrument_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_book_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_polearm_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_pole_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_bag_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_cloth_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_shield_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knife_02",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knife_03",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knife_04",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knife_05",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knife_06",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knife_07",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_knife_08",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_ninja_blade_02",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_ninja_blade_03",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_ninja_blade_04",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_ninja_blade_05",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_ninja_blade_06",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_sword_01",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_sword_02",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_sword_04",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_sword_05",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_sword_06",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_sword_07",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_sword_08",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    },
+    {
+      "id": "tfj_sword_09",
+      "independent_byte_readback": "PASS",
+      "visible_views": 4
+    }
+  ]
+}

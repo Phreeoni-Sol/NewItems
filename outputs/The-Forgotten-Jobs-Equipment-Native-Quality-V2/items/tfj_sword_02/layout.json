@@ -1,0 +1,160 @@
+{
+  "id": "tfj_sword_02",
+  "name": "Lame de talus",
+  "category": "Sword",
+  "source": "outputs\\The-Forgotten-Jobs-Combat-Completion-88\\sources\\tfj_sword_02.png",
+  "source_sha256": "f6c627b2789c6449d5f106cd0312e1ac365ecba42e94412fcb93b68fc1bf5b9c",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    17045,
+    13842,
+    13809,
+    12749,
+    11694,
+    7502,
+    8522,
+    5414,
+    5353,
+    5317,
+    3204,
+    2115,
+    1057,
+    1056,
+    1
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 12.232,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        497,
+        513
+      ],
+      "resampled_size": [
+        18,
+        18
+      ],
+      "sampling_scale": 0.035830618892508145,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_02/view-1-indexed.png",
+      "readback_png": "items/tfj_sword_02/view-1-readback.png",
+      "connected_component_sizes": [
+        65
+      ],
+      "visible_pixels": 65,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        501,
+        513
+      ],
+      "resampled_size": [
+        18,
+        18
+      ],
+      "sampling_scale": 0.035830618892508145,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_02/view-2-indexed.png",
+      "readback_png": "items/tfj_sword_02/view-2-readback.png",
+      "connected_component_sizes": [
+        63
+      ],
+      "visible_pixels": 63,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        211,
+        614
+      ],
+      "resampled_size": [
+        8,
+        22
+      ],
+      "sampling_scale": 0.035830618892508145,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_02/view-3-indexed.png",
+      "readback_png": "items/tfj_sword_02/view-3-readback.png",
+      "connected_component_sizes": [
+        55,
+        2,
+        2
+      ],
+      "visible_pixels": 59,
+      "has_multiple_components": true
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        215,
+        613
+      ],
+      "resampled_size": [
+        8,
+        22
+      ],
+      "sampling_scale": 0.035830618892508145,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_02/view-4-indexed.png",
+      "readback_png": "items/tfj_sword_02/view-4-readback.png",
+      "connected_component_sizes": [
+        58,
+        2,
+        2
+      ],
+      "visible_pixels": 62,
+      "has_multiple_components": true
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "1dfa498ea93672a90204bd965058ea3fcf37a05b2389e31aa978c4f67f13aade"
+}

@@ -1,0 +1,156 @@
+{
+  "id": "tfj_gun_07",
+  "name": "La Dette de Goug",
+  "category": "Gun",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_gun_07.png",
+  "source_sha256": "8fd39144313b4bd7652c3487a5690009da25fe83913b9ff2d3d1ea479b64af31",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    15034,
+    10773,
+    6546,
+    11659,
+    7502,
+    3308,
+    10536,
+    8454,
+    3274,
+    5286,
+    4229,
+    3171,
+    1058,
+    1026,
+    1025
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 10.148,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        572,
+        463
+      ],
+      "resampled_size": [
+        27,
+        22
+      ],
+      "sampling_scale": 0.047516198704103674,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_gun_07/view-1-indexed.png",
+      "readback_png": "items/tfj_gun_07/view-1-readback.png",
+      "connected_component_sizes": [
+        212
+      ],
+      "visible_pixels": 212,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        572,
+        463
+      ],
+      "resampled_size": [
+        27,
+        22
+      ],
+      "sampling_scale": 0.047516198704103674,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_gun_07/view-2-indexed.png",
+      "readback_png": "items/tfj_gun_07/view-2-readback.png",
+      "connected_component_sizes": [
+        212
+      ],
+      "visible_pixels": 212,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        619,
+        296
+      ],
+      "resampled_size": [
+        29,
+        14
+      ],
+      "sampling_scale": 0.047516198704103674,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_gun_07/view-3-indexed.png",
+      "readback_png": "items/tfj_gun_07/view-3-readback.png",
+      "connected_component_sizes": [
+        205
+      ],
+      "visible_pixels": 205,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        601,
+        296
+      ],
+      "resampled_size": [
+        29,
+        14
+      ],
+      "sampling_scale": 0.047516198704103674,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_gun_07/view-4-indexed.png",
+      "readback_png": "items/tfj_gun_07/view-4-readback.png",
+      "connected_component_sizes": [
+        206
+      ],
+      "visible_pixels": 206,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "b30f335e1c6c6d7ef85590777d45e9781b92d93ec3aea5746bb9386ffdb9c8f5"
+}

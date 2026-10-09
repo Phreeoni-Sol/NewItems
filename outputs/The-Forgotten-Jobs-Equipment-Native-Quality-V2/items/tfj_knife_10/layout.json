@@ -1,0 +1,156 @@
+{
+  "id": "tfj_knife_10",
+  "name": "Dernier aveu",
+  "category": "Knife",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_knife_10.png",
+  "source_sha256": "1c8cd1dc4c020881eb112c636cc06453b84fad2194442b9598a882c42f74822b",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    15037,
+    10711,
+    9654,
+    7506,
+    6448,
+    5358,
+    4299,
+    5321,
+    4232,
+    3173,
+    2116,
+    1060,
+    1091,
+    1059,
+    1059
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 6.188,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        355,
+        391
+      ],
+      "resampled_size": [
+        20,
+        22
+      ],
+      "sampling_scale": 0.056265984654731455,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knife_10/view-1-indexed.png",
+      "readback_png": "items/tfj_knife_10/view-1-readback.png",
+      "connected_component_sizes": [
+        125
+      ],
+      "visible_pixels": 125,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        354,
+        391
+      ],
+      "resampled_size": [
+        20,
+        22
+      ],
+      "sampling_scale": 0.056265984654731455,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knife_10/view-2-indexed.png",
+      "readback_png": "items/tfj_knife_10/view-2-readback.png",
+      "connected_component_sizes": [
+        124
+      ],
+      "visible_pixels": 124,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        488,
+        157
+      ],
+      "resampled_size": [
+        27,
+        9
+      ],
+      "sampling_scale": 0.056265984654731455,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knife_10/view-3-indexed.png",
+      "readback_png": "items/tfj_knife_10/view-3-readback.png",
+      "connected_component_sizes": [
+        137
+      ],
+      "visible_pixels": 137,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        475,
+        157
+      ],
+      "resampled_size": [
+        27,
+        9
+      ],
+      "sampling_scale": 0.056265984654731455,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knife_10/view-4-indexed.png",
+      "readback_png": "items/tfj_knife_10/view-4-readback.png",
+      "connected_component_sizes": [
+        133
+      ],
+      "visible_pixels": 133,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "a4141c1ed4458b7b1ee30df16849763bad17a1b240c5710537d952005c8618ac"
+}

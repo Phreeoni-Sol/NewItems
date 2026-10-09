@@ -1,0 +1,156 @@
+{
+  "id": "tfj_knight_sword_05",
+  "name": "Serment de Lesalia",
+  "category": "KnightSword",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_knight_sword_05.png",
+  "source_sha256": "77e9a93a86e8026998ad3ca9c9b7654d5d0d582c5e2980125a7e5b03952f60f6",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    28606,
+    27516,
+    26492,
+    21241,
+    18037,
+    13880,
+    14831,
+    13774,
+    7444,
+    6439,
+    4264,
+    2123,
+    1093,
+    3171,
+    2114
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 12.187,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        496,
+        485
+      ],
+      "resampled_size": [
+        22,
+        22
+      ],
+      "sampling_scale": 0.04536082474226804,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knight_sword_05/view-1-indexed.png",
+      "readback_png": "items/tfj_knight_sword_05/view-1-readback.png",
+      "connected_component_sizes": [
+        108
+      ],
+      "visible_pixels": 108,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        495,
+        485
+      ],
+      "resampled_size": [
+        22,
+        22
+      ],
+      "sampling_scale": 0.04536082474226804,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knight_sword_05/view-2-indexed.png",
+      "readback_png": "items/tfj_knight_sword_05/view-2-readback.png",
+      "connected_component_sizes": [
+        108
+      ],
+      "visible_pixels": 108,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        567,
+        204
+      ],
+      "resampled_size": [
+        26,
+        9
+      ],
+      "sampling_scale": 0.04536082474226804,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knight_sword_05/view-3-indexed.png",
+      "readback_png": "items/tfj_knight_sword_05/view-3-readback.png",
+      "connected_component_sizes": [
+        102
+      ],
+      "visible_pixels": 102,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        568,
+        204
+      ],
+      "resampled_size": [
+        26,
+        9
+      ],
+      "sampling_scale": 0.04536082474226804,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knight_sword_05/view-4-indexed.png",
+      "readback_png": "items/tfj_knight_sword_05/view-4-readback.png",
+      "connected_component_sizes": [
+        103
+      ],
+      "visible_pixels": 103,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "bd9fd6589849fcf979283e3e540a870f1ddc0712a6a55c35b54371d837a6f0f1"
+}

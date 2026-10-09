@@ -1,0 +1,156 @@
+{
+  "id": "tfj_axe_04",
+  "name": "Dette du bourreau",
+  "category": "Axe",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_axe_04.png",
+  "source_sha256": "a18160b4b1a31b2b0df94faffd20c604850d80e5f4f9d88e0881b1451fe7a2da",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    24277,
+    19027,
+    17935,
+    12718,
+    11560,
+    10503,
+    9446,
+    3184,
+    1063,
+    6275,
+    2084,
+    3137,
+    3105,
+    2080,
+    2080
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 10.791,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        496,
+        513
+      ],
+      "resampled_size": [
+        21,
+        22
+      ],
+      "sampling_scale": 0.042884990253411304,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_axe_04/view-1-indexed.png",
+      "readback_png": "items/tfj_axe_04/view-1-readback.png",
+      "connected_component_sizes": [
+        134
+      ],
+      "visible_pixels": 134,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        495,
+        513
+      ],
+      "resampled_size": [
+        21,
+        22
+      ],
+      "sampling_scale": 0.042884990253411304,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_axe_04/view-2-indexed.png",
+      "readback_png": "items/tfj_axe_04/view-2-readback.png",
+      "connected_component_sizes": [
+        134
+      ],
+      "visible_pixels": 134,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        536,
+        274
+      ],
+      "resampled_size": [
+        23,
+        12
+      ],
+      "sampling_scale": 0.042884990253411304,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_axe_04/view-3-indexed.png",
+      "readback_png": "items/tfj_axe_04/view-3-readback.png",
+      "connected_component_sizes": [
+        123
+      ],
+      "visible_pixels": 123,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        535,
+        275
+      ],
+      "resampled_size": [
+        23,
+        12
+      ],
+      "sampling_scale": 0.042884990253411304,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_axe_04/view-4-indexed.png",
+      "readback_png": "items/tfj_axe_04/view-4-readback.png",
+      "connected_component_sizes": [
+        121
+      ],
+      "visible_pixels": 121,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "e000ffa51ef75c5e69d74e02756d9d6a2bec4dea8048b404061a90c0f0f1ff26"
+}

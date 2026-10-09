@@ -1,0 +1,158 @@
+{
+  "id": "tfj_sword_08",
+  "name": "Lame des cendres",
+  "category": "Sword",
+  "source": "outputs\\The-Forgotten-Jobs-Combat-Completion-88\\sources\\tfj_sword_08.png",
+  "source_sha256": "6bba5c21cae9d4259a70d7edd68c8ac6e57bd29d834db1c4f04648587ee1180a",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    12857,
+    9653,
+    8595,
+    10605,
+    6412,
+    4298,
+    6343,
+    5285,
+    3206,
+    5252,
+    4228,
+    2148,
+    2114,
+    1,
+    1
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 7.937,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        485,
+        459
+      ],
+      "resampled_size": [
+        21,
+        20
+      ],
+      "sampling_scale": 0.043912175648702596,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_08/view-1-indexed.png",
+      "readback_png": "items/tfj_sword_08/view-1-readback.png",
+      "connected_component_sizes": [
+        83,
+        9
+      ],
+      "visible_pixels": 92,
+      "has_multiple_components": true
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        481,
+        458
+      ],
+      "resampled_size": [
+        21,
+        20
+      ],
+      "sampling_scale": 0.043912175648702596,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_08/view-2-indexed.png",
+      "readback_png": "items/tfj_sword_08/view-2-readback.png",
+      "connected_component_sizes": [
+        84,
+        9
+      ],
+      "visible_pixels": 93,
+      "has_multiple_components": true
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        209,
+        501
+      ],
+      "resampled_size": [
+        9,
+        22
+      ],
+      "sampling_scale": 0.043912175648702596,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_08/view-3-indexed.png",
+      "readback_png": "items/tfj_sword_08/view-3-readback.png",
+      "connected_component_sizes": [
+        72
+      ],
+      "visible_pixels": 72,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        209,
+        496
+      ],
+      "resampled_size": [
+        9,
+        22
+      ],
+      "sampling_scale": 0.043912175648702596,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_08/view-4-indexed.png",
+      "readback_png": "items/tfj_sword_08/view-4-readback.png",
+      "connected_component_sizes": [
+        70
+      ],
+      "visible_pixels": 70,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "d8a3ea4cd0cf940d886d55acdea7f0ee163a32c6a0158745838dc39fd88d9f88"
+}

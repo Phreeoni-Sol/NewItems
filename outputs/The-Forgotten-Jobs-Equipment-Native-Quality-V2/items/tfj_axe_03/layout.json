@@ -1,0 +1,156 @@
+{
+  "id": "tfj_axe_03",
+  "name": "Hache du vieux chêne",
+  "category": "Axe",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_axe_03.png",
+  "source_sha256": "7d7d777f5fa4c37f6a56a1aa7d34afda3bb51cda5d52fc5939bfffa0f7cdd0c2",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    21241,
+    14898,
+    9680,
+    7597,
+    6510,
+    5422,
+    5450,
+    4360,
+    3306,
+    4295,
+    3270,
+    3205,
+    1091,
+    1,
+    1
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 10.972,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        480,
+        449
+      ],
+      "resampled_size": [
+        24,
+        22
+      ],
+      "sampling_scale": 0.04899777282850779,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_axe_03/view-1-indexed.png",
+      "readback_png": "items/tfj_axe_03/view-1-readback.png",
+      "connected_component_sizes": [
+        164
+      ],
+      "visible_pixels": 164,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        481,
+        449
+      ],
+      "resampled_size": [
+        24,
+        22
+      ],
+      "sampling_scale": 0.04899777282850779,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_axe_03/view-2-indexed.png",
+      "readback_png": "items/tfj_axe_03/view-2-readback.png",
+      "connected_component_sizes": [
+        163
+      ],
+      "visible_pixels": 163,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        562,
+        277
+      ],
+      "resampled_size": [
+        28,
+        14
+      ],
+      "sampling_scale": 0.04899777282850779,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_axe_03/view-3-indexed.png",
+      "readback_png": "items/tfj_axe_03/view-3-readback.png",
+      "connected_component_sizes": [
+        157
+      ],
+      "visible_pixels": 157,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        562,
+        276
+      ],
+      "resampled_size": [
+        28,
+        14
+      ],
+      "sampling_scale": 0.04899777282850779,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_axe_03/view-4-indexed.png",
+      "readback_png": "items/tfj_axe_03/view-4-readback.png",
+      "connected_component_sizes": [
+        157
+      ],
+      "visible_pixels": 157,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "66059090724156e7e728f5453ce807c17b60460edd08f23b8e8d6b5084d823c8"
+}

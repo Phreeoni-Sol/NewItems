@@ -1,0 +1,627 @@
+{
+  "equipment": 77,
+  "views": 308,
+  "technical_checks": "PASS",
+  "visual_issues": [
+    {
+      "id": "tfj_crossbow_06",
+      "view": 2,
+      "reason": "DISCONNECTED_PIXELS_REQUIRE_VISUAL_REVIEW",
+      "components": [
+        179,
+        1
+      ]
+    },
+    {
+      "id": "tfj_bow_10",
+      "view": 1,
+      "reason": "DISCONNECTED_PIXELS_REQUIRE_VISUAL_REVIEW",
+      "components": [
+        56,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "tfj_bow_10",
+      "view": 2,
+      "reason": "DISCONNECTED_PIXELS_REQUIRE_VISUAL_REVIEW",
+      "components": [
+        52,
+        6,
+        3
+      ]
+    },
+    {
+      "id": "tfj_crossbow_01",
+      "view": 1,
+      "reason": "DISCONNECTED_PIXELS_REQUIRE_VISUAL_REVIEW",
+      "components": [
+        209,
+        3
+      ]
+    },
+    {
+      "id": "tfj_sword_02",
+      "view": 3,
+      "reason": "DISCONNECTED_PIXELS_REQUIRE_VISUAL_REVIEW",
+      "components": [
+        55,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "tfj_sword_02",
+      "view": 4,
+      "reason": "DISCONNECTED_PIXELS_REQUIRE_VISUAL_REVIEW",
+      "components": [
+        58,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "tfj_sword_08",
+      "view": 1,
+      "reason": "DISCONNECTED_PIXELS_REQUIRE_VISUAL_REVIEW",
+      "components": [
+        83,
+        9
+      ]
+    },
+    {
+      "id": "tfj_sword_08",
+      "view": 2,
+      "reason": "DISCONNECTED_PIXELS_REQUIRE_VISUAL_REVIEW",
+      "components": [
+        84,
+        9
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "id": "tfj_sword_18",
+      "source_sha256": "7155805a4c2455e8c740351cd2796b2649560fb5a276f54cb990f3bae2aedc02",
+      "binary_sha256": "78dd2470560d0419e498ce9a3b1dcc1b1f9728b057c1d4d93d9b3e9818e3d85a",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_staff_08",
+      "source_sha256": "1ecbb4d6e078a8d59069f14aa2fa34e53ec468909e15deebdf0fc28cce75dab4",
+      "binary_sha256": "763a344f01161ab6945be2cdb1d8d3328f0736a2bc1b3cb4977c24591e14facd",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_shield_16",
+      "source_sha256": "4ebbe94371c71600efe52dfbf7266df7fd372dfaef56888afd9495e876746404",
+      "binary_sha256": "7c66ce02cd1412f205d9fd3b4ce9a3724627970c80e6c2cc2205dabc7e2b57df",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knife_09",
+      "source_sha256": "d8cd0dd07e2d3d374e3a9a76310d9a30365bf3477dede864e0cda6f596686d2d",
+      "binary_sha256": "d57def37a96a386231b6f643190c4b58bb38e2d76491b14c6b352c37755d27df",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knife_10",
+      "source_sha256": "1c8cd1dc4c020881eb112c636cc06453b84fad2194442b9598a882c42f74822b",
+      "binary_sha256": "a4141c1ed4458b7b1ee30df16849763bad17a1b240c5710537d952005c8618ac",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_ninja_blade_07",
+      "source_sha256": "05a1ba1cbd33e86073e05f120f16cde2f0606b696b133929ccfb0c9267949b1b",
+      "binary_sha256": "b226828e480ddf6f8dc72204353795c1545b534a7fe30898918e2744380fa3c5",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_ninja_blade_08",
+      "source_sha256": "1ce46793aecf08826e0f06b8439fe40018b2037083a3c26126cdd10350bb9a2a",
+      "binary_sha256": "142b47493f51fabd9355f58a4c27f36c054cb571b481739ac2653cb36493831c",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_sword_17",
+      "source_sha256": "a3d094cf0e52ab59cb39c8ce34ca0ecbb51708214b5f3a285357c11e19e496b2",
+      "binary_sha256": "ea5d4afcaeb0a265c4034e7149d7e6bdfef17cd3d8fea5e6f200640dc728b3f1",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knight_sword_05",
+      "source_sha256": "77e9a93a86e8026998ad3ca9c9b7654d5d0d582c5e2980125a7e5b03952f60f6",
+      "binary_sha256": "bd9fd6589849fcf979283e3e540a870f1ddc0712a6a55c35b54371d837a6f0f1",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knight_sword_06",
+      "source_sha256": "813665b103af83db3aa0fa7bab258bf691c33bdb97d32fd9331d5072719eb743",
+      "binary_sha256": "4bf906ab2f36ad20e7a593861f07a5626f1e4c4a3a46f0b4f9bf3ec276892930",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_katana_09",
+      "source_sha256": "b4ddd09415fe76520058ad2a68799fccc41d9860e59c36f0edef81d2d3ff6e0e",
+      "binary_sha256": "eead2152a4c2a810e671f2003983e644b8e6047c1fd88f85eb2fb8d9d68726ea",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_katana_10",
+      "source_sha256": "c1eee290074bfc71178c92c9b09da70bbd6e950b026109d0e347d7a237f14660",
+      "binary_sha256": "b58b807ee4e27fdf88c253c1d688821d7124fcd8fc5af97d420a251386c4dc45",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_axe_03",
+      "source_sha256": "7d7d777f5fa4c37f6a56a1aa7d34afda3bb51cda5d52fc5939bfffa0f7cdd0c2",
+      "binary_sha256": "66059090724156e7e728f5453ce807c17b60460edd08f23b8e8d6b5084d823c8",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_axe_04",
+      "source_sha256": "a18160b4b1a31b2b0df94faffd20c604850d80e5f4f9d88e0881b1451fe7a2da",
+      "binary_sha256": "e000ffa51ef75c5e69d74e02756d9d6a2bec4dea8048b404061a90c0f0f1ff26",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_staff_07",
+      "source_sha256": "5696da9c0a1d7a1304338ac42b50582d22c56db92867dceec7187adf5055d2c2",
+      "binary_sha256": "047a98fe528c8f252400aa0d8f663757c640576b239921d306bf0ee530cc62e6",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_flail_03",
+      "source_sha256": "762510054c89967c8eb649332f11d212c704a256cbe8545d92e12f6e1bae7a22",
+      "binary_sha256": "b2bf6f145f70560c3b1fe847ed478892cddb6aaaff8f780cb04c910f85f1eaa4",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_flail_04",
+      "source_sha256": "7161cbb2ec940339dd54e9f5c9831de9bf64458fcaaeb82fbeea4ac0e65640af",
+      "binary_sha256": "eed6b32632b84e40fb5a292884e17e3fa27a6994f5367221ded356e9dd1aa6ef",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_gun_06",
+      "source_sha256": "291851db35bd61e11e3187049d5cb7e662021b5205e977116eb4a496993ababe",
+      "binary_sha256": "b488bd6efed4ef02ee2315bb9bff22ea3fc76589208eb99d66e6304521611720",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_gun_07",
+      "source_sha256": "8fd39144313b4bd7652c3487a5690009da25fe83913b9ff2d3d1ea479b64af31",
+      "binary_sha256": "b30f335e1c6c6d7ef85590777d45e9781b92d93ec3aea5746bb9386ffdb9c8f5",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_crossbow_05",
+      "source_sha256": "47606e4a13e9fccf501b599e93680fd7637162444fadee21fa14f6fb52f2440f",
+      "binary_sha256": "a0cfb9990a1530b2a8f5267894fcf30d8fd6be1ae915c97ccaa4e44b8560bba3",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_rod_07",
+      "source_sha256": "1e0857f0a56f55930e0e614d40e836c455e9a5e1f1c24fb8c6fa6739bcddea6c",
+      "binary_sha256": "e83ea5f0aa53ecf2c1727d6d89b1bf3973f4d51a22f829bd49872fe78c17e6e9",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_rod_08",
+      "source_sha256": "dc0c27ee0f807bd28e71a13e7f54c296bae2050bf010c8e6df59f97bbac810b4",
+      "binary_sha256": "8d2462c5370ac110cdef4ee94fc4f0f1eb062ef69520c16330c8784db76a4b58",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_crossbow_06",
+      "source_sha256": "e1c96d8384b475080336f0630a89f5c8ed9ecfa8afeb98daaf0a152b2e9902ee",
+      "binary_sha256": "1e9804097966ac9015f3fb03a18b901e9a91ac4e1d57719648160dadef4c5b49",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_bow_09",
+      "source_sha256": "4ea15e0c0ef8dbfd0424b626e42cd9104ea21218f8b8fda82e54b162ec11aa9f",
+      "binary_sha256": "f922234d4dd85a6612982593f400fa85ff58c95ca617ab7e9e034f1a40b737d3",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_bow_10",
+      "source_sha256": "aac6c6845adc252d3779ab5a9b8da3acf7c81d2a9d4998f1c34f309587061bb7",
+      "binary_sha256": "d8c30f9bc694e58cff8527647646fd98017eadc78fbf408cf4e134642f2b8901",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_instrument_02",
+      "source_sha256": "857bb12ed5c3f2051166b82a44d124a1c858d155b138cacff696ed3338cec697",
+      "binary_sha256": "df4b0994376e957c0ae7d8dcf0ceff01be6101e1adafd7dcdecc6b157ca5b5d9",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_instrument_03",
+      "source_sha256": "e8bff88dcd63458c65e64b91a077c92393fe023829315f7509e7124de09939d8",
+      "binary_sha256": "1e4fbd4a359116fd6e54d1dbd7774ba7609230e7864b6ed849eba8780847b123",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_book_03",
+      "source_sha256": "db0290df93c7a5986769585b25e0ae2cf8d30a179b7ee3cdb0516e9500f6a8f0",
+      "binary_sha256": "49a0c6ce698db947537ddb71b164b3ddecac096d191be392b5124343dd1ac800",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_book_04",
+      "source_sha256": "b6270cf1d8172a4992622ed06160ae10256370f42c9f442969d9c5750bcbbd22",
+      "binary_sha256": "c55fd0e380792c9b2862717448e5fc1f44d7b3a1afc28f23ba8a305fd081edd1",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_polearm_07",
+      "source_sha256": "49a23e5172d056a11d624b4c24955a5df44dc6ff6501392d3797e34950722ff5",
+      "binary_sha256": "8085b6d3ac30dae54c18115728c353fdefdf8b5e3f52215d6929ac54b9a6ba42",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_polearm_08",
+      "source_sha256": "f814689f897f9f96d0be0dc9c65252ca338e7d8d640b75fe1ba8d55122a900d8",
+      "binary_sha256": "3686e90edc5a184177734d7065f3f6b4c350b7ec5e8a8bba58ff347cfa3fff22",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_pole_07",
+      "source_sha256": "05f9c02edb5a163ff82a7b55b7efcbcb5397b7d4f69b8fb0f6135cb9093ee1da",
+      "binary_sha256": "70a9e5ad2e2a252daef3a3eb5da4baaf50ecbc05ffa4fc3c93764dc3535da83b",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_pole_08",
+      "source_sha256": "52f32e89cb6998799c8484ead541cea9e78501045ba95aad2bc79212f9d165d7",
+      "binary_sha256": "3050f6af3d5e39f5022bf46c808bae1dc820b717031c93aab317855628e0bfbd",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_bag_03",
+      "source_sha256": "90f83a03558d886f5e46f59de3a7d167d5219ad011a3fb5ee77f9f84cfd01d47",
+      "binary_sha256": "3839f7646d1893a83bfd37b9ddac70cd4da8f81c71d5d4f5a34a62c5f51e6184",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_bag_04",
+      "source_sha256": "e7c7c0322de9a04a0d0f6aae5df6294e1d028d6ee42b467e71d22259226528b3",
+      "binary_sha256": "2eff6079e89191f9d8a1bbdc596893f4fa09cd19ec4f03f72e49e9db33930410",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_cloth_02",
+      "source_sha256": "09a95e13ef7ff0622de92ab008992c8cb7ec76ab255568f2f426f4e1dc561fc4",
+      "binary_sha256": "f7f1e614d0d7c8889f33f2c8591ef7d23932ec3528906b41e8ab2b6f539b4299",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_cloth_03",
+      "source_sha256": "16de829aa97f5c2e094cf632d552ce2653d472cc351ff5aa06706ea9b3f990f9",
+      "binary_sha256": "2c7918be1bccddc0e1c063fd5e3c8f06016930c97f0e514cddcdbcf1f70cda11",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_shield_15",
+      "source_sha256": "26a6d20366a84d6d0e4fe12f1f7549a02ef27d75148169189595cb2ddf5ec0c3",
+      "binary_sha256": "8c90a34d4b30ee11cee03bdab580a1b31c8712e0f3d00ffa56c390d4fcb6ebdf",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knife_01",
+      "source_sha256": "d5a1cef0d4f76848863cce5933ac297480778dada6138259719900dd64512db2",
+      "binary_sha256": "fb5ab569070fc4ae8a4d303d2388192d2eb1d60726605e3a426b2c6dac8b3dad",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_ninja_blade_01",
+      "source_sha256": "fe933574f56999efd7813c1965b8cb82bf672d66711c380085be76135e54b96e",
+      "binary_sha256": "3400d24ed78184b7cc6023e2d49865bf755ab5518d1d1f9fb7736810712f3b35",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_sword_03",
+      "source_sha256": "969bbbf3120e396d15bcc85d7be181bbb4026dbf3d1903f99dd3ca4d7b5bd93a",
+      "binary_sha256": "d36ad8f02db06b007a9ffccc047a4fe8af355aa0624034e3091fb215854abd1d",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knight_sword_01",
+      "source_sha256": "b5c12e6738684ba7ac415dec85307117522b438cba55a2e9fce9ebd23d9ce489",
+      "binary_sha256": "a68f49a8056650a1df7a2f7ceba3fc034f5bc86e32bdb1233dbc4423257c6e03",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_katana_01",
+      "source_sha256": "7c1c58105e6d2c9195185c915ba7365417cd684a0a2baca60f33fdb982fd0e71",
+      "binary_sha256": "c73393f10f62296a736c5b196e6881110f2d40768168f11b10265be5889740e2",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_axe_01",
+      "source_sha256": "1b640ed860abcf424a048ba8d787d28476681a3f5b545887e19c3eadd0b2e304",
+      "binary_sha256": "4e3903d90dc73f02aca06d833ee6b088cd0b32734b2d63f909c29096e816e5b2",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_rod_01",
+      "source_sha256": "f40aff2656115c454f0ac9c6a0808141b61f75f0f4e9d25fe9325de8ab112fc6",
+      "binary_sha256": "2f1cbd8287d2790f1d4b5ff029f7181be20141027783d2ab5d44d9301e38ce9f",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_staff_02",
+      "source_sha256": "5a03c7e50986a891479cbbef945ea614db8f38a36cd7cffdd2f6b3cf9d90b19c",
+      "binary_sha256": "3d03080a4be972614cb9f6f7cb1d70c79516d220c4ada9bc0bc035482bbbdd1a",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_flail_01",
+      "source_sha256": "5e98cbbe781282755b89794e998ed0c09a37d3ef329bb07f3cbce5d857712e28",
+      "binary_sha256": "1b65ba6a1ea67c87a2239ba25f467482aec08cc0a8d3a25c964b046ab6296287",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_gun_01",
+      "source_sha256": "b3776749c2e3473a0cb5cb55bac24440c517e12dc889b3143f6ef0d1960124d9",
+      "binary_sha256": "437d194586f261a62f16bbef9dd42fe448a75a1b1da6b215c6fe178a480a5c7c",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_crossbow_01",
+      "source_sha256": "cf419211e4a3803baf2074658449ca2841ea5b4e0f3602313a788c079e9fe28f",
+      "binary_sha256": "672f3c182f3d31ef1ea2affa729a730838a1847f57859a0bcb732ecdcf844baf",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_bow_01",
+      "source_sha256": "6d70cf5b6c9e1c3ad76dd3e403247fc49c1f91147b0c02471a5b7ce554b8ddee",
+      "binary_sha256": "8db1138cf43aefac44b2d4bb0d9c946d446dca1ab6253dc659edf84ec39f6c67",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_instrument_01",
+      "source_sha256": "990285832b7752220d6f8d769e46d15d4bc43b7643ddaaf5aa8fc5456dbb15d2",
+      "binary_sha256": "bc276ed0f014d1c862a7dbb176dfd015fed1ad69a09546c817375087509eece1",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_book_01",
+      "source_sha256": "f62f65d76d00301873254f351b3a04f3ccaf938dec474f10a4eaf205d1ae409d",
+      "binary_sha256": "2a8f06e60365f9239be17f55153e78cc0735bfb5a2969258dc8dcc0ee9517d37",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_polearm_01",
+      "source_sha256": "721ee54914783b9dccc00b5e6e592445e604a0ca1286660516a2719537d542d6",
+      "binary_sha256": "ac9d6d0b9cad408ba5bdce3971593cdee58f6adec0b2eaee3da07f810621729a",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_pole_01",
+      "source_sha256": "d6a89ba81fbd4132fe29e30cba651872a1a50532304d98c4eb76b1505deac9f8",
+      "binary_sha256": "ae9558af08a11613d1139dabf530d45f87256987ea6d9979fa04aba9d4a6a636",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_bag_01",
+      "source_sha256": "2c85dc515b468d2b4594395fd0449ba39379bb13221be55efe745a44fc629ecc",
+      "binary_sha256": "aaba862cfb52a19ba4034923ee34741661c1f722268d3817d2c0e349800b5439",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_cloth_01",
+      "source_sha256": "911f68690687e90f90b7eb8664befd87a7e11ec56490b2b4bfe3efb215e8ce56",
+      "binary_sha256": "486ef4d4fb344bc6497aee75c8f6ad5bceb71a3010a8040bd576da19579935b1",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_shield_01",
+      "source_sha256": "eaee1dbcdd60e2b2f18d57408a21410df58eb218c1a5cf379ce6dea93600ebf1",
+      "binary_sha256": "a13d0f09ea0daef7506f226b8e0888ce08c7369e06f3738853ba6306cffd98f3",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knife_02",
+      "source_sha256": "fc447ec726b1459716be67533c1ebca2478e791377841b4bc7073b9213c7d427",
+      "binary_sha256": "bf4ce5d2f3f6e06808596b531b2b27721971b6ebd63b8f051ee3b40ac6abe515",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knife_03",
+      "source_sha256": "22624493a71b15ff3d7507014e65bb6025f33c1d4fa874d4d1fed56439510a76",
+      "binary_sha256": "ac1b5cab7a6766f581bda2fce2920cca0eae4bc8ebd842bd96cf5e873d75ac9b",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knife_04",
+      "source_sha256": "87e3435d053aa001770cafb83b11d3460f95ccf7bcab2764d0945938007f88ca",
+      "binary_sha256": "357f0bb1d2d41781b999f9f84ca5293d79cab1c869c8c77a616b734d9611de4f",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knife_05",
+      "source_sha256": "9112a8ba9a60ea2e2f013f9344afe19222eba21e3d482b860c988c9d45739730",
+      "binary_sha256": "8cbf39ef4825118cdb40814abe1a31beb94aab7891efce4424f2d77a24f71378",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knife_06",
+      "source_sha256": "4feea574592736601a3f3912120fac8387f32d00deff30541cc10658a7a1d329",
+      "binary_sha256": "3198bfec2b602b8deaf20b44b2b5453cf533d33926993fff4f2773341902083f",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knife_07",
+      "source_sha256": "ad17c062e162b3c47786a249c5dd952cde3e56ab5a0bf406fae934bb26de260c",
+      "binary_sha256": "6f30445d1a4dddd6a2ba64433ecc9633315bbe384720b4c0c58341b69ffdc566",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_knife_08",
+      "source_sha256": "af3420ba586803b3879716c1afc4293b490ce0c98fc5a8923303e1f3076305e4",
+      "binary_sha256": "00eabf6b16566c7732b3bb6f91db1fbc9bd9b4893d8953d840a05d3cb0a8e807",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_ninja_blade_02",
+      "source_sha256": "004deacdf60f0ac9b7eaa420dd114e805758239345e8157cfbfbda1e479efd40",
+      "binary_sha256": "76ed0138360642d0e8cf8823d575b4b1144eeaa41f32bfef6acefb323ae1effe",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_ninja_blade_03",
+      "source_sha256": "a5077c90507195e8f9450ed2de801d13383e1b59bebd4ea85dcddd470d2ba119",
+      "binary_sha256": "d18fafdbcaf925235e3a0ea9f76eb30ce1e312f3b45bc2095ee9889bf32250ac",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_ninja_blade_04",
+      "source_sha256": "4ca0a49a7497287ee40ed87adddd1e0ac0299e9f6957ce63fc7475d8aabb94bd",
+      "binary_sha256": "0245c02e9e449d2dcb74e96d3f1c6b5aabb9be86daf012867c750103648b9834",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_ninja_blade_05",
+      "source_sha256": "305091aad066493019eb2637ccc4113822c86c43b4f266f5fae24336272f3cea",
+      "binary_sha256": "93c1f4e511ae7dc480278f5ac2ce8a775b8a17426fdfd1a64be1a8b30bdd2802",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_ninja_blade_06",
+      "source_sha256": "13c6e434c41c79b02b06b1283470cafd613d2aa3420244e00c998453a8626b57",
+      "binary_sha256": "bc1c804c127a183e7249009a279dea0e262f08450b6e002be4eacce50cbb5d62",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_sword_01",
+      "source_sha256": "a0a9cc7e8359684a1e4858d08b389f5bd3c4731ffee0f4f7a7cca5c38d7539aa",
+      "binary_sha256": "438fdf1c73ca7f9f1b3f947e2f10f56c8de6b0cc440a7fe33d069ddfb017d53c",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_sword_02",
+      "source_sha256": "f6c627b2789c6449d5f106cd0312e1ac365ecba42e94412fcb93b68fc1bf5b9c",
+      "binary_sha256": "1dfa498ea93672a90204bd965058ea3fcf37a05b2389e31aa978c4f67f13aade",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_sword_04",
+      "source_sha256": "4ba525018da43a3a92c5a2d115d342b99caf96d3649c530bd1cc97c2f98a32c3",
+      "binary_sha256": "552bc1670f2309b99726cf31fdeec1ffb4387c82bfe80f391a14ab7247149e0c",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_sword_05",
+      "source_sha256": "9025459df76c8481462d5bcdda724c7a39a00db284e8a9d3171a7fbcd839e8bb",
+      "binary_sha256": "27196558990417566f1c75ec6545b6a454e275e850802d1164193062f40ac216",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_sword_06",
+      "source_sha256": "230618eefd58fec3d91c9a69e9c12004b391131ac0468cc8217968d840651ec4",
+      "binary_sha256": "40de1a63b56d56f6991d1fc1ad7abe5e21135d623afaa18036115c17495d0057",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_sword_07",
+      "source_sha256": "56ccfb7f084b850f0a212c28f56fe3eb55ccd3958237175fc0f1cd0dcd8efdd6",
+      "binary_sha256": "908ed484d57822fe8b557c7dfac05e47e1423b047949172da906a428b4e560fa",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_sword_08",
+      "source_sha256": "6bba5c21cae9d4259a70d7edd68c8ac6e57bd29d834db1c4f04648587ee1180a",
+      "binary_sha256": "d8a3ea4cd0cf940d886d55acdea7f0ee163a32c6a0158745838dc39fd88d9f88",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    },
+    {
+      "id": "tfj_sword_09",
+      "source_sha256": "2c1869a3726cc4714090c78c233714b1c2a1da07cd6a213056d2b262a2c8eb95",
+      "binary_sha256": "2c39e959e5fdaef2aa1776cee5aa2a06ba5a369fa2f2e294eb3d9a6b13eefeb1",
+      "common_scale": "PASS",
+      "provenance": "PASS"
+    }
+  ],
+  "runtime_ready": false,
+  "game_test": "NOT_RUN",
+  "note": "Connectivity is a diagnostic, not an automatic visual approval. Scale preserves source proportions; it does not establish actual in-game dimensions."
+}

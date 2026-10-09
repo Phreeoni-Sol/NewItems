@@ -1,0 +1,156 @@
+{
+  "id": "tfj_book_03",
+  "name": "Chronique des ruines",
+  "category": "Book",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_book_03.png",
+  "source_sha256": "db0290df93c7a5986769585b25e0ae2cf8d30a179b7ee3cdb0516e9500f6a8f0",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    12921,
+    8792,
+    8760,
+    9750,
+    7603,
+    8626,
+    7569,
+    7466,
+    6376,
+    6309,
+    4228,
+    3139,
+    2081,
+    2081,
+    2081
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 7.886,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        424,
+        468
+      ],
+      "resampled_size": [
+        20,
+        22
+      ],
+      "sampling_scale": 0.046511627906976744,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_book_03/view-1-indexed.png",
+      "readback_png": "items/tfj_book_03/view-1-readback.png",
+      "connected_component_sizes": [
+        300
+      ],
+      "visible_pixels": 300,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        425,
+        468
+      ],
+      "resampled_size": [
+        20,
+        22
+      ],
+      "sampling_scale": 0.046511627906976744,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_book_03/view-2-indexed.png",
+      "readback_png": "items/tfj_book_03/view-2-readback.png",
+      "connected_component_sizes": [
+        300
+      ],
+      "visible_pixels": 300,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        432,
+        473
+      ],
+      "resampled_size": [
+        20,
+        22
+      ],
+      "sampling_scale": 0.046511627906976744,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_book_03/view-3-indexed.png",
+      "readback_png": "items/tfj_book_03/view-3-readback.png",
+      "connected_component_sizes": [
+        303
+      ],
+      "visible_pixels": 303,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        439,
+        473
+      ],
+      "resampled_size": [
+        20,
+        22
+      ],
+      "sampling_scale": 0.046511627906976744,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_book_03/view-4-indexed.png",
+      "readback_png": "items/tfj_book_03/view-4-readback.png",
+      "connected_component_sizes": [
+        301
+      ],
+      "visible_pixels": 301,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "49a0c6ce698db947537ddb71b164b3ddecac096d191be392b5124343dd1ac800"
+}

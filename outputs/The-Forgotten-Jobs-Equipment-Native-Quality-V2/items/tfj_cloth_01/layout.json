@@ -1,0 +1,156 @@
+{
+  "id": "tfj_cloth_01",
+  "name": "Étoffe du col",
+  "category": "Cloth",
+  "source": "outputs\\The-Forgotten-Jobs-Ordinary-Combat-Lot-19\\sources\\tfj_cloth_01.png",
+  "source_sha256": "911f68690687e90f90b7eb8664befd87a7e11ec56490b2b4bfe3efb215e8ce56",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    10874,
+    9817,
+    9784,
+    9783,
+    9751,
+    8693,
+    7570,
+    6447,
+    5326,
+    3240,
+    3212,
+    2182,
+    2150,
+    2149,
+    2149
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 6.434,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        486,
+        373
+      ],
+      "resampled_size": [
+        28,
+        22
+      ],
+      "sampling_scale": 0.05804749340369393,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_cloth_01/view-1-indexed.png",
+      "readback_png": "items/tfj_cloth_01/view-1-readback.png",
+      "connected_component_sizes": [
+        381
+      ],
+      "visible_pixels": 381,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        457,
+        346
+      ],
+      "resampled_size": [
+        27,
+        20
+      ],
+      "sampling_scale": 0.05804749340369393,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_cloth_01/view-2-indexed.png",
+      "readback_png": "items/tfj_cloth_01/view-2-readback.png",
+      "connected_component_sizes": [
+        357
+      ],
+      "visible_pixels": 357,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        476,
+        162
+      ],
+      "resampled_size": [
+        28,
+        9
+      ],
+      "sampling_scale": 0.05804749340369393,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_cloth_01/view-3-indexed.png",
+      "readback_png": "items/tfj_cloth_01/view-3-readback.png",
+      "connected_component_sizes": [
+        177
+      ],
+      "visible_pixels": 177,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        482,
+        379
+      ],
+      "resampled_size": [
+        28,
+        22
+      ],
+      "sampling_scale": 0.05804749340369393,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_cloth_01/view-4-indexed.png",
+      "readback_png": "items/tfj_cloth_01/view-4-readback.png",
+      "connected_component_sizes": [
+        353
+      ],
+      "visible_pixels": 353,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "486ef4d4fb344bc6497aee75c8f6ad5bceb71a3010a8040bd576da19579935b1"
+}

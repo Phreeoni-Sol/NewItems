@@ -1,0 +1,156 @@
+{
+  "id": "tfj_bow_01",
+  "name": "Arc du coteau",
+  "category": "Bow",
+  "source": "outputs\\The-Forgotten-Jobs-Ordinary-Combat-Lot-19\\sources\\tfj_bow_01.png",
+  "source_sha256": "6d70cf5b6c9e1c3ad76dd3e403247fc49c1f91147b0c02471a5b7ce554b8ddee",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    16090,
+    11862,
+    8659,
+    7602,
+    7568,
+    6511,
+    5421,
+    5388,
+    4331,
+    4297,
+    3206,
+    2149,
+    2116,
+    2115,
+    1058
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 4.564,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        431,
+        447
+      ],
+      "resampled_size": [
+        19,
+        20
+      ],
+      "sampling_scale": 0.045174537987679675,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bow_01/view-1-indexed.png",
+      "readback_png": "items/tfj_bow_01/view-1-readback.png",
+      "connected_component_sizes": [
+        87
+      ],
+      "visible_pixels": 87,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        432,
+        461
+      ],
+      "resampled_size": [
+        20,
+        21
+      ],
+      "sampling_scale": 0.045174537987679675,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bow_01/view-2-indexed.png",
+      "readback_png": "items/tfj_bow_01/view-2-readback.png",
+      "connected_component_sizes": [
+        94
+      ],
+      "visible_pixels": 94,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        126,
+        481
+      ],
+      "resampled_size": [
+        6,
+        22
+      ],
+      "sampling_scale": 0.045174537987679675,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bow_01/view-3-indexed.png",
+      "readback_png": "items/tfj_bow_01/view-3-readback.png",
+      "connected_component_sizes": [
+        76
+      ],
+      "visible_pixels": 76,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        136,
+        487
+      ],
+      "resampled_size": [
+        6,
+        22
+      ],
+      "sampling_scale": 0.045174537987679675,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bow_01/view-4-indexed.png",
+      "readback_png": "items/tfj_bow_01/view-4-readback.png",
+      "connected_component_sizes": [
+        58
+      ],
+      "visible_pixels": 58,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "8db1138cf43aefac44b2d4bb0d9c946d446dca1ab6253dc659edf84ec39f6c67"
+}

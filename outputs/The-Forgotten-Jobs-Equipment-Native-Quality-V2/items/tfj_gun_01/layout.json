@@ -1,0 +1,156 @@
+{
+  "id": "tfj_gun_01",
+  "name": "Arquebuse du guet",
+  "category": "Gun",
+  "source": "outputs\\The-Forgotten-Jobs-Ordinary-Combat-Lot-19\\sources\\tfj_gun_01.png",
+  "source_sha256": "b3776749c2e3473a0cb5cb55bac24440c517e12dc889b3143f6ef0d1960124d9",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    21242,
+    14866,
+    13742,
+    13707,
+    5424,
+    8492,
+    9480,
+    8424,
+    5321,
+    3241,
+    6310,
+    3172,
+    2114,
+    1058,
+    1057
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 10.31,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        516,
+        482
+      ],
+      "resampled_size": [
+        23,
+        22
+      ],
+      "sampling_scale": 0.04480651731160896,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_gun_01/view-1-indexed.png",
+      "readback_png": "items/tfj_gun_01/view-1-readback.png",
+      "connected_component_sizes": [
+        138
+      ],
+      "visible_pixels": 138,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        517,
+        491
+      ],
+      "resampled_size": [
+        23,
+        22
+      ],
+      "sampling_scale": 0.04480651731160896,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_gun_01/view-2-indexed.png",
+      "readback_png": "items/tfj_gun_01/view-2-readback.png",
+      "connected_component_sizes": [
+        142
+      ],
+      "visible_pixels": 142,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        552,
+        284
+      ],
+      "resampled_size": [
+        25,
+        13
+      ],
+      "sampling_scale": 0.04480651731160896,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_gun_01/view-3-indexed.png",
+      "readback_png": "items/tfj_gun_01/view-3-readback.png",
+      "connected_component_sizes": [
+        133
+      ],
+      "visible_pixels": 133,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        522,
+        345
+      ],
+      "resampled_size": [
+        23,
+        15
+      ],
+      "sampling_scale": 0.04480651731160896,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_gun_01/view-4-indexed.png",
+      "readback_png": "items/tfj_gun_01/view-4-readback.png",
+      "connected_component_sizes": [
+        119
+      ],
+      "visible_pixels": 119,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "437d194586f261a62f16bbef9dd42fe448a75a1b1da6b215c6fe178a480a5c7c"
+}

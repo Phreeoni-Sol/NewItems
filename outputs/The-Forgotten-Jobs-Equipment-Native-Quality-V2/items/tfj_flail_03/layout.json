@@ -1,0 +1,156 @@
+{
+  "id": "tfj_flail_03",
+  "name": "Fléau du glas",
+  "category": "Flail",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_flail_03.png",
+  "source_sha256": "762510054c89967c8eb649332f11d212c704a256cbe8545d92e12f6e1bae7a22",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    14964,
+    12816,
+    10672,
+    10635,
+    7500,
+    6410,
+    8519,
+    7431,
+    5351,
+    4261,
+    3171,
+    2147,
+    2115,
+    2114,
+    2114
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 8.017,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        528,
+        493
+      ],
+      "resampled_size": [
+        24,
+        22
+      ],
+      "sampling_scale": 0.04462474645030426,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_flail_03/view-1-indexed.png",
+      "readback_png": "items/tfj_flail_03/view-1-readback.png",
+      "connected_component_sizes": [
+        161
+      ],
+      "visible_pixels": 161,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        529,
+        493
+      ],
+      "resampled_size": [
+        24,
+        22
+      ],
+      "sampling_scale": 0.04462474645030426,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_flail_03/view-2-indexed.png",
+      "readback_png": "items/tfj_flail_03/view-2-readback.png",
+      "connected_component_sizes": [
+        160
+      ],
+      "visible_pixels": 160,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        572,
+        182
+      ],
+      "resampled_size": [
+        26,
+        8
+      ],
+      "sampling_scale": 0.04462474645030426,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_flail_03/view-3-indexed.png",
+      "readback_png": "items/tfj_flail_03/view-3-readback.png",
+      "connected_component_sizes": [
+        104
+      ],
+      "visible_pixels": 104,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        565,
+        190
+      ],
+      "resampled_size": [
+        25,
+        8
+      ],
+      "sampling_scale": 0.04462474645030426,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_flail_03/view-4-indexed.png",
+      "readback_png": "items/tfj_flail_03/view-4-readback.png",
+      "connected_component_sizes": [
+        95
+      ],
+      "visible_pixels": 95,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "b2bf6f145f70560c3b1fe847ed478892cddb6aaaff8f780cb04c910f85f1eaa4"
+}

@@ -1,0 +1,156 @@
+{
+  "id": "tfj_cloth_03",
+  "name": "Linceul de l'oubli",
+  "category": "Cloth",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_cloth_03.png",
+  "source_sha256": "16de829aa97f5c2e094cf632d552ce2653d472cc351ff5aa06706ea9b3f990f9",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    21207,
+    20150,
+    19028,
+    16946,
+    13711,
+    11502,
+    10445,
+    9387,
+    8362,
+    7337,
+    6311,
+    6280,
+    4136,
+    5221,
+    4197
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 6.084,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        462,
+        637
+      ],
+      "resampled_size": [
+        16,
+        22
+      ],
+      "sampling_scale": 0.03453689167974882,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_cloth_03/view-1-indexed.png",
+      "readback_png": "items/tfj_cloth_03/view-1-readback.png",
+      "connected_component_sizes": [
+        152
+      ],
+      "visible_pixels": 152,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        481,
+        619
+      ],
+      "resampled_size": [
+        17,
+        21
+      ],
+      "sampling_scale": 0.03453689167974882,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_cloth_03/view-2-indexed.png",
+      "readback_png": "items/tfj_cloth_03/view-2-readback.png",
+      "connected_component_sizes": [
+        141
+      ],
+      "visible_pixels": 141,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        24,
+        16
+      ],
+      "source_size": [
+        569,
+        378
+      ],
+      "resampled_size": [
+        20,
+        13
+      ],
+      "sampling_scale": 0.03453689167974882,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_cloth_03/view-3-indexed.png",
+      "readback_png": "items/tfj_cloth_03/view-3-readback.png",
+      "connected_component_sizes": [
+        128
+      ],
+      "visible_pixels": 128,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        24,
+        16
+      ],
+      "source_size": [
+        550,
+        384
+      ],
+      "resampled_size": [
+        19,
+        13
+      ],
+      "sampling_scale": 0.03453689167974882,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_cloth_03/view-4-indexed.png",
+      "readback_png": "items/tfj_cloth_03/view-4-readback.png",
+      "connected_component_sizes": [
+        128
+      ],
+      "visible_pixels": 128,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "2c7918be1bccddc0e1c063fd5e3c8f06016930c97f0e514cddcdbcf1f70cda11"
+}

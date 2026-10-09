@@ -1,0 +1,156 @@
+{
+  "id": "tfj_shield_01",
+  "name": "Rondache de levée",
+  "category": "Shield",
+  "source": "outputs\\The-Forgotten-Jobs-Ordinary-Combat-Lot-19\\sources\\tfj_shield_01.png",
+  "source_sha256": "eaee1dbcdd60e2b2f18d57408a21410df58eb218c1a5cf379ce6dea93600ebf1",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    22197,
+    12752,
+    10670,
+    14765,
+    10638,
+    9581,
+    13707,
+    9547,
+    8490,
+    6378,
+    7399,
+    5319,
+    4229,
+    3172,
+    2114
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 9.492,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        384,
+        478
+      ],
+      "resampled_size": [
+        18,
+        22
+      ],
+      "sampling_scale": 0.04602510460251046,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_shield_01/view-1-indexed.png",
+      "readback_png": "items/tfj_shield_01/view-1-readback.png",
+      "connected_component_sizes": [
+        306
+      ],
+      "visible_pixels": 306,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        365,
+        475
+      ],
+      "resampled_size": [
+        17,
+        22
+      ],
+      "sampling_scale": 0.04602510460251046,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_shield_01/view-2-indexed.png",
+      "readback_png": "items/tfj_shield_01/view-2-readback.png",
+      "connected_component_sizes": [
+        289
+      ],
+      "visible_pixels": 289,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        148,
+        422
+      ],
+      "resampled_size": [
+        7,
+        19
+      ],
+      "sampling_scale": 0.04602510460251046,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_shield_01/view-3-indexed.png",
+      "readback_png": "items/tfj_shield_01/view-3-readback.png",
+      "connected_component_sizes": [
+        86
+      ],
+      "visible_pixels": 86,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        414,
+        413
+      ],
+      "resampled_size": [
+        19,
+        19
+      ],
+      "sampling_scale": 0.04602510460251046,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_shield_01/view-4-indexed.png",
+      "readback_png": "items/tfj_shield_01/view-4-readback.png",
+      "connected_component_sizes": [
+        282
+      ],
+      "visible_pixels": 282,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "a13d0f09ea0daef7506f226b8e0888ce08c7369e06f3738853ba6306cffd98f3"
+}

@@ -1,0 +1,156 @@
+{
+  "id": "tfj_knife_01",
+  "name": "Dague de levée",
+  "category": "Knife",
+  "source": "outputs\\The-Forgotten-Jobs-Ordinary-Combat-Lot-19\\sources\\tfj_knife_01.png",
+  "source_sha256": "d5a1cef0d4f76848863cce5933ac297480778dada6138259719900dd64512db2",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    25436,
+    22197,
+    19060,
+    14833,
+    10639,
+    13708,
+    12651,
+    8524,
+    7399,
+    4229,
+    3171,
+    2114,
+    1058,
+    1057,
+    1057
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 10.579,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        439,
+        490
+      ],
+      "resampled_size": [
+        19,
+        21
+      ],
+      "sampling_scale": 0.043052837573385516,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knife_01/view-1-indexed.png",
+      "readback_png": "items/tfj_knife_01/view-1-readback.png",
+      "connected_component_sizes": [
+        107
+      ],
+      "visible_pixels": 107,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        422,
+        490
+      ],
+      "resampled_size": [
+        18,
+        21
+      ],
+      "sampling_scale": 0.043052837573385516,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knife_01/view-2-indexed.png",
+      "readback_png": "items/tfj_knife_01/view-2-readback.png",
+      "connected_component_sizes": [
+        106
+      ],
+      "visible_pixels": 106,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        231,
+        511
+      ],
+      "resampled_size": [
+        10,
+        22
+      ],
+      "sampling_scale": 0.043052837573385516,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knife_01/view-3-indexed.png",
+      "readback_png": "items/tfj_knife_01/view-3-readback.png",
+      "connected_component_sizes": [
+        84
+      ],
+      "visible_pixels": 84,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        230,
+        511
+      ],
+      "resampled_size": [
+        10,
+        22
+      ],
+      "sampling_scale": 0.043052837573385516,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knife_01/view-4-indexed.png",
+      "readback_png": "items/tfj_knife_01/view-4-readback.png",
+      "connected_component_sizes": [
+        85
+      ],
+      "visible_pixels": 85,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "fb5ab569070fc4ae8a4d303d2388192d2eb1d60726605e3a426b2c6dac8b3dad"
+}

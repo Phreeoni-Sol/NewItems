@@ -1,0 +1,156 @@
+{
+  "id": "tfj_staff_07",
+  "name": "Arbre de l'aube",
+  "category": "Staff",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_staff_07.png",
+  "source_sha256": "5696da9c0a1d7a1304338ac42b50582d22c56db92867dceec7187adf5055d2c2",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    10840,
+    8662,
+    8623,
+    5486,
+    5425,
+    4395,
+    8423,
+    4295,
+    2184,
+    3204,
+    38,
+    36,
+    3138,
+    35,
+    34
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 12.603,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        485,
+        563
+      ],
+      "resampled_size": [
+        19,
+        22
+      ],
+      "sampling_scale": 0.03907637655417407,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_staff_07/view-1-indexed.png",
+      "readback_png": "items/tfj_staff_07/view-1-readback.png",
+      "connected_component_sizes": [
+        76
+      ],
+      "visible_pixels": 76,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        464,
+        563
+      ],
+      "resampled_size": [
+        18,
+        22
+      ],
+      "sampling_scale": 0.03907637655417407,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_staff_07/view-2-indexed.png",
+      "readback_png": "items/tfj_staff_07/view-2-readback.png",
+      "connected_component_sizes": [
+        72
+      ],
+      "visible_pixels": 72,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        24,
+        16
+      ],
+      "source_size": [
+        555,
+        201
+      ],
+      "resampled_size": [
+        22,
+        8
+      ],
+      "sampling_scale": 0.03907637655417407,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_staff_07/view-3-indexed.png",
+      "readback_png": "items/tfj_staff_07/view-3-readback.png",
+      "connected_component_sizes": [
+        57
+      ],
+      "visible_pixels": 57,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        24,
+        16
+      ],
+      "source_size": [
+        559,
+        203
+      ],
+      "resampled_size": [
+        22,
+        8
+      ],
+      "sampling_scale": 0.03907637655417407,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_staff_07/view-4-indexed.png",
+      "readback_png": "items/tfj_staff_07/view-4-readback.png",
+      "connected_component_sizes": [
+        59
+      ],
+      "visible_pixels": 59,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "047a98fe528c8f252400aa0d8f663757c640576b239921d306bf0ee530cc62e6"
+}

@@ -1,0 +1,156 @@
+{
+  "id": "tfj_sword_17",
+  "name": "Testament de Gallionne",
+  "category": "Sword",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_sword_17.png",
+  "source_sha256": "a3d094cf0e52ab59cb39c8ce34ca0ecbb51708214b5f3a285357c11e19e496b2",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    27515,
+    26425,
+    23288,
+    15988,
+    11794,
+    15821,
+    15789,
+    8590,
+    4297,
+    13540,
+    2118,
+    2081,
+    1025,
+    1024,
+    1024
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 12.397,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        514,
+        557
+      ],
+      "resampled_size": [
+        20,
+        22
+      ],
+      "sampling_scale": 0.03907637655417407,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_17/view-1-indexed.png",
+      "readback_png": "items/tfj_sword_17/view-1-readback.png",
+      "connected_component_sizes": [
+        82
+      ],
+      "visible_pixels": 82,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        506,
+        563
+      ],
+      "resampled_size": [
+        20,
+        22
+      ],
+      "sampling_scale": 0.03907637655417407,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_17/view-2-indexed.png",
+      "readback_png": "items/tfj_sword_17/view-2-readback.png",
+      "connected_component_sizes": [
+        90
+      ],
+      "visible_pixels": 90,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        24,
+        16
+      ],
+      "source_size": [
+        572,
+        205
+      ],
+      "resampled_size": [
+        22,
+        8
+      ],
+      "sampling_scale": 0.03907637655417407,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_17/view-3-indexed.png",
+      "readback_png": "items/tfj_sword_17/view-3-readback.png",
+      "connected_component_sizes": [
+        69
+      ],
+      "visible_pixels": 69,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        24,
+        16
+      ],
+      "source_size": [
+        573,
+        205
+      ],
+      "resampled_size": [
+        22,
+        8
+      ],
+      "sampling_scale": 0.03907637655417407,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_sword_17/view-4-indexed.png",
+      "readback_png": "items/tfj_sword_17/view-4-readback.png",
+      "connected_component_sizes": [
+        68
+      ],
+      "visible_pixels": 68,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "ea5d4afcaeb0a265c4034e7149d7e6bdfef17cd3d8fea5e6f200640dc728b3f1"
+}

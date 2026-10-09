@@ -1,0 +1,156 @@
+{
+  "id": "tfj_katana_10",
+  "name": "Le Septième silence",
+  "category": "Katana",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_katana_10.png",
+  "source_sha256": "c1eee290074bfc71178c92c9b09da70bbd6e950b026109d0e347d7a237f14660",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    21141,
+    15856,
+    8493,
+    6342,
+    5254,
+    4228,
+    4232,
+    3138,
+    2114,
+    2082,
+    2081,
+    1024,
+    1024,
+    1024,
+    1024
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 8.208,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        466,
+        454
+      ],
+      "resampled_size": [
+        23,
+        22
+      ],
+      "sampling_scale": 0.048458149779735685,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_katana_10/view-1-indexed.png",
+      "readback_png": "items/tfj_katana_10/view-1-readback.png",
+      "connected_component_sizes": [
+        68
+      ],
+      "visible_pixels": 68,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        466,
+        454
+      ],
+      "resampled_size": [
+        23,
+        22
+      ],
+      "sampling_scale": 0.048458149779735685,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_katana_10/view-2-indexed.png",
+      "readback_png": "items/tfj_katana_10/view-2-readback.png",
+      "connected_component_sizes": [
+        68
+      ],
+      "visible_pixels": 68,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        562,
+        112
+      ],
+      "resampled_size": [
+        27,
+        5
+      ],
+      "sampling_scale": 0.048458149779735685,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_katana_10/view-3-indexed.png",
+      "readback_png": "items/tfj_katana_10/view-3-readback.png",
+      "connected_component_sizes": [
+        59
+      ],
+      "visible_pixels": 59,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        561,
+        112
+      ],
+      "resampled_size": [
+        27,
+        5
+      ],
+      "sampling_scale": 0.048458149779735685,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_katana_10/view-4-indexed.png",
+      "readback_png": "items/tfj_katana_10/view-4-readback.png",
+      "connected_component_sizes": [
+        59
+      ],
+      "visible_pixels": 59,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "b58b807ee4e27fdf88c253c1d688821d7124fcd8fc5af97d420a251386c4dc45"
+}

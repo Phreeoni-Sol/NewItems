@@ -1,0 +1,157 @@
+{
+  "id": "tfj_crossbow_01",
+  "name": "Arbalète du péager",
+  "category": "Crossbow",
+  "source": "outputs\\The-Forgotten-Jobs-Ordinary-Combat-Lot-19\\sources\\tfj_crossbow_01.png",
+  "source_sha256": "cf419211e4a3803baf2074658449ca2841ea5b4e0f3602313a788c079e9fe28f",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    17047,
+    12819,
+    7538,
+    10604,
+    5390,
+    5357,
+    8424,
+    5321,
+    5287,
+    3206,
+    5252,
+    3171,
+    2116,
+    3139,
+    3138
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 11.114,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        509,
+        436
+      ],
+      "resampled_size": [
+        26,
+        22
+      ],
+      "sampling_scale": 0.05045871559633028,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_crossbow_01/view-1-indexed.png",
+      "readback_png": "items/tfj_crossbow_01/view-1-readback.png",
+      "connected_component_sizes": [
+        209,
+        3
+      ],
+      "visible_pixels": 212,
+      "has_multiple_components": true
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        505,
+        434
+      ],
+      "resampled_size": [
+        25,
+        22
+      ],
+      "sampling_scale": 0.05045871559633028,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_crossbow_01/view-2-indexed.png",
+      "readback_png": "items/tfj_crossbow_01/view-2-readback.png",
+      "connected_component_sizes": [
+        215
+      ],
+      "visible_pixels": 215,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        519,
+        374
+      ],
+      "resampled_size": [
+        26,
+        19
+      ],
+      "sampling_scale": 0.05045871559633028,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_crossbow_01/view-3-indexed.png",
+      "readback_png": "items/tfj_crossbow_01/view-3-readback.png",
+      "connected_component_sizes": [
+        160
+      ],
+      "visible_pixels": 160,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        522,
+        377
+      ],
+      "resampled_size": [
+        26,
+        19
+      ],
+      "sampling_scale": 0.05045871559633028,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_crossbow_01/view-4-indexed.png",
+      "readback_png": "items/tfj_crossbow_01/view-4-readback.png",
+      "connected_component_sizes": [
+        162
+      ],
+      "visible_pixels": 162,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "672f3c182f3d31ef1ea2affa729a730838a1847f57859a0bcb732ecdcf844baf"
+}

@@ -1,0 +1,156 @@
+{
+  "id": "tfj_instrument_02",
+  "name": "Cantique des pierres",
+  "category": "Instrument",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_instrument_02.png",
+  "source_sha256": "857bb12ed5c3f2051166b82a44d124a1c858d155b138cacff696ed3338cec697",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    17048,
+    14933,
+    14900,
+    15890,
+    9682,
+    13742,
+    11660,
+    9548,
+    5387,
+    7400,
+    6343,
+    2216,
+    3205,
+    2114,
+    2082
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 10.933,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        422,
+        530
+      ],
+      "resampled_size": [
+        18,
+        22
+      ],
+      "sampling_scale": 0.04150943396226415,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_instrument_02/view-1-indexed.png",
+      "readback_png": "items/tfj_instrument_02/view-1-readback.png",
+      "connected_component_sizes": [
+        246
+      ],
+      "visible_pixels": 246,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        423,
+        530
+      ],
+      "resampled_size": [
+        18,
+        22
+      ],
+      "sampling_scale": 0.04150943396226415,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_instrument_02/view-2-indexed.png",
+      "readback_png": "items/tfj_instrument_02/view-2-readback.png",
+      "connected_component_sizes": [
+        246
+      ],
+      "visible_pixels": 246,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        227,
+        501
+      ],
+      "resampled_size": [
+        9,
+        21
+      ],
+      "sampling_scale": 0.04150943396226415,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_instrument_02/view-3-indexed.png",
+      "readback_png": "items/tfj_instrument_02/view-3-readback.png",
+      "connected_component_sizes": [
+        109
+      ],
+      "visible_pixels": 109,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        227,
+        501
+      ],
+      "resampled_size": [
+        9,
+        21
+      ],
+      "sampling_scale": 0.04150943396226415,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_instrument_02/view-4-indexed.png",
+      "readback_png": "items/tfj_instrument_02/view-4-readback.png",
+      "connected_component_sizes": [
+        109
+      ],
+      "visible_pixels": 109,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "df4b0994376e957c0ae7d8dcf0ceff01be6101e1adafd7dcdecc6b157ca5b5d9"
+}

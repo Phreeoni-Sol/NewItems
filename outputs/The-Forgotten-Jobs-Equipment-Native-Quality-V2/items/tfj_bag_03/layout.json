@@ -1,0 +1,156 @@
+{
+  "id": "tfj_bag_03",
+  "name": "Besace du marché ancien",
+  "category": "Bag",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_bag_03.png",
+  "source_sha256": "90f83a03558d886f5e46f59de3a7d167d5219ad011a3fb5ee77f9f84cfd01d47",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    11831,
+    5533,
+    4443,
+    6482,
+    3351,
+    5392,
+    5357,
+    4299,
+    4300,
+    4266,
+    3208,
+    2149,
+    2116,
+    1091,
+    1091
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 10.229,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        491,
+        442
+      ],
+      "resampled_size": [
+        24,
+        22
+      ],
+      "sampling_scale": 0.04943820224719101,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bag_03/view-1-indexed.png",
+      "readback_png": "items/tfj_bag_03/view-1-readback.png",
+      "connected_component_sizes": [
+        380
+      ],
+      "visible_pixels": 380,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        495,
+        439
+      ],
+      "resampled_size": [
+        24,
+        22
+      ],
+      "sampling_scale": 0.04943820224719101,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bag_03/view-2-indexed.png",
+      "readback_png": "items/tfj_bag_03/view-2-readback.png",
+      "connected_component_sizes": [
+        373
+      ],
+      "visible_pixels": 373,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        481,
+        445
+      ],
+      "resampled_size": [
+        24,
+        22
+      ],
+      "sampling_scale": 0.04943820224719101,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bag_03/view-3-indexed.png",
+      "readback_png": "items/tfj_bag_03/view-3-readback.png",
+      "connected_component_sizes": [
+        378
+      ],
+      "visible_pixels": 378,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        478,
+        445
+      ],
+      "resampled_size": [
+        24,
+        22
+      ],
+      "sampling_scale": 0.04943820224719101,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_bag_03/view-4-indexed.png",
+      "readback_png": "items/tfj_bag_03/view-4-readback.png",
+      "connected_component_sizes": [
+        372
+      ],
+      "visible_pixels": 372,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "3839f7646d1893a83bfd37b9ddac70cd4da8f81c71d5d4f5a34a62c5f51e6184"
+}

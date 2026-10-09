@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "tfj_knife_02",
+    "name": "Pointe des haies",
+    "category": "Knife",
+    "sha256": "fc447ec726b1459716be67533c1ebca2478e791377841b4bc7073b9213c7d427",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knife_02-1-source.png",
+        "source_bbox": [
+          53,
+          59,
+          557,
+          596
+        ],
+        "source_dimensions": [
+          504,
+          537
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_02-2-source.png",
+        "source_bbox": [
+          77,
+          59,
+          569,
+          596
+        ],
+        "source_dimensions": [
+          492,
+          537
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_02-3-source.png",
+        "source_bbox": [
+          237,
+          10,
+          397,
+          587
+        ],
+        "source_dimensions": [
+          160,
+          577
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_02-4-source.png",
+        "source_bbox": [
+          230,
+          10,
+          391,
+          587
+        ],
+        "source_dimensions": [
+          161,
+          577
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_knife_03",
+    "name": "Poignard du guetteur",
+    "category": "Knife",
+    "sha256": "22624493a71b15ff3d7507014e65bb6025f33c1d4fa874d4d1fed56439510a76",
+    "split_xy": [
+      627,
+      615
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knife_03-1-source.png",
+        "source_bbox": [
+          90,
+          65,
+          564,
+          583
+        ],
+        "source_dimensions": [
+          474,
+          518
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_03-2-source.png",
+        "source_bbox": [
+          118,
+          57,
+          529,
+          583
+        ],
+        "source_dimensions": [
+          411,
+          526
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_03-3-source.png",
+        "source_bbox": [
+          210,
+          1,
+          429,
+          593
+        ],
+        "source_dimensions": [
+          219,
+          592
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_03-4-source.png",
+        "source_bbox": [
+          202,
+          1,
+          417,
+          592
+        ],
+        "source_dimensions": [
+          215,
+          591
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_knife_04",
+    "name": "Croc de saumure",
+    "category": "Knife",
+    "sha256": "87e3435d053aa001770cafb83b11d3460f95ccf7bcab2764d0945938007f88ca",
+    "split_xy": [
+      627,
+      626
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knife_04-1-source.png",
+        "source_bbox": [
+          88,
+          61,
+          577,
+          565
+        ],
+        "source_dimensions": [
+          489,
+          504
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_04-2-source.png",
+        "source_bbox": [
+          50,
+          61,
+          539,
+          565
+        ],
+        "source_dimensions": [
+          489,
+          504
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_04-3-source.png",
+        "source_bbox": [
+          252,
+          1,
+          424,
+          585
+        ],
+        "source_dimensions": [
+          172,
+          584
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_04-4-source.png",
+        "source_bbox": [
+          203,
+          2,
+          375,
+          585
+        ],
+        "source_dimensions": [
+          172,
+          583
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_knife_05",
+    "name": "Mis\u00e9ricorde grise",
+    "category": "Knife",
+    "sha256": "9112a8ba9a60ea2e2f013f9344afe19222eba21e3d482b860c988c9d45739730",
+    "split_xy": [
+      768,
+      512
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knife_05-1-source.png",
+        "source_bbox": [
+          151,
+          13,
+          645,
+          492
+        ],
+        "source_dimensions": [
+          494,
+          479
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_05-2-source.png",
+        "source_bbox": [
+          127,
+          13,
+          618,
+          492
+        ],
+        "source_dimensions": [
+          491,
+          479
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_05-3-source.png",
+        "source_bbox": [
+          312,
+          2,
+          476,
+          500
+        ],
+        "source_dimensions": [
+          164,
+          498
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_05-4-source.png",
+        "source_bbox": [
+          309,
+          2,
+          453,
+          500
+        ],
+        "source_dimensions": [
+          144,
+          498
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_knife_06",
+    "name": "\u00c9pine de verrier",
+    "category": "Knife",
+    "sha256": "4feea574592736601a3f3912120fac8387f32d00deff30541cc10658a7a1d329",
+    "split_xy": [
+      627,
+      592
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knife_06-1-source.png",
+        "source_bbox": [
+          90,
+          48,
+          589,
+          563
+        ],
+        "source_dimensions": [
+          499,
+          515
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_06-2-source.png",
+        "source_bbox": [
+          90,
+          46,
+          557,
+          562
+        ],
+        "source_dimensions": [
+          467,
+          516
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_06-3-source.png",
+        "source_bbox": [
+          244,
+          1,
+          442,
+          625
+        ],
+        "source_dimensions": [
+          198,
+          624
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_06-4-source.png",
+        "source_bbox": [
+          235,
+          1,
+          401,
+          624
+        ],
+        "source_dimensions": [
+          166,
+          623
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_knife_07",
+    "name": "Lame du receleur",
+    "category": "Knife",
+    "sha256": "ad17c062e162b3c47786a249c5dd952cde3e56ab5a0bf406fae934bb26de260c",
+    "split_xy": [
+      627,
+      622
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knife_07-1-source.png",
+        "source_bbox": [
+          132,
+          42,
+          588,
+          587
+        ],
+        "source_dimensions": [
+          456,
+          545
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_07-2-source.png",
+        "source_bbox": [
+          62,
+          41,
+          496,
+          583
+        ],
+        "source_dimensions": [
+          434,
+          542
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_07-3-source.png",
+        "source_bbox": [
+          224,
+          9,
+          425,
+          600
+        ],
+        "source_dimensions": [
+          201,
+          591
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_07-4-source.png",
+        "source_bbox": [
+          200,
+          1,
+          399,
+          600
+        ],
+        "source_dimensions": [
+          199,
+          599
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_knife_08",
+    "name": "Aiguille de deuil",
+    "category": "Knife",
+    "sha256": "af3420ba586803b3879716c1afc4293b490ce0c98fc5a8923303e1f3076305e4",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_knife_08-1-source.png",
+        "source_bbox": [
+          70,
+          49,
+          594,
+          603
+        ],
+        "source_dimensions": [
+          524,
+          554
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_08-2-source.png",
+        "source_bbox": [
+          123,
+          49,
+          562,
+          611
+        ],
+        "source_dimensions": [
+          439,
+          562
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_08-3-source.png",
+        "source_bbox": [
+          220,
+          14,
+          428,
+          586
+        ],
+        "source_dimensions": [
+          208,
+          572
+        ]
+      },
+      {
+        "path": "poses/tfj_knife_08-4-source.png",
+        "source_bbox": [
+          206,
+          9,
+          408,
+          587
+        ],
+        "source_dimensions": [
+          202,
+          578
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_ninja_blade_02",
+    "name": "Crochet du roseau",
+    "category": "NinjaBlade",
+    "sha256": "004deacdf60f0ac9b7eaa420dd114e805758239345e8157cfbfbda1e479efd40",
+    "split_xy": [
+      627,
+      615
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_ninja_blade_02-1-source.png",
+        "source_bbox": [
+          71,
+          18,
+          587,
+          597
+        ],
+        "source_dimensions": [
+          516,
+          579
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_02-2-source.png",
+        "source_bbox": [
+          65,
+          26,
+          581,
+          597
+        ],
+        "source_dimensions": [
+          516,
+          571
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_02-3-source.png",
+        "source_bbox": [
+          274,
+          1,
+          371,
+          602
+        ],
+        "source_dimensions": [
+          97,
+          601
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_02-4-source.png",
+        "source_bbox": [
+          286,
+          1,
+          381,
+          602
+        ],
+        "source_dimensions": [
+          95,
+          601
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_ninja_blade_03",
+    "name": "Serre du hibou",
+    "category": "NinjaBlade",
+    "sha256": "a5077c90507195e8f9450ed2de801d13383e1b59bebd4ea85dcddd470d2ba119",
+    "split_xy": [
+      656,
+      599
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_ninja_blade_03-1-source.png",
+        "source_bbox": [
+          122,
+          35,
+          592,
+          551
+        ],
+        "source_dimensions": [
+          470,
+          516
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_03-2-source.png",
+        "source_bbox": [
+          69,
+          35,
+          539,
+          553
+        ],
+        "source_dimensions": [
+          470,
+          518
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_03-3-source.png",
+        "source_bbox": [
+          263,
+          33,
+          409,
+          574
+        ],
+        "source_dimensions": [
+          146,
+          541
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_03-4-source.png",
+        "source_bbox": [
+          275,
+          33,
+          405,
+          574
+        ],
+        "source_dimensions": [
+          130,
+          541
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_ninja_blade_04",
+    "name": "Ombre de cuivre",
+    "category": "NinjaBlade",
+    "sha256": "4ca0a49a7497287ee40ed87adddd1e0ac0299e9f6957ce63fc7475d8aabb94bd",
+    "split_xy": [
+      627,
+      597
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_ninja_blade_04-1-source.png",
+        "source_bbox": [
+          88,
+          58,
+          577,
+          571
+        ],
+        "source_dimensions": [
+          489,
+          513
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_04-2-source.png",
+        "source_bbox": [
+          51,
+          61,
+          543,
+          571
+        ],
+        "source_dimensions": [
+          492,
+          510
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_04-3-source.png",
+        "source_bbox": [
+          232,
+          1,
+          429,
+          601
+        ],
+        "source_dimensions": [
+          197,
+          600
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_04-4-source.png",
+        "source_bbox": [
+          198,
+          1,
+          394,
+          601
+        ],
+        "source_dimensions": [
+          196,
+          600
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_ninja_blade_05",
+    "name": "Lame des cent pas",
+    "category": "NinjaBlade",
+    "sha256": "305091aad066493019eb2637ccc4113822c86c43b4f266f5fae24336272f3cea",
+    "split_xy": [
+      627,
+      600
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_ninja_blade_05-1-source.png",
+        "source_bbox": [
+          76,
+          49,
+          577,
+          561
+        ],
+        "source_dimensions": [
+          501,
+          512
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_05-2-source.png",
+        "source_bbox": [
+          59,
+          49,
+          552,
+          561
+        ],
+        "source_dimensions": [
+          493,
+          512
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_05-3-source.png",
+        "source_bbox": [
+          218,
+          1,
+          409,
+          610
+        ],
+        "source_dimensions": [
+          191,
+          609
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_05-4-source.png",
+        "source_bbox": [
+          221,
+          1,
+          410,
+          610
+        ],
+        "source_dimensions": [
+          189,
+          609
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_ninja_blade_06",
+    "name": "Murmure violet",
+    "category": "NinjaBlade",
+    "sha256": "13c6e434c41c79b02b06b1283470cafd613d2aa3420244e00c998453a8626b57",
+    "split_xy": [
+      627,
+      627
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_ninja_blade_06-1-source.png",
+        "source_bbox": [
+          75,
+          49,
+          574,
+          584
+        ],
+        "source_dimensions": [
+          499,
+          535
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_06-2-source.png",
+        "source_bbox": [
+          61,
+          49,
+          552,
+          584
+        ],
+        "source_dimensions": [
+          491,
+          535
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_06-3-source.png",
+        "source_bbox": [
+          263,
+          14,
+          421,
+          594
+        ],
+        "source_dimensions": [
+          158,
+          580
+        ]
+      },
+      {
+        "path": "poses/tfj_ninja_blade_06-4-source.png",
+        "source_bbox": [
+          210,
+          15,
+          366,
+          594
+        ],
+        "source_dimensions": [
+          156,
+          579
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_sword_01",
+    "name": "\u00c9p\u00e9e de conscrit",
+    "category": "Sword",
+    "sha256": "a0a9cc7e8359684a1e4858d08b389f5bd3c4731ffee0f4f7a7cca5c38d7539aa",
+    "split_xy": [
+      627,
+      587
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_01-1-source.png",
+        "source_bbox": [
+          129,
+          16,
+          561,
+          553
+        ],
+        "source_dimensions": [
+          432,
+          537
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_01-2-source.png",
+        "source_bbox": [
+          95,
+          6,
+          500,
+          553
+        ],
+        "source_dimensions": [
+          405,
+          547
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_01-3-source.png",
+        "source_bbox": [
+          235,
+          1,
+          430,
+          651
+        ],
+        "source_dimensions": [
+          195,
+          650
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_01-4-source.png",
+        "source_bbox": [
+          205,
+          4,
+          396,
+          650
+        ],
+        "source_dimensions": [
+          191,
+          646
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_sword_02",
+    "name": "Lame de talus",
+    "category": "Sword",
+    "sha256": "f6c627b2789c6449d5f106cd0312e1ac365ecba42e94412fcb93b68fc1bf5b9c",
+    "split_xy": [
+      627,
+      583
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_02-1-source.png",
+        "source_bbox": [
+          73,
+          47,
+          570,
+          560
+        ],
+        "source_dimensions": [
+          497,
+          513
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_02-2-source.png",
+        "source_bbox": [
+          49,
+          47,
+          550,
+          560
+        ],
+        "source_dimensions": [
+          501,
+          513
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_02-3-source.png",
+        "source_bbox": [
+          217,
+          1,
+          428,
+          615
+        ],
+        "source_dimensions": [
+          211,
+          614
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_02-4-source.png",
+        "source_bbox": [
+          209,
+          1,
+          424,
+          614
+        ],
+        "source_dimensions": [
+          215,
+          613
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_sword_04",
+    "name": "Lame de l'arpenteur",
+    "category": "Sword",
+    "sha256": "4ba525018da43a3a92c5a2d115d342b99caf96d3649c530bd1cc97c2f98a32c3",
+    "split_xy": [
+      627,
+      578
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_04-1-source.png",
+        "source_bbox": [
+          83,
+          45,
+          593,
+          563
+        ],
+        "source_dimensions": [
+          510,
+          518
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_04-2-source.png",
+        "source_bbox": [
+          54,
+          49,
+          545,
+          563
+        ],
+        "source_dimensions": [
+          491,
+          514
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_04-3-source.png",
+        "source_bbox": [
+          223,
+          1,
+          434,
+          634
+        ],
+        "source_dimensions": [
+          211,
+          633
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_04-4-source.png",
+        "source_bbox": [
+          206,
+          1,
+          420,
+          634
+        ],
+        "source_dimensions": [
+          214,
+          633
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_sword_05",
+    "name": "\u00c9p\u00e9e de ch\u00e2telain",
+    "category": "Sword",
+    "sha256": "9025459df76c8481462d5bcdda724c7a39a00db284e8a9d3171a7fbcd839e8bb",
+    "split_xy": [
+      627,
+      605
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_05-1-source.png",
+        "source_bbox": [
+          48,
+          50,
+          574,
+          579
+        ],
+        "source_dimensions": [
+          526,
+          529
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_05-2-source.png",
+        "source_bbox": [
+          53,
+          43,
+          573,
+          579
+        ],
+        "source_dimensions": [
+          520,
+          536
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_05-3-source.png",
+        "source_bbox": [
+          218,
+          1,
+          417,
+          612
+        ],
+        "source_dimensions": [
+          199,
+          611
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_05-4-source.png",
+        "source_bbox": [
+          206,
+          2,
+          406,
+          611
+        ],
+        "source_dimensions": [
+          200,
+          609
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_sword_06",
+    "name": "Lame du pont",
+    "category": "Sword",
+    "sha256": "230618eefd58fec3d91c9a69e9c12004b391131ac0468cc8217968d840651ec4",
+    "split_xy": [
+      627,
+      582
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_06-1-source.png",
+        "source_bbox": [
+          78,
+          36,
+          566,
+          573
+        ],
+        "source_dimensions": [
+          488,
+          537
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_06-2-source.png",
+        "source_bbox": [
+          62,
+          42,
+          556,
+          572
+        ],
+        "source_dimensions": [
+          494,
+          530
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_06-3-source.png",
+        "source_bbox": [
+          231,
+          1,
+          412,
+          635
+        ],
+        "source_dimensions": [
+          181,
+          634
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_06-4-source.png",
+        "source_bbox": [
+          66,
+          41,
+          560,
+          599
+        ],
+        "source_dimensions": [
+          494,
+          558
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_sword_07",
+    "name": "\u00c9p\u00e9e de grenat",
+    "category": "Sword",
+    "sha256": "56ccfb7f084b850f0a212c28f56fe3eb55ccd3958237175fc0f1cd0dcd8efdd6",
+    "split_xy": [
+      687,
+      541
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_07-1-source.png",
+        "source_bbox": [
+          61,
+          17,
+          620,
+          537
+        ],
+        "source_dimensions": [
+          559,
+          520
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_07-2-source.png",
+        "source_bbox": [
+          73,
+          17,
+          629,
+          538
+        ],
+        "source_dimensions": [
+          556,
+          521
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_07-3-source.png",
+        "source_bbox": [
+          236,
+          1,
+          463,
+          591
+        ],
+        "source_dimensions": [
+          227,
+          590
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_07-4-source.png",
+        "source_bbox": [
+          227,
+          1,
+          460,
+          591
+        ],
+        "source_dimensions": [
+          233,
+          590
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_sword_08",
+    "name": "Lame des cendres",
+    "category": "Sword",
+    "sha256": "6bba5c21cae9d4259a70d7edd68c8ac6e57bd29d834db1c4f04648587ee1180a",
+    "split_xy": [
+      768,
+      506
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_08-1-source.png",
+        "source_bbox": [
+          170,
+          18,
+          655,
+          477
+        ],
+        "source_dimensions": [
+          485,
+          459
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_08-2-source.png",
+        "source_bbox": [
+          128,
+          20,
+          609,
+          478
+        ],
+        "source_dimensions": [
+          481,
+          458
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_08-3-source.png",
+        "source_bbox": [
+          313,
+          1,
+          522,
+          502
+        ],
+        "source_dimensions": [
+          209,
+          501
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_08-4-source.png",
+        "source_bbox": [
+          260,
+          1,
+          469,
+          497
+        ],
+        "source_dimensions": [
+          209,
+          496
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tfj_sword_09",
+    "name": "\u00c9p\u00e9e de mar\u00e9e",
+    "category": "Sword",
+    "sha256": "2c1869a3726cc4714090c78c233714b1c2a1da07cd6a213056d2b262a2c8eb95",
+    "split_xy": [
+      627,
+      585
+    ],
+    "runtime_ready": false,
+    "poses": [
+      {
+        "path": "poses/tfj_sword_09-1-source.png",
+        "source_bbox": [
+          48,
+          36,
+          568,
+          565
+        ],
+        "source_dimensions": [
+          520,
+          529
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_09-2-source.png",
+        "source_bbox": [
+          89,
+          37,
+          578,
+          578
+        ],
+        "source_dimensions": [
+          489,
+          541
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_09-3-source.png",
+        "source_bbox": [
+          226,
+          1,
+          399,
+          638
+        ],
+        "source_dimensions": [
+          173,
+          637
+        ]
+      },
+      {
+        "path": "poses/tfj_sword_09-4-source.png",
+        "source_bbox": [
+          227,
+          2,
+          401,
+          638
+        ],
+        "source_dimensions": [
+          174,
+          636
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,156 @@
+{
+  "id": "tfj_knife_04",
+  "name": "Croc de saumure",
+  "category": "Knife",
+  "source": "outputs\\The-Forgotten-Jobs-Combat-Completion-88\\sources\\tfj_knife_04.png",
+  "source_sha256": "87e3435d053aa001770cafb83b11d3460f95ccf7bcab2764d0945938007f88ca",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    29695,
+    26558,
+    24445,
+    24412,
+    22331,
+    20184,
+    16947,
+    11628,
+    10538,
+    8425,
+    6310,
+    3139,
+    1,
+    1,
+    1
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 7.361,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        489,
+        504
+      ],
+      "resampled_size": [
+        18,
+        19
+      ],
+      "sampling_scale": 0.03767123287671233,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knife_04/view-1-indexed.png",
+      "readback_png": "items/tfj_knife_04/view-1-readback.png",
+      "connected_component_sizes": [
+        86
+      ],
+      "visible_pixels": 86,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        24,
+        24
+      ],
+      "source_size": [
+        489,
+        504
+      ],
+      "resampled_size": [
+        18,
+        19
+      ],
+      "sampling_scale": 0.03767123287671233,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knife_04/view-2-indexed.png",
+      "readback_png": "items/tfj_knife_04/view-2-readback.png",
+      "connected_component_sizes": [
+        86
+      ],
+      "visible_pixels": 86,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        172,
+        584
+      ],
+      "resampled_size": [
+        6,
+        22
+      ],
+      "sampling_scale": 0.03767123287671233,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knife_04/view-3-indexed.png",
+      "readback_png": "items/tfj_knife_04/view-3-readback.png",
+      "connected_component_sizes": [
+        71
+      ],
+      "visible_pixels": 71,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        16,
+        24
+      ],
+      "source_size": [
+        172,
+        583
+      ],
+      "resampled_size": [
+        6,
+        22
+      ],
+      "sampling_scale": 0.03767123287671233,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_knife_04/view-4-indexed.png",
+      "readback_png": "items/tfj_knife_04/view-4-readback.png",
+      "connected_component_sizes": [
+        71
+      ],
+      "visible_pixels": 71,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "357f0bb1d2d41781b999f9f84ca5293d79cab1c869c8c77a616b734d9611de4f"
+}

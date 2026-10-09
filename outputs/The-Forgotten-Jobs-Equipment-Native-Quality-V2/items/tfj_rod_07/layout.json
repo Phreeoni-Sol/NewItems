@@ -1,0 +1,156 @@
+{
+  "id": "tfj_rod_07",
+  "name": "Clef des quatre vents",
+  "category": "Rod",
+  "source": "outputs\\The-Forgotten-Jobs-Retouch-38-Exceptional-Equipment\\sources\\tfj_rod_07.png",
+  "source_sha256": "1e0857f0a56f55930e0e614d40e836c455e9a5e1f1c24fb8c6fa6739bcddea6c",
+  "encoding": "OBSERVED_WEP_SPR_3_BANK_LAYOUT",
+  "encoding_roundtrip": "PASS",
+  "runtime_ready": false,
+  "visual_review": "PENDING",
+  "pixel_retouched": false,
+  "palette_rgb555": [
+    0,
+    17114,
+    14963,
+    10779,
+    12819,
+    7606,
+    5459,
+    11626,
+    8521,
+    3310,
+    3241,
+    2151,
+    6277,
+    2149,
+    1093,
+    1093
+  ],
+  "palette_slots": "Same local palette repeated 16 times; not allocated runtime CLUT IDs",
+  "alpha_policy": "<128 maps to transparent index 0, >=128 to opaque indices 1..15; bit15 zero; authoring conversion rule",
+  "rms_rgb_error": 11.513,
+  "frames": [
+    {
+      "view": 1,
+      "rectangle": [
+        0,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        502,
+        462
+      ],
+      "resampled_size": [
+        24,
+        22
+      ],
+      "sampling_scale": 0.047619047619047616,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_rod_07/view-1-indexed.png",
+      "readback_png": "items/tfj_rod_07/view-1-readback.png",
+      "connected_component_sizes": [
+        130
+      ],
+      "visible_pixels": 130,
+      "has_multiple_components": false
+    },
+    {
+      "view": 2,
+      "rectangle": [
+        64,
+        0,
+        32,
+        24
+      ],
+      "source_size": [
+        502,
+        462
+      ],
+      "resampled_size": [
+        24,
+        22
+      ],
+      "sampling_scale": 0.047619047619047616,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_rod_07/view-2-indexed.png",
+      "readback_png": "items/tfj_rod_07/view-2-readback.png",
+      "connected_component_sizes": [
+        135
+      ],
+      "visible_pixels": 135,
+      "has_multiple_components": false
+    },
+    {
+      "view": 3,
+      "rectangle": [
+        128,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        610,
+        244
+      ],
+      "resampled_size": [
+        29,
+        12
+      ],
+      "sampling_scale": 0.047619047619047616,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_rod_07/view-3-indexed.png",
+      "readback_png": "items/tfj_rod_07/view-3-readback.png",
+      "connected_component_sizes": [
+        127
+      ],
+      "visible_pixels": 127,
+      "has_multiple_components": false
+    },
+    {
+      "view": 4,
+      "rectangle": [
+        192,
+        0,
+        32,
+        16
+      ],
+      "source_size": [
+        611,
+        245
+      ],
+      "resampled_size": [
+        29,
+        12
+      ],
+      "sampling_scale": 0.047619047619047616,
+      "scale_policy": "ONE_SCALE_PER_EQUIPMENT",
+      "hand_anchor": "UNKNOWN",
+      "pose_runtime_semantics": "UNKNOWN",
+      "indexed_png": "items/tfj_rod_07/view-4-indexed.png",
+      "readback_png": "items/tfj_rod_07/view-4-readback.png",
+      "connected_component_sizes": [
+        127
+      ],
+      "visible_pixels": 127,
+      "has_multiple_components": false
+    }
+  ],
+  "native_item_id": null,
+  "native_sprite_id": null,
+  "native_palette_id": null,
+  "hand_anchor": "UNKNOWN",
+  "SHP": "NOT_CREATED",
+  "SEQ": "NOT_CREATED",
+  "atlas_layout": "Four independent views at x=0,64,128,192; observed rectangle sizes; placement is an authoring proposal",
+  "other_banks": "Zero-filled authoring banks, never overwrite stock WEP with this file",
+  "sha256": "e83ea5f0aa53ecf2c1727d6d89b1bf3973f4d51a22f829bd49872fe78c17e6e9"
+}
